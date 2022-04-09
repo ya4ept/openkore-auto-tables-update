@@ -129,4 +129,7 @@ dmypy.json
 .pyre/
 patches/**/downloaded/*.gpf
 patches/**/downloaded/*.rgz
+!patches/**/downloaded/.gitkeep
+
 patches/**/extracted/*
+!patches/**/extracted/.gitkeep
