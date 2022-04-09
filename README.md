@@ -1,0 +1,1 @@
+# openkore-auto-tables-update

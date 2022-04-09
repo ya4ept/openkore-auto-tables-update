@@ -1,0 +1,5 @@
+{
+    "server_name": "aRO",
+    "patch_list": "https://defx8eynqe062.cloudfront.net/live/patchinfo/patch.txt",
+    "patch_download": "https://defx8eynqe062.cloudfront.net/live/patchfile"
+}
