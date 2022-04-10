@@ -39,12 +39,12 @@ class Index(Helper):
         lastest_files = {}
         for i in glob.glob(f"./patches/{self.file['server_name']}/downloaded/*"):
             if '.rgz' in i:
-                data = self.unpack_rgz(i)
+                data = self.patch.unpack_rgz(i)
                 if len(data) > 0:
                     for file_rgz in data:
                         lastest_files[file_rgz] = i
             if '.gpf' in i:
-                data = self.unpack_gpf(i)
+                data = self.patch.unpack_gpf(i)
                 if len(data) > 0:
                     for file_gpf in data:
                         lastest_files[file_gpf] = i
@@ -61,10 +61,10 @@ class Index(Helper):
 
 
             if '.rgz' in value:
-                self.unpack_rgz_file(value, key, base)
+                self.patch.unpack_rgz_file(value, key, base)
 
             if '.gpf' in value:
-                self.unpack_gpf_file(value, key, base)
+                self.patch.unpack_gpf_file(value, key, base)
 
             print(f'[DEBUG][{self.file["server_name"]}][STEP 3] Unpacked {base} -> {value} File Success!')
 

@@ -12,11 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-
-    - name: Set TimeZone for Python environment
-      uses: szenius/set-timezone@v1.0
-      with:
-          timezoneLinux: 'Asia/Bangkok'
     - name: Install Lib
       run: |
         sudo apt-get update
@@ -34,8 +29,8 @@ jobs:
         if [ -f requirements.txt ]; then sudo pip3 install -r requirements.txt; fi
     - name: Setup Git
       run: |
-        git config --global user.email "sctnightcore-bot@users.noreply.github.com"
-        git config --global user.name "sctnightcore-bot"
+        git config --global user.email "sctnightcore@users.noreply.github.com"
+        git config --global user.name "sctnightcore"
     - name: Run Index.py      
       run: |
         sudo chmod +x ./tools/grf_extract
