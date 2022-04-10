@@ -1,0 +1,44 @@
+name: tRO_classic cronjob
+
+on:
+  workflow_dispatch:
+  schedule:
+    # At 09:00 on Thursday (UTC Time)
+    - cron: '0 9 * * 4'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install Lib
+      run: |
+        sudo apt-get update
+        sudo apt-get install libc6-i386
+    - name: Setup perl 5.32
+      uses: shogo82148/actions-setup-perl@v1
+      with:
+        perl-version: 5.32
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8.9
+    - name: Install dependencies
+      run: |
+        if [ -f requirements.txt ]; then sudo pip3 install -r requirements.txt; fi
+    - name: Setup Git
+      run: |
+        git config --global user.email "sctnightcore@users.noreply.github.com"
+        git config --global user.name "sctnightcore"
+    - name: Run Index.py      
+      run: |
+        sudo chmod +x ./tools/grf_extract
+        sudo chmod +x ./tools/lua32
+        sudo python3 index.py  --file ./files/tro_classic.json
+    - name: Push to yourself
+      run: |
+        git diff
+        git add .
+        git commit -m "Update aRO Tables Data :3" || exit 0
+        git push
