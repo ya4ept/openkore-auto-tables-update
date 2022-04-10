@@ -1,0 +1,5 @@
+{
+    "server_name": "tRO_classic",
+    "patch_list": "https://new-ropatch.gnjoy.in.th/patchinfo/patch.txt",
+    "patch_download": "https://new-ropatch.gnjoy.in.th/patchfile"
+}
