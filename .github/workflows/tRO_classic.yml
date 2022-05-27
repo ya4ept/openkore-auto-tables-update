@@ -1,4 +1,4 @@
-name: tRO_classic cronjob
+name: tRO_classic
 
 on:
   workflow_dispatch:
