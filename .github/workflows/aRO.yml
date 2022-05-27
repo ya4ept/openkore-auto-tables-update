@@ -1,4 +1,4 @@
-name: aRO cronjob
+name: aRO
 
 on:
   workflow_dispatch:
