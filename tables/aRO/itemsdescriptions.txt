@@ -36787,7 +36787,7 @@ When base AGI is 120 or higher: Long-range physical attack +4%, ASPD +1
 Equipment Type: ^777777Headgear^000000
 Defense: ^77777712^000000
 Equip Slot: ^777777Upper & Middle^000000
-Weight: ^77777710^0000
+Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Usable By: ^777777Ranger^000000
 #
@@ -36804,7 +36804,7 @@ Usable By: ^777777Mechanic^000000
 #
 5750#
 A mini crown which has been made at Shadow Artworks. A masterpiece from the designer Doomk.
-INT +1, AGI +1, MDEF +1
+INT +1, AGI +1, MDEF +5
 When base AGI is 120 or higher: ATK +10, Flee +3
 Equipment Type: ^777777Headgear^000000
 Defense: ^77777712^000000
@@ -36817,13 +36817,13 @@ Usable By: ^777777Shadow Chaser^000000
 A hat of a famous minstrel. Fancy and plentiful black feathers adorn this hat.
 INT +1, LUK +1, MDEF +5
 Increases long range attacks by 5%
-rushed toward windmill, decreases SP by 10.
-Equipment Type: ^777777Headgear^000000
+Decreases SP consumption of Windmill Rush and Echo Song by 10.
+Class: ^777777Headgear^000000
 Defense: ^77777712^000000
-Equip Slot: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
-Usable By: ^777777Minstrel^000000
+Jobs: ^777777Minstrel^000000
 #
 5752#
 Free gift found in a book by famous Geneticist, Bob Rose. Midas mark looks cute.
@@ -36841,7 +36841,9 @@ A magically enchanted hat decorated with minerals from an unknown world.
 INT +1, DEX +1, MDEF +5
 When base DEX is 120 or higher: MATK +10, reduces Variable Cast Time by 2%.
 Equipment Type: ^777777Headgear^000000
-Defense: ^77777710^000000
+Defense: ^77777712^000000
+Equip Slot: ^777777Upper^000000
+Weight: ^77777710^000000
 Required Level: ^777777100^000000
 Usable By: ^777777Warlock^000000
 #
@@ -36886,18 +36888,21 @@ When base INT is 120 or higher: MATK +10, DEF +5
 Equipment Type: ^777777Headgear^000000
 Defense: ^77777717^000000
 Equip Slot: ^777777Upper-Mid^000000
+Weight: ^77777710^000000
+Required Level: ^777777100^000000
+Usable By: ^777777Royal Guard^000000
 #
 5758#
 A beautiful head ornament of a ballerina.
 INT +1, LUK +1, MDEF +5
 Increases long range physical attacks by 5%.
-Swing dance, reduces SP Cost for the symphony by 10 SP.
-Equipment Type: ^777777Headgear^000000
+Swing dance, reduces SP Cost for the Lover Symphony by 10 SP.
+Class: ^777777Headgear^000000
 Defense: ^77777712^000000
-Equip Slot: ^777777Upper^000000
+Location: ^777777Upper^000000
 Weight: ^77777710^000000
 Required Level: ^777777100^000000
-Usable By: ^777777Wanderer^000000
+Jobs: ^777777Wanderer^000000
 #
 5759#
 placeholder
@@ -39130,20 +39135,20 @@ The power of trust through a display of its touchable aura. It will show-up in d
 Weight: ^7777770^000000
 #
 6360#
-A small piece of a fire element gemstone which was once split from a Red Blood.
-Weight: ^7777770.5^000000
+Gemstone with fire property, a small piece split from Red Blood. 
+Weight : ^7777770.5^000000
 #
 6361#
-A small piece of a water element gemstone which was once split from a Crystal Blue.
-Weight: ^7777770.5^000000
+Gemstone with water property, a small piece split from Crystal Blue. 
+Weight : ^7777770.5^000000
 #
 6362#
-A small piece of a wind element gemstone which was once split from a Wind of Verdure.
-Weight: ^7777770.5^000000
+Gemstone with wind property, a small piece split from Wind of Verdure. 
+Weight : ^7777770.5^000000
 #
 6363#
-A powerful gemstone which can be transmuted into another element when combined properly.
-Weight: ^7777770^000000
+Gemstone with earth property, a small piece split from Green Live. 
+Weight : ^7777770.5^000000
 #
 6376#
 A badge that is provided to warriors who have brought honor on the Krieger Von Midgard field.
@@ -53712,76 +53717,90 @@ MaxHP decreases by 15% for 15 seconds.
 Weight: ^7777772^000000
 #
 12725#
-Casts 'Refresh', removing all abnormal states and debuffs and prevents any abnormal state or debuff effects for 30 seconds.
-Recovers 25% HP and can be used while stunned, frozen or in deep sleep.
-5 minute wait time to reuse. 
-Maximum carrying amount:10
+^ff0000This item cannot be traded with other accounts.^000000
+Removes almost all abnormal states and debuffs and prevents any abnormal state or debuff effects for 60 seconds.
+You also get +25% of HP recovery and it can be used while stunned, frozen, and in deep sleep.
+Eligible debuffs:
+Stun / Sleep / Abyss Curse / Stone / Poison / Blind / Silence / Bleed / Chaos / Crystallization / Deep Sleep / Burn / Frozen / Freeze
+- Guillotine Cross's Poison
+- Abyss Curse
+- Mandragora Howling
+Maximum carrying amount:60
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
 12726#
-Casts 'Crushing Strike', destroying your all equipped weapons while drawing out all of their power to strike a strong blow upon your target. 
-1 minute wait time to reuse.
-Maximum carrying amount:10
+^ff0000This item cannot be traded with other accounts.^000000
+When using the item, buffs the next short-ranged physical damage on targets.
+Has 20% chance of destroying user's weapon when performing a short-ranged attack.
+The effect is automatically canceled if you change your equipment or do not attack for 30 seconds
+Maximum carrying amount:60
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
 12727#
-Casts 'Millennium Shield', randomly summoning 2-4 magic shields. 
-This shield has the same Def and Mdef as the person casting and has 1000 HP. 
-You must wait 1 minute and 30 seconds before reuse.
-Maximum carrying amount:10
+^ff0000This item cannot be traded with other accounts.^000000
+When operating, randomly summons 2 - 4 magic shields which defend all types of damage.
+This shield follows the caster's defense and gets 1000 HP each.
+A defensive shield is consumed upon blocking a single instance of incoming damage, excess damage does not carry over to the next available shield.
+Maximum carrying amount:60
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
 12728#
+^ff0000This item cannot be traded with other accounts.^000000
 Cast 'Vitality Activation', maximizing your health for one minute. HP recovery potion effect increases one and half times.
 But, it generates instability of the mind, so SP does not naturally recover while active and the effect of SP recovery potion decreases by half.
 Waiting time for reuse: None.
-Maximum carrying amount: 2
+Maximum carrying amount: 60
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
 12729#
+^ff0000This item cannot be traded with other accounts.^000000
 Cast 'Fighting Spirit', increasing Atk of the user and members of the party that the user belongs to.
 The caster gets an increase of 7 times the number of the party in Atk, and the members of the party get a quarter of the increase in Atk the caster received.
 The player also gets a minor increased Attack Strength effect. This effect is more pronounced when the Rune Mastery level is higher. 
 Waiting time for reuse: None.
-Maximum carrying amount: 20
+Maximum carrying amount: No limit
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
 12730#
+^ff0000This item cannot be traded with other accounts.^000000
 Cast 'Abundance', recovering 60 SP for every 10 seconds over a 3-minute period.
 Waiting time for reuse: None.
-Maximum carrying amount: 5
+Maximum carrying amount: 60
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
 12731#
-Cast 'Giant Cross', increasing your power and attack strength tremendously.
-Str increases by 30 for 4 minutes. The caster has a chance to hit an enemy for 3 times the damage while melee attacking, as well as a chance of destroying the target's weapon.
-Waiting time for reuse: None.
-Maximum carrying amount: 10
+^ff0000This item cannot be traded with other accounts.^000000
+Casts "Giant Growth", heightening power and attack strength tremendously.
+STR increases by 30 and has a 15% chance to deal x2 the damage while melee attacking.
+If the caster is a Rune Knight, it also increases physical attack damage by 250% (125% in WOE and PvP Areas).
+^ff0000Rhydo Runestone's Crushing Strike damage won't be affected by this runestone^000000
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
 12732#
+^ff0000This item cannot be traded with other accounts.^000000
 Cast 'Storm Blast', momentarily discharging some destructive power from the Runestone.
 Generates a 7x7 shockwave around you, damages all targets, and also causes a knockback effect.
 Waiting time for reuse: None.
-Maximum carrying amount: 10
+Maximum carrying amount: No limit
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
 12733#
+^ff0000This item cannot be traded with other accounts.^000000
 Cast 'Stonehard Skin', turning your skin into a solid shell for 3 minutes. The caster has a chance to destroy attacking enemies' weapons.
-Consumes 25% of your HP and this skin possesses the same amount of HP consumed.
+Consumes 20% of your HP and this skin possesses the same amount of HP consumed.
 It disappears once all HP is consumed.
 For monsters, it decreases 25% of Atk for 10 seconds at a fixed rate.
 This skill cannot be used against a boss monster.
 No waiting time for reuse.
-Maximum carrying amount: 10
+Maximum carrying amount: 60
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -87087,12 +87106,12 @@ Transforms you into the Korean Outfit with a duration of 10 minutes.
 Weight: ^7777771^000000
 #
 22540#
-^ff0000This item cannot be traded.^000000
-Amplifies one's strength with the magic power of the runestone.
-When engaged in normal melee physical attack, activate Storm Blast Level 1 with a 15% chance, physical damage and critical damage to enemies of all sizes are increased by 30%.
-Also, increases MHP and MSP by 30%, increases melee and long-range physical damage by 30%.
-Cooldown: 5s
-Weight: ^7777771^000000
+^ff0000This item cannot be traded with other accounts.^000000
+Buffs party members within 7x7 cells of the user with runic power for 60 seconds.
+[Eligible buffs]
+Millennium Shield / Refresh / Giant Growth / Stone Skin / Vitality Activation / Abundance
+Maximum carrying amount:60
+Weight: ^77777710^000000
 #
 22542#
 This syrup increases concentration by increasing attack speed.

@@ -3634,10 +3634,10 @@
 6342#Faded Music (Purple)#
 6343#Faded Music (Blue)#
 6345#Trust Inner#
-6360#Scarlet Point#
+6360#Scarlet Point #
 6361#Indigo Point#
-6362#Yellow Wish Point#
-6363#Green Birthstone#
+6362#Yellow Wish Point #
+6363#Lime Green Point#
 6376#(null)#
 6377#Street Stall License#
 6380#Mora Coin#
@@ -5200,7 +5200,7 @@
 12326#È­·ÁÇÑ ÆøÁ×#
 12329#¸ÚÁø ¿î¿µÀÚ´Ô ¼ÒÈ¯¼­#
 12330#¿¹»Û ¿î¿µÀÚ´Ô ¼ÒÈ¯¼­#
-12333#Ansila#
+12333#Ancilla#
 12340#Chewy Rice Powder#
 12341#Special Alloy Trap Box#
 12342#Manuk's Opportunity#
