@@ -69,8 +69,16 @@ class Index(Helper):
             print(f'[DEBUG][{self.file["server_name"]}][STEP 3] Unpacked {base} -> {value} File Success!')
 
         
-        if self.convert_iteminfo_lub_txt():
-            print(f'[DEBUG][{self.file["server_name"]}][STEP 4] Iteminfo to txt Success!')
+
+        for i in sorted(lastest_files):
+
+            key = i
+            value = lastest_files[key]
+
+            if "iteminfo" in key.lower():
+                if self.convert_iteminfo_lub_txt(key):
+                    print(f'[DEBUG][{self.file["server_name"]}][STEP 4] Iteminfo to txt Success!')
+                    break
 
         self.dump_json(f"./patches/{self.file['server_name']}/{self.file['server_name']}.json", new_patches_info)
 

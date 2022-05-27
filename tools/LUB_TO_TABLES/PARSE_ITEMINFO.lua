@@ -1,7 +1,8 @@
 inputFolder = arg[1]
 outputFolder = arg[2]
+iteminfoName = arg[3]
 
-importFile = inputFolder.."/iteminfo.lub"
+importFile = inputFolder.."/"..iteminfoName
 
 dofile(importFile)
 
