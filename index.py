@@ -74,9 +74,8 @@ class Index(Helper):
 
             key = i
             value = lastest_files[key]
-
             if "iteminfo" in key.lower():
-                if self.convert_iteminfo_lub_txt(key):
+                if self.convert_iteminfo_lub_txt(key.replace("system\\", "")):
                     print(f'[DEBUG][{self.file["server_name"]}][STEP 4] Iteminfo to txt Success!')
                     break
 
