@@ -40,5 +40,5 @@ jobs:
       run: |
         git diff
         git add .
-        git commit -m "Update aRO Tables Data :3" || exit 0
+        git commit -m "Update tRO_classic Tables Data :3" || exit 0
         git push
