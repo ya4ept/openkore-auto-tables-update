@@ -4612,7 +4612,7 @@
 9825#Lv. 120 Reward Box (Rebirth)#
 9826#Lv. 121 Reward Box (Rebirth)#
 9862# [Not For Sale] JOB Battle Manual#
-9863#Pre-Register Box 1#
+9863#Beginner Level Up Pack Box#
 9864#Pre-Register Box 2#
 9865#Pre-Register Box 3#
 9866#Pre-Register Box 4#
@@ -4771,7 +4771,7 @@
 11610#Sweet Melon#
 11611#Popcorn#
 11612#Aromatic Popcorn#
-11613#Harvest Cookie#
+11613#Cookie#
 11616#Yummy Meat#
 11617#Dogcolate Ball#
 12000#Level 5 Frost Diver#
@@ -8685,6 +8685,7 @@
 101574#Shiba Inu Scroll#
 101613#Super Strong Costume Scroll#
 101617#Mad Bunny Scroll#
+101642#Holy Golden Light Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -8740,6 +8741,9 @@
 400316#Red Hairpin#
 400317#[Not For Sale] Red Hairpin#
 400318#[Not For Sale] Smokie Transformation Leaf#
+400322#Khalitzburg Helm#
+400323#[Not For Sale] Khalitzburg Helm#
+400324#[Not For Sale] Capricon Diadem#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
 410048#Costume Tiger#
@@ -8754,6 +8758,8 @@
 410164#[Not For Sale] Little Elf Ears#
 410172#Mini Glasses#
 410173#[Not For Sale] Mini Glasses#
+410180#Sigrun's Wing#
+410181#[Not For Sale] Sigrun's Wing#
 420003#CD In Mouth#
 420014#Costume Japanese Hair#
 420016#Costume Katashiro Flying#
@@ -8774,6 +8780,26 @@
 450131#Fallen Angel Armor#
 460028#[Not for Sale]Sharel Shield#
 460033#[Not For Sale] Mad Bunny#
+470131#Exorcist Shoes#
+470132#Insect Collector Shoes#
+470133#Fallen Angel Shoes#
+470134#Fisherman Shoes#
+470135#Mechanic Shoes#
+470136#Dragon Trainer Shoes#
+470137#Gravekeeper Shoes#
+470138#Gardener Shoes#
+470139#Assassin Shoes#
+470140#Hunter Shoes#
+470141#Exorcist Shoes#
+470142#Insect Collector Shoes#
+470143#Fallen Angel Shoes#
+470144#Fisherman Shoes#
+470145#Mechanic Shoes#
+470146#Dragon Trainer Shoes#
+470147#Gravekeeper Shoes#
+470148#Gardener Shoes#
+470149#Assassin Shoes#
+470150#Hunter Shoes#
 480058#Costume Wavy Golden Angel Wings#
 480069#Costume Wavy Angel Wings#
 480095#Costume Giant White Rabbit#
@@ -8795,6 +8821,8 @@
 490212#[Not For Sale] Spica Necklace#
 490228#[Not For Sale] Fidelity Necklace#
 490230#Fidelity Necklace#
+490236#Double Badge#
+490237#[Not For Sale] Double Badge#
 500000#IDTest weapon#
 600000#IDTest bothhand#
 700000#IDTest bow#
@@ -8803,7 +8831,7 @@
 1000467#Rebellion Pre-Register Ticket#
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
-1000896#Fairy Tales Coin#
+1000896#Holy Golden Light Coin#
 1000923#Mad Bunny Coin#
 1100000#IDTest heal#
 1200000#IDTest arrow#
