@@ -5531,22 +5531,17 @@ Required Job: Assassin Jobs
 ^FFFFFF_^000000
 #
 1262#
-^808080A double bladed katar that inflicts incurable wounds.^000000
+A double bladed katar that inflicts incurable wounds.
+When you get cut with this weapon, the wound can not be mended, causing you to slowly die.
+Adds a chance of inflicting ^0000FFBleed^000000 on the target when dealing a physical attack.
 ^FFFFFF_^000000
-[Item Function]
-Adds a 3% chance of inflicting ^800000Bleed^000000 on the target when performing a physical attack.
-^FFFFFF_^000000
-Can be extracted at the ^CC66FF Biolab Crafting Area^000000 to get ^0000FF Last Blood ^000000, 
-important material for crafting and enchanting Biolab Headgear.
-^FFFFFF_^000000
-Type: Weapon
 Class: Katar
 Attack: 115
 Property: Neutral
 Weight: 120
 Weapon Level: 3
 Required Level: 55
-Required Job: Assassin Jobs
+Jobs: Assassin Class
 #
 1263#
 ^808080A katar said to be purely forged out of the resentment of the dead.^000000
@@ -5864,30 +5859,25 @@ Required Job: Assassin Jobs
 ^FFFFFF_^000000
 #
 1284#
-^808080A katar decorated in black. It requires huge strength just to wave it.^000000
-[Item Function]
-^FFFFFF_^000000
+A katar decorated in black. It requires huge strength just to wave it.
 Increases the damage of ^0000FFGrim Tooth^000000 by 10%.
-Adds a 10% chance of casting ^0000FFLevel 1 Sonic Blow^000000 on the target when performing a physical attack; if a higher level of this skill is known, it will be cast instead.
+Adds a chance of casting ^0000FFLevel 1 Sonic Blow^000000 on the target when dealing a physical attack.
+If a higher level of this skill is known, it will be cast instead.
 ^FFFFFF_^000000
 ^800080Set Bonus^000000
 ^008080Assassin Handcuffs [1]^000000
 ^008080Krishna [2]^000000
-ATK +50
+ATK + 50
 FLEE - 30
 Increases the damage of ^0000FFSonic Blow^000000 by 50%
 ^FFFFFF_^000000
-Can be extracted at the ^CC66FF Biolab Crafting Area^000000 to get ^0000FF Last Blood ^000000, 
-important material for crafting and enchanting Biolab Headgear.
-^FFFFFF_^000000
-Type: Weapon
 Class: Katar
 Attack: 120
 Property: Neutral
 Weight: 120
 Weapon Level: 3
 Required Level: 50
-Required Job: Assassin Cross Jobs
+Jobs: Assassin Cross Class
 #
 1285#
 ^808080A rare design for a katar, its design has the meaning of 'transmigration'.^000000
@@ -6174,31 +6164,19 @@ Enables ^0000FFLevel 1 Slaughter^000000.
 ^FFFFFF_^000000
 #
 1311#
-^808080A luxurious axe decorated in red. It creates wind with a unique sound when you wave it.^000000
+A luxurious axe decorated in red. It creates wind with a unique sound when you wave it.
 ^FFFFFF_^000000
-[Item Function]
-This item is indestructible in battle.
-^FFFFFF_^000000
-If base DEX is 90 or higher,
-CRIT + 5.
-^FFFFFF_^000000
-If base LUK is 90 or higher,
-ATK + 20.
-^FFFFFF_^000000
+If base DEX is 90 or higher, CRIT + 5.
+If base LUK is 90 or higher, ATK + 20.
 If base DEX, LUK is 90 or higher,
 Increases the damage of ^0000FFMammonite^000000 by 15%.
 ^FFFFFF_^000000
-Can be extracted at the ^CC66FF Biolab Crafting Area^000000 to get ^0000FF Last Blood ^000000, 
-important material for crafting and enchanting Biolab Headgear.
-^FFFFFF_^000000
-Type: Weapon
 Class: One-Handed Axe
 Attack: 140
-Property: Neutral
 Weight: 150
 Weapon Level: 3
 Required Level: 50
-Required Job: Transcendent Swordman Jobs, Transcendent Merchant Jobs
+Jobs: Transcendent Swordman Class, Transcendent Merchant Class
 #
 1314#
 ^000088Rental Item^000000
@@ -9197,23 +9175,17 @@ Required Job: Priest Jobs, Sage Jobs, Taekwon Master
 ^FFFFFF_^000000
 #
 1561#
-^808080A thick and heavy hardcover book that could really hurt if swung around.^000000
+A thick and heavy hardcover book that could really hurt if swung around.
+STR + 3
+DEX + 2
 ^FFFFFF_^000000
-[Item Function]
-STR +3
-DEX +2
-^FFFFFF_^000000
-Can be extracted at the ^CC66FF Biolab Crafting Area^000000 to get ^0000FF Last Blood ^000000, 
-important material for crafting and enchanting Biolab Headgear.
-^FFFFFF_^000000
-Type: Weapon
 Class: Book
 Attack: 140
 Property: Neutral
 Weight: 150
 Weapon Level: 4
 Required Level: 55
-Required Job: Priest Jobs, Sage Jobs, Taekwon Master
+Jobs: Priest Class, Sage Class, Taekwon Master
 #
 1562#
 ^808080A book containing the History of many wars and the dreams of the strategists that took part in them.^000000
@@ -9967,31 +9939,26 @@ Required Job: Mage Jobs, Soul Linker
 ^FFFFFF_^000000
 #
 1620#
-^808080A staff developed through the united efforts of the Mage Guild and Prontera Church. There are two different versions of this staff intended to help new trainees.^000000
-^FFFFFF_^000000
+A staff developed through the united efforts of the Mage Guild and Prontera Church. There are two different versions of this staff intended to help new trainees.
 INT + 3
-Max HP + 300
+MHP + 400
 MATK + 120
 ^FFFFFF_^000000
 ^800080Set Bonus^000000
 ^008080Survivor's Manteau^000000
 ^008080Survivor's Rod [1]^000000
-Max HP + 300
+MHP + 300
 MATK - 5%
-MATK + 1% per upgrade level of the ^008080Survivor's Rod [1]^000000.
-Reduces damage taken from Neutral property attacks by 3% per upgrade level of the ^008080Survivor's Manteau^000000.
+MATK + 1% per refinement level of the ^008080Survivor's Rod [1]^000000.
+Decrease damage taken from Neutral property attacks by 3% per refiement level of the ^008080Survivor's Manteau^000000.
 ^FFFFFF_^000000
-Can be extracted at the ^CC66FF Biolab Crafting Area^000000 to get ^0000FF Last Blood ^000000, 
-important material for crafting and enchanting Biolab Headgear.
-^FFFFFF_^000000
-Type: Weapon
 Class: One-Handed Staff
 Attack: 50
 Property: Neutral
 Weight: 100
 Weapon Level: 3
 Required Level: 24
-Required Job: Mage Jobs, Soul Linker
+Jobs: Mage Class, Soul Linker
 #
 1621#
 ^808080A staff with a hypnotizing effect that can even make a Novice feel just like a High Wizard. Sort of.^000000
@@ -10397,53 +10364,41 @@ Required Job: Acolyte Jobs, Mage Jobs, Soul Linker
 ^FFFFFF_^000000
 #
 1646#
-^808080A high-class mage's staff decorated with rich tail-feathers.  It has been especially treated for the ice elemental magical spell, 'Stormgust'.^000000
-^FFFFFF_^000000
-[Item Function]
-INT +4
+A high-class mage's staff decorated with rich tail feathers. It has been specially treated for the ice elemental magical spell, 'Stormgust'.
+INT + 4
 MATK + 180
-MDEF +1
-Increases the damage of ^0000FFStorm Gust^000000 by 1% per upgrade level of the item.
+MDEF + 1 for every refinement levels.
+Increases the damage of ^0000FFStorm Gust^000000 by 1% per refinement level of the item
 ^FFFFFF_^000000
-If upgrade level is +10 or higher,
-Variable Casting Time - 8% for ^0000FFStorm Gust^000000.
+If refined to +10 or higher,
+Decreases the variable casting time of ^0000FFStorm Gust^000000 by 8%.
 ^FFFFFF_^000000
 ^800080Set Bonus^000000
 ^008080Geffenia Water Book [1]^000000
 ^008080La'cryma Stick [2]^000000
-Variable Casting Time - 4% for ^0000FFJack Frost^000000, ^0000FFFrost Misty^000000 and ^0000FFStorm Gust^000000 per upgrade level of the item.
+Decreases the variable casting time of ^0000FFJack Frost^000000, ^0000FFFrost Misty^000000 and ^0000FFStorm Gust^000000 by 4% per refinement level of the item.
 ^FFFFFF_^000000
-Can be extracted at the ^CC66FF Biolab Crafting Area^000000 to get ^0000FF Last Blood ^000000, 
-important material for crafting and enchanting Biolab Headgear.
-^FFFFFF_^000000
-Type: Weapon
 Class: One-Handed Staff
 Attack: 30
 Property: Neutral
 Weight: 50
 Weapon Level: 3
 Required Level: 50
-Required Job: Transcendent Mage Jobs
+Jobs: Transcendent Mage Class
 #
 1647#
-^808080The official staff for High Class Clerics. It is decorated with a red Prontera Cathedral Emblem.^000000
-^FFFFFF_^000000
-[Item Function]
-INT +4
+The official staff for High Class Clerics. It is decorated with a red Prontera Cathedral Emblem.
+INT + 4
 MATK + 175
-Adds a 2% chance of casting ^0000FFLevel 1 Blessing^000000 on the user when using ^0000FFHeal^000000, if a higher level of this skill is known, it will be cast instead.
+Adds a chance of casting ^0000FFBlessing^000000 on the user when using ^0000FFHeal^000000, if a higher level of this skill is known, it will be cast instead.
 ^FFFFFF_^000000
-Can be extracted at the ^CC66FF Biolab Crafting Area^000000 to get ^0000FF Last Blood ^000000, 
-important material for crafting and enchanting Biolab Headgear.
-^FFFFFF_^000000
-Type: Weapon
 Class: One-Handed Staff
 Attack: 30
 Property: Holy
 Weight: 50
 Weapon Level: 3
 Required Level: 50
-Required Job: Transcendent Acolyte Jobs
+Jobs: Transcendent Acolyte Class
 #
 1648#
 ^808080A short, simply designed staff; like a baton. A jewel, with the power of justice, is set on it.^000000
@@ -11491,28 +11446,21 @@ Required Job: Thief, Rogue Jobs, Archer Jobs
 ^FFFFFF_^000000
 #
 1745#
-^808080An elegant and beautiful Red bow that looks like a flying falcon.^000000
-^FFFFFF_^000000
-[Item Function]
+An elegant and beautiful Red bow that looks like a flying falcon.
 Increases the damage of ^0000FFDouble Strafe^000000, ^0000FFFocused Arrow Strike^000000 and ^0000FFArrow Repel^000000 by 10%.
 ^FFFFFF_^000000
 ^800080Set Bonus^000000
 ^008080Falken Blitz [2]^000000
 ^008080Little Feather Hat [1]^000000
-If ^008080Falken Blitz [2]^000000 upgrade level is +10 or higher,
-Variable Casting Time - 50% for ^0000FFFocused Arrow Strike^000000.
+If ^008080Falken Blitz [2]^000000 refinement level is +10 or higher,
+Decrease the variable casting time of ^0000FFFocused Arrow Strike^000000 by 50%.
 ^FFFFFF_^000000
-Can be extracted at the ^CC66FF Biolab Crafting Area^000000 to get ^0000FF Last Blood ^000000, 
-important material for crafting and enchanting Biolab Headgear.
-^FFFFFF_^000000
-Type: Weapon
 Class: Bow
 Attack: 100
-Property: Neutral
 Weight: 100
 Weapon Level: 3
 Required Level: 50
-Required Job: Sniper Jobs
+Jobs: Sniper Class
 #
 1746#
 ^808080It's made after a bow of ancient forest watching tribe. ^000000
@@ -18153,17 +18101,13 @@ Jobs: ^777777All except
 Novice Class^000000
 #
 2514#
-^808080 A pair of heavy shoulder coverings that provide effective
-protection in combat.^000000
+A pair of heavy shoulder coverings that provide effective protection in combat.
 ^FFFFFF_^000000
-Can be extracted at the ^CC66FF Biolab Crafting Area^000000 to get ^0000FF Last Blood ^000000, 
-important material for crafting and enchanting Biolab Headgear.
-^FFFFFF_^000000
-Class: ^777777Garment^000000
-Defense: ^77777725^000000
-Weight: ^77777780^000000
-Required Level: ^77777780^000000
-Jobs: ^777777Swordman, Merchant, and Thief Classes^000000
+Class: Garment
+Defense: 25
+Weight: 80
+Required Level: 80
+Jobs: Swordman Class, Merchant Class, Thief Class
 #
 2515#
 A robe that once
@@ -22152,16 +22096,16 @@ Restores 300 HP to the user every 10 seconds.
 ???
 #
 2979#
-Fleet bears an aroma of dark fruit, to bite.
-All State 1.
-Under Level 3 triggers auto spell Frost Nova.
-HP +15% jobs at the time along with the mother of delicious strawberry.
-Tolerance +10% for fire attribute attack.
-Increases 30% long-range physical attack power.
-Class: ^777777 Accessory ^000000 DEF: ^7777771 ^000000
-Weight: ^77777750 ^000000
-Req Level: ^7777771 ^000000
-Jobs: ^777777except novice, all jobs ^000000
+An accessory with a strong strawberry scent.
+All Stats +1.
+Has a chance to apply auto spell: Lv. 3 Frost Nova upon receiving damage.
+Equip with Tasty Strawberry Hat, HP +15%.
+Increase resistance against Fire property by 10%.
+Increase ranged physical damage by 30%.
+Class : ^777777Accessory^000000 Defense : ^7777771^000000
+Weight : ^77777750^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs Except Novice^000000
 #
 2980#
 ^808080A pair of glove having dark power. Enables the wearer to move dolls vividly by controlling strands of magical threads connected to the tips of the fingers.^000000
@@ -26139,10 +26083,8 @@ Compound on: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4357#
-Enables the use of Level 1
-Berserk. Reduces
-Max HP by 50%.
-Class: ^777777Card^000000            
+Enables the use of Level 1 Frenzy. Reduces Max HP by 50%.
+Class: ^777777Card^000000
 Compound on: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
@@ -37568,10 +37510,7 @@ Required Level: ^7777771^000000
 Usable By: ^777777All Character Types^000000
 #
 6000#
-^808080A dark ash imbued with mysterious magical power and darkness.^000000
-^ffffff_^000000
-^009900[Item Function]^000000
-The stone will consume 1 of this item when reentering the Endless Tower.
+A dark ash imbued with mysterious magical power and darkness.
 ^FFFFFF_^000000
 Weight: ^7777770^000000
 #
@@ -39169,31 +39108,19 @@ Regina (Student) looking for this perfume
 Weight: ^7777771^000000
 #
 6469#
-^808080A collection of biological relics from various warriors^000000
+A collection of biological relics from various warriors, used for combining biological materials in a testing lab.
 ^FFFFFF_^000000
-^CC66FFItem Function:^000000
-1. Can be used for crafting Biolab Headgear.
-2. Can be used for enchanting Biolab Headgear.
-^FFFFFF_^000000
-Weight: ^7777771^000000
+Weight: 1
 #
 6470#
-^808080Reactionary forces causes the thirst for blood^000000
+Reactionary forces cause the thirst for blood, used for combining biological materials in a testing lab.
 ^FFFFFF_^000000
-^CC66FFItem Function:^000000
-1. Can be used for crafting Biolab Headgear.
-2. Can be used for enchanting Biolab Headgear.
-^FFFFFF_^000000
-Weight: ^7777771^000000
+Weight: 1
 #
 6471#
-^808080The darkness of Nifflheim is lumped into this.^000000
+The darkness of Nifflheim is lumped into this, used for combining biological materials in a testing lab.
 ^FFFFFF_^000000
-^CC66FFItem Function:^000000
-1. Can be used for crafting Biolab Headgear.
-2. Can be used for Resetting Enchant of Biolab Headgear.
-^FFFFFF_^000000
-Weight: ^7777771^000000
+Weight: 1
 #
 6473#
 ^808080 Orb that contains the soul of a Toucan.
@@ -44463,12 +44390,12 @@ You risk freezing yourself if you touch it.
 7575#
 A shiny, red jewel.
 ^ffffff_^000000
-Weight: ^7777775^000000
+Weight: ^7777770^000000
 #
 7576#
 A shiny, blue jewel.
 ^ffffff_^000000
-Weight: ^7777775^000000
+Weight: ^7777770^000000
 #
 7577#
 A shiny, golden jewel.
@@ -47458,6 +47385,20 @@ Restores SP 50 ~ 70
 ^FFFFFF_^000000
 ^FF6699 This item can be merged by NPC Mergician for stacking. ^000000
 Weight: ^7777771^000000
+#
+9894#
+A scroll in which a single use of Level 5 Adrenaline Rush has been recorded.
+Caution! - This item won't work while your character is casting a spell or skill.
+Caution! - If the character is not equipped with an Axe or Mace, the scroll will be consumed with no effect.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+9895#
+An abrasive that sharpens the blade of a weapon.
+Increases CRIT Rate by 30.
+When the character becomes incapacitated, the item effect will also disappear.
+^ffffff_^000000
+Weight : ^7777771^000000
 #
 9896#
 A booster that greatly increases the energy output of the user.
@@ -53352,9 +53293,9 @@ Weight: ^77777720^000000
 #
 12710#
 A sweet and sour desert made by Guyak. It would be great when it's cool.
-Gives double movement speed for 5 minutes.
+Increase character's movement speed by 100% for 5 minutes. 
 ^ffffff_^000000
-Weight: ^77777720^000000
+Weight : ^77777720^000000
 #
 12715#
 					
@@ -55091,22 +55032,16 @@ Jobs: ^777777All except
 Acolyte Class^000000
 #
 13001#
-^808080 Crafted from a dragon's fang, this dagger can easily slash through tough dragon hide. ^000000
-[Item Function]
-Ignores the defense of Dragon monsters and 
-increases experience reward for defeating Dragon monsters by 10%.
+Crafted from a dragon's fang, this dagger can easily slash through tough dragon hide.
+Ignores the DEF of Dragon monsters and increases experience given from Dragon race monsters by 10%.
 ^FFFFFF_^000000
-Can be extracted at ^CC66FF Biolab Crafting Area^000000 to get ^0000FF Last Blood ^000000, 
-an important material for crafting and enchanting Biolab Headgear.
-^FFFFFF_^000000
-Class: ^777777Dagger^000000
-Attack: ^777777110^000000
-Weight: ^77777790^000000
-Property: ^777777Neutral^000000
-Weapon Level: ^7777774^000000
-Required Level: ^77777760^000000
-Jobs: ^777777All except
-Acolyte Class^000000
+Class: Dagger
+Attack: 110
+Weight: 90
+Property: Neutral
+Weapon Level: 4
+Required Level: 60
+Jobs: All Class except Acolyte Class
 #
 13002#
 A dagger with
@@ -58163,19 +58098,15 @@ Required Level: ^77777780^000000
 Jobs: ^777777Swordsman Class / Merchant Class^000000
 #
 13421#
-^808080 This short sword has been greatly improved for easy-use. It looks better with its ruby decoration on the grip. ^000000
-[Item Function]
-When attacking at close-range, the attack power of 'Bowling Bash' and 'Bash' increases by 20% for 15 seconds with low probability.
+This short sword has been greatly improved for easy use. It looks better with its ruby decoration on the grip.
+When attacking short-ranged, the attack power of 'Bowling Bash' and 'Bash' increases by 20% for 15 seconds with low probability.
 ^FFFFFF_^000000
-Can be extracted at ^CC66FF Biolab Crafting Area^000000 to get ^0000FF Last Blood ^000000, 
-an important material for crafting and enchanting Biolab Headgear.
-^FFFFFF_^000000
-Class: ^777777One-Handed Sword^000000
-Attack: ^777777170^000000
-Weight: ^777777150^000000
-Weapon Level:^7777773^000000
-Required Level: ^77777750^000000
-Jobs: ^777777Transcendent Swordsman/Merchant Classes^000000
+Class: One-Handed Sword
+Attack: 170
+Weight: 150
+Weapon Level: 3
+Required Level: 50
+Jobs: Transcendent Swordsman/Merchant Class
 #
 13423#
 A one-handed sword that is made by the Eden Group. A weapon that can easily be used by anyone.
@@ -63119,6 +63050,13 @@ A glass of illusion made from morning dew from an Illusion Flower. Drink the dew
 When a character is incapable of combat, the effect of item disappears.
 Weight : ^7777771^000000
 #
+14875#
+A bottle of Yggdrasil Tree Sap that is effective in healing wounds.
+Restores 7% of Max HP every 4 seconds for 10 minutes.
+The effect is not active at the state of berserk.
+When a character is incapable of combat, the effect of item disappears.
+Weight : ^7777771^000000
+#
 14883#
 A scroll that reveals mysterious items.
 When this scroll is opened, you will receive one of the following items:
@@ -63140,6 +63078,13 @@ Weight: ^7777771^000000
 No matter what this scroll reveals, it is bound to adorn you with wonderful treasures.
 Weight: ^7777771^000000
 #
+14886#
+The ultimate dish that brings together all the good dishes. 
+All Stats +10, ATK +30, MATK +30 for 30 minutes.
+The effect will disappear upon death.
+^ff0000Caution! - Cannot be stacked with existing cooking items!!^000000
+Weight : ^7777771^000000
+#
 14887#
 The ultimate dish that brings together all the good dishes.
 All Stats + 10, ATK + 30, MATK + 30 for 30 minutes.
@@ -63149,6 +63094,10 @@ This item cannot be traded with other accounts.
 #
 14888#
 A special hair style box
+Weight : ^7777771^000000
+#
+14889#
+A special hair style box 
 Weight : ^7777771^000000
 #
 14890#
@@ -72498,12 +72447,16 @@ Required Level: ^777777110^000000
 Usable By: ^777777Ranger^000000
 #
 18111#
-Has a chance to activate Fiber Lock when attacking.
-Attack Strength: ^777777150^000000
-Weight: ^777777150^000000
-Weapon Level: ^7777774^000000
-Required Level: ^777777120^000000
-Usable By: ^777777Ranger, Maestro, and Wanderer^000000
+A bow made with a hard vine of demon plant. It has the power to catch enemies with spider web arrows.
+DEX + 1
+Adds a chance of casting auto spell: Lv. 1 Fiber Lock on the target when dealing with a physical attack.
+Consumes Cobweb for each successful auto cast.
+Class : ^777777Bow^000000
+Attack : ^777777150^000000
+Weight : ^777777150^000000
+Weapon Level : ^7777773^000000
+Required Level : ^777777120^000000
+Jobs : ^777777Ranger, Maestro, Wanderer^000000
 #
 18113#
 Stats during WoE & PVP.
@@ -73386,14 +73339,12 @@ Req LV: ^77777730^000000
 Jobs: ^777777All^000000
 #
 18603#
-A grotesque headgear which covers a half of a person's face. But don't you worry. The eyes are open so you can see well.
+A grotesque headgear which covers a half of a person's face.
 All Stats +1.
-Class: ^777777Headgear^000000
-Defense: ^7777770^000000
-Location: ^777777Medium ^000000
-Weight: ^77777710^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^77777710^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 18604#
 Mask in the shape of a king of the brave Falcon sky. The power of the wind is infused within.
@@ -75507,22 +75458,24 @@ Required Level: ^77777740^000000
 Jobs: ^777777All^000000
 #
 18852#
-A delicious strawberry, so delicious that you'd rather put in on your head than eat it?
+A hat with a strong strawberry scent.
 All State +1.
-If refined to +12 or higher, Aspd +2
-Class: ^777777Headgear^000000 Defense: ^7777774^000000
-Location: ^777777Upper ^000000Weight: ^77777715^000000
-Required Level: ^77777730^000000
-Job: ^777777All jobs^000000
+If refined to +12, increase ASPD by 2.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777774^000000
+Location : ^777777Upper^000000 Weight : ^77777715^000000
+Required Level : ^77777730^000000
+Jobs : ^777777All Jobs^000000
 #
 18853#
-A delicious strawberry, so delicious that you'd rather put in on your head than eat it?
+A hat with a strong strawberry scent.
 All State +1.
-If refined to +12 or higher, Aspd +2
-Class: ^777777Headgear^000000 Defense: ^7777774^000000
-Location: ^777777Upper ^000000Weight: ^77777715^000000
-Required Level: ^77777730^000000
-Job: ^777777All jobs^000000
+If refined to +12, increase ASPD by 2.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777774^000000
+Location : ^777777Upper^000000 Weight : ^77777715^000000
+Required Level : ^77777730^000000
+Jobs : ^777777All Jobs^000000
 #
 18854#
 I can feel the power of love making me much more stronger.
@@ -75866,14 +75819,12 @@ Required Level: ^77777710^000000
 Job: ^777777All Jobs^000000
 #
 18894#
-"Walk on a rainbow trail; walk on a trail of song, and all about you will be beauty. 
-There is a way out of every dark mist, over a rainbow trail. - Robert Motherwell"
-Reduces damage from Demi-humans by 5%
-^FF0000Concept by Clarissa Morgenstern of pRO New Chaos Server^000000
-Type: ^777777Headgear^000000 Defense: ^7777775^000000
-Location: ^777777Mid ^000000Weight: ^77777750^000000
-Required Level: ^77777770^000000
-Job: ^777777All Jobs^000000
+Walk on a rainbow trail; walk on a trail of song, and all about you will be beauty. There is a way out of every dark mist, over a rainbow trail. - Robert Motherwell
+Decrease damage taken from the players by 5%.
+Class : ^777777Headgear^000000 Defense : ^7777775^000000
+Location : ^777777Middle ^000000Weight : ^77777750^000000
+Required Level : ^77777770^000000
+Jobs : ^777777All Jobs^000000
 #
 18895#
 ^808080 Heavenly wing ears, imbued with special powers.^000000
@@ -76393,13 +76344,13 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 18968#
-A 'Marine' jinn who makes wishes come true hovers around.
-INT + 1, DEX + 1, MHP + 100.
-ATK + 5, MATK + 5.
-Class: ^777777Headgear^000000 Defense: ^7777775^000000
-Location: ^777777Lower ^000000Weight: ^7777775^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A 'Marine' jinn who makes wishes come true.
+INT +1, DEX +1, Max HP +100.
+ATK +5, MATK +5.
+Class : ^777777Headgear^000000 Defense : ^7777775^000000
+Location : ^777777Lower ^000000Weight : ^7777775^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 18986#
 A clever bird that immitates human voices.
@@ -79099,11 +79050,11 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 19649#
-A white kitten-like cute hair lace.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777All^000000
+A white kitten-like cute hair band.
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19650#
 ^808080A hairpin decorated with a shiny Cendrawasih feather.^000000
@@ -84534,16 +84485,13 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 20509#
-^808080The wings of Uriel. one of the 4 main archangels.^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted at Eden 2nd floor with NPC Costama Girl (Located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Location: ^777777Garment ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+One of the 4 main archangels, Uriel's wing.
+Uriel is also known as "Flame of God".
+Class : ^777777Costume^000000
+Location : ^777777Garment ^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20510#
 A wing shaped decoration, made with bent knives.
@@ -84605,17 +84553,13 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 20515#
-^808080A magic circle that appears while casting spells.^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted at Eden 2nd floor with NPC Costama Girl (Located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Garment^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A costume with mystical, magical circle.
+It gives off a vibe of being a great mage.
+Class : ^777777Costume^000000
+Location : ^777777Garment ^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20516#
 ^808080Wings of Michael that have the power of purity.^000000
@@ -85341,7 +85285,7 @@ The scalp of a Faceworm that was defeated in the Dimensional Crack. Faceworms we
 MDEF 10.
 This manteau resonates with all types of high-graded Temporal Boots.
 MHP + 15% and MSP + 5% when equipped with any type of Temporal Boots.
-Class: ^777777Hood^000000
+Class: ^777777Garment^000000
 Defense: ^77777738^000000
 Weight: ^77777740^000000
 Required Level: ^7777771^000000
@@ -85352,7 +85296,7 @@ The scalp of a Faceworm that was once called Jormungand's reincarnate.
 MDEF 10.
 This manteau resonates with all types of high-graded Temporal Boots.
 MHP + 15% and MSP + 5% when equipped with any type of Temporal Boots.
-Class: ^777777Hood^000000
+Class: ^777777Garment^000000
 Defense: ^77777738^000000
 Weight: ^77777740^000000
 Required Level: ^7777771^000000
@@ -88638,8 +88582,8 @@ When opening this scroll, you have a chance of receiving the below items:
 Weight: ^7777771^000000
 #
 23630#
-An enchanted tonic that's made from a dream flower.=],
-				[=[^ffffff_^000000
+An enchanted tonic that's made from a dream flower.
+^ffffff_^000000
 Weight : ^7777770^000000
 #
 23631#
@@ -88995,95 +88939,57 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 24029#
-Can be equipped alone but needs a set to have any effect.
-HIT + 10.
-When refined to +7, +10 HIT
-When equipped with ^32CD32Kingbird's Shadow Weapon^000000, increase ATK by the sum of the combined refine levels.
-When the combined sum of refine is over 15, increases additional long distance damage by 1%.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Armor ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+HIT +10.
+If refined to +7, HIT +10.
+Equip with ^32CD32Ancient Shadow Armor^000000 and ^32CD32Kingbird Shadow Weapon^000000, increase ATK by total refine level.
+If the total refine level is +15, increase ranged damage by 1%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Armor ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24030#
-Can be equipped alone but needs a set to have any effect.
-CRI +5.
-When refined to +7, +5 CRI
-When equipped with ^32CD32Critical Hit Shadow Weapon^000000, increases ATK by the sum of the combined refine levels.
-When the combined sum of refine is over 15, increases additional critical damage by 1%
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Armor ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+CRIT +5.
+If refined to +7, CRIT +5.
+Equip with ^32CD32Critical Shadow Armor^000000 and ^32CD32Critical Hit Shadow Weapon^000000, increase ATK by total refine level.
+If the total refine level is +15, increase CRIT damage by 1%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Armor ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24031#
+A glove that can draw the wearer's potential ability.
 ATK +10.
-When refined to +7, increases long distance damage by 1%.
-When equipped with ^32CD32Ancient Shadow Armor^000000, increase ATK by the sum of the combined refine levels.
-When the combined sum of refine is over 15, increases additional critical damage by 1%
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Weapon^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+If refined to +7, increase ranged damage by 1%.
+Equip with ^32CD32Kingbird Shadow Weapon^000000 and ^32CD32Ancient Shadow Armor^000000, increase ATK by total refine level.
+If the total refine level is +15, increase ranged damage by 1%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Weapon^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24032#
+A glove that can draw the wearer's potential ability.
 ATK +10.
-When refined to +7, increase critical damage by 1%.
-When equipped with ^32CD32Critical Shadow Armor^000000 increase ATK by the sum of the combined refine levels.
-When the combined sum of refine is over 15, increases additional critical damage by 1%
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Weapon^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+If refined to +7, increase CRIT damage by 1%.
+Equip with ^32CD32Critical Hit Shadow Weapon^000000 and ^32CD32Critical Shadow Armor^000000, increase ATK by total refine level.
+If the total refine level is +15, increase CRIT damage by 1%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Weapon^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24033#
-^808080Shadow weapon for testing only!^000000
-^ffffff_^000000
-^FF0000[Caution]^000000
-We suggest not to refine this shadow equipment
-because this item is rental equipment
-and these items will be deleted after the event ends
-We reserve the right not to provide any help in case of an accidental refine
-^ffffff_^000000
-^FF6633Temporary Effect^000000
-Atk +30, Matk +30
-Max HP + 1,000, Max SP + 100
-----------
-Reduce Varaible Cast Time by 10 %
-Reduce Fixed Cast Time [All skill] by 1 second
-----------
-Reduce Cooldown Skill
-^ffffff_^000000
-^0000FF[Throw Kunai]^000000 by 0.1 second
-^0000FF[Haze Slasher]^000000 by 0.3 second
-^0000FF[Meteor Storm]^000000 by 2 seconds
-^0000FF[Storm Gust]^000000 by 3 seconds
-^0000FF[Lord of Vermilion]^000000 by 2.5 seconds
-^0000FF[Heaven's Drive]^000000 by 0.5 second
-^0000FF[Magnus Exorcismus]^000000 by 3 seconds
-^0000FF[Grand Cross]^000000 by 0.5 second
-^0000FF[Arrow Vulcan]^000000 by 1 second
-^0000FF[Unbarring Octave]^000000 by 2 seconds
-^0000FF[Unchained Serenade]^000000 by 2.5 seconds
-^0000FF[Dazzler]^000000 by 2 seconds
-^0000FF[Hip Shaker]^000000 by 2.5 seconds
-^0000FF[Zen]^000000 by 0.5 second
-^ffffff_^000000
-^FF0000The effect will be removed on 8th April 2021 ^000000
-^FF0000The item will be removed on 8th April 2021 ^000000
-^FFFFFF_^000000
-^FF0000Item Effect disabled in WoE 1 & 2 Maps^000000
-^FFFFFF_^000000
-Class: ^777777Shadow Costume^000000
-Defense: ^7777770^000000
-Equip Slot: ^777777Weapon ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Usable By: ^777777All Character Types^000000
+A glove that can draw the wearer's potential ability.
+MATK +10.
+If refined to +7, increase healing effectiveness by 5%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Weapon^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24034#
 ^808080A costume that can increase the ability of your Luck.^000000
@@ -90034,12 +89940,12 @@ Jobs : ^777777All Jobs^000000
 #
 24189#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
-Increases additional physical and magical DMG inflicted on Earth property monsters by 1%.
-Increases additional physical and magical DMG inflicted on Earth property monsters by 1% per every 2 refine levels.
-Category: ^777777Shadow Equipment^000000
-Equip Slot: ^777777Armor^000000Weight : ^7777770^000000
-Required LV: ^7777771^000000
-Class: ^777777All classes^000000
+Increase physical and magic damage to Earth property monsters by 1%.
+For every 2 refine level, increase physical and magic damage to Earth property monsters by 1%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Armor ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24190#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
@@ -90052,12 +89958,12 @@ Jobs : ^777777All Jobs^000000
 #
 24191#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
-Increases additional physical and magical DMG inflicted on Wind property monsters by 1%.
-Increases additional physical and magical DMG inflicted on Wind property monsters by 1% per every 2 refine levels.
-Category: ^777777Shadow Equipment^000000
-Equip Slot: ^777777Armor^000000Weight : ^7777770^000000
-Required LV: ^7777771^000000
-Class: ^777777All classes^000000
+Increase physical and magic damage to Wind property monsters by 1%.
+For every 2 refine level, increase physical and magic damage to Wind property monsters by 1%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Armor ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24192#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
@@ -90137,15 +90043,15 @@ Jobs : ^777777All Jobs^000000
 #
 24201#
 A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
-Decreases DMG from Earth property physical and magical attacks by 1%.
-If refined to +7, additionally decreases DMG from Earth property physical and magical attacks by 1%.
-If refined to +9, additionally decreases DMG from Earth property physical and magical attacks by 1%.
-If the set consisting of Underneath Shadow Shield and Underneath Shadow Armor is worn together,
-additionally decreases DMG from Earth property physical and magical attacks by 2%.
-Category: ^777777Shadow Equipment^000000
-Equip Slot: ^777777Shield^000000 Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Class: ^777777All classes^000000
+Decrease physical and magic damage taken from Earth property monsters by 1%.
+If refined to +7, decrease physical and magic damage taken from Earth property monsters by 1%.
+If refined to +9, decrease physical and magic damage taken from Earth property monsters by 1%.
+Equip with Underneath Shadow Shield and Underneath Shadow Armor,
+decrease physical and magic damage taken from Earth property monsters by 2%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24202#
 A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect. 
@@ -90161,15 +90067,15 @@ Jobs : ^777777All Jobs^000000
 #
 24203#
 A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
-Decreases DMG from Wind property physical and magical attacks by 1%.
-If refined to +7, additionally decreases DMG from Wind property physical and magical attacks by 1%.
-If refined to +9, additionally decreases DMG from Wind property physical and magical attacks by 1%.
-If the set consisting of Windy Shadow Shield and Windy Shadow Armor is worn together,
-additionally decreases DMG from Wind property physical and magical attacks by 2%.
-Category: ^777777Shadow Equipment^000000
-Equip Slot: ^777777Shield^000000 Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Class: ^777777All classes^000000
+Decrease physical and magic damage taken from Wind property monsters by 1%.
+If refined to +7, decrease physical and magic damage taken from Wind property monsters by 1%.
+If refined to +9, decrease physical and magic damage taken from Wind property monsters by 1%.
+Equip with Windy Shadow Shield and Windy Shadow Armor,
+decrease physical and magic damage taken from Wind property monsters by 2%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24204#
 A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
@@ -92088,7 +91994,7 @@ Location : ^777777Accessory^000000
 Weight : ^7777771^000000
 #
 27166#
-Reduce damage taken from Fire property attacks and magical attacks by 2%.
+Reduce physical, magic damage taken from fire property enemies by 2%.
 If refined to +7, Reduce physical, magic damage taken from fire property enemies by an additional 1%.
 If refined to +9, Reduce physical, magic damage taken from fire property enemies by an additional 2%.
 ^ffffff_^000000
@@ -93141,6 +93047,43 @@ Weight: ^7777770^000000
 Required Level: ^777777160^000000
 Job: ^777777All jobs^000000
 #
+28505#
+A ring that empowers the essences of the Demon God.
+ATK +5%
+MATK +5%
+！！！！！！！！！！！！！
+Equip with Demon God Essence Force1, ATK +5%.
+Equip with Demon God Essence Force2, ATK +5%.
+Equip with Demon God Essence Force3, ATK +5%.
+！！！！！！！！！！！！！
+Equip with Demon God Essence Intelligence1, MATK +5%.
+Equip with Demon God Essence Intelligence2, MATK +5%.
+Equip with Demon God Essence Intelligence3, MATK +5%.
+！！！！！！！！！！！！！
+Equip with Demon God Essence Speed1,
+Increase ASPD (Decrease delay after attack by 5%)
+Equip with Demon God Essence Speed2,
+Increase ASPD (Decrease delay after attack by 5%)
+Equip with Demon God Essence Speed3,
+Increase ASPD (Decrease delay after attack by 5%)
+！！！！！！！！！！！！！
+Equip with Demon God Essence Concentration1, decrease variable cast time by 5%
+Equip with Demon God Essence Concentration2, decrease variable cast time by 5%
+Equip with Demon God Essence Concentration3, decrease variable cast time by 5%
+！！！！！！！！！！！！！
+Equip with Demon God Essence Vitality1, Max HP +5%.
+Equip with Demon God Essence Vitality2, Max HP +5%.
+Equip with Demon God Essence Vitality3, Max HP +5%.
+！！！！！！！！！！！！！
+Equip with Demon God Essence Luck1, CRIT damage +5%.
+Equip with Demon God Essence Luck2, CRIT damage +5%.
+Equip with Demon God Essence Luck3, CRIT damage +5%.
+ 
+Class : ^777777Accessory^000000 Defense : ^7777770^000000
+Weight : ^77777750^000000
+Required Level : ^777777100^000000
+Jobs : ^777777All Jobs^000000
+#
 28507#
 The glove Kathryne used to wear when practicing magic.
 --------------------
@@ -93454,6 +93397,19 @@ Class: ^777777Shield^000000 Defense : ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Usable By: ^777777All jobs^000000
+#
+28909#
+Increase resistance against Earth property attack by 25%.
+If refined to +5, ASPD +1.
+If refined to +7, ASPD +1.
+ 
+Equip with [Shining Trapezohedron],
+increase Max SP by 10% and decrease SP consumption by 10%. 
+ 
+Class : ^777777Shield^000000  Defense : ^77777780^000000
+Weight : ^77777750^000000
+Required Level : ^77777790^000000
+Jobs : ^777777All Jobs^000000
 #
 28923#
 Guard that has already been upgraded
@@ -95125,9 +95081,7 @@ Job: ^777777All^000000
 #
 31261#
 A cool and refreshing soft drink. Goes great with popcorn. 
-During the event period, ATK, MATK+ 30, ASPD+ 1
-Equip Disposable 3D Glasses and Popcorn Hat together to get Infinite Speed Boost and Item Drop Rate + 15%
-^ff0000(This item will be removed once event ends.) ^000000
+ 
 Type: ^777777Costume^000000 Defense: ^7777770^000000
 Slot: ^777777Bottom ^000000Weight: ^7777770^000000
 Equip Level: ^7777771^000000
@@ -95163,134 +95117,76 @@ Equip Level: ^7777771^000000
 Equipped By: ^777777All Classes^000000
 #
 31273#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+Sometimes cowlick can be turned into a stylish hair style.
+
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31274#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+Sometimes cowlick can be turned into a stylish hair style.
+
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31275#
-^808080Hair style of Araragi which he always does.^000000
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+Sometimes cowlick can be turned into a stylish hair style.
+
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31276#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+Sometimes cowlick can be turned into a stylish hair style.
+
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31277#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+Sometimes cowlick can be turned into a stylish hair style.
+
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31278#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item is able to use
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+Sometimes cowlick can be turned into a stylish hair style.
+
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31279#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+Sometimes cowlick can be turned into a stylish hair style.
+
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31280#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+Sometimes cowlick can be turned into a stylish hair style.
+
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31281#
 ^808080A hairstyle that was inspired by Irene.^000000
@@ -95946,17 +95842,11 @@ Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
 #
 31448#
-^808080A small pink ribbon that can be worn on the hair and that makes the wearer a little cuter than before.^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+A luxurious ribbon made with soft silk. Unlike other ordinary ribbons it gives a comfortable fit to the wearer.
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31453#
 ^808080 A cute ribbon that can protect you from the cold
@@ -96259,21 +96149,12 @@ Requires Level: 1
 Usable by: All Jobs 
 #
 31532#
-^808080The accessory of the famous Empress that has been passed down in her family for quite a long time. ^000000
-^ffffff_^000000
-obtained from winning ^CC66FFWar of Nightfall : Eclipse ^000000
-^ffffff_^000000
-^FF6633Temporary Effect^000000
-Max HP + 500, Max SP + 50
-Reduce damage from [Demi-Human] by 2%
-^FF0000The effect will be removed on May 6, 2021 ^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Usable By: ^777777All jobs^000000
+A costume that looks like a headgear, Neev Barrette. 
+It does not have any special stats but for some reason, wearers can feel the power of Neev Barrette. 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31535#
 ^808080Arale's favorite toy. You understand correctly, it's just a toy^000000
@@ -99515,6 +99396,14 @@ Weight : ^7777771^000000
 101650#
 A chest that contains special event rewards.
 Weight : ^7777770^000000
+#
+101652#
+An egg that contains the essence of a demon god.
+Weight : ^7777771^000000
+#
+101667#
+A box contains some leveling essentials.
+Weight : ^7777771^000000
 #
 200000#
 Gains 1 fly wing when consumed.

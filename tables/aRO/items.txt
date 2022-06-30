@@ -1815,7 +1815,7 @@
 2976#Red Lantern#
 2977#Hurt Mind#
 2978#Kind Heart#
-2979#딸기 장식#
+2979#Strawberry Decoration#
 2980#Evilspirit Gloves#
 2981#Hero Ring#
 2985#Gyges Ring#
@@ -3714,9 +3714,9 @@
 6457#Safe to 5 Armor Certificate#
 6464#Death Inner#
 6468#Sexy Perfume#
-6469#Pure Energy#
-6470#Last Blood#
-6471#Empty Soul#
+6469#Will Of Warrior#
+6470#Blood Thirst#
+6471#Goast Chill#
 6473#Soul of Toucan#
 6474#Soul of Curupira#
 6475#Soul of Jarguar#
@@ -4796,6 +4796,8 @@
 9876#Silver Cube 2020#
 9882#Hana Scroll#
 9889#Sexy Pur Potion Box#
+9894#[Egg] LV5 Adrenaline Scroll#
+9895#[Egg] Abrasive#
 9896#[Kachua] Power Booster#
 9899#Sana Scroll#
 9900#Oda Scroll#
@@ -6297,10 +6299,13 @@
 14867#[Egg]Shadow Armor Scroll#
 14869#[Egg]Red booster#
 14874#[Egg]Glass of Illusion#
+14875#[Egg]Medium Life Potion#
 14883#Music Scroll#
 14884#Weather Scroll#
+14886#[Egg] Ultimate Cook#
 14887#[Not For Sale] Ultimate Cook#
 14888#Hair Buns Box#
+14889#Cowlick Box#
 14890#Side Pigtail Box#
 14892#Long Pony Tail Box#
 14906#Meow Can#
@@ -7162,8 +7167,8 @@
 18849#Celine's Ribbon#
 18850#Polar Bear Cap#
 18851#Valentine Heart#
-18852#맛있는 딸기모#
-18853#맛있는 딸기모#
+18852#Tasty Strawberry Hat#
+18853#Tasty Strawberry Hat#
 18854#Valentine Yellow Heart#
 18855#Aviator Hat#
 18856#W King Tiger Doll Hat#
@@ -7234,7 +7239,7 @@
 18964#성자의 왕관#
 18965#쉐이빙 폼#
 18967#정령 핑크 포링 풍선#
-18968#정령 파랑 포링 풍선#
+18968#Jinn Marin Balloon#
 18986#기쁜 앵무새#
 18987#RWC13요르문간드#
 18992#마네키모치바나#
@@ -7460,7 +7465,7 @@
 19643#Costume Wickebine Ears#
 19646#의상 라면모자#
 19647#Costume Rose Deviruchi Hatl#
-19649#White Kitten Ears#
+19649#Costume White Kitten Ears#
 19650#Costume Randga's Hairpin#
 19651#의상 RWC외치는 입#
 19652#Rabbit Magic Hat#
@@ -8021,7 +8026,7 @@
 20512#Costume Poring Backpack#
 20513#Costume EXE Backpack#
 20514#Costume Sword of Thanatos#
-20515#Costume Abracadabra#
+20515#Costume Magic Circle#
 20516#Costume Wings Of Michael#
 20517#Costume Giant Maneki Doll#
 20518#Costume Gerhard Von Devi Bag#
@@ -8421,11 +8426,11 @@
 24026#Athena Shadow Shield#
 24027#Immune Shadow Armor#
 24028#Hard Shadow Armor#
-24029#Ancient Armor Shadow#
-24030#Critical Armor Shadow#
-24031#Kingbird Weapon Shadow#
-24032#CriHit Weapon Shadow#
-24033#Tester Shadow Weapon#
+24029#Ancient Shadow Armor#
+24030#Critical Shadow Armor#
+24031#Kingbird Shadow Weapon#
+24032#Critical Hit Shadow Weapon#
+24033#Healing Shadow Weapon#
 24034#Lucky Shadow Weapon#
 24035#Power Shadow Earring#
 24036#Intelligent Shadow Pendant#
@@ -8483,9 +8488,9 @@
 24186#Basis Shadow Armor#
 24187#Hallowed Shadow Armor#
 24188#Saharic Shadow Armor#
-24189#Underneath Armor Shadow#
+24189#Underneath Shadow Armor#
 24190#Flame Shadow Armor#
-24191#Windy Armor Shadow#
+24191#Windy Shadow Armor#
 24192#Envenom Shadow Armor#
 24193#Damned Shadow Armor#
 24194#Geist Shadow Armor#
@@ -8493,9 +8498,9 @@
 24198#Basis Shadow Shield#
 24199#Hallowed Shadow Shield#
 24200#Saharic Shadow Shield#
-24201#Underneath Shield Shadow#
+24201#Underneath Shadow Shield#
 24202#Flame Shadow Shield#
-24203#Windy Shield Shadow#
+24203#Windy Shadow Shield#
 24204#Envenom Shadow Shield#
 24205#Damned Shadow Shield#
 24206#Geist Shadow Shield#
@@ -8786,6 +8791,7 @@
 28480#Awakened Eden Group Necklace of Recovery Ⅳ#
 28481#Awakened Eden Group Ring of Recovery Ⅴ#
 28482#Awakened Eden Group Necklace of Recovery Ⅴ#
+28505#Demon God's Ring#
 28507#Kathryne's Gloves (OSM)#
 28512#Golden Clip#
 28514#Flower Ring of Bliss#
@@ -8797,6 +8803,7 @@
 28783#Pargasite Dagger#
 28901#저주받은 매드바니#
 28902#매드바니#
+28909#Formless Shield of Earth#
 28923#Upg Guard#
 28924#Upg Buckler#
 28925#Upg Shield#
@@ -8946,14 +8953,14 @@
 31261#Costume Soda In Mouth#
 31262#Costume Disposable 3D Glasses#
 31263#Costume Disposable Popcorn Hat#
-31273#Costume Araragi Hairstyle (Navy)#
-31274#Costume Araragi Hairstyle (Rose)#
-31275#Costume Araragi Hairstyle (Cream)#
-31276#Costume Araragi Hairstyle (Lime)#
-31277#Costume Araragi Hairstyle (Cacao)#
-31278#Costume Araragi Hairstyle (Pearl)#
-31279#Costume Araragi Hairstyle (Milk Tea)#
-31280#Costume Araragi Hairstyle (Taro)#
+31273#Costume Cowlick(Blue)#
+31274#Costume Cowlick(Red)#
+31275#Costume Cowlick(Yellow)#
+31276#Costume Cowlick(Green)#
+31277#Costume Cowlick(Black)#
+31278#Costume Cowlick(White)#
+31279#Costume Cowlick(Orage)#
+31280#Costume Cowlick(Purple)#
 31281#Costume Irene Hairstyle (Navy)#
 31282#Costume Irene Hairstyle (Rose)#
 31283#Costume Irene Hairstyle (Cream)#
@@ -9009,7 +9016,7 @@
 31440#Costume Snow Bear Hood#
 31445#Costume Muzik Hat#
 31447#Costume Sexy Artist#
-31448#Costume Sting Slik Ribbon#
+31448#Costume Sting Silk Ribbon#
 31453#Costume Giant Black Ribbon#
 31455#Costume Pom Pom#
 31459#Costume Sweets Bonbon#
@@ -9035,7 +9042,7 @@
 31515#Costume Bengal Cat#
 31522#Costume Orange Flavour#
 31531#Costume Lovely Heart Cap#
-31532#Costume Empress Decoration#
+31532#Costume Neev Barrette#
 31535#Costume Toy of Arale#
 31538#Costume Love Feeling#
 31540#Costume Scarlet Witch Eyes#
@@ -9278,6 +9285,8 @@
 101633#New User Box(90)#
 101636#Moonlight Flower Egg#
 101650#Poring Treasure Chest#
+101652#Demonic Egg#
+101667#GGH Level-up Box#
 200000#IDTest Cash#
 200190#Box of 1 Nyangvine#
 200210#Almighty package#
