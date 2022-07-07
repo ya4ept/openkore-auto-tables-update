@@ -4798,7 +4798,7 @@
 9889#Sexy Pur Potion Box#
 9894#[Egg] LV5 Adrenaline Scroll#
 9895#[Egg] Abrasive#
-9896#[Kachua] Power Booster#
+9896#[Egg] Power Booster#
 9899#Sana Scroll#
 9900#Oda Scroll#
 9901#Tenkai Scroll#
@@ -4951,7 +4951,7 @@
 11580#Candy#
 11581#A piece of Cake#
 11583#Chocolate Drink#
-11589#시원한 팥빙수#
+11589#Iceflake#
 11592#Bloody Candy#
 11593#Bathory Candy#
 11594#Jack Candy#
@@ -5393,7 +5393,7 @@
 12591#Universal Catalog Bronze#
 12595#Fortune Egg VII#
 12596#Magic Candy#
-12601#시원한 수박쥬스#
+12601#Watermelon Juice#
 12608#Splendid Box 2#
 12609#낡은 광석 상자#
 12610#의문의 알#
@@ -6398,6 +6398,7 @@
 15120#pRO 10주년 기념 신발#
 15121#Sarah's Battle Robe#
 15138#에기르 아머#
+15174#Surfer Swimsuit#
 15181#Awakened Eden Group UniformⅠ#
 15182#Awakened Eden Group UniformⅡ#
 15183#Awakened Eden Group Uniform Ⅲ#
@@ -6410,6 +6411,7 @@
 15200#UPG Saint Robe#
 15201#UPG Thief Cloth#
 15202#UPG Tights#
+15210#[Rental] Surfer Swimsuit#
 15350#Elephangel TH#
 15434#Meta Angel Figure (OSM)#
 15435#Golden Ribbon Ears (OSM)#
@@ -7306,6 +7308,7 @@
 19147#Drops Balloon#
 19148#Santa Poring Balloon#
 19158#Costume Azure Witch Eyes#
+19162#Scuba Mask #
 19164#Awakened Eden Group HatⅠ#
 19165#Awakened Eden Group HatⅡ#
 19168#Kafra Staff Hairband#
@@ -7324,6 +7327,7 @@
 19241#Magical Booster#
 19243#Blue Rear Ribbon#
 19245#Crimson Booster#
+19275#[Rental] Scuba Mask#
 19277#Soda In Mouth#
 19290#Costume Devil's Horn#
 19291#Costume Shiba Inu#
@@ -7579,7 +7583,7 @@
 19800#의상 카네이션 머리띠#
 19801#여우모자#
 19802#의상 늘어진 구미호#
-19803#의상 바람개비 모자#
+19803#Costume Pinwheel Cap#
 19804#Costume Red Vane Hairpin#
 19805#의상 금주의두루마리#
 19806#의상 앵화난만의 비녀#
@@ -7924,19 +7928,11 @@
 20338#의상 무지개 낙지 모자#
 20339#의상 플라워 섬머 햇#
 20340#의상 스트레이트 포니 검정색#
-20341#Costume Araragi Hairstyle (Cacao)#
 20342#Costume Irene Hairstyle (Cacao)#
 20343#Costume Melon Flavour#
 20344#Costume Poring Balloon#
 20348#Costume Sunday Hat#
 20349#Costume FlyingGalapago#
-20350#Costume Araragi Hairstyle (Cream)#
-20351#Costume Araragi Hairstyle (Lime)#
-20352#Costume Araragi Hairstyle (Taro)#
-20353#Costume Araragi Hairstyle (Rose)#
-20354#Costume Araragi Hairstyle (Milk Tea)#
-20355#Costume Araragi Hairstyle (Navy)#
-20356#Costume Araragi Hairstyle (Pearl)#
 20357#의상 스트레이트포니 노랑#
 20358#의상 스트레이트포니 녹색#
 20359#의상 스트레이트포니 보라#
@@ -8122,6 +8118,7 @@
 20808#Sight Amistr Bag#
 20809#Improve Concentration Amistr Bag#
 20811#Hiding Amistr Bag#
+20819#Oxygen Tank#
 20823#Awakened Eden Group ManteauⅠ#
 20824#Awakened Eden Group ManteauⅡ#
 20825#Awakened Eden Group Manteau Ⅲ#
@@ -8130,6 +8127,7 @@
 20848#Upg Hood#
 20849#Upg Muffler#
 20850#Upg Manteau#
+20855#[Rental] Oxygen Tank#
 20919#Poring Backpack#
 20940#Violet Halo#
 20950#Costume 175LV Sura Orange#
@@ -8222,6 +8220,7 @@
 22544#Potion Awakening#
 22549#[Not For Sale] Poison Bottle#
 22550#Cookie Bag#
+22551#[Not for sale] Teacake#
 22564#3월 럭키박스#
 22565#2월 재고정리박스#
 22566#Frost Crystal#
@@ -8271,6 +8270,7 @@
 22776#잉어꼬치구이#
 22819#Ja Mongkut#
 22820#Sexy ASPD Potion#
+22822#Summer Vacation Costume#
 22826#Enchanted Stone Box Vol.4#
 22838#Something Candy Holder#
 22868#Enchanted Stone Box Vol.5#
@@ -8359,8 +8359,11 @@
 23357#Buy Arbeit3 1Lv#
 23358#Buy Arbeit3 2Lv#
 23359#Buy Arbeit3 3Lv#
+23362#Pig Potato#
+23363#Watermelon Pudding#
 23364#Criatura Pope Cookie#
 23365#Criatura Souvenir Box#
+23367#Tomato Noodles#
 23368#Store Search1#
 23374#Fire Armor Scroll#
 23375#Cold Armor Scroll#
@@ -8648,7 +8651,10 @@
 25340#Golden Corn#
 25341#Red Hot Marble#
 25342#Healthful Herb#
-25401#Black Fur#
+25344#Flat Round Stone#
+25365#Thin Noodle#
+25366#Noodle Festa Coin#
+25367#Promotional Fan#
 25408#Memories of Gyoll#
 25421#Pumpkin Decoration#
 25422#Dry White Stem#
@@ -8959,7 +8965,7 @@
 31276#Costume Cowlick(Green)#
 31277#Costume Cowlick(Black)#
 31278#Costume Cowlick(White)#
-31279#Costume Cowlick(Orage)#
+31279#Costume Cowlick(Orange)#
 31280#Costume Cowlick(Purple)#
 31281#Costume Irene Hairstyle (Navy)#
 31282#Costume Irene Hairstyle (Rose)#
@@ -8979,12 +8985,16 @@
 31300#Costume Warm Cat Muffer#
 31301#Costume Blinking Eyes#
 31302#Costume Black Magenta Ribbon#
+31303#Costume Memory of the Noodle#
+31304#Costume Fan of Summer#
 31305#Costume Walking Poring#
 31308#Costume Archangel Feather#
 31314#Costume Horns of Forest#
 31315#Costume Stall Of Angel#
 31316#Costume Butterfly Effect (Glam)#
 31318#Costume Gerhard Von Devi#
+31319#[Rental] Costume Fan of Summer#
+31320#[Rental] Costume Pinwheel Cap#
 31324#Costume DJ Kitty#
 31326#Costume Rolf Von Gigue 666th#
 31332#Costume Saleana Knight Helm#
@@ -9026,7 +9036,7 @@
 31464#Costume Sayso Hairstyle#
 31473#Costume Drunken Love#
 31483#Costume Love Whisper#
-31488#Costume It's MVP#
+31488#Costume MVP#
 31489#Costume Bouquet Hat#
 31490#Costume Poring's Muffler#
 31491#Costume Orange Flavor Cat#
@@ -9287,6 +9297,7 @@
 101650#Poring Treasure Chest#
 101652#Demonic Egg#
 101667#GGH Level-up Box#
+101671#GGH Recharge Box#
 200000#IDTest Cash#
 200190#Box of 1 Nyangvine#
 200210#Almighty package#

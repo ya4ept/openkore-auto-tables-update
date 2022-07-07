@@ -294,12 +294,7 @@ Restores ^00800019^000000 to ^00800019^000000 HP.
 536#
 ^808080Deliciously frosty ice cream that can cause brain freeze if you eat too much too quickly.^000000
 ^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
 Weight: 8
-^FFFFFF_^000000
-Adds a 25% chance of inflicting ^800000Frozen^000000 to the user when using this item.
-Restores ^008000105^000000 to ^008000145^000000 HP.
 #
 537#
 ^808080Sterilized food that has been fortified with vitamins and minerals. Some Cute Pets will feed on this.^000000
@@ -637,13 +632,11 @@ Weight: 2
 Restores ^00800016^000000 to ^00800028^000000 SP.
 #
 579#
-^808080A fresh fish that can be cooked in a variety of ways.^000000
+A fresh fish that can be cooked in a variety of ways.
 ^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
+Restores small portion of HP
+^FFFFFF_^000000
 Weight: 2
-^FFFFFF_^000000
-Restores ^008000100^000000 to ^008000150^000000 HP.
 #
 580#
 ^808080Freshly leavened bread that gives off a wholesome scent.^000000
@@ -22237,34 +22230,34 @@ Increases the damage of ^0000FFArm Cannon^000000 by 50%.
 Luk +2
 Perfect Dodge +1
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4002#
 Vit +1
 Max HP +100
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4003#
 Max HP +700 
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4004#
 DEX +1
 Hit +3
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4005#
 Increases damage
 of attacks inflicted on Shadow property by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4006#
@@ -22272,72 +22265,72 @@ Luk +1
 Critical Rate +1
 Perfect Dodge +1
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4007#
 Increases damage
 of attacks inflicted on Formless monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4008#
 STR +1
 ATK +10
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4009#
 AGI +1
 Flee +2
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4010#
 Max SP +80
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4011#
 Vit +1
 Max HP +100
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4012#
 Max HP +400
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4013#
 Max HP +5%
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4014#
 Max HP +400
 Max SP +50
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4015#
 Flee +10
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4016#
 AGI +1
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4017#
@@ -22346,21 +22339,21 @@ of inflicting the ^880000Stun^000000
 status on an enemy
 with each attack.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4018#
 Int +1
 Max SP +10
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4019#
 STR +1
 ATK +3
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4020#
@@ -22369,26 +22362,26 @@ of inflicting the ^880000Blind^000000 status on an enemy
 with each attack.
 ATK +5
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4021#
 DEX +1
 ATK +5
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4022#
 Vit +2
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4023#
 Int +1
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4024#
@@ -22397,7 +22390,7 @@ of inflicting ^880000Sleep^000000 status on an enemy.
 with each attack.
 ATK +5
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4025#
@@ -22407,65 +22400,65 @@ status on an enemy
 with each attack.
 ATK +10
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4026#
 AGI +1
 Flee +1
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4027#
 Agi +2
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4028#
 STR +2
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4029#
 ATK +15
 Critical Rate +1
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4030#
 Increases damage
 inflicted upon Wind property monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4031#
 Max HP +10 %
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4032#
 DEF +2
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4033#
 Enables the use of
 Level 1 Detoxify.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4034#
 DEX +2
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4035#
@@ -22473,7 +22466,7 @@ Increases damage
 on Demihuman
 monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4036#
@@ -22499,7 +22492,7 @@ Stem when defeating
 monsters.
 ^ffffff_^000000
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4037#
@@ -22508,13 +22501,13 @@ of inflicting the ^880000Poison^000000 status on an enemy
 with each attack.
 ATK +5
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4038#
 HP Recovery +20%
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4039#
@@ -22541,21 +22534,21 @@ ability of the
 Wanderer Card.
 ^ffffff_^000000
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4040#
 Enables the use of
 Level 1 Teleport.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4041#
 Increases resistance
 to ^880000Sleep^000000 status by 20%. DEF +1
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4042#
@@ -22564,20 +22557,20 @@ to Wind property
 attacks by 10%.
 DEF +2
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4043#
 ATK +20
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4044#
 Enables the use of
 Level 1 Hiding.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4045#
@@ -22585,54 +22578,54 @@ Reduces damage
 from long-range
 attacks by 35%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4046#
 Increases resistance
 to Blind status by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4047#
 Enchant an Armor
 with the Ghost property. Reduce HP Recovery by 25%.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4048#
 Enables the use of
 Level 3 Envenom.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4049#
 Increases damage
 inflicted upon Fire property monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4050#
 Agi +2
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4051#
 AGI +1
 Perfect Dodge +5 
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4052#
 Int +2
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4053#
@@ -22642,14 +22635,14 @@ Increases SP
 consumption of
 all skills by 25%.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4054#
 Blesses a piece of Armor with
 the Holy property.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4055#
@@ -22658,14 +22651,14 @@ of inflicting the ^880000Frozen^000000 status on an enemy
 with each attack.
 ATK +5
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4056#
 Increases resistance to
 the Wind property by 30%. Flee +5
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4057#
@@ -22674,7 +22667,7 @@ of inflicting the ^880000Mute^000000 status on an enemy
 with each attack.
 ATK +5
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4058#
@@ -22682,21 +22675,21 @@ Reduces damage
 from Demihuman
 monsters by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4059#
 Reduces damage from
 Plant monsters by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4060#
 Increases damage on
 Brute monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4061#
@@ -22707,7 +22700,7 @@ still be destroyed
 during upgrade
 attempts. DEF +1
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4062#
@@ -22715,20 +22708,20 @@ Increases damage
 on Poison property
 monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4063#
 Increases damage on
 Insect monsters by 20%. 
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4064#
 DEX +3
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4065#
@@ -22736,14 +22729,14 @@ Increases damage
 on Earth property
 monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4066#
 Reduces damage from
 Brute monsters by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4067#
@@ -22751,14 +22744,14 @@ Increases resistance
 to the ^880000Frozen^000000 status
 by 20%. DEF +1
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4068#
 Increases damage on
 Plant monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4069#
@@ -22766,13 +22759,13 @@ Increases damage
 on ^6996ADWater^000000 property
 monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4070#
 SP Recovery +15%
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4071#
@@ -22781,7 +22774,7 @@ to Undead property
 attacks by 30%.
 Flee +5
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4072#
@@ -22792,20 +22785,20 @@ still be destroyed
 during upgrade
 attempts. ATK +5
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4073#
 Enables the use of
 Level 5 Discount.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4074#
 Reduces damage from
 Insect monsters by 30%. Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4075#
@@ -22813,7 +22806,7 @@ Increases resistance
 against ^880000Stone Curse^000000
 status by 20%. DEF +1
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4076#
@@ -22822,7 +22815,7 @@ of inflicting the ^880000Curse^000000 status on an enemy
 with each attack.
 ATK +5
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4077#
@@ -22830,26 +22823,26 @@ Enables skill casting
 that cannot be interrupted by damage from enemies
 at the cost of increasing Variable Casting Time by 25%.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4078#
 Vit +3
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4079#
 STR +3
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4080#
 Increases damage on
 Fish monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4081#
@@ -22858,7 +22851,7 @@ to Earth property
 attacks by 30%.
 Flee +5
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4082#
@@ -22867,14 +22860,14 @@ inflicted on small
 monsters by
 15%. ATK +5
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4083#
 Reduces damage from
 Fish monsters by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4084#
@@ -22882,7 +22875,7 @@ Enables use
 of Level 3
 Magnum Break.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4085#
@@ -22890,13 +22883,13 @@ Increases damage
 on Holy property
 monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4086#
 Critical Rate +9%
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4087#
@@ -22906,20 +22899,20 @@ Increases resistance
 to Earth property
 attacks by 15%.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4088#
 Enables the use of
 Level 1 Cloaking.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4089#
 Enchant a piece of Armor with
 the ^6996ADWater^000000 property. DEF +1 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4090#
@@ -22935,14 +22928,14 @@ attacks by 5%. DEF +1
 All stats +1
 ^ffffff_^000000
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4091#
 Critical rate +4%
 STR +1
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4092#
@@ -22951,21 +22944,21 @@ inflicted on medium-
 size monsters by 15%.
 ATK +5
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4093#
 Enables the use of
 Level 1 Cure.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4094#
 Increases damage with
 ranged attacks by 10%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4095#
@@ -22973,7 +22966,7 @@ Increases resistance
 against ^6996ADWater^000000 property
 by 30%. Flee +5
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4096#
@@ -22982,42 +22975,42 @@ of inflicting the ^880000Poison^000000 status on an enemy
 with each attack.
 ATK +10
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4097#
 Max HP +10% 
 AGI +1
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4098#
 Enchant an Armor
 with the Wind property. DEF +1
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4099#
 Enchant an Armor
 with the Fire property. DEF +1
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4100#
 Max SP +15%
 SP Recovery +3%
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4101#
 Enchant a piece of Armor
 with the Earth property. DEF +1
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4102#
@@ -23026,14 +23019,14 @@ Increases damage
 from Ghost property
 attacks by 50%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4103#
 Enables the use of
 Level 1 Sight.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4104#
@@ -23041,7 +23034,7 @@ Enables a 5% chance
 of inflicting the ^880000Chaos^000000 status on an enemy
 with each attack.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4105#
@@ -23050,19 +23043,19 @@ the ^880000Frozen^000000 status and
 increase resistance to the
 ^6996ADWater^000000 property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4106#
 Hit +20
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4107#
 Max HP/SP +8%
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4108#
@@ -23070,7 +23063,7 @@ Increases resistance
 to the Poison property
 by 30%. Flee +5
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4109#
@@ -23078,28 +23071,28 @@ Increases resistance
 to the Fire property
 by 30%. Flee +5
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4110#
 Increases resistance to
 Poison status by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4111#
 Increases damage on
 Demon monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4112#
 Gain immunity to
 the ^880000Silence^000000 status.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4113#
@@ -23107,7 +23100,7 @@ Increases resistance
 to the Ghost property by
 30%. Flee +5
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4114#
@@ -23115,7 +23108,7 @@ Enchant a piece of Armor
 with the Poison
 property. DEF +1
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4115#
@@ -23125,7 +23118,7 @@ damage inflicted on
 an enemy as HP with
 each attack.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4116#
@@ -23133,7 +23126,7 @@ Increases resistance
 to the Shadow property
 by 30%. Flee +5
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4117#
@@ -23142,34 +23135,34 @@ Attack on a compounded
 weapon. If character has learned the Double Attack,
 that skill level affects this card's effect.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4118#
 Increases damage on
 Dragon monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4119#
 Enchant a piece of Armor with
 the Shadow property.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4120#
 Reduces damage from
 Dragon monsters by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4121#
 Hit +100
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4122#
@@ -23177,7 +23170,7 @@ Gain immunity to
 the ^880000Blind^000000 status.
 STR +1
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4123#
@@ -23188,7 +23181,7 @@ which this card is
 compounded is 
 equipped. Max HP -25%
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4124#
@@ -23197,7 +23190,7 @@ Gain immunity to the
 Reduces damage from
 Demon monsters by 15%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4125#
@@ -23206,7 +23199,7 @@ Demihuman, Brute,
 Plant, and Insect
 monsters by 7%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4126#
@@ -23215,14 +23208,14 @@ inflicted on Large
 monsters by
 15%. ATK +5
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4127#
 Gain immunity from
 ^880000Sleep^000000 status. Agi +1
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4128#
@@ -23230,21 +23223,21 @@ Nullifies magic and supportive spells that target the user.
 Increases the SP cost of skills by 100%.
  
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4129#
 AGI +3
 Critical Rate +1%
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4130#
 Increases damage on
 Undead monsters by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4131#
@@ -23254,7 +23247,7 @@ long as the Footgear
 to which this card is
 compounded is equipped.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4132#
@@ -23263,7 +23256,7 @@ requirement of certain
 spells at the cost of
 increasing SP Consumption by 25% when using skills.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4133#
@@ -23271,7 +23264,7 @@ Increases resistance
 to neutral property
 attacks by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4134#
@@ -23281,7 +23274,7 @@ damage inflicted upon
 an enemy as SP with
 each attack.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4135#
@@ -23290,14 +23283,14 @@ physical damage
 back to the enemy
 who inflicted it.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4136#
 Reduces damage from
 Demon monsters by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4137#
@@ -23306,28 +23299,28 @@ in damage inflicted
 on monsters resulting
 from a monster's size.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4138#
 Reduces damage from
 Angel monsters by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4139#
 Enables the use of
 Level 1 Steal.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4140#
 Increases damage on
 Boss monsters by 25%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4141#
@@ -23335,7 +23328,7 @@ Enchant a piece of Armor with
 the Undead property.
 INT +1, DEF +1
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4142#
@@ -23345,7 +23338,7 @@ weapon to which this
 card is compounded
 is equipped.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4143#
@@ -23353,7 +23346,7 @@ Gain immunity to
 the ^880000Stun^000000 status.
 Vit +3
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4144#
@@ -23361,14 +23354,14 @@ Enables full HP/SP
 restoration when
 resurrected.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4145#
 Reduces Variable Cast Time
 for skills by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4146#
@@ -23377,7 +23370,7 @@ reflecting or redirecting Magic spells, aside from
 skills that target the ground, cast on the
 character.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4147#
@@ -23386,7 +23379,7 @@ with damage that will
 splash 9 cells around
 the character with each attack except for skills. Accuracy -10
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4148#
@@ -23394,21 +23387,21 @@ Reduces SP
 Consumption
 of skills by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4149#
 Gargoyle Card.
 Adds the chance of gaining a Lightning item each time an Insect monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4150#
 Goat Card.
 Add DEF +2, MDEF +5 if the armor is upgraded no higher than +5.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4151#
@@ -23416,7 +23409,7 @@ Gajomart Card.
 Receive 10% more Experience Points from Plant monsters.
 Receive 20% more damage from Plant monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4152#
@@ -23424,7 +23417,7 @@ Galapago Card.
 Add the chance of gaining Apple/Banana/Carrot Juice each time an Insect monster is killed.
 Juice item restores 50% more HP.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4153#
@@ -23440,7 +23433,7 @@ Property monsters
 Raw Fish each time 
 a Fish Monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4154#
@@ -23448,14 +23441,14 @@ Dumpling Kid Card.
 Adds the chance of gaining a Candy/Candy Cane item each time a Demihuman monster is killed.
 Candy and Candy Cane restore 50% more HP.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4155#
 Goblin Leader Card.
 Inflicts 30% more damage on Goblins.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4156#
@@ -23463,7 +23456,7 @@ Goblin Steamrider Card.
 Inflicts 10% more damage with Critical Attack.
 Critical +7 on formless monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4157#
@@ -23471,7 +23464,7 @@ Goblin Archer Card.
 Inflicts 10% more damage with Critical Attack.
 Critical +7 on Undead monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4158#
@@ -23479,7 +23472,7 @@ Sky Deleter Card.
 Disables natural HP Recovery.
 Gain 100 HP each time a monster is killed by Physical Melee Attack.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4159#
@@ -23487,7 +23480,7 @@ Nine Tail Card.
 AGI +2.
 Add Flee +20 if the garment is upgraded to +9 or higher.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4160#
@@ -23495,7 +23488,7 @@ Firelock Soldier Card.
 STR +2.
 Max HP, Max SP +10% if the shoes are upgraded to +9 or higher.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4161#
@@ -23503,7 +23496,7 @@ Grand Peco Card.
 Adds the chance of auto casting level 1 Gloria skill on the user when receiving Physical Damage.
 DEF +3, Vit +3 if the user is equipped with an item compounded to the Peco Peco card.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4162#
@@ -23511,7 +23504,7 @@ Grizzly Card.
 Add the chance of auto casting Blind on an enemy when the user receives Physical Damage.
 If the user is equipped with an item compounded to the Big Foot card, the blinding chance will be increased.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4163#
@@ -23520,7 +23513,7 @@ Flee +2, Critical +7.
 If worn by Swordman Class characters, it adds the chance of auto casting a level 5 Bowling Bash skill
 on the enemy when attacking.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4164#
@@ -23528,7 +23521,7 @@ Gullinbursti Card.
 Receive 10% more experience points each time a Fish monster is killed.
 Receive 20% more damage from Fish monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4165#
@@ -23536,7 +23529,7 @@ Gig Card.
 Gain 5 SP each time an Insect monster is killed by Physical Melee Attack.
 Drain 5 SP as the weapon is unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4166#
@@ -23544,7 +23537,7 @@ Nightmare Terror Card.
 Add the chance of auto casting Curse on an enemy when the user receives Physical Damage.
 If the user is equipped with an item compounded to the Nightmare card, the cursing chance will be increased.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4167#
@@ -23552,7 +23545,7 @@ Nereid Card.
 Gain 5 SP each time a Brute monster is killed by Physical Melee Attack.
 Drain 5 SP as the weapon is unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4168#
@@ -23561,7 +23554,7 @@ Adds the chance of auto casting a level 5 Meteor Storm skill on an enemy when th
 If the user is equipped with an item compounded to the Dark Illusion card,
 it adds Max HP, Max SP +20%.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4169#
@@ -23571,14 +23564,14 @@ Reduces spell Variable Casting Time by 10%.
 If the user is equipped with an item compounded to the Dark Lord card,
 it reduces Variable Casting Time by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4170#
 Dark Frame Card.
 Adds the chance of auto casting the Stone Curse on an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4171#
@@ -23586,7 +23579,7 @@ Dark Priest Card.
 Adds a 5% chance of decreasing the enemy's SP amount by 10% when attacking. 
 If worn by a Sage or Scholar, gains 1 SP for every physical attack on a monster.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4172#
@@ -23611,14 +23604,14 @@ Thief Class Bonus:
 No Gemstones are required to 
 use certain skills.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4173#
 Demon Fungus Card.
 Adds the chance of casting Sleep on an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4174#
@@ -23626,14 +23619,14 @@ Deviling Card.
 Adds 50% more tolerance against Neutral Property Attacks.
 Receive 50% more damage from other Property Attacks.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4175#
 Poisonous Toad Card.
 Adds the chance of auto casting level 1 Envenom on an enemy when the user inflicts Physical Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4176#
@@ -23641,7 +23634,7 @@ Dullahan Card.
 Inflicts 10% more damage with Critical Attacks. 
 Critical +7 on Dragon monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4177#
@@ -23649,7 +23642,7 @@ Dryad Card.
 Adds the chance of gaining a Green Live item each time a Plant monster is killed.
 Add 10% more tolerance against Earth Property Attacks.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4178#
@@ -23692,7 +23685,7 @@ auto casting
 level 2 Tarot Card of Fate 
 when hit by a melee attack.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4179#
@@ -23700,7 +23693,7 @@ Dragon Fly Card.
 Agi +1. 
 Add Flee +18 if the user is equipped with an item compounded to the Chon Chon card.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4180#
@@ -23708,7 +23701,7 @@ Driller Card.
 Gain 5 SP each time a Dragon monster is killed by a Physical Melee Attack.
 Drain 5 SP as the weapon is unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4181#
@@ -23716,7 +23709,7 @@ Disguise Card.
 Adds the chance of auto casting Mute on an enemy when the user receives Physical Damage.
 The chance of casting Mute is increased if the user has 77 or more Vit points.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4182#
@@ -23724,7 +23717,7 @@ Diabolic Card.
 Gains 5 SP each time a Devil monster is killed by a Physical Melee Attack.
 Drain 5 SP as the weapon is unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4183#
@@ -23732,14 +23725,14 @@ Vagabond Wolf Card.
 STR +1. 
 Adds Flee +18 if the user is equipped with an item compounded to the Wolf Card.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4184#
 Lava Golem Card.
 Inflicts 30% more damage on Golems.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4185#
@@ -23777,7 +23770,7 @@ Monk Class Bonus:
 Uninterruptable Cast
 SP consumption -10%.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4186#
@@ -23817,14 +23810,14 @@ a Glistening Coat and/or
 Stem when defeating 
 monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4187#
 Raydric Archer Card.
 Add the chance of gaining a Piece of Vindictive Spirit item each time a Devil monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4188#
@@ -23832,21 +23825,21 @@ Leib Olmai Card.
 Adds the chance of gaining a Red Blood item each time a Brute monster is killed.
 Adds 10% more tolerance against a Fire Property Attack.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4189#
 Wraith Dead Card.
 Add the chance of auto casting Curse on an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4190#
 Wraith Card.
 Adds the chance of gaining a Wraith Laughter item each time an Undead monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4191#
@@ -23871,7 +23864,7 @@ and Lightning Bolt skills.
 +3% MATK
 15% Faster Cast
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4192#
@@ -23879,7 +23872,7 @@ Rotar Zairo Card.
 Inflicts 10% more damage with Critical Attack.
 Critical +7 on Fish monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4193#
@@ -23892,7 +23885,7 @@ equipped with an item
 to the Quve card, it
 adds +300 Max HP.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4194#
@@ -23900,7 +23893,7 @@ Rybio Card.
 Adds the chance of auto casting Stun on an enemy when the user receives Physical Damage.
 The chance of casting Stun is increased if the user has 77 or more DEX points.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4195#
@@ -23908,14 +23901,14 @@ Leaf Cat Card.
 Adds the chance of gaining a Crystal Blue item each time a Fish or Shellfish monster is killed.
 Adds 10% more tolerance against a ^6996ADWater^000000 Property Attack.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4196#
 Marin Card.
 Adds the chance of gaining a Jellopy or Large Jellopy item each time a monster is killed. 
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4197#
@@ -23923,14 +23916,14 @@ Mastering Card.
 Luk +1.
 Add Flee +18 if the user is equipped with an item compounded to the Poring card.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4198#
 Maya Purple Card.
 Enables its user to detect hidden monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4199#
@@ -23955,28 +23948,28 @@ when attacking.
 +5% EXP from 
 Brute class monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4200#
 Megalith Card.
 MDEF +7 if the shoes are upgraded to no higher than +5.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4201#
 Majoruros Card.
 Adds the chance of auto casting Stun on an enemy when the user receives a Physical Attack.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4202#
 Mao Guai Card.
 Inflicts 20% more damage on Ghost Property.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4203#
@@ -23985,7 +23978,7 @@ ATK +15.
 Adds the chance of auto casting a level 3 Fire Ball on an enemy while conducting a Physical Attack.
 If the user has mastered the skill at level 10, it will cast a level 10 Fire Ball.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4204#
@@ -23993,14 +23986,14 @@ Mini Demon Card.
 Receive 10% more Experience Points from Brute Monsters.
 Receive 20% more damage from Brute Monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4205#
 Mimic Card.
 Adds the chance of gaining an Old Blue Box' item each time a monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4206#
@@ -24024,7 +24017,7 @@ A chance of gaining
 an Old Purple Box each time 
 a monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4207#
@@ -24032,7 +24025,7 @@ Mysteltainn Card.
 Receive 25% less damage from small monsters.
 DEF +1.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4208#
@@ -24072,7 +24065,7 @@ and Lightning Bolt skills.
 +3% MATK
 15% Faster Cast
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4209#
@@ -24080,7 +24073,7 @@ Violy Card.
 Adds the chance of auto casting level 1 Unbarring Octave on an enemy when undertaking a Physical Attack.
 If the user has mastered the skill at level 5, it will cast level 5 Unbarring Octave.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4210#
@@ -24127,7 +24120,7 @@ Disables the Auto-Snatch
 ability of the 
 Wanderer Card.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4211#
@@ -24136,7 +24129,7 @@ MDEF +3.
 If the user is equipped with an item compounded to the Rocker card,
 it adds Flee +18.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4212#
@@ -24155,14 +24148,14 @@ from Munak.
 ^3CB371Yao Jun Card^000000
 All stats +1
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4213#
 Brilight Card.
 Adds the chance of auto casting Mute on an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4214#
@@ -24170,21 +24163,21 @@ Bloody Murderer Card.
 Inflicts 10% more damage with Critical Attack.
 Critical +7 on Insect monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4215#
 Blazzer Card.
 Adds the chance of gaining a Food item each time a monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4216#
 Sasquatch Card.
 Adds the chance of freezing an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4217#
@@ -24212,7 +24205,7 @@ and Demon monsters.
 +5% EXP from Demon and 
 Undead monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4218#
@@ -24221,14 +24214,14 @@ VIT -3, Max HP +1000 and HP natural recovery -20%.
 If the user is equipped with an item compounded to the Inccubus card,
 it adds Vit +4 and HP natural recovery +30%.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4219#
 Sage Worm Card.
 Adds the chance of gaining a Gemstone item each time a monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4220#
@@ -24254,7 +24247,7 @@ Swordman Class:
 when using Red, Yellow, 
 and White Potions.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4221#
@@ -24262,7 +24255,7 @@ Skeleton General Card.
 Receive 10% more Experience Points from Insect monsters.
 Receive 20% more damage from Insect monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4222#
@@ -24270,35 +24263,35 @@ Skel Prisoner Card.
 Adds the chance of auto casting Sleep on an enemy when the user receives Physical Damage.
 The chance of casting Sleep is increased if the user is equipped with an item compounded to the Skeleton card.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4223#
 Stalactic Golem Card.
 Adds 20% more tolerance against Stun. DEF +1
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4224#
 Stem Worm Card.
 Adds the chance of gaining a Shower item each time a Brute monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4225#
 Stone Shooter Card.
 Hit +10, ATK +10.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4226#
 Sting Card.
 DEF +2, MDEF +5 if the shield is upgraded to +9 or higher.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4227#
@@ -24306,14 +24299,14 @@ Spring Rabbit Card.
 Add the chance of gaining a Meat or Monster's Feed item each time a Brute monster is killed.
 Meat and Monster's Feed restore 50% more HP.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4228#
 Sleeper Card.
 Adds the chance of gaining a ZZZ item each time a Fish or Shellfish monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4229#
@@ -24327,7 +24320,7 @@ Int +1, after using skill Reduce Cast Time by 5%.
 DEF +3
 MDEF +3
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4230#
@@ -24380,14 +24373,14 @@ Disables the Auto-Snatch
 ability of the 
 Wanderer Card.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4231#
 Mi Gao Card.
 Receive 50% less damage from Guardians during War of Emperium (Guild Siege) hours.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4232#
@@ -24395,7 +24388,7 @@ Hermit Plant Card.
 Adds the chance of gaining a Red/Yellow/White Herb item each time a Plant monster is killed.
 Herb items restore 50% more HP.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4233#
@@ -24438,7 +24431,7 @@ a Glistening Coat and/or
 Stem when defeating 
 monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4234#
@@ -24486,7 +24479,7 @@ auto casting
 level 2 Tarot Card of Fate 
 when hit by a melee attack.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4235#
@@ -24494,7 +24487,7 @@ Christmas Cookie Card.
 Receive 10% more Experience Points from Angel monsters.
 Receive 20% more damage from Angel monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4236#
@@ -24503,7 +24496,7 @@ All stats +1.
 Add the chance of casting level 10 Kyrie Eleison around the user when receiving Physical Damage.
 The chance of casting the skill is increased if the user has 99 INT points.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4237#
@@ -24512,14 +24505,14 @@ Adds the chance of auto casting level 3 Impositio Manus on the user when doing a
 If the user is equipped with an item compounded to the Owl Baron card,
 it adds the chance of auto casting level 5 Lightning Bolt on an enemy when doing a Physical Attack.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4238#
 Owl Baron Card.
 Adds a chance of auto casting level 1 Lex Aeterna on an enemy when doing a Physical Attack.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4239#
@@ -24527,14 +24520,14 @@ Iron Fist Card.
 Receive 10% more Experience Points from Formless monsters.
 Receive 20% more damage from Formless monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4240#
 Arclouze Card.
 DEF +2 and MDEF +3 if the shield is upgraded no higher than +5.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4241#
@@ -24542,7 +24535,7 @@ Arc Angeling Card.
 Max HP +300.
 Increases HP/SP Recovery by 100%, if the user has 77 or more LUK points.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4242#
@@ -24550,14 +24543,14 @@ Apocalypse Card.
 Vit +2.
 Max HP +800 if the armor is upgraded up to +9 or higher.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4243#
 Antonio Card.
 Has a high chance of casting level 1 Teleport on the user when taking Physical Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4244#
@@ -24575,7 +24568,7 @@ Max HP +300, Vit +1.
 DEF +3
 MDEF +3
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4245#
@@ -24583,7 +24576,7 @@ Am Mut Card.
 Receive 10% more Experience Points from Demihuman monsters.
 Receive 20% more damage from Demihuman monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4246#
@@ -24612,7 +24605,7 @@ Swordman Class:
 when using Red, Yellow, 
 and White Potions.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4247#
@@ -24629,7 +24622,7 @@ Property monsters
 Raw Fish each time 
 a Fish Monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4248#
@@ -24638,7 +24631,7 @@ Adds the chance of auto casting level 5 Signum Crucis on an enemy when the user 
 If the user is equipped with an item compounded to the Mummy card,
 it adds a Seeking Attack (which never misses its target) +20. 
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4249#
@@ -24646,7 +24639,7 @@ Ancient Worm Card.
 Receive 10% more Experience Points from Devil monsters.
 Receive 20% more damage from Devil monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4250#
@@ -24654,14 +24647,14 @@ Executioner Card.
 Receive 25% less damage from large monsters.
 DEF +1.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4251#
 Elder Card.
 Inflict 40% more damage on Guardians during World of Emperium hours.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4252#
@@ -24703,7 +24696,7 @@ auto casting
 level 2 Tarot Card of Fate 
 when hit by a melee attack.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4253#
@@ -24711,7 +24704,7 @@ Alice Card.
 Receive 40% less damage from Boss monsters.
 Receive 40% more damage from normal monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4254#
@@ -24719,21 +24712,21 @@ Ogretooth Card.
 Receive 25% less damage from medium-size monsters.
 DEF +1.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4255#
 Orc Lady Card.
 Inflict 30% more damage on Every Orc except the Orc Lord and Orc Hero.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4256#
 Orc Archer Card.
 Add the chance of gaining an Orc's Breath item each time a Demihuman monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4257#
@@ -24776,7 +24769,7 @@ Disables the Auto-Snatch
 ability of the 
 Wanderer Card.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4258#
@@ -24815,7 +24808,7 @@ and Lightning Bolt skills.
 +3% MATK
 15% Faster Cast
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4259#
@@ -24823,7 +24816,7 @@ Wooden Golem Card.
 Increase HP Recovery by 30%.
 DEF +1.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4260#
@@ -24831,7 +24824,7 @@ Wootan Shooter Card.
 Add 20% more tolerance against Chaos.
 DEF +1.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4261#
@@ -24839,14 +24832,14 @@ Wootan Fighter Card.
 Add 20% more tolerance against Bleeding.
 DEF +1.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4262#
 Cloud Hermit Card.
 Add the chance of gaining a Black Cloud item each time a Plant monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4263#
@@ -24855,7 +24848,7 @@ Ignore a normal monster's defense when attacking.
 Disable its user's natural HP recovery and drain 666 HP every 10 seconds.
 Drain 999 HP as the weapon is unequipped. 
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4264#
@@ -24863,13 +24856,13 @@ Wind Ghost Card.
 Add the chance of casting level 3 Jupitel Thunder on an enemy when doing Physical Attack.
 If the user has mastered the skill at level 10, it will cast level 10 Jupitel Thunder.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4265#
 Every time you kill an Angel monster, there is a 1% chance of gaining a Box of Sunlight.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4266#
@@ -24877,7 +24870,7 @@ Eclipse Card.
 Vit +1.
 Add Flee +18 if the user is equipped with an item compounded to the Lunatic card.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4267#
@@ -24885,7 +24878,7 @@ Explosion Card.
 Recieve 10% more Experience Points from Dragon monsters.
 Receive 20% more damage from Dragon monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4268#
@@ -24894,7 +24887,7 @@ Add the chance of auto casting level 1 Sonic Blow on an enemy when doing a Physi
 If the user is equipped with an item compounded to the Zealotus card,
 it adds ATK +20 and Luk +3.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4269#
@@ -24903,14 +24896,14 @@ INT -3, Max SP +150 and SP natural recovery -20%.
 If the user is equipped with an item compounded to the Succubus card,
 it adds Int +4 and SP natural recovery +30%.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4270#
 Giant Spider Card.
 Add the chance of poisoning an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4271#
@@ -24918,7 +24911,7 @@ Giant Hornet Card.
 Add the chance of gaining a Wind of Verdure item each time an Insect monster is killed.
 Add 10% more tolerance against a Wind Property Attack.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4272#
@@ -24941,7 +24934,7 @@ Thief Class Bonus:
 No Gemstones are required to 
 use certain skills.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4273#
@@ -24958,7 +24951,7 @@ Property monsters
 Raw Fish each time 
 a Fish Monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4274#
@@ -24966,7 +24959,7 @@ Zombie Master Card.
 Gain 5 SP each time an Undead monster is killed by a Physical Melee Attack.
 Drain 5 SP as the weapon is unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4275#
@@ -24974,7 +24967,7 @@ Zombie Prisoner Card.
 Receive 10% more Experience Points from Undead monsters.
 Receive 20% more damage from Undead monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4276#
@@ -24982,7 +24975,7 @@ Lord of The Dead Card.
 Add the chance of auto casting Coma on an enemy.
 Add the chance of auto casting Stun, Curse, Mute, Poison, or Bleeding randomly when attacking the enemy with short-range physical attacks.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4277#
@@ -24990,14 +24983,14 @@ Zealotus Card.
 Luk +2.
 Inflict 10% more damage with Slinging Arrow and Melody Strike skills.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4278#
 Gibbet Card.
 Add MDEF +5, if your INT is less than 21.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4279#
@@ -25006,7 +24999,7 @@ Diable SP natural recovery.
 Gain 10 SP each time a monster is killed by a Physical Melee Attack.
 Drain 100 SP as the armor is unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4280#
@@ -25033,7 +25026,7 @@ and Demon monsters.
 +5% EXP from Demon and 
 Undead monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4281#
@@ -25078,14 +25071,14 @@ a Glistening Coat and/or
 Stem when defeating 
 monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4282#
 Tengu Card.
 Add the chance of gaining a restorative item each time a monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4283#
@@ -25093,21 +25086,21 @@ Greatest General Card.
 Adds the chance of gaining a Spirit Sphere or Coin when doing a Physical Attack.
 If worn by Acolyte Class characters, the chance is increased.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4284#
 Chepet Card.
 Adds the chance of auto casting level 5 Heal on an enemy when doing a Physical Attack.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4285#
 Choco Card.
 Perfect Dodge +5, Flee +10.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4286#
@@ -25115,14 +25108,14 @@ Karakasa Card.
 Adds the chance of auto casting Chaos on an enemy when the user receives Physical Damage.
 The chance is increased if the user has 77 or more STR points.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4287#
 Kapha Card.
 MDEF +8 if the garment is upgraded no higher than +5.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4288#
@@ -25130,7 +25123,7 @@ Carat Card.
 Int +2.
 Max SP is equal to job*3
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4289#
@@ -25138,7 +25131,7 @@ Caterpillar Card.
 Gain 5 SP each time a Plant monster is killed by a Physical Melee Attack.
 Drain 5 SP as the weapon is unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4290#
@@ -25146,14 +25139,14 @@ Cat O' Nine Tails Card.
 Add 5% chance of reflecting magic damage.
 MDEF +3.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4291#
 Kobold Leader Card.
 Inflict 30% more damage on Kobolds.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4292#
@@ -25161,7 +25154,7 @@ Kobold Archer Card.
 Inflicts 10% more damage with Critical Attack.
 Critical +7 on Plant monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4293#
@@ -25199,7 +25192,7 @@ Monk Class Bonus:
 Uninterruptable Cast
 SP consumption -10%.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4294#
@@ -25211,14 +25204,14 @@ Damage is received.
 If the user is equipped with an item that is
 compounded to the Lude
 card, it adds +60 Max SP. Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4295#
 Kraben Card.
 Add the chance of casting Blind on an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4296#
@@ -25226,7 +25219,7 @@ Cramp Card.
 Add the chance of gaining a certain amount of zeny each time a monster is killed.
 If the user is equipped with an item compounded to the Tarou card, it adds STR +3.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4297#
@@ -25269,14 +25262,14 @@ auto casting
 level 2 Tarot Card of Fate 
 when hit by a melee attack.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4298#
 Creamy Fear Card.
 Adds the chance of casting Chaos on an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4299#
@@ -25295,7 +25288,7 @@ will cast a level 10 Guard.
 DEF +3
 MDEF +3
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4300#
@@ -25303,21 +25296,21 @@ Chimera Card.
 Adds the chance of poisoning an enemy when the user receives Physical Damage.
 The chance is increased if worn by Assassin or Assassin Cross characters.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4301#
 Killer Mantis Card.
 Add the chance of auto casting Bleeding on an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4302#
 Tao Gunka Card.
 Max HP +100%, DEF -50%, and MDEF -50%.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4303#
@@ -25327,7 +25320,7 @@ ATK +20 if the user has 80 or more STR points.
 Max HP +3% if the user has 80 or more VIT points.
 Critical +3 if the user has 80 or more LUK points.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4304#
@@ -25335,7 +25328,7 @@ Tamruan Card.
 Inflict 10% more damage with Smite and Shield Boomerang skills.
 DEF +2.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4305#
@@ -25343,7 +25336,7 @@ Turtle General Card.
 ATK +20%.
 Add the chance of auto casting level 10 Magnum Break on the enemy when doing a Physical Attack.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4306#
@@ -25352,7 +25345,7 @@ Perfect Dodge +1.
 If the user is equipped with an item compounded to the Roda Frog card,
 it adds Flee +18.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4307#
@@ -25360,7 +25353,7 @@ Beetle King Card.
 Gain 5 SP each time a Fish monster is killed by a Physical Melee Attack.
 Drain 5 SP as the weapon is unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4308#
@@ -25368,7 +25361,7 @@ Tri Joint Card.
 Gain 5 SP each time a Formless monster is killed by a Physical Melee Attack.
 Drain 5 SP as the weapon is unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4309#
@@ -25392,7 +25385,7 @@ and Lightning Bolt skills.
 +3% MATK
 15% Faster Cast
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4310#
@@ -25400,7 +25393,7 @@ Panzer Goblin Card.
 Inflict 10% more damage with a Critical Attack.
 Critical +7 on Devil monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4311#
@@ -25442,7 +25435,7 @@ Cast Speed +10%
 Crusader/Paladin Only bonus:
 Armor becomes Holy Property.	
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4312#
@@ -25482,7 +25475,7 @@ Monk Class Bonus:
 Uninterruptable Cast
 SP consumption -10%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4313#
@@ -25502,14 +25495,14 @@ level 5 Quagmire.
 DEF +3
 MDEF +3
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4314#
 Penomena Card.
 Receive 30% less damage from Formless monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4315#
@@ -25517,7 +25510,7 @@ Pest Card.
 Add the chance of auto casting a Stone Curse on an enemy when the user receives Physical Damage.
 The chance is increased if the user has 77 or more INT points.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4316#
@@ -25525,7 +25518,7 @@ False Angel Card.
 Gain 5 SP each time an Angel monster is killed by a Physical Melee Attack.
 Drain 5 SP as the weapon is unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4317#
@@ -25533,7 +25526,7 @@ Mobster Card.
 Inflict 15% more damage with a Critical Attack.
 If worn by Thief Class characters, it adds Critical +4.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4318#
@@ -25541,7 +25534,7 @@ Stormy Knight Card.
 Add the chance of auto casting level 1 Storm Gust on enemy when doing a Physical Attack.
 Has a 20% chance of Freezing an enemy when attacking.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4319#
@@ -25586,14 +25579,14 @@ Cast Speed +10%
 Crusader/Paladin Only bonus:
 Armor becomes Holy Property.	
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4320#
 Bloody Knight Card.
 Add the chance of casting a level 1 Meteor Storm on an enemy when doing a Physical Attack.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4321#
@@ -25617,7 +25610,7 @@ A chance of gaining
 an Old Purple Box each time 
 a monster is killed.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4322#
@@ -25625,7 +25618,7 @@ High Orc Card.
 Reflect 5% of every Physical Attack Damage.
 DEF +1.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4323#
@@ -25633,14 +25626,14 @@ Hatii Bebe Card.
 Add the chance of auto casting level 3 Frost Diver on an enemy when doing a Physical Attack.
 If the user is equipped with an item compounded to the Hatii card, the chance is greatly increased.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4324#
 Hatii Card.
 Has a 50% chance of Freezing an enemy when the user receives Physical Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4325#
@@ -25680,7 +25673,7 @@ and Lightning Bolt skills.
 +3% MATK
 15% Faster Cast
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4326#
@@ -25688,7 +25681,7 @@ Sea-Otter Card.
 Add the chance of gaining a Sushi or Raw Fish item each time a Fish monster is killed.
 Sushi and Raw Fish items restore 50% more HP.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4327#
@@ -25729,7 +25722,7 @@ and Lightning Bolt skills.
 +3% MATK
 15% Faster Cast
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4328#
@@ -25741,7 +25734,7 @@ Flee +15, Critical +1.
 ^3CB371Yao Jun Card^000000
 All stats +1
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4329#
@@ -25749,7 +25742,7 @@ Phendark Card.
 Gain 5 SP each time a Demihuman monster is killed by a Physical Melee Attack.
 Drain 5 SP as the weapon is unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4330#
@@ -25757,7 +25750,7 @@ Evil Snake Lord Card.
 Never be affected by the Blind and Curse effect.
 Int +3.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4331#
@@ -25799,7 +25792,7 @@ Cast Speed +10%
 Crusader/Paladin Only bonus:
 Armor becomes Holy Property.	
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4332#
@@ -25820,7 +25813,7 @@ Monk Class Bonus:
 Uninterruptable Cast
 SP consumption -10%.
 Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4333#
@@ -25831,7 +25824,7 @@ attacking enemy and
 this card's wearer
 each time the wearer^FFFFFF      ^000000 is physically attacked.
 Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4334#
@@ -25841,7 +25834,7 @@ attacks, and reduces
 Neutral Property
 damage by 10%.
 Class: ^777777Card^000000            
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4335#
@@ -25852,7 +25845,7 @@ Drains 50 SP when
 a compounded weapon
 is unequipped.
 Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4336#
@@ -25861,33 +25854,33 @@ the Bleeding status,
 and increases HP
 Recovery by 10%.
 Class: ^777777Card^000000            
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4337#
 ATK +25, DEF -5
 Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4338#
 Adds 1 VIT for every
 18 points of base DEX.
 Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4339#
 ATK -25, DEF+3
 Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4340#
 Reduces damage from
 Undead enemies by 30%.
 Class: ^777777Card^000000            
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4341#
@@ -25897,7 +25890,7 @@ Level 1 Divest Weapon
 each time the wearer
 physically attacks.
 Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4342#
@@ -25910,7 +25903,7 @@ but it can still be
 destroyed by failed
 upgrade attempts.
 Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4343#
@@ -25934,7 +25927,7 @@ a Glistening Coat and/or
 Stem when defeating 
 monsters.
 Class: ^777777Card^000000            
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4344#
@@ -25944,7 +25937,7 @@ Cheese Gratin when
 defeating Insect-
 type monsters.
 Class: ^777777Card^000000            
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4345#
@@ -25955,14 +25948,14 @@ and Lord of Vermilion
 skills by 5%. Drains 50^FFFFFF   ^000000 SP when the compounded
 weapon is unequipped.
 Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4346#
 Adds 1 STR for every
 18 points of base INT.
 Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4347#
@@ -25971,7 +25964,7 @@ dropping Clam Soup
 when defeating Fish
 type monsters.
 Class: ^777777Card^000000            
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4348#
@@ -25999,7 +25992,7 @@ Disables the Auto-Snatch
 ability of the 
 Wanderer Card.
 Class: ^777777Card^000000            
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4349#
@@ -26009,7 +26002,7 @@ Level 1 Pneuma each
 time the wearer is
 physically attacked.
 Class: ^777777Card^000000            
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4350#
@@ -26020,7 +26013,7 @@ Drains 50 SP when
 a compounded weapon
 is unequipped.
 Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4351#
@@ -26032,7 +26025,7 @@ this card adds Perfect
 Dodge +1 and an
 additional Flee +10.
 Class: ^777777Card^000000            
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4352#
@@ -26042,7 +26035,7 @@ and 10 SP every
 increases Max HP
 and Max SP by 10%.
 Class: ^777777Card^000000            
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4353#
@@ -26050,7 +26043,7 @@ Increases HP Recovery
 by 10%. Adds HP +800,^FFFFFF     ^000000 but this bonus decreases
 as the compounded armor's^FFFFFF ^000000 upgrade level increases.
 Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4354#
@@ -26063,7 +26056,7 @@ to the Stone and Sleep
 statuses if base VIT
 is 80 or greater.
 Class: ^777777Card^000000            
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4355#
@@ -26072,20 +26065,20 @@ dropping a Bomber
 Steak when defeating
 Brute-type monsters.
 Class: ^777777Card^000000            
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4356#
 Enables the use of
 Level 1 Cast Cancel.
 Class: ^777777Card^000000            
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4357#
 Enables the use of Level 1 Frenzy. Reduces Max HP by 50%.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4358#
@@ -26093,21 +26086,21 @@ STR -6. Adds an
 amount of STR equal
 to the compounded^FFFFFF         ^000000 helmet's upgrade level.
 Class: ^777777Card^000000            
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4359#
 Enables the use of
 Level 3 Cloaking.
 Class: ^777777Card^000000            
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4360#
 Critical +10 against
 Demihuman enemies.
 Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4361#
@@ -26117,7 +26110,7 @@ weapon and a 7% chance^FFFFFF    ^000000 of destroying its armor
 each time the wearer
 physically attacks.
 Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4362#
@@ -26125,7 +26118,7 @@ Reduces Attack
 Speed by 5%, but
 adds Hit +30.
 Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4363#
@@ -26137,7 +26130,7 @@ time the wearer
 is physically or
 magically attacked.
 Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4364#
@@ -26150,7 +26143,7 @@ enemy each time
 the wearer is
 magically attacked.
 Class: ^777777Card^000000            
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4365#
@@ -26164,7 +26157,7 @@ monsters. Drains 2,000
 SP when the compounded
 Helmet is unequipped.
 Class: ^777777Card^000000            
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4366#
@@ -26182,7 +26175,7 @@ Cast Time with card=
 Original Cast Time -
 (Original Cast Time *^FFFFFF    ^000000 Helmet Upgrade Level/100)
 Class: ^777777Card^000000            
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4367#
@@ -26194,7 +26187,7 @@ by the wearer as HP,
 but also reduces HP
 Recovery by 100%.
 Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4368#
@@ -26203,14 +26196,14 @@ Speed by 5%, but
 also decreases
 accuracy by 30.
 Class: ^777777Card^000000            
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4369#
 Adds 1 LUK for every
 18 points of base AGI.
 Class: ^777777Card^000000            
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4370#
@@ -26219,7 +26212,7 @@ The compounded armor's
 upgrade level affects
 this card's VIT bonus.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4371#
@@ -26241,7 +26234,7 @@ Variable Casting Speed +10%
 Crusader/Paladin Only bonus:
 Armor becomes Holy Property.	
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4372#
@@ -26252,7 +26245,7 @@ cast by the wearer,
 but also increases SP
 Consumption by 15%.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4373#
@@ -26261,7 +26254,7 @@ amount of LUK and CRIT
 equal to the compounded
 garment's upgrade level. (However, the critical level is increased to the upgrade +10).
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4374#
@@ -26271,7 +26264,7 @@ Magic Defense Rate
 when inflicting magic
 attacks against them.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4375#
@@ -26286,7 +26279,7 @@ Rate +15 and +15%
 Neutral property
 resistance.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4376#
@@ -26299,7 +26292,7 @@ defeating monsters.
 Increases the effect of
 Bananas by 100%.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4377#
@@ -26308,7 +26301,7 @@ dropping Fruit Mix
 when defeating
 Formless monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4378#
@@ -26323,7 +26316,7 @@ increased to Max HP
 and add SP and
 HP Recovery +5%.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4379#
@@ -26335,7 +26328,7 @@ bonus is increased
 to SP +80 and adds
 SP Recovery +5%.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4380#
@@ -26346,7 +26339,7 @@ by 5%. Drains 50 SP
 when the compounded
 weapon is unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4381#
@@ -26367,7 +26360,7 @@ auto casting
 level 2 Tarot Card of Fate 
 when hit by a melee attack.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4382#
@@ -26390,7 +26383,7 @@ dropping Red or Yellow
 Gemstones when defeating 
 monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4383#
@@ -26400,7 +26393,7 @@ attacking enemy each
 time the wearer is
 physically attacked.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4384#
@@ -26410,7 +26403,7 @@ Spell Breaker each
 time the wearer
 physically attacks.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4385#
@@ -26419,7 +26412,7 @@ dropping Honey Herbal
 Tea when defeating
 Dragon-type monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4386#
@@ -26432,14 +26425,14 @@ magically attacked,
 and adds protection
 against Frozen status.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4387#
 Adds 1 AGI for every
 18 points of base LUK.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4388#
@@ -26451,7 +26444,7 @@ by 5%. Drains 50 SP
 when the compounded
 weapon is unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4389#
@@ -26462,7 +26455,7 @@ and Thunderproof
 Potions when
 defeating monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4390#
@@ -26472,7 +26465,7 @@ the Bleeding status
 each time the wearer
 physically attacks.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4391#
@@ -26480,21 +26473,21 @@ Adds a chance of
 dropping Fried Sweet
 Potatoes when defeating^FFFFFF   ^000000 Angel-type monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4392#
 Adds 1 DEX for every
 18 points of base VIT.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4393#
 Adds 1 INT for every
 18 points of base STR.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4394#
@@ -26504,7 +26497,7 @@ card adds a chance
 of auto casting Level 5
 Grand Cross.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4395#
@@ -26513,7 +26506,7 @@ of auto casting Level 3
 Decreases AGI with
 each physical attack.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4396#
@@ -26522,7 +26515,7 @@ amount of AGI equal
 to the compounded
 Shoes' upgrade level.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4397#
@@ -26530,7 +26523,7 @@ INT -6. Adds an
 amount of INT equal
 to the compounded
 Shield's upgrade level.^FFFFFF   ^000000 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4398#
@@ -26538,7 +26531,7 @@ Increases Magic
 Damage against Angel-
 type monsters by 10%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4399#
@@ -26547,7 +26540,7 @@ weapon with the Occult
 Impaction skill effect.^FFFFFF   ^000000 Each attack drains 1 SP.
 DEF -30, Flee -30.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4400#
@@ -26561,13 +26554,13 @@ characters, this
 chance increases
 to 10%.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4401#
 Flee +10, DEF -5
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4402#
@@ -26583,14 +26576,14 @@ class characters, this
 card adds INT +2
 and Max SP +5%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4403#
 Reduces Cast Delay
 of all skills by 30%.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4404#
@@ -26602,7 +26595,7 @@ the attacking enemy
 each time the wearer
 is physically attacked.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4405#
@@ -26615,7 +26608,7 @@ upgrade level multiplied^FFFFFF  ^000000 by 2. When worn by
 Mage class characters,^FFFFFF    ^000000 this card adds MDEF +3.
 (But the reflecting rate increases to the upgrade level 10.)
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4406#
@@ -26623,7 +26616,7 @@ Increases Magic
 Damage against
 Demon monsters by 2%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4407#
@@ -26639,7 +26632,7 @@ but it can still be
 destroyed by failed
 upgrade attempts.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4408#
@@ -26648,7 +26641,7 @@ damage to Holy,
 Shadow, Angel, and
 Demon monsters by 40%.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4409#
@@ -26656,7 +26649,7 @@ MATK +5%, DEF -10,
 If the wearer is a Mage class character:
 Max SP +100
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4410#
@@ -26664,7 +26657,7 @@ ATK +15
 If the wearer is a Swordman class character:
 Max HP +500
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4411#
@@ -26673,7 +26666,7 @@ has a chance of adding
 a CRI +100 bonus for
 5 seconds.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4412#
@@ -26684,7 +26677,7 @@ Variable Casting Time by 50%
 and +30 Flee
 for 5 seconds.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4413#
@@ -26696,7 +26689,7 @@ a Perfect Dodge +30 bonus for
 10 seconds each time
 the wearer receives physical or magic damage.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4414#
@@ -26706,7 +26699,7 @@ Level 1 Stone Curse.
 Adds 30% tolerance
 to Stone Curse status.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4415#
@@ -26717,7 +26710,7 @@ Increases Recovery
 Rate of Ice Cream
 by 100%.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4416#
@@ -26727,7 +26720,7 @@ of Cold Bolt skill by
 that Cold Bolt's
 damage by 25%.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4417#
@@ -26737,7 +26730,7 @@ to add a DEF +10 bonus
 for 10 seconds when
 the wearer receives physical or magic damage.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4418#
@@ -26746,7 +26739,7 @@ auto casting a Level 2
 Cold Bolt with each
 physical attack.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4419#
@@ -26757,7 +26750,7 @@ of auto casting a Level 10
 Frost Nova when the
 wearer receives physical^FFFFFF ^000000 or magic damage.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4420#
@@ -26769,7 +26762,7 @@ the wearer receives
 short-range physical
 damage.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4421#
@@ -26777,7 +26770,7 @@ CRI +15 bonus when
 performing long-range
 physical attacks.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4422#
@@ -26788,7 +26781,7 @@ monsters by 10%.
 Adds a CRI +15 bonus
 to Fish monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4423#
@@ -26796,7 +26789,7 @@ Hit +5. Increases
 damage to Water
 monsters by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4424#
@@ -26804,14 +26797,14 @@ Enables the use of
 Find Stone and
 Stone Fling skills.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4425#
 ATK +25. 
 0.5% chance to boost ASPD by 100% for 10 seconds when doing physical damage.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4426#
@@ -26819,7 +26812,7 @@ If the wearer is a Rogue or Stalker.
 ATK +10%
 MATK +10%
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4427#
@@ -26829,7 +26822,7 @@ increases the power
 of the ^FF0000Bowling Bash^000000
 skill by 25%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4428#
@@ -26839,7 +26832,7 @@ increases the power
 of the ^FF0000Arrow Shower^000000
 skill by 50%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4429#
@@ -26848,14 +26841,14 @@ of the ^FF0000Fire Pillar^000000
 and ^FF0000Meteor Storm^000000
 skills by 40%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4430#
 ATK, CRI, and Hit are increased depending on the wearer's job level.
 Has a low chance of Auto Casting ^FF0000Earthquake^000000 Level 2 when receiving physical attack.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4431#
@@ -26866,7 +26859,7 @@ auto casting
 with each
 physical attack.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4432#
@@ -26875,13 +26868,13 @@ Increases damage to Earth monsters by 5%,
 CRI +15 bonus against Plant monsters, and
 CRI +15 bonus against Brute monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4433#
 Reduces the Variable Casting Time of the ^FF0000Fire Bolt^000000 by 25% and Increases the damage of the ^FF0000Fire Bolt^000000 skill by 25%.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4434#
@@ -26894,7 +26887,7 @@ formless monsters will
 drop Rough Oridecons
 or Rough Eluniums.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4435#
@@ -26911,7 +26904,7 @@ Demihuman monster
 is defeated by
 melee attack.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4436#
@@ -26930,7 +26923,7 @@ Card, will recover
 Demihuman monster
 is defeated by 
 melee attack.
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4437#
@@ -26945,7 +26938,7 @@ inflicting the
 Bleeding status
 on enemies.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4438#
@@ -26957,7 +26950,7 @@ Increases the damage of
 ^FF0000Soul Strike^000000, ^FF0000Napalm Beat^000000,
  and ^FF0000Napalm Vulcan^000000 by 20%.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4439#
@@ -26966,7 +26959,7 @@ to Stun, Curse, Darkness, and Stone Curse statuses by 30%.
 Add a chance of auto casting Stun, Curse, Blind, 
 and Stone Curse when the user receives Physical Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4440#
@@ -26975,7 +26968,7 @@ INT +1 and ignores
 2% of the MDEF of
 enemies.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4441#
@@ -26986,265 +26979,265 @@ Increases magical damage on ^0000FF[Demihuman]^000000 race by 50%
 Increase magical damage on ^0000FF[Player]^000000 race by 50%
 ^FFFFFF_^000000
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4442#
 Decreases damage from Neutral Property by 20%.
 Increases damage dealt to Neutral Property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 Decreases damage from Neutral Property by 20%.
 Increases damage dealt to Neutral Property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4443#
 Decreases damage from Water Property by 20%.
 Increases damage dealt to Water Property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 Decreases damage from Water Property by 20%.
 Increases damage dealt to Water Property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4444#
 Decreases damage from Earth Property by 20%.
 Increases damage dealt to Earth Property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 Decreases damage from Earth Property by 20%.
 Increases damage dealt to Earth Property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4445#
 Decreases damage from Wind Property by 20%.
 Increases damage dealt to Wind Property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 Decreases damage from Wind Property by 20%.
 Increases damage dealt to Wind Property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4447#
 Decreases damage from Poison Property by 20%.
 Increases damage dealt to Poison Property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 Decreases damage from Poison Property by 20%.
 Increases damage dealt to Poison Property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4448#
 Decreases damage from Holy Property by 20%.
 Increases damage dealt to Holy Property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 Decreases damage from Holy Property by 20%.
 Increases damage dealt to Holy Property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4449#
 Decreases damage from Shadow Property by 20%.
 Increases damage dealt to Shadow Property by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4450#
 INT +1, MATK +10
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 INT +1, MATK +10
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4451#
 MATK +100
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 MATK +100
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4452#
 INT+1, MATK +3
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 INT+1, MATK +3
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4453#
 ATK +25
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 ATK +25
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4456#
 INT +5. When equipped by a High Wizard or Warlock job, fixed cast of all skills -50%.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4457#
 Increases damage of all ghost element magic attacks by 30%. 
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4458#
 ATK +10. When dealing physical damage, there's a chance that for 4 seconds your perfect dodge will increase by 10. 
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4459#
 MATK +10. When dealing magic damage, there's a chance that for 4 seconds your fixed cast time will be reduced by 50%. 
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4460#
 Heal Skill Recovery +3%. Increases SP cost of skills by 5%. 
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4461#
 DEX +1, AGI + 1. When dealing physical damage, there's a chance that for 4 seconds you will receive CRIT +20. 
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4462#
 Hardrock Mammoth DEF +5. If armor is refined to +12 or higher, DEF +20, Max HP +10%. If armor is refined to +14 or higher, Max HP +3%. 
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4463#
 Tendrillion CRIT +5. If a weapon is refined to +12 or higher, ATK +35. If a weapon is refined to +14 or higher, CRIT +10. 
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4464#
 Critical Attack Damage +20%. 
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4465#
 ATK +10. If compounded on a two-hand sword, at +10 refine or higher grants ASPD +1; at +14 refine or higher grants an additional ASPD +1.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4466#
 Ranged Attack Damage +3%. If compounded on a bow, at +10 refine or higher grants ASPD +1; at +14 refine or higher grants an additional ASPD +1. 
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4467#
 STR +2. If equipped by a merchant job, increases cart revolution damage by 50%, but increases its SP cost by 12. 
 Class: ^777777Card^000000
-Compound on: ^777777Shoes^000000
+Location: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4468#
 ATK +10. When killing a monster, adds a chance of having a poisonous herb drop. 
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4469#
 Increases magic damage on Fish-type monsters by 10%. 
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4470#
 Increases magic damage on Plant-type monsters by 10%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4471#
 Increases magic damage on Dragon-type monsters by 10%. 
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4472#
 Increases magic damage on Brute-type monsters by 10%. 
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4473#
 Increases magic damage on Undead-type monsters by 10%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4474#
 Increases magic damage on Demihuman-type monsters by 10%. 
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4475#
 Increases magic damage on Formless-type monsters by 10%. 
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4476#
 Increases magic damage on Insect-type monsters by 10%. 
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4477#
 Increases magic damage on Demon-type monsters by 10%. 
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4480#
 After cast delay reduced by 15%
 If this card is slotted into headgear refined to +15 or higher, reduces after cast delay by 5% more.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4481#
@@ -27252,7 +27245,7 @@ Increases damage to Fire Property monsters by 25%.
 Has a low chance of auto casting Frost Nova while being attacked.
 If this card is slotted into a piece of armor refined to +15 or higher, increases damage to Fire Property monsters by 10% more.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4482#
@@ -27261,7 +27254,7 @@ Max SP +7%
 Every 15 seconds, you recover 50 HP and 10 SP.
 If this card is slotted into shoes refined to +15 or higher, every 10 seconds, you recover 10 SP.
 Class: ^777777Card^000000
-Compound on: ^777777Shoes^000000
+Location: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4486#
@@ -27405,13 +27398,13 @@ Weight: ^7777771^000000
 4505#
 MATK +20, MSP -1%
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4506#
 DEX +2; for Archer Class, increase an additional DEX +1 per 3 Refine Levels.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4507#
@@ -27429,26 +27422,26 @@ Weight: ^7777771^000000
 4508#
 ATK +20, MHP -1%
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4509#
 INT +3
 Decrease damage from Insect enemies by 10%; when the Refine Level is +9, damage decreases an additional 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4510#
 When attacking over a short distance, there is a chance of inflicting deep sleep on enemies at a certain rate.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4511#
 Magic attacks have a chance of silencing enemies.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4512#
@@ -27462,7 +27455,7 @@ Weight: ^7777771^000000
 Increase Critical damage by 2%.
 If Thief Class, increase an additional 1% per 2 Refine.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4514#
@@ -27474,44 +27467,44 @@ Weight: ^7777771^000000
 4515#
 Reduces DMG 30% from plant-type enemies.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4516#
 DEF +50, Flee -25.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4517#
 INT +2. For magician types, additional INT +1 per +3 upgrade.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Location: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4518#
 Upon physical attack, there is a chance of igniting the target. 
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4519#
 Physical attacks increase by 20% against angel-type monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4520#
 STR +3.
 When receiving physical or magical damage, there is a small chance to position a target with Confusion or Fear status.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4521#
 Increase Critical attacks by 15%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4522#
@@ -27610,7 +27603,7 @@ Weight: ^7777771^000000
 4531#
 Magic attacks have a chance of inflicting Curse status on enemies.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4532#
@@ -27730,7 +27723,7 @@ LUK +1
 When compounded with a Cuite Academy Hat
 ATK +5, MATK +5
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4549#
@@ -27775,273 +27768,273 @@ Weight: ^7777771^000000
 Enables Level 10 Magic Strings (if equipped with a Musical Instrument/Whip).
 Flee +20. If VIT 110 or greater, additional Flee +20.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4561#
 Magic attacks from enemies create a high chance of auto casting Level 5 Magnetic Earth.
 MATK +7%. If DEX 110 or greater, additional MATK +7%.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4562#
 Physical attacks from enemies create a high chance of auto casting Level 5 Occult Impaction.
 ATK +7%. If AGI 110 or greater, additional ATK +7%.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4563#
 Physical attacks from enemies create a high chance of auto casting Level 5 Acid Terror. (Requires Acid Bottles.)
 CRI +20. If STR 110 or greater, additional CRI +20.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4564#
 Physical attacks from enemies create a high chance of auto casting Level 1 Full Divestment.
 Hit +20. If LUK 110 or greater, additional Hit +20.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4565#
 Magic attacks from enemies create a high chance of auto casting Level 10 Grand Cross.
 MHP +10%. If INT 110 or greater, additional MHP +10%.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4566#
 Enables Level 10 Lady Luck (if equipped with a Musical Instrument/Whip).
 Flee +20. If VIT 110 or greater, additional Flee +20.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4567#
 Flee +10.
 (For Bard classes) MHP +10%, MSP +5%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4568#
 Flee +10.
 Enables Level 1 Hocus Pocus.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4569#
 Flee +10.
 Enables Level 2 Summon Spirit Sphere.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4570#
 Flee +10.
 Red/Yellow/Condensed White Potions effectiveness +200%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4571#
 Flee +10.
 Enables Level 1 Close Confine.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4572#
 Flee +10.
 Enables Level 3 Guard.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4573#
 Flee +10.
 (For Dancer classes) MHP +10%, MSP +5%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4574#
 One/Two-Handed Swords ATK +100.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4575#
 ATK +10.
 (For Daggers) ASPD +1 when upgraded to +10 and above, additional ASPD +1 when upgraded to +14 and above.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4576#
 Wind/Ghost Magic damage +100%.
 All elemental resistances -30%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4577#
 Wind/Ghost Magic damage +20%.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4578#
 Critical damage +30%.
 Damage from all monster types +10%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4579#
 (For Maces) ATK +20, CRI +10.
 Additional ATK +1/CRI +1, depending on the upgrade levels.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4580#
 Fire/Water/Earth/Wind/Shadow/Undead Resistances +50%.
 Ghost/Holy damage from enemies +100%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4581#
 Physical attacks from enemies create a chance of increasing Attack Speed for 3 seconds, increasing AGI +44, and casting Endure at the cost of 40 SP.
 Class: ^777777Card^000000
-Compound on: ^777777Shoes^000000
+Location: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4582#
 Max HP +1% every 2 upgrade levels.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Location: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4583#
 +30% damage on Poison monsters.
 Ignores 30% defense of Plant monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Location: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4584#
 Each attack on enemies restores 1 SP.
 MSP -1%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4585#
 MSP +10%
 Each kill consumes 666 of your HP.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4586#
 MATK +10. Wind Magic damage +5%.
 Additional Wind Magic damage +5% when upgraded to +9 or above.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Location: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4587#
 +12 Critical damage on Demihuman/Players/Animal/Fish monsters.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4588#
 ATK +5 every 10 pure STR.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4589#
 MHP +200 every 10 pure VIT.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4590#
 INT + 4. Magic attacks from enemies create a high chance of casting Sleep on enemies within a 23x23 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4591#
 STR +4. Physical attacks from enemies create a high chance of casting Bleeding on enemies within a 23x23 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4592#
 VIT +4. Magic attacks from enemies create a high chance of casting Petrification on enemies within a 23x23 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4593#
 Long-range Attack Strength +1% for every 10 pure DEX.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4594#
 Critical damage +2% for every 10 pure LUK.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4595#
 Bonus on Attack Speed for every 10 pure AGI (-2% post-attack delay).
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4596#
 MATK +5 every 10 pure INT.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4597#
 MATK +10. Water Magic damage +5%.
 Additional Water Magic damage +5% when upgraded to +9 or above.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Location: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4598#
 MATK +10. Ghost Magic damage +5%.
 Additional Ghost Magic damage +5% when upgraded to +9 or above.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Location: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4599#
 MATK +10. Fire Magic damage +5%.
 Additional Fire Magic damage +5% when upgraded to +9 or above.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Location: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4600#
 MATK +10. Earth Magic damage +5%.
 Additional Earth Magic damage +5% when upgraded to +9 or above.
 Class: ^777777Card^000000
-Compound on: ^777777Helm^000000
+Location: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4601#
@@ -28049,7 +28042,7 @@ ATK +15%, MATK +15%.
 -666 HP and -66 SP every 4 seconds.
 -6,666 HP and -666 HP when unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4602#
@@ -28057,21 +28050,21 @@ ATK +20%, MATK +20%.
 -666 HP and -66 SP every 6 seconds.
 -6,666 HP and -666 HP when unequipped.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4603#
 ATK +20.
 Melee Physical attacks create a high chance of casting Petrification, Sleep, and Curse on all monsters within a 5x5 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4604#
 ATK +30.
 Melee Physical attacks create a high chance of casting Petrification, Sleep, and Curse on all monsters within an 11x11 cell area around you.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4605#
@@ -28080,7 +28073,7 @@ If a Melee Physical attack finishes a monster, HP +200. (Additional HP +10 for e
 -4,444 HP when unequipped.
 Neutral Resistance +20%, Flee +20, HP -100, and SP -6 every 6 seconds when equipped with Undead Knight (F) Card.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4606#
@@ -28089,14 +28082,14 @@ If a Melee Physical attack finishes a monster, SP +20. (Additional SP +1 for eve
 SP -444 when unequipped.
 Neutral Resistance +20%, Flee +20, HP -100, and SP -6 every 6 seconds when equipped with Undead Knight (M) Card.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4607#
 ATK +5, MATK +5.
 (For Books) ATK +20 and MATK +20 when upgraded to +10 and above. ATK +20, MATK +20 when upgraded to +14 and above.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4610#
@@ -28109,7 +28102,7 @@ Weight : ^7777771^000000
 MATK +20%.
 Increase SP consumption of skills by 10%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4626#
@@ -28117,7 +28110,7 @@ Increases magical damage against Formless and Demon races by 5%.
 When equipped with a shield compounded to a Rental Punk Card:
 ignores 50% of Formless and Demon monsters' Magic Defense Rate.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4627#
@@ -28125,7 +28118,7 @@ Increase physical damage against Formless and Demon races by 10%.
 When equipped with a shield compounded to a Rental Punk Card:
 ignores 50% of Formless and Demon monsters' Defense Rate.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4628#
@@ -28135,7 +28128,7 @@ further reduce damage taken from Formless and Demon races by 5%.
 When equipped with a weapon compounded to Big Bell Card:
 further reduce damage taken from Formless and Demon races by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4629#
@@ -28144,7 +28137,7 @@ Increases damage of Earth property magic by 3% per refine.
 When equipped with shoes compounded to a Time Keeper Card:
 further increases resistance against Neutral property attack by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4630#
@@ -28152,13 +28145,13 @@ Has a chance of inflicting the Curse status on all enemies in an 11x11 area arou
 When equipped with a garment compounded with an Arc Elder Card:
 the chance is further increased.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4631#
 ASPD +3%
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4632#
@@ -28167,20 +28160,20 @@ If the user has mastered the skill at Level 5, it will cast Level 5 instead.
 When equipped with an accessory compounded to an Owl Viscount Card:
 adds a chance of auto casting level 1 Lord of Vermilion when dealing a physical attack.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4652#
 Increases magic damage against Shadow and Undead monsters by 50%
 Increases magic damage against Demon and Undead race monsters by 50%
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4653#
 Reduces damage from Brute and Undead monsters by 20%
 Class: ^777777Card^000000
-Compound on: ^777777Shield^000000
+Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4654#
@@ -28189,7 +28182,7 @@ when equipped with equip compounded with a Nightmare Arclouse card
 Reduce damage from Brute and Undead monsters by 5%
 Ignore 50% magic defense of Brute and Undead monsters
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4655#
@@ -28198,7 +28191,7 @@ when equipped with equip compounded with a Nightmare Arclouse card
 Reduce damage from Brute and Undead monsters by 5%
 Ignore 50% physical defense of Brute and Undead monsters
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4656#
@@ -28207,7 +28200,7 @@ chance to cause Sleep to all targets in an area of 11x11 cells.
 When equipped with equip compounded with a Nightmare Ancient Mummy card
 increases the probability of causing Sleep.
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4657#
@@ -28216,7 +28209,7 @@ Every refine of garment increase magical Fire damage by 3%
 When equipped with equip compounded with a Nightmare Mummy card
 increases resistance against Neutral property attack by 5%.
 Class: ^777777Card^000000
-Compound on: ^777777Garment^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4658#
@@ -28224,7 +28217,7 @@ MATK +5%
 When refined to +7, increases magical damage inflicted by 3%
 When refined to +9, increases magical damage inflicted by 2%
 Class: ^777777Card^000000
-Compound on: ^777777Footwear^000000
+Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4697#
@@ -28232,14 +28225,14 @@ MSP -300.
 Each short-range Physical attack has a high chance of destroying an enemy's armor.
 Equipped with Kick Step Card, does not consume Madogear energy.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4698#
 Increases 30% of [Axe Boomerang] damage.
 Increases an additional 30% of [Axe Boomerang] damage if the weapon is refined +10 or higher.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4699#
@@ -28247,7 +28240,7 @@ Increases 20% of [Arm Cannon] damage.
 Increases an additional 20% of [Arm Cannon] damage if weapon is refined +10 or higher.
 Equipped with Kick Step Card, does not consume Madogear energy.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4700#
@@ -29178,7 +29171,7 @@ Adventurers can feel carefree exploring dangerous lands knowing that Kafra gal B
 10% Resistance to fire/wind/water/earth/holy/shadow elements. 
 2% chance of increasing resistance to fire/wind/water/earth/holy/shadow elements by 10% for 10 seconds when receiving magic damage.
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4992#
@@ -39758,7 +39751,6 @@ Location: ^777777Lower^000000
 Weight: ^77777710^000000
 #
 6646#
-^ff0000This item cannot be traded with other accounts.^000000
 Collect more of these items to exchange for a reward.
 Weight : ^7777770^000000
 #
@@ -42577,8 +42569,6 @@ Weight: ^7777771^000000
 #
 7345#
 ^808080A pair of metal restraints which seem to smell of blood.^000000
-^CC66FFItem Function:^000000
-Can be used to craft Biolab Headgear.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -42591,8 +42581,6 @@ Weight: ^7777771^000000
 #
 7347#
 ^808080A chart, written in a language you don't recognize, that details the history of research.^000000
-^CC66FFItem Function:^000000
-Can be used to craft Biolab Headgear.
 ^FFFFFF_^000000
 Weight: ^7777771^000000
 #
@@ -47406,7 +47394,7 @@ ATK, MATK + 30, ATK, MATK + 1% for 30 minutes
 HIT, FLEE + 30, ASPD + 1, decrease SP consumption by 5%
 Fixed Cast Delay Reduced by 30%.
 (Fixed Cast Delay reduction only applies the largest bonus.)
-^000088When the character becomes incapacitated, the effect is lost..^000000
+^000088When the character becomes incapacitated, the effect is lost.^000000
 Weight : ^7777771^000000
 #
 9899#
@@ -49474,10 +49462,10 @@ Although the Dessert Chef wishes for people to drink this treat elegantly, it's 
 Weight: ^77777715^000000
 #
 11589#
-Shaved ice with red bean, milk and rice cakes. Makes you feel fresh, even inside your chest.
-Recovers 5% of HP and SP.
-You will be frozen for 2 seconds after eating this.
-Weight: ^7777775^000000
+A shaved ice with red bean, milk and rice cakes. One of the best summer dessert.
+Restores 5% of HP and SP.
+The item has a chance to apply Frozen to the character for 2 seconds.
+Weight : ^7777775^000000
 #
 11592#
 ^808080A chance for you to be a monster!! Only available on Halloween!!^000000
@@ -50511,7 +50499,7 @@ in the Far East are made of mixed flour, honey and sweet liquor. Temporarily add
 Weight: ^7777777^000000
 #
 12124#
-A colorful rice cake that is used as party food in the far Eastern county.
+A colorful rice cake that is used as party food in the far Eastern country.
 Temporarily increase ATK and MATK by 10.
 ^ffffff_^000000
 Weight : ^7777777^000000
@@ -52589,7 +52577,7 @@ for 30 minutes.
 Weight: ^7777771^000000
 #
 12501#
-The epitome of Luoyang cuisine. Its ingredients may be hard to find, but culinarily speaking, it's a masterpiece.
+The epitome of Louyang cuisine. Its ingredients may be hard to find, but culinarily speaking, it's a masterpiece.
 STR +10 for 30 minutes
 ^ffffff_^000000
 Weight : ^7777771^000000
@@ -53292,7 +53280,7 @@ open it to find out.
 Weight: ^77777720^000000
 #
 12710#
-A sweet and sour desert made by Guyak. It would be great when it's cool.
+A sweet and sour dessert made by Guyak. It would be great when it's cool.
 Increase character's movement speed by 100% for 5 minutes. 
 ^ffffff_^000000
 Weight : ^77777720^000000
@@ -63987,7 +63975,7 @@ It is an object robbed by monsters during the Airship attack incident.
 MaxHP + 1000, MaxSP + 100, MDEF + 10.
 All State + 1.
 Unrefineable, Untradable.
-When Airship¨s Armor, Airship's Cloak, and Airship's Boots are equipped together, MaxHP + 25%, MaxSP + 25%, increases movement speed.
+When Airship's Armor, Airship's Cloak, and Airship's Boots are equipped together, MaxHP + 25%, MaxSP + 25%, increases movement speed.
 Class : ^777777Armor^000000    Defense : ^777777100^000000
 Weight : ^7777770^000000
 Required level : ^777777125^000000
@@ -64001,7 +63989,7 @@ All State + 1.
 If refined to +7: MaxHP + 500, MaxSP + 50.
 If refined to +9: MaxHP + 200, MaxSP + 20.
 If refined to +12: MaxHP + 300, MaxSP + 30.
-When Felrock¨s Armor, Felrock¨s Cape, Felrock¨s Boots are equipped together, MaxHP + 25%, MaxSP + 25%, increase movement speed, if the sum of the refine level of the entire set is equal or higher than 30, add MaxHP + 5%, MaxSP + 5%.
+When Felrock's Armor, Felrock's Cape, Felrock's Boots are equipped together, MaxHP + 25%, MaxSP + 25%, increase movement speed, if the sum of the refine level of the entire set is equal or higher than 30, add MaxHP + 5%, MaxSP + 5%.
 Class : ^777777Armor^000000    Defense : ^77777770^000000
 Weight : ^77777775^000000
 Required level : ^777777125^000000
@@ -64064,6 +64052,16 @@ Equipment Type: ^777777Armor^000000 Defense: ^77777725^000000
 Weight: ^777777160^000000
 Required Level: ^77777740^000000
 Usable By: ^777777All Character Types^000000
+#
+15174#
+A swimsuit designed for the best surfer.
+Max HP +5%, Max SP +5%.
+For every 3 refine levels, Max HP +1%, Max SP +1%.
+When equipped with Scuba Mask, Perfect Dodge +10, reduces Variable Cast Time by 10%.
+Class: ^777777Armor^000000 Defense: ^7777771^000000
+Weight: ^77777710^000000
+Required Level: ^77777740^000000
+Jobs: ^777777All Jobs^000000
 #
 15181#
 A uniform given to loyal members of Eden Group only. It comes in various sizes, is waterproof, and has an antistain feature.
@@ -64177,6 +64175,17 @@ Equipment Type: ^777777Armor^000000 Defense: ^77777735^000000
 Weight: ^77777720^000000
 Required Level:^7777771^000000
 Usable By: ^777777Archer Class ^000000
+#
+15210#
+^000088Rental Item^000000
+Rental Swimsuit that can be used for a certain time during the Noodle Festa period in July. Made for the best surfer.
+Max HP +10%, Max SP +10%. 
+[Rental] When equipped with a Scuba Mask, Perfect Dodge +15, reduces Variable Cast Time by 30%. 
+Hunting EXP from Fish Monsters + 5%
+Class: ^777777Armor^000000 Defense: ^7777771^000000
+Weight: ^7777770^000000
+Required Level: ^77777740^000000
+Jobs: ^777777All Jobs^000000
 #
 15350#
 My Guardian! Elephangel! Flying Elephant?
@@ -73339,7 +73348,7 @@ Req LV: ^77777730^000000
 Jobs: ^777777All^000000
 #
 18603#
-A grotesque headgear which covers a half of a person's face.
+A grotesque headgear which covers half of a person's face.
 All Stats +1.
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^77777710^000000
@@ -76344,7 +76353,7 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 18968#
-A 'Marine' jinn who makes wishes come true.
+A 'Marin' jinn who makes wishes come true.
 INT +1, DEX +1, Max HP +100.
 ATK +5, MATK +5.
 Class : ^777777Headgear^000000 Defense : ^7777775^000000
@@ -77381,6 +77390,16 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
+19162#
+A Scuba Mask with a snorkel. 
+It's a waterproof diving mask that resists high pressure and shocks.
+ATK + 5, MATK + 5.
+When equipped with Surfer Swimsuit and Oxygen Tank, increases ASPD (Reduce delay after attack by 10%) and Critical Hit Rate + 50% to Fish Monsters 
+Class: ^777777Headgear^000000 Defense: ^7777770^000000
+Location: ^777777Middle ^000000Weight: ^77777710^000000
+Required Level: ^77777740^000000
+Jobs: ^777777All Jobs^000000
+#
 19164#
 A hat given to loyal members of Eden Group. It shows the design and technology of Eden Group.
 Adds a high chance for 5 seconds of ATK +15 when dealing physical attacks.
@@ -77595,6 +77614,18 @@ Class : ^777777Headgear^000000 Defense : ^77777710^000000
 Location : ^777777Middle ^000000Weight : ^77777730^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
+#
+19275#
+^000088Rental Item^000000 
+Rental Scuba Mask that can be used for a certain time during the Noodle Festa period in July. It's a waterproof diving mask that resists high pressure and shocks.
+ATK +20, MATK +20.
+Reduce damage taken from Fish Monster by 5%.
+When equipped with [Rental]Surfer Swimsuit and [Rental]Oxygen Tank, increases ASPD (Reduce delay after attack by 15%) and CRIT +30% to Fish Monsters.
+Damage to Fish Monster +25%, gives Water property to the armor.
+Class: ^777777Headgear^000000 Defense: ^7777770^000000
+Location: ^777777Middle ^000000Weight: ^7777770^000000
+Required Level: ^77777740^000000
+Jobs: ^777777All Jobs^000000
 #
 19277#
 A cool and refreshing soft drink. Goes great with popcorn. 
@@ -80020,11 +80051,11 @@ Required LV: ^7777771^000000
 Job: ^777777all jobs^000000
 #
 19803#
-A hairband decorated with a pinwheel. It makes you cool!
+A cap with a pinwheel. It refreshes and cools down the wearer.
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Jobs
 #
 19804#
 A red hairpin with a spinning round windmill.
@@ -83318,23 +83349,6 @@ Location: ^777777Lower ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
-20341#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors and change wig locations^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on ^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All Jobs^000000
-77777All^000000
-#
 20342#
 Cute Twin-tail hair style of Irene when she performed Bad Boy
 ^FFFFFF_^000000
@@ -83388,118 +83402,6 @@ Location: ^777777Lower ^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
-#
-20350#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors and change wig locations^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on ^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All Jobs^000000
-#
-20351#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors and change wig locations^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on ^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All Jobs^000000
-#
-20352#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors and change wig locations^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on ^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All Jobs^000000
-#
-20353#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors and change wig locations^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on ^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All Jobs^000000
-#
-20354#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors and change wig locations^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on ^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All Jobs^000000
-#
-20355#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors and change wig locations^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on ^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All Jobs^000000
-#
-20356#
-Hair style of Araragi that which he always do.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors and change wig locations^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on ^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All Jobs^000000
 #
 20357#
 Stylish Wig.
@@ -85314,8 +85216,8 @@ Adds a chance of autocasting ^0000FFLevel 3 Drain Life^000000 when receiving a m
 
 When equipped with Robe of Gray, Helmet of Gray, and Boots of Gray:
 MHP +25%, MSP +25%, MATK +10%.
-Reduces damage taken from Neutral property attack by 15%.=],
-				[=[
+Reduces damage taken from Neutral property attack by 15%.
+
 Class: ^777777Garment^000000
 Defense: ^77777745^000000
 Weight: ^77777760^000000
@@ -85772,6 +85674,16 @@ Weight: ^80808020^000000
 Requires Level: ^8080801^000000
 Usable By: ^808080All Jobs^000000
 #
+20819#
+Oxygen Tank that allows underwater activities.
+FLEE +12. 
+For every 1 refine level, HIT +1, FLEE +1.
+When equipped with Scuba Mask, ASPD + 1 and Casting cannot be interrupted.
+Class: ^777777Garment^000000 Defense: ^7777770^000000
+Weight: ^77777750^000000
+Required Level: ^77777740^000000
+Jobs: ^777777All Jobs^000000
+#
 20823#
 A cape given to loyal members of Eden Group. It has a stylish design.
 Reduces damage taken from neutral elemental attacks +10%, Flee +12
@@ -85896,6 +85808,18 @@ Type: ^777777Garment^000000 Protection: ^77777717^000000
 Weight: ^77777725^000000
 Level Required: ^7777771^000000
 Required Class: ^777777Swordsman Class, Merchant Class, Thief Class^000000
+#
+20855#
+^000088Rental Item^000000
+Rental Oxygen Tank that can be used for a certain time during the Noodle Festa period in July. It allows underwater activities.
+FLEE +30 , HIT +30.
+Reduce damage taken from Fish Monster by 10%.
+Increases resistance against Neutral and Water properties by 15%.
+When equipped with [Rental] Scuba Mask, ASPD +2 and casting cannot be interrupted.
+Class: ^777777Garment^000000 Defense: ^7777770^000000
+Weight: ^7777770^000000
+Required Level: ^77777740^000000
+Jobs: ^777777All Jobs^000000
 #
 20919#
 ^808080Small bag that decorated with small Poring doll. 
@@ -87202,6 +87126,14 @@ This bag is packed with snacks and goodies for Christmas
 ^ffffff_^000000
 Weight: ^7777777^000000
 #
+22551#
+^ff0000This item cannot be traded with other accounts.^000000
+Snacks made out of pine pollen, chestnut flour and honey, which enhance the flavor of teas.
+Embossed with the characters for safety, luck, and longevity, these cookies are made to wish good fortune to those who eat them. 
+HIT is temporarily increased by 30.
+^ffffff_^000000
+Weight : ^7777777^000000
+#
 22564#
 Es tu, Randgris?
 March to your destiny strengthened by the contents of this box.
@@ -87568,6 +87500,11 @@ Increase Aspd for 60 minutes and Move Speed for 10 minutes.
 ^FFFFFF_^000000
 ^FF0000Cannot be traded.^000000
 Weight: ^7777771^000000
+#
+22822#
+Contains costume for summer vacation.
+Able to wear summer vacation costume for 10 minutes.
+Weight : ^77777710^000000
 #
 22826#
 A box that contains many enchanted costume stones inside.
@@ -88298,6 +88235,18 @@ Contains 3-day employment voucher for hiring high quality buyer.
 ^FF0000Cannot be traded.^000000
 Weight: ^7777771^000000
 #
+23362#
+The best tasting culinary ingredient that can be obtained from Nyailo. Pig Potato adds a heavenly taste when put on all types of noodles.
+Restores 15% HP and SP.
+(This item will be removed once event ends.) 
+Weight: ^7777775^000000
+#
+23363#
+A watermelon pudding with watermelon decoration. 
+Restores 10% HP and SP with Lv 10 Blessing effect
+(This item will be removed once event ends.) 
+Weight : ^7777773^000000
+#
 23364#
 ^ff0000This item cannot be traded.^000000
 A cookie that resembles the pope, made by Cheshrumnir temple.
@@ -88314,6 +88263,12 @@ A box prepared by Eden Group's Criatura Academy for members who have returned fr
 Contains 20 Eden Group Coins, 20 White Potions, and 20 Criatura Pope Cookies from Arunafeltz as a thank you.
 
 Weight: ^7777770^000000
+#
+23367#
+Made with tomato and thin noodles. The most basic noodle but beloved by all people.
+Restores 30% HP and SP
+(This item will be removed once event ends.) 
+Weight : ^77777710^000000
 #
 23368#
 Special Catalog made by Shopaholic Girl.
@@ -91469,9 +91424,24 @@ The herb that sprouts outside the village in June (6th month of the year). Burn 
 ^ff0000(This item will be removed once event ends.) ^000000
 Weight: ^7777771^000000
 #
-25401#
-Decayed black fur. It is ominous in the shadow.
-^ff0000This item cannot be traded with other accounts.^000000
+25344#
+A round and flat stone. It shimmers like a jewel. Maybe it is a jewel?
+(This item will be removed once event ends.) 
+Weight: ^7777770^000000
+#
+25365#
+Long, thin strands of noodles. When thrown at a wall, the fully cooked noodles stick to it.
+(This item will be removed once event ends.) 
+Weight: ^7777770^000000
+#
+25366#
+Coin used in Noodle Festa.
+(This item will be removed once event ends.) 
+Weight: ^7777770^000000
+#
+25367#
+It has promotional content for Noodle Festa. It's a surprisingly sturdy fan that generates a cool watermelon-scented breeze.
+(This item will be removed once event ends.) 
 Weight: ^7777770^000000
 #
 25408#
@@ -91692,7 +91662,7 @@ Jobs:^777777 Dancer Jobs^000000
 MHP + 8%.
 For Mechanic class, decreasing 30% long distance physical damage.
 Class: ^777777Card^000000
-Compound on: ^777777Armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 27013#
@@ -91700,14 +91670,14 @@ Increasing 10% of [Vulcan Arm] damage.
 +10 Refined, 20% additional [Vulcan Arm] damage increased.
 Equipped with Kick Step Card, does not consume Madogear energy.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 27014#
 MHP + 2%
 Add a chance to recover 1,000 HP per second for 5 seconds when the user is receiving physical or magical damage.
 Class: ^777777Card^000000
-Compound on: ^777777Footgear^000000
+Location: ^777777Footgear^000000
 Weight: ^7777771^000000
 #
 27015#
@@ -91715,7 +91685,7 @@ Increase natural HP and SP regeneration rate by 25%.
 Recover +30 HP and +3 SP each time a monster is killed by Physical Melee Damage.
 + 7 Refined, additional +10 HP and +1 SP each time a monster is killed by Physical Melee Damage.
 Class: ^777777Card^000000
-Compound on: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 27016#
@@ -91723,7 +91693,7 @@ Critical Rate + 30% on Formless monster.
 Equip with Repair Robot Turbo Card,
 additional Critical Damage +10%.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 27017#
@@ -91731,7 +91701,7 @@ Decreasing 10% physical and magical damage from Formless monster.
 +7 Refined, Reducing 5% physical and magical damage from Formless monster.
 Has a chance to gain miscellaneous items when a monster is killed.
 Class: ^777777Card^000000,
-Compound on: ^777777Garment^000000,
+Location: ^777777Garment^000000,
 Weight : ^7777771^000000,
 #
 27018#
@@ -91739,7 +91709,7 @@ Increase attack speed. (After Attack Delay - 1%)
 Base level 90 or higher, increase additional attack speed. (After Attack Delay - 1%)
 Base level 120 or higher, increase additional attack speed. (After Attack Delay - 1%)
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 27019#
@@ -91749,7 +91719,7 @@ Base level 120 or higher, additional HIT + 1.
 Equip with GC109 Card,
 Each short ranged physical attack has a chance to Aspd + 5 for 5 seconds
 Class: ^777777Card^000000
-Compound on: ^777777Accessory^000000
+Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 27020#
@@ -91757,7 +91727,7 @@ ATK + 10%.
 Adds a chance to take away 40% MSP within 15*15 cell during a short ranged physical attack.
 Increase casting rates for each +3 refined.
 Class: ^777777Card^000000
-Compound on: ^777777Weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 27026#
@@ -92499,7 +92469,7 @@ A 10% chance of casting ^0000FFLevel 1 Cross Slash^000000 on the target when dea
 A 3% chance of inflicting ^800000Curse^000000 status on the target when dealing physical attacks.
 #
 28310#
-Sarah¨s left earing. When equipped, it feels like you can use Sarah¨s power.
+Sarah's left earing. When equipped, it feels like you can use Sarah's power.
 Can use Heal Lv. 1
 ^ff0000This item cannot be traded with other accounts.^000000
 Class : ^777777Accessory^000000 Defense : ^7777770^000000
@@ -92508,7 +92478,7 @@ Required level : ^777777145^000000
 Jobs : ^777777All Jobs^000000
 #
 28311#
-Sarah¨s right earing. When equipped, it feels like you can use Sarah¨s power. 
+Sarah's right earing. When equipped, it feels like you can use Sarah's power. 
 Can use Teleport 1Lv.
 ^ff0000This item cannot be traded with other accounts.^000000
 Class : ^777777Accessory^000000 Defense : ^7777770^000000
@@ -93051,33 +93021,19 @@ Job: ^777777All jobs^000000
 A ring that empowers the essences of the Demon God.
 ATK +5%
 MATK +5%
-！！！！！！！！！！！！！
-Equip with Demon God Essence Force1, ATK +5%.
-Equip with Demon God Essence Force2, ATK +5%.
-Equip with Demon God Essence Force3, ATK +5%.
-！！！！！！！！！！！！！
-Equip with Demon God Essence Intelligence1, MATK +5%.
-Equip with Demon God Essence Intelligence2, MATK +5%.
-Equip with Demon God Essence Intelligence3, MATK +5%.
-！！！！！！！！！！！！！
-Equip with Demon God Essence Speed1,
+ 
+Equip with Demon God Essence Force1,Force2 or Force3, ATK +5%.
+ 
+Equip with Demon God Essence Intelligence1,Intelligence2 or Intelligence3, MATK +5%.
+ 
+Equip with Demon God Essence Speed1,Speed2 or Speed3
 Increase ASPD (Decrease delay after attack by 5%)
-Equip with Demon God Essence Speed2,
-Increase ASPD (Decrease delay after attack by 5%)
-Equip with Demon God Essence Speed3,
-Increase ASPD (Decrease delay after attack by 5%)
-！！！！！！！！！！！！！
-Equip with Demon God Essence Concentration1, decrease variable cast time by 5%
-Equip with Demon God Essence Concentration2, decrease variable cast time by 5%
-Equip with Demon God Essence Concentration3, decrease variable cast time by 5%
-！！！！！！！！！！！！！
-Equip with Demon God Essence Vitality1, Max HP +5%.
-Equip with Demon God Essence Vitality2, Max HP +5%.
-Equip with Demon God Essence Vitality3, Max HP +5%.
-！！！！！！！！！！！！！
-Equip with Demon God Essence Luck1, CRIT damage +5%.
-Equip with Demon God Essence Luck2, CRIT damage +5%.
-Equip with Demon God Essence Luck3, CRIT damage +5%.
+ 
+Equip with Demon God Essence Concentration1,Concentration2 or Concentration3, decrease variable cast time by 5%
+ 
+Equip with Demon God Essence Vitality1,Vitality2 or Vitality3 Max HP +5%.
+ 
+Equip with Demon God Essence Luck1, Luck2 or Luck3, CRIT damage +5%.
  
 Class : ^777777Accessory^000000 Defense : ^7777770^000000
 Weight : ^77777750^000000
@@ -93400,6 +93356,7 @@ Usable By: ^777777All jobs^000000
 #
 28909#
 Increase resistance against Earth property attack by 25%.
+MDEF + 5.
 If refined to +5, ASPD +1.
 If refined to +7, ASPD +1.
  
@@ -95118,7 +95075,7 @@ Equipped By: ^777777All Classes^000000
 #
 31273#
 A costume hair which can be attached to the hair for different hair style.
-Sometimes cowlick can be turned into a stylish hair style.
+Sometimes a cowlick can be turned into a stylish hair style.
 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^7777770^000000
@@ -95127,7 +95084,7 @@ Jobs : ^777777All Jobs^000000
 #
 31274#
 A costume hair which can be attached to the hair for different hair style.
-Sometimes cowlick can be turned into a stylish hair style.
+Sometimes a cowlick can be turned into a stylish hair style.
 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^7777770^000000
@@ -95136,7 +95093,7 @@ Jobs : ^777777All Jobs^000000
 #
 31275#
 A costume hair which can be attached to the hair for different hair style.
-Sometimes cowlick can be turned into a stylish hair style.
+Sometimes a cowlick can be turned into a stylish hair style.
 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^7777770^000000
@@ -95145,7 +95102,7 @@ Jobs : ^777777All Jobs^000000
 #
 31276#
 A costume hair which can be attached to the hair for different hair style.
-Sometimes cowlick can be turned into a stylish hair style.
+Sometimes a cowlick can be turned into a stylish hair style.
 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^7777770^000000
@@ -95154,7 +95111,7 @@ Jobs : ^777777All Jobs^000000
 #
 31277#
 A costume hair which can be attached to the hair for different hair style.
-Sometimes cowlick can be turned into a stylish hair style.
+Sometimes a cowlick can be turned into a stylish hair style.
 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^7777770^000000
@@ -95163,7 +95120,7 @@ Jobs : ^777777All Jobs^000000
 #
 31278#
 A costume hair which can be attached to the hair for different hair style.
-Sometimes cowlick can be turned into a stylish hair style.
+Sometimes a cowlick can be turned into a stylish hair style.
 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^7777770^000000
@@ -95172,7 +95129,7 @@ Jobs : ^777777All Jobs^000000
 #
 31279#
 A costume hair which can be attached to the hair for different hair style.
-Sometimes cowlick can be turned into a stylish hair style.
+Sometimes a cowlick can be turned into a stylish hair style.
 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^7777770^000000
@@ -95181,7 +95138,7 @@ Jobs : ^777777All Jobs^000000
 #
 31280#
 A costume hair which can be attached to the hair for different hair style.
-Sometimes cowlick can be turned into a stylish hair style.
+Sometimes a cowlick can be turned into a stylish hair style.
 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^7777770^000000
@@ -95398,6 +95355,24 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+31303#
+A commemorative hat for those who spent their summer with noodles.
+It's ramen with seafood.
+HP +5%, SP +5%. Increase damage to Fish Monsters by 10%. HIT +20
+Increase EXP from Fish Monsters by 5%.
+(Item effect will be removed once event ends.)
+Class: ^777777Costume^000000 Defense: ^7777770^000000
+Location: ^777777Upper ^000000Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Jobs^000000
+#
+31304#
+A must-have fan for scorching hot summer days. It can make cooling breezes or provide shade from the blazing sun. 
+Class: ^777777Costume^000000 Defense: ^7777770^000000
+Location: ^777777Lower ^000000Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Jobs^000000
+#
 31305#
 ^808080 Angeling will always be by your side! ^000000
 Class: ^777777Costume^000000
@@ -95477,6 +95452,26 @@ Location: ^777777Upper ^000000
 Weight: ^7777770^000000
 Requires Level: ^7777771^000000
 Usable By: ^777777All classes^000000
+#
+31319#
+^000088Rental Item^000000
+Rental Fan that can be used for a certain time during the Noodle Festa period in July.
+Increases ASPD(reduce delay after attack by 5%, decreases Variable Cast Time by 5% during the event period.
+When equipped with Costume Pinwheel Cap, decrease Fixed Cast Time by 0.2 seconds.
+Class: ^777777Costume^000000 Defense: ^7777770^000000
+Location: ^777777Lower ^000000Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Jobs^000000
+#
+31320#
+^000088Rental Item^000000
+Rental Headband that can be used for a certain time during the Noodle Festa period in July. This headband with a pinwheel refreshes and cools down the wearer.
+ASPD+ 1, increases Attack Speed (After Attack Delay -5%), decreases Variable Cast Time - 5%.
+10% additional Damage to Fish Monsters.
+Class: ^777777Costume^000000 Defense: ^7777770^000000
+Location: ^777777Upper ^000000Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Jobs^000000
 #
 31324#
 The cool cute cat headset.
@@ -95959,16 +95954,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 31488#
-^808080Get the feeling of the beating MVP with this unique costume ! ^000000
-^FF6633Temporary Effect^000000
-^0000FFAtk +1, Matk + 1^000000
-^FF0000Effect will be removed on 24th September 2020 ^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All Character Types^000000
+Costume MVP
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31489#
 Bouquet-themed decorative hat.
@@ -99403,6 +99394,11 @@ Weight : ^7777771^000000
 #
 101667#
 A box contains some leveling essentials.
+Weight : ^7777771^000000
+#
+101671#
+A special box obtained through recharge promotion.
+ 
 Weight : ^7777771^000000
 #
 200000#
