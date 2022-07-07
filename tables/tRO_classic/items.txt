@@ -8685,7 +8685,9 @@
 101574#Shiba Inu Scroll#
 101613#Super Strong Costume Scroll#
 101617#Mad Bunny Scroll#
+101623#Kbank Promotion Set#
 101642#Holy Golden Light Scroll#
+101680#Dessert Costume Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
