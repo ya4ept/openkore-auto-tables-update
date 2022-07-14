@@ -4322,7 +4322,7 @@
 7524#Shadow Orb#
 7526#Manuscript Paper#
 7538#Sifted Sand#
-7539#Poring Coin#
+7539#PvP Coin#
 7547#Football#
 7548#Soccer Shoes#
 7553#Lotus Flower#
@@ -8688,6 +8688,7 @@
 101623#Kbank Promotion Set#
 101642#Holy Golden Light Scroll#
 101680#Dessert Costume Scroll#
+101691#SweetGothic Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -8746,6 +8747,11 @@
 400322#Khalitzburg Helm#
 400323#[Not For Sale] Khalitzburg Helm#
 400324#[Not For Sale] Capricon Diadem#
+400331#Tare Maid Doll Hat#
+400332#Exorcismus Ribbon#
+400333#[Not For Sale] Tare Maid Doll Hat#
+400334#[Not For Sale] Exorcismus Ribbon#
+400335#[Not For Sale] Heart Wing Hairband#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
 410048#Costume Tiger#
@@ -8776,6 +8782,8 @@
 420139#[Not For Sale]Frenzy Galapago#
 420148#[Not For Sale] Elephangel#
 420149#Costume Cons Of Water#
+420166#Heart Angel#
+420167#[Not For Sale] Heart Angel#
 430003#[Not For Sale] Fancy Phantom Mask#
 440000#Costume Shark Hat#
 450000#IDTest armor#
@@ -8833,7 +8841,7 @@
 1000467#Rebellion Pre-Register Ticket#
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
-1000896#Holy Golden Light Coin#
+1000896#SweetGothic Coin#
 1000923#Mad Bunny Coin#
 1100000#IDTest heal#
 1200000#IDTest arrow#
