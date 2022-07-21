@@ -1826,6 +1826,7 @@
 2992#Pendant Of Maelstorm#
 2995#손재주 보완장치#
 2996#강화파츠 - 포신#
+2998#Shining Trapezohedron#
 4001#Poring Card#
 4002#Fabre Card#
 4003#Pupa Card#
@@ -3277,7 +3278,7 @@
 5654#빨간 마칭햇#
 5655#Dark Snake Lordl Hat#
 5656#Scooter Hat J#
-5657#선장 파이프#
+5657#Captain's Pipe#
 5658#Imp Hat#
 5659#Sleeper Hat#
 5660#Gryphon Hat#
@@ -6469,6 +6470,7 @@
 15885#Erron's Hat (OSM)#
 15886#Reptile's Head (OSM)#
 15887#Odious's Robe#
+15921#Charm Of Great Nature#
 16000#Erde#
 16001#Red Square Bag#
 16003#Carga Mace#
@@ -6949,6 +6951,7 @@
 18557#Symbol of Devil#
 18558#신선초모자#
 18563#Heart Wing Hairband#
+18564#Love Piece#
 18565#레프리컨의 모자#
 18570#Ancient Gold Deco#
 18571#Lucky Hat#
@@ -7164,7 +7167,7 @@
 18842#소녀의 모자#
 18843#Small Deviling Hat#
 18844#파란 포링 풍선#
-18845#밴시 마스터의 키스#
+18845#Banshee Master Kiss#
 18848#Lush Rose#
 18849#Celine's Ribbon#
 18850#Polar Bear Cap#
@@ -7230,13 +7233,13 @@
 18942#Gigantic Water Cap#
 18943#Silk Hat of Earth#
 18944#Deviruchi Balloon#
-18945#왕 귀요미 인형#
+18945#Super Cute Doll Hat#
 18946#참 귀요미 인형 모자#
 18953#pRO 10주년 기념 모자#
 18955#해적의 어리석음#
 18956#Bon Bon Chocolate#
 18961#루나틱 제련 모자#
-18962#웬쟈이 풍선#
+18962#Panda Balloon#
 18963#기쁜 앵무새#
 18964#성자의 왕관#
 18965#쉐이빙 폼#
@@ -7398,7 +7401,7 @@
 19530#Costume Wild Rose#
 19532#Costume Red Hot Bunny#
 19533#Costume Spore Hat#
-19535#Costume Nassy Tree#
+19535#Costume Sinsuncho Hat#
 19536#장미 코르사쥬#
 19537#Costume Gryphon Hat#
 19538#Full Moon#
@@ -7422,10 +7425,10 @@
 19556#의상 가부키 가면#
 19566#의상 사무라이 마스크#
 19573#Costume Heart Wing Hairband#
-19574#Costume Champion of Britonia#
+19574#Costume Lord of Death#
 19577#의상 10주년 포링모#
 19580#의상 스핑크스 모자#
-19581#모험가의 모자#
+19581#Costume Adventurer's Hat#
 19582#의상 카우보이모자#
 19583#의상 의적안대#
 19584#Costume Pirate Dagger#
@@ -7537,6 +7540,7 @@
 19735#Costume Fin Helm#
 19737#Costume Corsair#
 19739#의상 잠자는 고양이 모자#
+19741#Costume Majestic Evil Horns#
 19743#Costume Anubis Helm#
 19744#Costume Black Tail Ribbon#
 19745#의상 빨간 마칭햇#
@@ -7818,7 +7822,7 @@
 20179#의상 원숭이 털모자#
 20183#Costume There Is Something#
 20191#Costume Black Cat Ears Beret#
-20194#Costume Lion Mask#
+20194#Costume King Lion Mask#
 20195#Costume Scratching Cat#
 20196#Costume Leopard Ear Hat#
 20197#Costume Amistr Beret#
@@ -8055,7 +8059,7 @@
 20564#Costume 160LV Minstrel Pink#
 20565#Costume 160LV Archb White#
 20566#Costume 160LV Guill Silver#
-20567#Costume 160LV ShadowC Black#
+20567#Costume Black Aura#
 20568#Costume 160LV Mechanic Gold#
 20569#Costume 160LV Genetic YGreen#
 20570#Costume Heart Choco Bag#
@@ -8096,7 +8100,7 @@
 20737#Costume Kirin Wing#
 20743#Airship Cloak#
 20744#Felock's Cape#
-20745#Manteau of Mistic Frozen#
+20745#Manteau of Mystic Frozen#
 20746#Costume Rudra's Grace#
 20747#Manteau of Great Nature#
 20756#에기르 망토#
@@ -8919,6 +8923,7 @@
 31178#Costume Fire Muffler#
 31179#Costume She Wolf#
 31180#Costume Shura King Pledge#
+31181#Costume Rosario's Necklace#
 31183#Costume Dark Pupid Wing#
 31186#Costume Black Cat#
 31189#Costume Santa's Muffler#
@@ -8989,6 +8994,7 @@
 31304#Costume Fan of Summer#
 31305#Costume Walking Poring#
 31308#Costume Archangel Feather#
+31312#Costume Hades Helm#
 31314#Costume Horns of Forest#
 31315#Costume Stall Of Angel#
 31316#Costume Butterfly Effect (Glam)#
@@ -9211,6 +9217,14 @@
 31947#Costume Motaro Horn#
 31950#Costume Alvin's Chipmunk#
 31951#Costume Sappy Cat#
+31959#Costume Wave Perm (Black)#
+31960#Costume Wave Perm (Blue)#
+31961#Costume Wave Perm (Green)#
+31962#Costume Wave Perm (Brown)#
+31963#Costume Wave Perm (Pink)#
+31964#Costume Wave Perm (Purple)#
+31965#Costume Wave Perm (Red)#
+31966#Costume Wave Perm (White)#
 32018#Aquatic Spear#
 32033#Grossular Spear#
 32115#Violarite Guitar#
@@ -9265,6 +9279,7 @@
 101504#Ascendance Egg#
 101518#Time Keeper Box#
 101526#Spiritual Pill#
+101536#Wave Perm Box#
 101539#Thanatos Egg#
 101541#Thanatos Egg#
 101558#Streamer Care Box#
@@ -9298,6 +9313,13 @@
 101652#Demonic Egg#
 101667#GGH Level-up Box#
 101671#GGH Recharge Box#
+101684#MSP Event Box#
+101685#Booster Wine#
+101686#Shadow Egg#
+101687#1500 KP Box#
+101688#9000 KP Box#
+101689#18000 KP Box#
+101690#36000 KP Box#
 200000#IDTest Cash#
 200190#Box of 1 Nyangvine#
 200210#Almighty package#
@@ -9305,6 +9327,8 @@
 200212#Infinity package set#
 300000#IDTest Card#
 400115#Costume Angeling Bread Hat#
+420000#Isabella's Carrot#
+420029#Costume Imperial Glory#
 420030#Feather In Mouth#
 420071#Costume Feather Stola#
 440002#Costume Happy Cat#
@@ -9312,16 +9336,24 @@
 450211#Guardian Mail#
 450212#Raider Cloth#
 450213#Mystic Robe#
+450227#Predator Mail#
+450228#Marauder Mail#
 470117#Guardian Greave#
 470118#Raider Boots#
 470119#Mystic Sandal#
+470151#Predator Boots#
+470152#Marauder Boots#
 480096#Costume Winter Coat#
 480163#Guardian Manteau#
 480164#Raider Muffler#
 480165#Mystic Cape#
+480211#Predator Manteau#
+480212#Marauder Manteau#
 490194#Guardian Ring#
 490195#Raider Glove#
 490196#Mystic Necklace#
+490248#Predator Physical Ring#
+490249#Predator Magical Ring#
 500000#IDTest weapon#
 510006#Fatalist#
 560002#Ray Knuckle#
@@ -9340,6 +9372,8 @@
 1001040#Poporing Diamond#
 1001041#Marin Diamond#
 1001042#Drops Diamond#
+1001066#Gold Bullion#
+1001067#Gold Ore#
 1100000#IDTest heal#
 1200000#IDTest arrow#
 1210000#IDTest cannon#

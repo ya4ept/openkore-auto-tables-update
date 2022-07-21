@@ -13843,7 +13843,7 @@ Consumes 100 HP every 10 seconds.
 Consumes 1,000 HP when unequipped.
 
 Class : ^777777Two-Handed Staff^000000
-Attack  : ^777777120^000000
+Attack  : ^777777180^000000
 Weight : ^777777140^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777120^000000
@@ -15724,17 +15724,12 @@ Jobs: ^777777Every job
 except novice^000000
 #
 2289#
-A hat which looks just
-like fecal matter that
-is guaranteed to end
-a date on a tragic note. Reduces damage
-from Demihuman
-monsters by 10%.
-Class: ^777777Headgear^000000
-Defense: ^7777770^000000
-Location: ^777777Upper^000000
-Weight: ^77777770^000000
-Jobs: ^777777All^000000
+ A hat which looks just like fecal matter that is guaranteed to end a date on a tragic note.
+Reduces damage from DemiHuman enemies by 10%.
+Impossible to refine this item.
+Class : ^777777Headgear^000000    Defense : ^7777770^000000
+Position : ^777777Upper^000000    Weight : ^77777770^000000
+Jobs : ^777777All Jobs^000000
 #
 2290#
 Traditional Korean
@@ -21927,8 +21922,8 @@ Job: ^777777All jobs^000000
 2963#
 Geffen developed magic ring, can enhance the body's ability.
 ATK +5%.
-If equipped with Anti-magic Suit, Aspd +5%.
-If equipped with Geffen Magic Robe, Reduces after cast delay by 5% and damage taken from Demi-Human monsters by 5%.
+If equipped with Anti-magic Suit, Increases ASPD. (Decrease Delay After Attack by 5%)
+If equipped with Geffen Magic Robe, Decreases after skill delay by 5% and damage taken from Demi-Human enemies by 5%.
 Class : ^777777Accessory^000000 Defense : ^7777770^000000
 Weight : ^77777710^000000
 Required Level : ^77777790^000000
@@ -21937,8 +21932,8 @@ Jobs : ^777777All Jobs^000000
 2964#
 This magic ring developed in Geffen enhances its wearer's magical abilities.
 MATK +5%.
-If equipped with Geffen Magic Robe, Reduces variable cast time by 5%.
-If equipped with Anti-magic Suit, Reduces after cast delay by 5% and damage taken from Demi-Human monsters by 5%.
+If equipped with Geffen Magic Robe, Decreases variable cast time by 5%.
+If equipped with Anti-magic Suit, Decreases after skill delay by 5% and damage taken from Demi-Human enemies by 5%.
 Class : ^777777Accessory^000000 Defense : ^7777770^000000
 Weight : ^77777710^000000
 Required Level : ^77777790^000000
@@ -22225,6 +22220,16 @@ Increases the damage of ^0000FFKnuckle Boost^000000 by 25%.
 ^008080Upgrade_Part, Gun Barrel^000000
 ^008080Upgrade_Part, Plate^000000
 Increases the damage of ^0000FFArm Cannon^000000 by 50%.
+#
+2998#
+A mysterious bracelet made from another world. It seems used as a tool to summon something.
+Increase resistance against Holy property attack by 10%.
+Equip with one of the item: Ten Gallon Hat Of Flame, Hunting Cap Of Gust, Gigantic Water Cap, Silk Hat of Earth, decrease damage taken from Demi-human monsters by 5%.
+If the refine level of the combo equipment is +7, decrease damage taken from Demi-human monsters by 5%.
+Class : ^777777Accessory^000000 Defense : ^7777770^000000
+Weight : ^77777710^000000
+Required Level : ^77777790^000000
+Jobs : ^777777All Jobs^000000
 #
 4001#
 Luk +2
@@ -35134,17 +35139,16 @@ Usable By: ^777777All Character Types^000000
 #
 5592#
 Ear adornments that have the ability to change their effects depending on the job class of the wearer.
-ASPD +1 for Knight, Thief, Merchant, Taekwon & Taekwon Master classes.
-MATK +5 for Magician, Acolyte, Ninja, Soul Linker classes. 
-Increases healing effectiveness by 2%
-Increases ranged damage by 2% for Archer & Gun Slinger classes.
-HP +120, SP +60 for Novice and High Novice classes.
-Equipment Type: ^777777Headgear^000000
-Defense: ^7777772^000000
-Equip Slot: ^777777Middle^000000
-Weight: ^77777710^000000
-Required Level: ^7777771^000000
-Usable By: ^777777All Character Types^000000
+ 
+ASPD +1 for Knight, Thief, Merchant, Taekwon and Taekwon Master classes.
+Increases healing effectiveness by 2%, MATK +5 for Magician, Acolyte, Ninja and Soul Linker classes.
+Increases ranged damage by 2% for Archer and Gun Slinger classes.
+HP +120, SP +60 for Novice classes.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777772^000000
+Location : ^777777Middle^000000 Weight : ^77777710^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 5593#
 A rabbit doll hat made by a famous doll maker. Unlike its cute appearance, it seems to have a strong magic power.
@@ -36111,14 +36115,13 @@ Required Level: ^77777750^000000
 Usable By: ^777777All Character Types^000000
 #
 5657#
-A long smoking pipe used to promote peace.
-Reduces damage from Demon and Undead monsters by 5%.
-Equipment Type: ^777777Headgear^000000
-Equip Slot: ^777777Lower^000000
-Weight: ^77777710^000000
-Defense: ^7777770^000000
-Required Level: ^77777730^000000
-Usable By: ^777777All Character Types^000000
+An antique pipe for making a perfect fashion of captain.
+Equip with Captain's Hat, increase ranged physical attack by refine level of Captain's Hat.
+ 
+Class : ^777777Headgear^000000    Defense : ^7777770^000000
+Location : ^777777Lower^000000    Weight : ^77777710^000000
+Required Level : ^77777730^000000
+Jobs : ^777777All Jobs^000000
 #
 5658#
 A friendly Imp that adds a random chance of imbuing your attacks with Lv.1 Endow Blaze when physically attacking.
@@ -39795,7 +39798,7 @@ Weight : ^7777770^000000
 #
 6672#
 This shard is sustained with Sakray's old, abandoned memories that have the ability to resist the Cursed Knight.
-Weight : ^7777771^000000
+Weight : ^7777770.1^000000
 #
 6681#
 ^ff0000This item is Account Bound.^000000
@@ -66944,6 +66947,26 @@ Weight: ^7777770^000000
 Required Level: ^77777780^000000
 Job: ^777777All^000000
 #
+15921#
+Able to cast Lv 1 Endow Quake.
+For every 15 pure INT + DEX, increase MDEF pierce by 3% on normal enemies.
+ 
+Equip with Manteau of Great Nature,
+MATK +50
+If refine level of Manteau of Great Nature is +5,
+has chance to decrease all physical damage taken by 60% upon receiving physical damage. But decrease MDEF by 60%
+ 
+If refine level of Manteau of Great Nature is +8,
+increase the chance of the above effect by 4%.
+ 
+If refine level of Manteau of Great Nature is +10,
+able to detect hidden or cloaked enemies.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^77777720^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 16000#
 This mace's shape is inspired by a Snake, which symbolizes the fountain of knowledge.
 ^FFFFFF_^000000
@@ -73001,6 +73024,17 @@ Location : ^777777Upper^000000 Weight : ^77777730^000000
 Required Level : ^77777750^000000
 Jobs : ^777777All Jobs^000000
 #
+18564#
+A heart shaped accessory. One of way to express the passionate love.
+Casting cannot be interrupted.
+Increase SP consumption of all skills by 15%.
+Equip with Heart Wing Hairband, decrease fixed cast time by 10%.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^77777720^000000
+Required Level : ^77777750^000000
+Jobs : ^777777All Jobs^000000
+#
 18565#
 This is an exact replica of the hat worn by O'Riley the Leprechaun.
 Str +1, Int +1, Mdef +4.
@@ -75400,12 +75434,13 @@ Job: ^777777All^000000
 #
 18845#
 Kiss of Banshee Master. It could give the powerful force.
-When be attacked, 1% chance of Resistance + 100% for 3 seconds.
-MaxSP + 3%.
-Class: ^777777Helmet^000000 Defense: ^7777775^000000
-Location: ^777777bottom ^000000Weight: ^77777720^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Has 1% chance to increase resistance against players by 100% for 3 seconds, upon receiving physical damage.
+Max SP +3%.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777775^000000
+Location : ^777777Lower^000000 Weight : ^77777720^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 18848#
 ^808080Nobody knows when this beautiful rose was picked and decorated, but it has still managed to keep its freshness all this time.^000000
@@ -75934,7 +75969,7 @@ Jobs : ^777777All Jobs^000000
 18909#
 Isabella's brown hat. It's a favorite among children.
 MaxHP + 10%.
-Decrease damage taken from Demi human monsters by 5%.
+Decrease damage taken from Demi-human enemies by 5%.
 MATK + 2 per refinement.
 Class : ^777777Headgear^000000 Defense : ^7777778^000000
 Location : ^777777Upper ^000000Weight : ^77777730^000000
@@ -75943,7 +75978,7 @@ Jobs : ^777777All Jobs^000000
 #
 18910#
 Isabella's blue hat. It's a favorite among children.
-Decrease damage taken from Demi-human monsters by 5%.
+Decrease damage taken from Demi-human enemies by 5%.
 Increase damage to medium size monster by 10%.
 If refined to +12, reflect 5% of physical damage taken.
 Class : ^777777Headgear^000000 Defense : ^7777778^000000
@@ -76238,16 +76273,17 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18945#
-You need not worry about a thing when wearing this on your head.
-MDEF + 3.
-DEX + 2, INT + 2.
-FLEE -1.
-MaxHP + 2%, MaxSP + 30.
-Skill 'Magnificat' LV 1 available.
-Class: ^777777Headgear^000000 Def: ^7777772^000000
-Location: ^777777Upper ^000000Weight: ^77777730^000000
-Req Lv: ^77777730^000000
-Job: ^777777All^000000
+There are no worries in the world when you are wearing this on your head.
+ 
+MDEF +3, DEX +2, 
+INT +2, FLEE -1,
+Max HP +2%, Max SP +30.
+Able to cast Lv 1 'Magnificat'.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777772^000000
+Location : ^777777Upper^000000 Weight : ^77777730^000000
+Required Level : ^77777730^000000
+Jobs : ^777777All Jobs^000000
 #
 18946#
 You need not worry about a thing when wearing this on your head.
@@ -76311,12 +76347,14 @@ Req Lv: ^7777771^000000
 Job: ^777777All^000000
 #
 18962#
-Cute panda balloon!
-Cannot be enchanted nor destructed.
-Class: ^777777Headgear^000000 Def: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^77777720^000000
-Req Lv: ^7777771^000000
-Job: ^777777All^000000
+A cute panda balloon!
+All Stats +1, ASPD +1.
+Unable to refine and indestructible.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^77777720^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 18963#
 A hat made after a pretty mocking bird.
@@ -78412,20 +78450,12 @@ Required Level: ^7777771^000000
 Required Class: ^777777Every Class^000000
 #
 19535#
-^808080Nassy is a dragon! 
-Why? You don't believe me?^000000
-^ffffff_^000000
-^FF6633[Temporally Effect]^000000
-EXP + 1%, Drop + 1%
-^ffffff_^000000
-^009900Effect Removed: 3 December 2020^000000
-^ffffff_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A fruit of a Sinsuncho. According to rumors, this fruit will scream when its root is not attached to soil.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19536#
 Korusaju decorated with beautiful roses.
@@ -78632,11 +78662,12 @@ Req Lv: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19574#
-Headgear worn by the ^000080Champions of Britonia^000000
-Type: ^777777Costume Equipment^000000
-Location: ^777777Upper-mid ^000000 Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All Jobs^000000
+A costume modeled after the headgear of Lord of Death.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper/Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19577#
 A Poring hat made to celebrate Ragnarok Online's 10th anniversary.
@@ -78657,13 +78688,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19581#
-The lucky, well-worn hat of former adventurer Mort Whimsey.
-Class: ^777777Costume^000000
-Location: ^777777Upper & Lower^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^77777730^000000
-Jobs: ^777777All^000000
+A must-have hat for adventurers. You are not a true adventurer without this hat.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19582#
 The fancy cowboy hat of the western cowboy.  Part of the Western Costume Set, obtainable from the ^0000CCGoCash East West Costume Box^000000.
@@ -79683,6 +79713,14 @@ Weight: ^7777770^000000
 Required Lv.: ^7777771^000000
 Job: ^777777All jobs^000000
 #
+19741#
+A costume containing a massive spirit of the devil.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 19743#
 A hat sculpted like Anubis, an Egyptian god of the dead. It belongs to the holy priests who make a mummy.
 Type: ^777777Costume^000000
@@ -80003,13 +80041,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19796#
-^808080 An incredibly heavy, yet almost impenetrable helmet constructed of bone.^000000
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Upper^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+An incredibly heavy helmet, constructed of solid bone, that makes it nearly impenetrable.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19797#
 	A headgear made in the honor of the legendary archer who shot an apple on top of a friend's head from a long distance.
@@ -80390,11 +80427,12 @@ Required Level: ^7777771^000000
 Required Class: ^777777Every Class^000000
 #
 19845#
-A well-known item that has been rumored to have been worn by a great woman warrior in ancient times.
-Type: ^777777Costume^000000
-Used for: ^777777Upper ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Required Class: ^777777Every Class^000000
+Well-known item which has been rumored to have been worn by a great woman warrior in ancient times.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19848#
 A hat, made especially to look like a certain monster that looks like an angel, but it hates the whole human race.
@@ -82238,12 +82276,12 @@ Required Lv.: ^7777771^000000
 Job: ^777777All ^000000
 #
 20194#
-A mask fit for the King of the Jungle.
-Class: ^777777Costume^000000
-Location: ^777777Upper and Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A mask of the king of beasts. 
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper/Middle/Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20195#
 Watch out! A scratching cat is stuck on your face!
@@ -84820,13 +84858,14 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20567#
-^808080Feel the aura of darkness floating around^000000
+An exclusive reward given to the winners of Heroes Event - Race to Level 175
+ 
 Class: ^777777Costume^000000
 Defense: ^7777770^000000
 Location: ^777777Garment^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Job: ^777777All Jobs^000000
 #
 20568#
 ^808080Feel the aura of gold floating around^000000
@@ -85353,15 +85392,15 @@ Jobs : ^777777All Jobs can equip^000000
 #
 20745#
 A manteau with water spirit. It is protected by water all the time.
-Increase resistance against Water property by 10%.
-Decrease resistance against Wind property by 10%.
+Decrease damage taken from Water property by 10%.
+Increase damage taken from Wind property by 10%.
 Has a chance to apply Frozen upon receiving melee physical damage.
-If refined to +6: For every refine level, increase chance to apply Frozen.
-If refined to +10, increase chance to apply Frozen.
-Undestroyable.
+If refined to +6, for every refine level, increase chance to apply Frozen.
+If refined to + 10, increase chance to apply Frozen.
+Indestructible.
 Class : ^777777Garment^000000 Defense : ^77777710^000000
 Weight : ^77777730^000000
-Required Level : ^77777770^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 20746#
@@ -85456,16 +85495,12 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20764#
-^808080 Huge and Black Wing of Fallen Angel.^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted at Eden 2nd floor with NPC Costama Girl (Located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Location: ^777777Garment ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+Huge and Black Wing of Fallen Angel.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Garment^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20765#
 ^808080Pure white wing of original Lucifer.^000000
@@ -90160,9 +90195,9 @@ Jobs : ^777777All Jobs^000000
 24246#
 A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
 Decrease SP consumption of Bash by 20%. 
-Additionally decrease SP consumption of Bash by 3% for every refinement level.
-Equip with Swordman shadow (Earring and pendant)  ATK +1%, MAXHP +1%.
-If sets total refinement level is + 10 and above, Additional ATK +2%, MAXHP +2%.
+For every refine level, decrease SP consumption of Bash by 3%.
+Equip with Swordman shadow (Earring and Pendant),  ATK +1%, Max HP +1%.
+If the total refine level of the set is +10, ATK +2%, Max HP +2%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Earring^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90171,9 +90206,9 @@ Jobs : ^777777All Jobs^000000
 24247#
 A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
 Increase damage of Mammonite by 20%. 
-Additionally increase damage of Mammonite by 5% for every refinement level.
-Equip with Merchant Shadow (Earring and Pendant) ATK +1%, MAXHP +1%.
-If sets total refinement level is + 10 and above, Additional ATK +2%, Max HP +2%.
+For every refine level, increase damage of Mammonite by 5%.
+Equip with Merchant Shadow (Earring and Pendant), ATK +1%, Max HP +1%.
+If the total refine level of the set is +10, ATK +2%, Max HP +2%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Earring^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90182,9 +90217,9 @@ Jobs : ^777777All Jobs^000000
 24248#
 A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
 Decrease SP consumption of heal by 20%.
-Additionally decrease SP consumption of heal by 3% for every refinement level.
-Equip with Acolyte Shadow (Earring and Pendant) MATK +1%, Max SP +1%.
-If sets total refinement level is + 10 and above, Additional MATK +2%, Max SP +2%.
+For every refine level, decrease SP consumption of heal by 3%.
+Equip with Acolyte Shadow (Earring and Pendant), MATK +1%, Max SP +1%.
+If the total refine level of the set is +10, MATK +2%, Max SP +2%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Earring^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90193,9 +90228,9 @@ Jobs : ^777777All Jobs^000000
 24249#
 A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
 Decrease variable cast time of Fire, Cold, Lightning Bolt by 20%.
-Additionally decrease variable cast time of Fire, Cold, Lightning Bold by 5%.
-Equip with Magician Shadow (Earring and Pendant) MATK +1%, Max SP +1%.
-If sets total refinement level is + 10 and above, Additional  MATK +2%, Max SP +2%.
+For every refine level, decrease variable cast time of Fire, Cold, Lightning Bolt by 5%.
+Equip with Magician Shadow (Earring and Pendant), MATK +1%, Max SP +1%.
+If the total refine level of the set is +10, MATK +2%, Max SP +2%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Earring^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90204,16 +90239,16 @@ Jobs : ^777777All Jobs^000000
 24250#
 A sacred pendant which is believed to protect its wearer. It also draws the wearer's potential abilities.
 Increase damage of Magnum Break by 20%.
-Additionally increase damage of Magnum Break by 5% for every refinement level.
+For every refine level, increase damage of Magnum Break by 5%.
 Class : ^777777Shadow Equipment^000000
-Location : ^777777Pandant^000000 Weight : ^7777770^000000
+Location : ^777777Pendant^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 24251#
 A sacred pendant which is believed to protect its wearer. It also draws the wearer's potential abilities.
 Increase damage of Cart Revolution by 20%.
-Additionally increase damage of Cart Revolution by 5% for every refinement level.
+For every refine level, increase damage of Cart Revolution by 5%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Pendant^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90222,7 +90257,7 @@ Jobs : ^777777All Jobs^000000
 24252#
 A sacred pendant which is believed to protect its wearer. It also draws the wearer's potential abilities.
 Increases the damage of Holy Light by 50%.
-For every refine level, increases Holy Light damage by 10%.
+For every refine level, increase Holy Light damage by 10%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Pendant^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90231,7 +90266,7 @@ Jobs : ^777777All Jobs^000000
 24253#
 A sacred Pendant which is believed to protect its wearer. It also draws the wearer's potential abilities.
 Increases the damage of Envenom by 20%.
-For every refine level additionally increase Envenom damage by 5%..
+For every refine level, increase Envenom damage by 5%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Pendant^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90240,25 +90275,25 @@ Jobs : ^777777All Jobs^000000
 24254#
 A sacred pendant which is believed to protect its wearer. It also draws the wearer's potential abilities.
 Increases the damage of Fire Wall by 20%.
-For every refine level, additionally increase Fire Wall damage by 5%
-Class : ^777777Shadow Equipmment^000000
+For every refine level, increase Fire Wall damage by 5%
+Class : ^777777Shadow Equipment^000000
 Location : ^777777Pendant^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 24255#
 A sacred pendant which is believed to protect its wearer. It also draws the wearer's potential abilities.
-Increases the damage of Arrow Shower by 20%..
-For every refine level, additionally increase Arrow Shower damage by 5%
+Increases the damage of Arrow Shower by 20%.
+For every refine level, increase Arrow Shower damage by 5%
 Class : ^777777Shadow Equipment^000000
-Location : ^777777Pandant^000000 Weight : ^7777770^000000
+Location : ^777777Pendant^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 24256#
 Shoes worn on top of normal shoes for additional effect. Can be equipped alone but the effect is insignificant.
 Increases the damage of Pierce by 20%. 
-For every refine level, additionally increase Pierce damage by 5%
+For every refine level, increase Pierce damage by 5%
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90267,7 +90302,7 @@ Jobs : ^777777All Jobs^000000
 24257#
 Shoes worn on top of normal shoes for additional effect. Can be equipped alone but the effect is insignificant.
 Decrease the SP cost of Holy Cross by 20%. 
-For every refine level, additionally decrease SP cost of Holy Cross by 3%
+For every refine level, decrease SP cost of Holy Cross by 3%
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90275,8 +90310,8 @@ Jobs : ^777777All Jobs^000000
 #
 24258#
 Shoes worn on top of normal shoes for additional effect. Can be equipped alone but the effect is insignificant.
-Decrease SP consumption of Hammer Fall and Adrenaline Rush by 20%.
-For every refine level, decrease Hammer Fall and Adrenaline Rush SP consumption by an additional 5%.
+Decrease SP consumption of Hammerfall and Adrenaline Rush by 20%.
+For every refine level, decrease Hammerfall and Adrenaline Rush SP consumption by 5%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90285,7 +90320,7 @@ Jobs : ^777777All Jobs^000000
 24259#
 Shoes worn on top of normal shoes for additional effect. Can be equipped alone but the effect is insignificant.
 When equipped by Alchemist classes, increase Healing skills by 30%.
-For every refine level, increase Healing skills effectiveness by an additional 7%.
+For every refine level, increase Healing skills effectiveness by 7%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90294,7 +90329,7 @@ Jobs : ^777777All Jobs^000000
 24260#
 Shoes worn on top of normal shoes for additional effect. Can be equipped alone but the effect is insignificant.
 Decrease the SP cost of Lex Aeterna and Kyrie Eleison by 20%.
-For every refine level, decrease Lex Aeterna and Kyrie Eleison SP consumption by an additional 3%.
+For every refine level, decrease Lex Aeterna and Kyrie Eleison SP consumption by 3%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90302,8 +90337,8 @@ Jobs : ^777777All Jobs^000000
 #
 24261#
 Shoes worn on top of normal shoes for additional effect. Can be equipped alone but the effect is insignificant.
-Increases the damage of Chain Combo by 20%.
-For every refine level, increase Chain Combo damage by an additional 5%.
+Increases the damage of Raging Quadruple Blow by 20%.
+For every refine level, increase Raging Quadruple Blow damage by 5%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90311,8 +90346,8 @@ Jobs : ^777777All Jobs^000000
 #
 24262#
 Shoes worn on top of normal shoes for additional effect. Can be equipped alone but the effect is insignificant.
-Increase Grim Tooth damage by 20%. 
-For every refine level, increase Grim Tooth damage by an additional 5%.
+Increase Grimtooth damage by 20%. 
+For every refine level, increase Grimtooth damage by 5%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90321,16 +90356,16 @@ Jobs : ^777777All Jobs^000000
 24263#
 Shoes worn on top of normal shoes for additional effect. Can be equipped alone but the effect is insignificant.
 When equipped by Rogue classes,
-increases ATK based on the Sword Mastery skill. If refine level over +6, increases ATK based on Sword Mastery skill level.
+increases ATK based on the Sword Mastery skill. For every refine level after +6, increase ATK based on Sword Mastery skill level.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Job : ^777777All^000000
+Job : ^777777All Jobs^000000
 #
 24264#
 Shoes worn on top of normal shoes for additional effect. Can be equipped alone but the effect is insignificant.
-Decrease the variable cast time of Lord of Vermillion, Storm Gust and Meteor Storm by 20%..
-For every refine level, decrease the variable cast time of Lord of Vermillion, Storm Gust and Meteor Storm by an additional 3%.
+Decrease the variable cast time of Lord of Vermilion, Storm Gust and Meteor Storm by 20%.
+For every refine level, decrease the variable cast time of Lord of Vermilion, Storm Gust and Meteor Storm by 3%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90338,8 +90373,8 @@ Jobs : ^777777All Jobs^000000
 #
 24265#
 Shoes worn on top of normal shoes for additional effect. Can be equipped alone but the effect is insignificant.
-Increases the damage of Heaven's Drive by 20%.
-For every refined level, increases Heaven's Drive damage by an additional 5%.
+Increase the damage of Heaven's Drive by 20%.
+For every refine level, increase Heaven's Drive damage by 5%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90348,7 +90383,7 @@ Jobs : ^777777All Jobs^000000
 24266#
 Shoes worn on top of normal shoes for additional effect. Can be equipped alone but the effect is insignificant.
 Increases the damage of Blitz Beat by 20%.
-For every refine level, increases Blitz Beat damage by an additional 5%.
+For every refine level, increases Blitz Beat damage by 5%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90356,8 +90391,8 @@ Jobs : ^777777All Jobs^000000
 #
 24267#
 Shoes worn on top of normal shoes for additional effect. Can be equipped alone but the effect is insignificant.
-Increases ATK based on the Musical Lesson skill.
-If refine level over +6, increases ATK based on the Musical Lesson skill level.
+Increases ATK based on the Music Lessons skill level.
+For every refine level after +6, increase ATK based on the Music Lessons skill level.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90365,8 +90400,8 @@ Jobs : ^777777All Jobs^000000
 #
 24268#
 Shoes worn on top of normal shoes for additional effect. Can be equipped alone but the effect is insignificant.
-Increases ATK based on the Dancing Lesson skill.
-If refine level over +6, increases ATK based on the Dancing Lesson skill level.
+Increase ATK based on the Dance Lessons skill level.
+For every refine level after +6, increase ATK based on the Dance Lessons skill level.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90375,7 +90410,7 @@ Jobs : ^777777All Jobs^000000
 24269#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
 Reduces the SP cost of Bowling Bash by 20%.
-For every refine level, decrease SP cost of Bowling Bash by an additional 3%.
+For every refine level, decrease SP cost of Bowling Bash by 3%.
 
 Equip with Knight Shadow Shoes, 
 Decrease SP cost of Pierce by 20%
@@ -90400,11 +90435,11 @@ Jobs : ^777777All Jobs^000000
 #
 24271#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
-When Weapon Perfection is used, for 50 seconds increases physical damage inflicted on all size monsters by 5%.
-If refine level above +6, increases bonus damage by an additional1%.
+Upon casting Weapon Perfection, for 50 seconds increase physical damage to all size monsters by 5%.
+For every refine level after +6, increase damage by 1%.
 
-When equipped with Blacksmith Shadow Shoes,
-Increases physical damage inflicted on all size monsters by 3%.
+Equip with Blacksmith Shadow Shoes using Blacksmith classes,
+Increase physical damage to all size monsters by 3%.
 Decrease SP cost of Weapon Perfection by 20%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Armor ^000000Weight : ^7777770^000000
@@ -90413,11 +90448,11 @@ Jobs : ^777777All Jobs^000000
 #
 24272#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
-Increases ATK based on the Learning Potion skill level.
-When upgrade level is over +6: For every upgrade level of Alchemist Shadow Armor, increases ATK based on the Learning Potion skill level. 
+Increase ATK based on the Potion Research skill level.
+For every refine level after +6, increase ATK based on the Potion Research skill level.
 
-If equipped with Alchemist Shadow Shoes, 
-When equipped by Alchemist, enables the use of Level 3 Adrenaline Rush.
+Equip with Alchemist Shadow Shoes, using Alchemist classes.
+Able to cast Lv 3 Adrenaline Rush.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Armor ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90425,12 +90460,12 @@ Jobs : ^777777All Jobs^000000
 #
 24273#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
-Increases the damage of Magnus Exorcismus by 20%.
-For every upgrade level of Priest Shadow Armor, increases Magnus Exorcismus damage by an additional 5%.
+Increase the damage of Magnus Exorcismus by 20%.
+For every refine level, increase Magnus Exorcismus damage by 5%.
 
-If equipped with Priest Shadow Shoes,
-When equipped by Priest, MATK +3%.
-Reduces the variable cast time of Magnus Exorcismus by 40%.
+Equip with Priest Shadow Shoes, using Priest classes.
+Increase MATK  by 3%,
+decrease the variable cast time of Magnus Exorcismus by 40%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Armor ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90438,11 +90473,11 @@ Jobs : ^777777All Jobs^000000
 #
 24274#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
-Increases the damage of Throw Spirit Sphere and Occult Impaction by 20%.
-For every upgrade level of Monk Shadow Armor, increases Throw Spirit Sphere and Occult Impaction damage by an additional 5%.
+Increase the damage of Throw Spirit Sphere and Occult Impaction by 20%.
+For every refine level, increase Throw Spirit Sphere and Occult Impaction damage by 5%.
 
-If equipped with Monk Shadow Shoes:
-Reduces the SP cost of Chain Combo, Throw Spirit Sphere and Occult Impaction by 20%.
+Equip with Monk Shadow Shoes,
+decrease the SP cost of Raging Quadruple Blow, Throw Spirit Sphere and Occult Impaction by 20%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Armor ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90453,9 +90488,9 @@ An armor worn on top of normal armor for additional DEF. Can be equipped alone b
 Decrease the SP cost of Sonic Blow by 20%.
 For every refine level, decrease SP cost of Sonic Blow by 3%.
 
-When equipped with Assassin Shadow Shoes,
-Decrease SP cost of Grim Tooth by 20%.
-Increase damage of Sonic Blow by 20%.
+Equip with Assassin Shadow Shoes,
+Decrease SP cost of Grimtooth by 20%,
+increase damage of Sonic Blow by 20%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Armor ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90463,12 +90498,12 @@ Jobs : ^777777All Jobs^000000
 #
 24276#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
-Increases the damage of Sightless Mind by 20%.
-For every refine level, increases Sightless Mind damage by an additional 5%.
+Increase the damage of Sightless Mind by 20%.
+For every refine level, increase Sightless Mind damage by 5%.
 
-When equipped with Rogue Shadow Shoes:
-When equipped by Rogue, Increase damage to all sizes monsters by 3%.
-Decrease the SP cost of Sightless Mind by 20%.
+Equip with Rogue Shadow Shoes using Rogue classes,
+increase damage to all sizes monsters by 3%,
+decrease the SP cost of Sightless Mind by 20%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Armor ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90476,12 +90511,12 @@ Jobs : ^777777All Jobs^000000
 #
 24277#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
-Increases the damage Jupitel Thunder by 20%.
-For every upgrade level of Wizard Shadow Armor, increases Jupitel Thunder damage by an additional 5%.
+Increase the damage of Jupitel Thunder by 20%.
+For every refine level, increase damage of Jupitel Thunder by 5%.
 
-If equipped with Wizard Shadow Shoes,
-Increases the dmaage of Meteor Storm, Storm Gust and Lord of Vermilion by 20%.
-Reduces the variable cast time of Jupitel Thunder by 40%.
+Equip with Wizard Shadow Shoes,
+increase the damage of Meteor Storm, Storm Gust and Lord of Vermilion by 20%,
+decrease the variable cast time of Jupitel Thunder by 40%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Armor ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90489,13 +90524,13 @@ Jobs : ^777777All Jobs^000000
 #
 24278#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
-When Hindsight is used, increases ASPD rate based on the upgrade level of the item for 50 seconds.
-If upgrade level is +7: When Hindsight is used, increases ASPD by 1 for 50 seconds.
-If upgrade level is +9: When Hindsight is used, increases ASPD by 1 for 50 seconds.
+Upon casting Hindsight, increase ASPD based on the refine level of the item for 50 seconds.
+If refine level is +7, upon casting Hindsight, increase ASPD by 1 for 50 seconds.
+If refine level is +9, upon casting Hindsight, increase ASPD by 1 for 50 seconds.
 
-If equipped with Sage Shadow Shoes:
-Reduces the variable cast time of Heaven's Drive by 40%.
-When equipped by Sage:  MATK + 3%.
+Equip with Sage Shadow Shoes,
+decrease variable cast time of Heaven's Drive by 40%.
+Equip by Sage classes,  MATK + 3%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Armor ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90503,12 +90538,12 @@ Jobs : ^777777All Jobs^000000
 #
 24279#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
-Increases the damage of Claymore Trap and Land Mine by 20%.
-For every upgrade level of Hunter Shadow Armor, increases Claymore Trap and Land Mine damage by an additional 5%.
+Increase the damage of Claymore Trap and Land Mine by 20%.
+For every refine level, increase Claymore Trap and Land Mine damage by 5%.
 
-When worn with Hunter Shadow Shoes,
-When equipped by Hunter: Increases physical/magical damage inflicted on all monster sizes by 3%.
-Reduces the SP cost of Claymore Trap and Land Mine by 20%.
+Equip with Hunter Shadow Shoes using Hunter classes,
+increase physical and magic damage to all size monsters by 3%,
+decrease the SP cost of Claymore Trap and Land Mine by 20%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Armor ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90516,12 +90551,12 @@ Jobs : ^777777All Jobs^000000
 #
 24280#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
-Recovers 5 SP per 5 seconds for 30 seconds when using Bard-only performance skills.
-Each refine rate increases the SP 1 recovered.
+Upon casting Bard's performance skills. Every 5 seconds recovers 5 SP for 30 seconds.
+For every refine level, increase SP recovery by 1.
 ^ff0000Unchained Serenade, Magic Strings, Impressive Riff, Song of Lutie, Perfect Tablature^000000
 
-When worn with Bard Shadow Shoes,
-When using Amp, ASPD and movement speed increase significantly for 5 seconds.
+Equip with Bard Shadow Shoes,
+upon casting Amp, increase ASPD and movement speed significantly for 5 seconds.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Armor ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90529,87 +90564,87 @@ Job : ^777777All Jobs^000000
 #
 24281#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
-When using the Dancer-only performance skill, recover 5 SP per 5 seconds for 30 seconds.
-Each refine rate increases the SP 1 recovered.
+Upon casting Dancer's performance skills. Every 5 seconds recovers 5 SP for 30 seconds.
+For every refine level, increase SP recovery by 1.
 ^ff0000Slow Grace, Gypsy's Kiss, Lady Luck, Focus Ballet, Hip Shaker^000000
 
-When worn with Dancer Shadow Shoes,
-When using Amp, ASPD and movement speed increase significantly for 5 seconds.
+Equip with Dancer Shadow Shoes,
+upon casting Amp, increase ASPD and movement speed significantly for 5 seconds.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Armor ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 24282#
-A glove that is mounted on the hand of hold the weapon to elicit potential abilities of the wearer.
+A glove that can draw the wearer's potential ability.
 Only for Novice Classes.
-！！！！！！！！！！！！！ 
-MaxHP +1000, MaxSP +200
+
+Max HP +1000, Max SP +200
 Ignores 3% of the enemy's physical defense based on the skill level of [Sword Mastery]
 Ignores 3% of the enemy's magic defense based on the skill level of [Increase SP Recovery].
-For every refine level, increases rate of ignored physical and magical defense by 3%.
-If refine level to +7, Max HP +5%, Max SP +5%
-If refine level to +9, Max HP +5%, Max SP +5%, SP recovery +100%
+For every refine level, increase rate of ignored physical and magic defense by 3%.
+If refine level is +7, Max HP +5%, Max SP +5%
+If refine level is +9, Max HP +5%, Max SP +5%, SP recovery +100%
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Weapon^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Job : ^777777Novice Classes^000000
 #
 24283#
-A glove that is mounted on the hand of hold the weapon to elicit potential abilities of the wearer.
+A glove that can draw the wearer's potential ability.
 Only for Gunslinger Classes.
-！！！！！！！！！！！！！ 
+
 ASPD +1
 Ignores 3% of the enemy's physical defense based on the skill level of [Snake Eyes].
-For every refine level, increases rate of ignored physical defense by 3%.
-If refine level to +7, ASPD +1, long range physical attacks +3%.
-If refine level to +9, ASPD +1, long range physical attacks +5%.
+For every refine level, increase rate of ignored physical defense by 3%.
+If refine level is +7, ASPD +1, ranged physical attack +3%.
+If refine level is +9, ASPD +1, ranged physical attack +5%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Weapon^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Job : ^777777Gunslinger Classes^000000
 #
 24284#
- A glove that is mounted on the hand of hold the weapon to elicit potential abilities of the wearer.
+ A glove that can draw the wearer's potential ability.
 Only for Taekwon Classes.
-！！！！！！！！！！！！！ 
+
 ASPD +1
-For every upgrade level of Taekwon Shadow Weapon, increases ATK & MATK by an additional 1%.
-If upgrade level is +7, ASPD +1, MaxHP +1000, MaxSP +200.
-If upgrade level is +9, ASPD +1, MaxHP +10%, MaxSP +10%.
+For every refine level, increase ATK and MATK by 1%.
+If refine level is +7, ASPD +1, Max HP +1000, Max SP +200.
+If refine level is +9, ASPD +1, Max HP +10%, Max SP +10%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Weapon^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Job : ^777777Taekwon Classes^000000
 #
 24285#
-A glove that is mounted on the hand of hold the weapon to elicit potential abilities of the wearer.
+A glove that can draw the wearer's potential ability.
 Only for Ninja Classes.
-！！！！！！！！！！！！！ 
-ATK & MATK +3%
-[Kunai Explosion] Reduces skill cooldown time by 2 seconds.
-[Ninja Mastery] Add MATK +3 by the skill level
-Refine +7, add ATK & MATK +3%
-Refine +9, add ATK & MATK +4%
+
+ATK and MATK +3%
+Decrease skill cooldown of Kunai Explosion by 2 seconds.
+For every skill level of Ninja Mastery, increase MATK by 3.
+If refine level is +7, increase ATK and MATK by 3%.
+If refine level is +9, increase ATK and MATK by 4%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Weapon^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777Ninja Classes^000000
 #
 24314#
-A small shield that can be mounted on the arm can provide additional defensive effects. It can be used as a single, but has little defensive effect. 
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
 Only for Ninja Classes.
-！！！！！！！！！！！！！ 
+
 ASPD + 1.
-Each the skill point of [Dagger Throwing Practice] ATK + 3.
-Using [Ninja Aura], add ASPD + 1 for 50 secounds.
-Each refine rate ignores 4% of general enemy's physical and magic defense.
-Refine +7, Ignores 10% physical and magic defense of normal enemies additionally.
-Refine +9, Ignores 10% physical and magic defense of normal enemies additionally.
-！！！！！！！！！！！！！ 
-With Ninja Shadow Weapon, can get the below effect. 
-All State + 3, MaxHP + 2%, MaxSP + 2%. 
-Reduce SP consumption by 10%.
+For every skill level of Dagger Throwing Practice, increase ATK by 3.
+Upon casting Ninja Aura, increase ASPD by 1 for 50 secounds.
+For every refine level, ignores 4% of normal enemy's physical and magic defense.
+If refine level is +7, Ignores 10% physical and magic defense of normal enemies.
+If refine level is +9, Ignores 10% physical and magic defense of normal enemies.
+
+Equip with Ninja Shadow Weapon,
+All Stats + 3, Max HP + 2%, Max SP + 2%,
+decrease SP consumption by 10%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shield^000000 
 Weight : ^7777770^000000
@@ -90617,19 +90652,19 @@ Required Level : ^7777771^000000
 Job : ^777777Ninja Classes^000000
 #
 24315#
-A small shield that can be mounted on the arm can provide additional defensive effects. It can be used as a single, but has little defensive effect. 
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
 Only for Taekwon Classes
-！！！！！！！！！！！！！ 
+
 ATK, MATK + 3%.
-Ignores physical defense rate of normal enemies by 3% per Skill level of [Peaceful Break].
-Ignores magical defense rate of normal enemies by 3% per Skill level of [Happy Break].
-Ignores physical and magical defense rate of normal enemies by 3% per every refine level.
-If the refine level is 7 or higher, ATK, MATK + 2%.
-If the refine level is 9 or higher, ATK, MATK + 3%.
-！！！！！！！！！！！！！ 
-If equipped with Taekwon Shadow Weapon, it gives additional effect below.
-All State + 3, MaxHP + 2%, MaxSP + 2%. 
-Reduce SP consumption by 10%.
+For every skill level of Peaceful Break, ignores physical defense rate of normal enemies by 3%.
+For every skill level of Happy Break, ignores magic defense rate of normal enemies by 3%.
+For every refine level, ignores physical and magic defense rate of normal enemies by 3%.
+If refine level is +7, increase ATK and MATK by 2%.
+If refine level is +9, increase ATK and MATK by 3%.
+
+Equip with Taekwon Shadow Weapon,
+All Stats + 3, Max HP + 2%, Max SP + 2%,
+decrease SP consumption by 10%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shield^000000 
 Weight : ^7777770^000000
@@ -90637,19 +90672,19 @@ Required Level : ^7777771^000000
 Jobs : ^777777Taekwon Classes^000000
 #
 24318#
-A small shield that can be mounted on the arm can provide additional defensive effects. It can be used as a single, but has little defensive effect. 
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
 Novice Classes Only
-！！！！！！！！！！！！！ 
-MaxHP + 1000, MaxSP + 200
-For every level of Double Attack learned, increases ASPD by 2%.
-For every level of Owl's Eye learned, reduces Variable Casting Time by 2%.
-For every refine level, increases ASPD by 1% and reduces Variable Casting Time by 1%.
-If the refine level is 7 or higher, ATK, MATK + 2%.
-If the refine level is 9 or higher, ATK, MATK + 3%.
-！！！！！！！！！！！！！ 
-If equipped with Super Novice Shadow Weapon:
-All Stats + 3, Max HP + 2%, Max SP + 2%. 
-Reduces SP consumption by 10%. 
+
+Max HP + 1000, Max SP + 200
+For every level of Double Attack, increase ASPD by 2%.
+For every level of Owl's Eye, decrease variable casting time by 2%.
+For every refine level, increase ASPD by 1% and decrease variable casting time by 1%.
+If refine level is +7, increase ATK and MATK by 2%.
+If refine level is +9, increase ATK and MATK by 3%.
+
+Equip with Super Novice Shadow Weapon,
+All Stats +3, Max HP + 2%, Max SP + 2%,
+decrease SP consumption by 10%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shield^000000 
 Weight : ^7777770^000000
@@ -90657,18 +90692,18 @@ Required Level : ^7777771^000000
 Jobs : ^777777Novice Classes^000000
 #
 24319#
-A small shield that can be mounted on the arm can provide additional defensive effects. It can be used as a single, but has little defensive effect.
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
 Only for Gunslinger Classes.
-！！！！！！！！！！！！！ 
-Critical Damage + 5%
-For every level of Single Action, increases CRI by 2.
-For every refine level, increases CRI by 1.
-If the refine level is 7 or higher, increases Critical Damage by an additional 2%.
-If the refine level is 9 or higher, increases Critical Damage by an additional 3%.
-！！！！！！！！！！！！！ 
-If equipped with Gunslinger Shadow Weapon:
-All Stats + 3, Max HP + 2%, Max SP + 2%.
-Reduces SP consumption by 10%.
+
+Critical Damage +5%
+For every level of Single Action, increase CRIT by 2.
+For every refine level, increase CRIT by 1.
+If refine level is +7, increase Critical Damage by 2%.
+If refine level is +9, increase Critical Damage by 3%.
+
+Equip with Gunslinger Shadow Weapon,
+All Stats + 3, Max HP + 2%, Max SP + 2%,
+decrease SP consumption by 10%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shield^000000 
 Weight : ^7777770^000000
@@ -92069,7 +92104,9 @@ Weight : ^7777771^000000
 #
 27254#
 Increase SP regen by 10%
-Has a very low chance to autocast Dangerous Soul Collect Lv. 1. when receiving physical attack.
+Has a very low chance to autocast Zen Lv. 1
+when receiving physical attack.
+ 
 Class : ^777777Card^000000
 Location : ^777777Shoes^000000
 Weight : ^7777771^000000
@@ -92089,8 +92126,8 @@ Location : ^777777Shoes^000000
 Weight : ^7777771^000000
 #
 27257#
-Reduces variable cast time by 3%.
-Damage of skills Wind Blade, Lightning Spear of Ice, and Crimson Fire Petal increase by 5%.
+Decreases variable cast time by 3%.
+Damage of skills Wind Blade, Freezing Spear, and Flaming Petals increase by 5%.
 Increase long ranged physical damage by 5%.
 Class : ^777777Card^000000
 Location : ^777777Shoes^000000
@@ -92575,9 +92612,9 @@ Job: ^777777All^000000
 #
 28391#
 A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
-It has 20% chances of ATK, FLEE+30 for 5 seconds using Stone Fling. ATK, Flee +10 per every refine level.
-When equipped with Theif Shadow Earring, Theif Shadow Pendant, ATK +1%, MAXHP +1%.
-If the sum of refine rate of set is 10 or higher, additionally ATK +2%, MAXHP +2%.
+Has 20% chance to increase ATK and FLEE by 30 for 5 seconds upon casting Stone Fling. For every refine level, increase ATK and FLEE by 10.
+Equip with Thief Shadow (Earring and Pendant), ATK +1%, Max HP +1%.
+If the total refine level of the set is +10, ATK +2%, Max HP +2%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Earring^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -92585,9 +92622,9 @@ Job : ^777777All Jobs^000000
 #
 28392#
 A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
-It has 20% chances of ATK, HIT +30 for 5 seconds when using Double Strafe. ATK, HIT +10 per every refine level.
-If equipped with Archer Shadow Pendant, ATK +1%, MAXHP +1%.
-If the sum of refine rate of set is 10 or higher, additionally ATK +2%, MAXHP +2%.
+Has 20% chances to increase ATK and HIT by 30 for 5 seconds upon casting Double Strafe. For every refine level, increase ATK and HIT by 10. 
+Equip with Archer Shadow (Earring and Pendant), ATK +1%, Max HP +1%.
+If the total refine level of the set is +10, ATK +2%, Max HP +2%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Earring^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -94446,12 +94483,11 @@ Jobs: ^777777All^000000
 #
 31161#
 A mask rumored to make its wearer ferociously aggressive.
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Equip Slot: ^777777Upper, Mid ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777雌掻舘^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31162#
 Bubbles that make a razor slippery. It is very dangerous to step on the bubble on the floor because it is too slippery.
@@ -94571,6 +94607,14 @@ Location: ^777777Upper ^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
+#
+31181#
+A holy rosary with the power from the apostle of God. It's filled with mystical powers.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31183#
 ^808080The wings dropped by a fallen angel who once ruled the celestial world.
@@ -95391,6 +95435,14 @@ Location: ^777777Middle^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
+#
+31312#
+A costume helmet that is said to have been made as a symbol of the leader of the underworld.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31314#
 ^808080A horn of the forest goddess. It will endow the owner with the power of nature.^000000
@@ -98079,6 +98131,70 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
 #
+31959#
+A costume hair with cute fluffy wave perm.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31960#
+A costume hair with cute fluffy wave perm.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31961#
+A costume hair with cute fluffy wave perm.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31962#
+A costume hair with cute fluffy wave perm.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31963#
+A costume hair with cute fluffy wave perm.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31964#
+A costume hair with cute fluffy wave perm.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31965#
+A costume hair with cute fluffy wave perm.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31966#
+A costume hair with cute fluffy wave perm.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 32018#
 Spear used by a hero who received the blessing of the water spirit in the past.
 A beautiful spear that reminisces a crashing wave. 
@@ -99121,6 +99237,11 @@ There is no such thing as magic pill but there is Spiritual Pill!
 Increases MHP by 5% and HP recovery by 10% for 30 mins.
 Weight : ^7777771^000000
 #
+101536#
+A special hair style box.
+ 
+Weight : ^7777771^000000
+#
 101539#
 An egg that contains great power, once wielded by Thanatos.
 Weight : ^7777771^000000
@@ -99401,6 +99522,43 @@ A special box obtained through recharge promotion.
  
 Weight : ^7777771^000000
 #
+101684#
+MSP Event Box
+Normal players can't see this item. It for us ONLY :)
+Weight : ^7777770^000000
+#
+101685#
+A super wine that gives its user great power at the expense of survivability.
+ 
+Increase physical damage, MATK to all enemies by 7%, decrease Max HP and Max SP by 5% for 10 minutes.
+ 
+Weight : ^7777771^000000
+#
+101686#
+An egg that contains exclusive shadow equipment and other rare items.
+ 
+Weight : ^7777771^000000
+#
+101687#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
+101688#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
+101689#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
+101690#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
 200000#
 Gains 1 fly wing when consumed.
 Weight: ^7777771^000000
@@ -99458,6 +99616,30 @@ Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All Jobs^000000
+#
+420000#
+VIT +1, DEX +1, INT +1.
+Equip with +9 Isabella Blue Ear,
+increase physical damage to medium size monsters by 6%
+ 
+Equip with +9 Isabella Red Ear,
+Decrease delay after attack by 6%.
+ 
+Equip with +9 Isabella Brown Ear,
+Decrease damage taken from Demi-human monsters and players by 6%.
+ 
+Class: ^777777Headgear^000000 Defense: ^7777770^000000
+Location: ^777777Lower ^000000 Weight: ^77777710^000000
+Required Level: ^77777770^000000
+Jobs: ^777777All Jobs^000000
+#
+420029#
+A replica of the carapace worn by the legendary royal guard.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 420030#
 A feather with an agile appearance.
@@ -99545,6 +99727,36 @@ Weight : ^77777710^000000
 Required Level : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
+450227#
+An armor awarded to those who excelled in the Monster Hunt.
+ 
+Max HP + 800, Max SP + 100.
+Increase physical and magic damage to Beast and Insect monsters by 5%.
+For every 3 refine level, Max HP and Max SP + 1%.
+ 
+^32CD32Equip with Predator Manteau and Predator Boots^000000, decrease after skill delay by 5%.
+If refine level of ^32CD32Predator Mail, Predator Manteau and Predator Boots^000000 are +9, decrease after skill delay by 7%.
+ 
+Class : ^777777Armor^000000  Defense : ^77777740^000000
+Weight : ^77777790^000000
+Required Level : ^777777100^000000
+Jobs : ^777777All Jobs^000000
+#
+450228#
+An armor awarded to those who excelled in the Monster Hunt.
+ 
+Max HP + 200, Max SP + 50.
+Increase physical and magic damage to Beast and Insect monsters by 3%.
+For every 3 refine level, Max HP + 25, Max SP + 10.
+ 
+Equip with ^32CD32Marauder Manteau and Marauder Boots^000000, decrease variable cast time by 5%.
+If refine level of ^32CD32Marauder Mail, Marauder Manteau and Marauder Boots^000000 are +9, decrease variable cast time by 5%.
+ 
+Class : ^777777Armor^000000  Defense : ^77777725^000000
+Weight : ^77777790^000000
+Required Level : ^77777750^000000
+Jobs : ^777777All Jobs^000000
+#
 470117#
 A strong shoes that can be used for a long time from the beginning of the adventure.
 
@@ -99587,6 +99799,33 @@ Class : ^777777Shoes^000000  Defense : ^7777775^000000
 Weight : ^77777710^000000
 Required Level : ^7777771^000000
 Job : ^777777All Jobs^000000
+#
+470151#
+A pair of boots awarded to those who excelled in the Monster Hunt.
+ 
+Increase ASPD(decrease delay after attack by 5%).
+For every 3 refine level, increase ASPD(decrease delay after attack by 2%).
+ 
+Equip with ^32CD32Predator Mail^000000, increase ranged physical damage by 5%.
+If refine level of ^32CD32Predator Boots and Predator Mail^000000 are +9, increase critical damage by 5%.
+ 
+Class : ^777777Shoes^000000  Defense : ^77777713^000000
+Weight : ^77777750^000000
+Required Level : ^777777100^000000
+Jobs : ^777777All Jobs^000000
+#
+470152#
+A pair of boots awarded to those who excelled in the Monster Hunt.
+ 
+Increase ASPD(decrease delay after attack by 3%).
+For every 3 refine level, HIT +1.
+
+Equip with ^32CD32Marauder Mail^000000, increase ranged physical damage by 5%.
+If refine level of ^32CD32Marauder Boots and Marauder Mail^000000 are +9, increase critical damage by 5%.
+Class : ^777777Shoes^000000  Defense : ^7777775^000000
+Weight : ^77777750^000000
+Required Level : ^77777750^000000
+Jobs : ^777777All Jobs^000000
 #
 480096#
 Costume coats worn by adventurers to withstand the cold. A thing that can't be missed in cold weather.
@@ -99639,6 +99878,38 @@ Weight : ^77777710^000000
 Required Level : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
+480211#
+A garment awarded to those who excelled in the Monster Hunt.
+ 
+FLEE +10.
+Decrease variable cast time by 5%,
+decrease physical and magic damage taken from Beast and Insect monsters by 5%.
+For every 3 refine level, decrease variable cast time by 3%.
+ 
+Equip with ^32CD32Predator Boots^000000, increase all property magic damage by 3%.
+If refine level of ^32CD32Predator Boots and Predator Manteau^000000 are +9, decrease fixed cast time by 0.5 seconds.
+ 
+Class : ^777777Garment^000000  Defense : ^77777718^000000
+Weight : ^77777770^000000
+Required Level : ^777777100^000000
+Jobs : ^777777All Jobs^000000
+#
+480212#
+A garment awarded to those who excelled in the Monster Hunt.
+ 
+FLEE +5.
+Increase ASPD(decrease delay after attack by 5%).
+Decrease physical and magic damage taken from Beast and Insect monsters by 2%.
+For every 3 refine level, decrease variable cast time by 1%.
+ 
+Equip with ^32CD32Marauder Boots^000000, ATK +10, MATK +10.
+If refine level of ^32CD32Marauder Boots and Marauder Manteau^000000 are +9, increase ASPD(decrease delay after attack by 5%.
+ 
+Class : ^777777Garment^000000  Defense : ^7777779^000000
+Weight : ^77777770^000000
+Required Level : ^77777750^000000
+Jobs : ^777777All Jobs^000000
+#
 490194#
 A strong ring that can be used for a long time from the beginning of the adventure.
 
@@ -99677,6 +99948,26 @@ Class : ^777777Accessory^000000  Defense : ^7777770^000000
 Weight : ^77777710^000000
 Required Level : ^7777771^000000
 Job : ^777777All Jobs^000000
+#
+490248#
+A ring designed with excellent craftsmanship to help with hunting.
+ 
+Increase ASPD(decrease delay after attack by 7%).
+ 
+Class : ^777777Accessory(Left)^000000 Defense : ^7777770^000000
+Weight : ^77777710^000000
+Required Level : ^77777750^000000
+Jobs : ^777777All Jobs^000000
+#
+490249#
+A ring designed with excellent craftsmanship to help with hunting.
+ 
+Decrease variable cast time by 5%.
+
+Class : ^777777Accessory(Left)^000000 Defense : ^7777770^000000
+Weight : ^77777710^000000
+Required Level : ^77777750^000000
+Jobs : ^777777All Jobs^000000
 #
 500000#
 When attacking, there is a low chance of casting Cold Bolt Level 1
@@ -99857,6 +100148,19 @@ Weight : ^7777770^000000
 1001042#
 A special item for the event reward.
  
+^ff0000(This item will be removed after the event ends.)^000000
+Weight : ^7777770^000000
+#
+1001066#
+^0000ffEvent item^000000
+Talk to Abang Mat for processing, or to exchange for rewards.
+^ff0000(This item will be removed after the event ends.)^000000
+ 
+Weight : ^7777770^000000
+#
+1001067#
+^0000ffEvent item^000000
+Talk to Abang Mat for processing, or to exchange for rewards.
 ^ff0000(This item will be removed after the event ends.)^000000
 Weight : ^7777770^000000
 #
