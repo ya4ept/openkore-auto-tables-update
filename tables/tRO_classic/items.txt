@@ -1597,6 +1597,7 @@
 2660#Vesper Core 02#
 2661#Vesper Core 03#
 2662#Vesper Core 04#
+2663#Gauntlet Of Accuracy#
 2665#Ring Of Exorcism#
 2667#Glove Of Archer#
 2671#Bow Thimble#
@@ -4322,7 +4323,7 @@
 7524#Shadow Orb#
 7526#Manuscript Paper#
 7538#Sifted Sand#
-7539#PvP Coin#
+7539#Air Drop Coin#
 7547#Football#
 7548#Soccer Shoes#
 7553#Lotus Flower#
@@ -8810,6 +8811,19 @@
 470148#Gardener Shoes#
 470149#Assassin Shoes#
 470150#Hunter Shoes#
+470158#Temporal Boots Dex#
+470159#Temporal Boots Str#
+470160#Temporal Boots Int#
+470161#Temporal Boots Agi#
+470162#Temporal Boots Vit#
+470163#Temporal Boots Luk#
+470164#Temporal Boots Agi#
+470165#Temporal Boots Vit#
+470166#Temporal Boots Dex#
+470167#Temporal Boots Str#
+470168#Temporal Boots Int#
+470169#Temporal Boots Luk#
+470170#Temporal Boots#
 480058#Costume Wavy Golden Angel Wings#
 480069#Costume Wavy Angel Wings#
 480095#Costume Giant White Rabbit#
