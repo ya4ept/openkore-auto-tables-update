@@ -3733,17 +3733,16 @@ Required Job: Knight Jobs, Crusader Jobs
 1130#
 ^808080A one-handed sword topped with several extra edges for making wounds deeper and more unsightly.^000000
 ^FFFFFF_^000000
-Type: Weapon
-Class: One-Handed Sword
-Attack: 120
-Property: Neutral
-Weight: 50
-Weapon Level: 4
-Required Level: 40
-Required Job: Swordsman jobs, Merchant jobs, Thief jobs
+Enable use to ^0000FFLv5 Double Attack^000000.
+Increases physical damage on Demi-Human enemies an additional by 5%.
 ^FFFFFF_^000000
-Increases physical damage on Demi-Human race targets by 5%.
-Enables ^0000FFLevel 5 Double Attack^000000.
+Class : One-Handed Sword
+Attack : 120
+Property : Neutral
+Weight : 50
+Weapon Level : 4
+Required Level : 40
+Jobs : Swordsman,Merchant,Thief Classes
 #
 1131#
 ^808080A one-handed, formal dress sword imbued with the water property.^000000
@@ -4270,18 +4269,17 @@ Required Job: Swordman Jobs
 #
 1169#
 ^808080A gruesome sword used to behead criminals destined for the death penalty.^000000
+Ignores physical defense of Demi-Human monsters by 100%.
+Increase physical damage on Demi-Human monsters by 20%,
+but increase physical damage taken from Demi-Human monsters by 10%.
 ^FFFFFF_^000000
-Increases physical damage on Demi-Human race targets by 20%.
-Pierces 100% of DEF on Demi-Human race targets when performing a physical attack.
-Increases physical damage taken from Demi-Human race targets by 10%.
-Type: Weapon
-Class: Two-Handed Sword
-Attack: 155
-Weight: 220
-Property: Shadow
-Weapon Level: 4
-Required Level: 48
-Required Job: Swordman Jobs
+Class : Two-Handed Sword
+Attack : 155
+Weight : 220
+Property : Shadow
+Weapon Level : 4
+Required Level : 48
+Jobs : Swordman Classes
 ^FFFFFF_^000000
 #
 1170#
@@ -4411,18 +4409,17 @@ Required Job: Swordman Jobs
 #
 1179#
 ^808080A gruesome sword used to behead criminals destined for the death penalty.^000000
+Ignores physical defense of Demi-Human monsters by 100%.
+Increase physical damage on Demi-Human monsters by 20%,
+but increase physical damage taken from Demi-Human monsters by 10%.
 ^FFFFFF_^000000
-Increases physical damage on Demi-Human race targets by 20%.
-Pierces 100% of DEF on Demi-Human race targets when performing a physical attack.
-Increases physical damage taken from Demi-Human targets by 10%.
-Type: Weapon
-Class: Two-Handed Sword
-Attack: 155
-Weight: 220
-Property: Shadow
-Weapon Level: 4
-Required Level: 48
-Required Job: Swordman Jobs
+Class : Two-Handed Sword
+Attack : 155
+Weight : 220
+Property : Shadow
+Weapon Level : 4
+Required Level : 48
+Jobs : Swordman Classes
 ^FFFFFF_^000000
 #
 1180#
@@ -5055,20 +5052,18 @@ Required Job:Swordman Jobs, Merchant Jobs, Thief Jobs, Mage Jobs, Archer Jobs, S
 ^FFFFFF_^000000
 #
 1228#
-^808080Military combat knife made for battles against Demi-Human monsters.^000000
+A fatal dagger made for a variety of attacks in close combat.
 ^FFFFFF_^000000
-Increases physical damage on Demi-Human race targets by 10%.
-Pierces 100% of DEF on Demi-Human race targets when performing a physical attack.
-Reduces damage taken from Demi-Human race attackers by 10%.
-Increases physical damage taken from Demon race targets by 10%.
-Type: Weapon
-Class: Dagger
-Attack: 80
-Property: Neutral
-Weight: 40
-Weapon Level: 4
-Required Level: 36
-Required Job: Novice Jobs, Swordman Jobs, Merchant Jobs, Thief Jobs, Mage Jobs, Archer Jobs, Soul Linker, Ninja Jobs
+Increases physical damage on Demi-Human enemies by 10%.
+Ignores physical defense of Demi-Human enemies by 100%.
+Increases physical damage taken from Demon enemies by 10%.
+Class : Dagger
+Attack : 80
+Property : Neutral
+Weight : 40
+Weapon Level : 4
+Required Level : 36
+Jobs : Swordman Classes, Merchant Classes, Thief Classes, Mage Classes, Archer Classes, Ninja Classes, Soul Linker
 ^FFFFFF_^000000
 #
 1229#
@@ -5135,18 +5130,17 @@ Required Job: Assassin Jobs
 1233#
 ^808080A ceremonial dagger that possesses the power to defeat evil and that is used in performing exorcisms.^000000
 ^FFFFFF_^000000
-Reduces damage taken from Demon race attackers by 5%.
-Pierces 100% of DEF on Demon race targets when performing a physical attack.
-Increases physical damage taken from Demi-Human race targets by 10%.
-Type: Weapon
-Class: Dagger
-Attack: 90
-Property: Neutral
-Weight: 70
-Weapon Level: 4
-Required Level: 36
-Required Job: Novice Jobs, Swordman Jobs, Merchant Jobs, Thief Jobs, Mage Jobs, Archer Jobs, Soul Linker, Ninja Jobs
+Decrease damage on Demon enemies by 5%.
+Ignores physical defense of Demon enemies by 100%.
+Increase physical damage on Demi-Human enemies by 10%.
 ^FFFFFF_^000000
+Class : Dagger
+Attack : 90
+Property : Neutral
+Weight : 70
+Weapon Level : 4
+Required Level : 36
+Jobs : Novice Classes, Swordman Classes, Merchant Classes, Thief Classes, Mage Classes, Archer Classes, Soul Linker, Ninja Classes
 #
 1234#
 ^808080A dagger imbued with lunar spirit and the power to drain an enemy's soul.^000000
@@ -5507,21 +5501,20 @@ Required Level: 65
 Required Job: Assassin Jobs
 #
 1261#
-^808080A lethal Katar that has been perfectly designed to carry out quick assassinations.^000000
+^808080A lethal Katar that has been designed for quick assassinations.^000000
 ^FFFFFF_^000000
 DEF + 3
 FLEE +5
 Perfect Dodge +2
-Increases physical damage on Demi-Human race targets by 50%.
-Type: Weapon
-Class: Katar
-Attack: 140
-Property: Neutral
-Weight: 150
-Weapon Level: 4
-Required Level: 75
-Required Job: Assassin Jobs
+Increases physical damage on Demi-Human enemies by 50%.
 ^FFFFFF_^000000
+Class : Katar
+Attack : 140
+Property : Neutral
+Weight : 150
+Weapon Level : 4
+Required Level : 75
+Jobs : Assassin Classes
 #
 1262#
 A double bladed katar that inflicts incurable wounds.
@@ -5565,20 +5558,19 @@ Required Job: Assassin Jobs
 ^FFFFFF_^000000
 #
 1265#
-^808080This katar, known for being effective against humans, is rumored to give out a bestial roar when drenched in blood, hence its name.^000000
+^808080If it is wet by, blood will be screaming so called as Bloody Roar. It has great affect to Demi-Human enemy.^000000
 ^FFFFFF_^000000
 FLEE - (AGI + Base Level)
-HP Recovery - 100%
-SP Recovery - 100%
-Pierces 100% of DEF on Demi-Human race targets when performing a physical attack.
+Decrease natural HP and SP recovery by 100%.
+Ignores physical defense of Demi-Human enemies by 100%.
 Type: Weapon
-Class: Katar
-Attack: 120
-Property: Neutral
-Weight: 100
-Weapon Level: 4
-Required Level: 75
-Required Job: Assassin Jobs
+Class : Katar
+Attack : 120
+Property : Neutral
+Weight : 100
+Weapon Level : 4
+Required Level : 75
+Jobs : Assassin Classes
 ^FFFFFF_^000000
 #
 1266#
@@ -5587,16 +5579,15 @@ Required Job: Assassin Jobs
 DEF + 3
 FLEE +5
 Perfect Dodge +2
-Increases physical damage on Demi-Human race targets by 50%.
-Type: Weapon
-Class: Katar
-Attack: 140
-Property: Neutral
-Weight: 150
-Weapon Level: 4
-Required Level: 75
-Required Job: Assassin Jobs
+Increases physical damage on Demi-Human enemies by 50%.
 ^FFFFFF_^000000
+Class : Katar
+Attack : 140
+Property : Neutral
+Weight : 150
+Weapon Level : 4
+Required Level : 75
+Jobs : Assassin Classes
 #
 1267#
 ^000088Rental Item^000000
@@ -5933,18 +5924,17 @@ Required Job: Guillotine Cross Jobs
 ^FFFFFF_^000000
 #
 1291#
-FLEE - 30
-Increases physical damage on Demi-Human race targets by 50%.
-Increases the damage of ^0000FFCross Impact^000000 by 30%
-Type: Weapon
-Class: Katar
-Attack: 200
-Property: Neutral
-Weight: 150
-Weapon Level: 4
-Required Level: 140
-Required Job: Guillotine Cross Jobs
-^FFFFFF_^000000
+In the distant past, a guillotine cross known as Qatar used this to punish a traitor within the guild.
+FLEE - 30, DEX + 2
+Increase physical damage on Demi-Human enemies by 50%.
+Increase the damage of ^0000FFCross Impact^000000 by 30%.
+Class : Katar
+Attack : 200
+Property : Neutral
+Weight : 150
+Weapon Level : 4
+Required Level : 140
+Jobs : Guillotine Cross Classes
 #
 1293#
 Stats during WoE & PVP.
@@ -6069,17 +6059,15 @@ Required Job: Novice Jobs, Swordman Jobs, Merchant Jobs, Assassin Jobs
 1305#
 ^808080A heavy, broad bladed hatchet used by butchers.^000000
 ^FFFFFF_^000000
-Increases physical damage on Demi-Human race targets by 5%.
-Adds a 30% chance of gaining ^008080Meat^000000 when a Brute race targets is killed.
-This item is indestructible in battle.
-Type: Weapon
-Class: One-Handed Axe
-Attack: 140
-Property: Neutral
-Weight: 120
-Weapon Level: 4
-Required Level: 44
-Required Job: Swordman Jobs, Merchant Jobs
+Increases physical damage on Demi-Human enemies by 5%.
+Adds a 30% chance of gaining ^008080Meat^000000 when defeated Brute enemies.
+Class : One-Handed Axe
+Attack : 140
+Property : Neutral
+Weight : 120
+Weapon Level : 4
+Required Level : 44
+Jobs : Swordman Classes, Merchant Classes
 ^FFFFFF_^000000
 #
 1306#
@@ -6628,18 +6616,17 @@ Required Job: Swordman Jobs, Merchant Jobs
 1369#
 ^808080A huge guillotine blade welded to a handle for active decapitation.^000000
 ^FFFFFF_^000000
-Restores 2 SP to the user when performing a physical attack on Demi-Human race targets.
-Restores 20 SP to the user when a Demi-Human race targets is killed by physical attacks.
-Adds a 0.3% chance of inflicting ^800000Coma^000000 on Demi-Human race targets when performing a physical attack.
-This item is indestructible in battle.
-Type: Weapon
-Class: Two-Handed Axe
-Attack: 215
-Property: Neutral
-Weight: 300
-Weapon Level: 4
-Required Level: 44
-Required Job: Swordman Jobs, Merchant Jobs
+Restores 2 SP to the user when dealing a physical attack on Demi-Human enemies.
+Restores 20 SP to the user when a Demi-Human enemies is killed by physical attacks.
+Adds a low chance of inflicting ^800000Coma^000000 on Demi-Human enemies when dealing a physical attack.
+^FFFFFF_^000000
+Class : Two-Handed Axe
+Attack : 215
+Property : Neutral
+Weight : 300
+Weapon Level : 4
+Required Level : 44
+Jobs : Swordman Classes, Merchant Classes
 ^FFFFFF_^000000
 #
 1370#
@@ -7375,26 +7362,17 @@ Required Job: Transcendent Swordman Jobs
 1421#
 ^808080A spear that is tipped with a hook that can push and pull enemies.^000000
 ^FFFFFF_^000000
-Increases physical damage on Demi-Human race targets by 20%.
-Enables ^0000FFLevel 3 Pierce^000000.
-Adds a 5% chance of inflicting ^800000Stun^000000 on the target when performing a physical attack.
+Increases physical damage on Demi-Human enemies by an additional 20%.
+Enable use to ^0000FFLv3 Pierce^000000.
+Adds a 5% chance of inflicting ^800000Stun^000000 on the enemy when dealing physical attack.
 ^FFFFFF_^000000
-^800080Set Bonus^000000
-^008080Battle Hook [1]^000000 or ^008080Hunting Spear [1]^000000 or ^008080Long Horn [1]^000000
-^008080Tournament Shield [1]^000000
-DEF + 2
-ATK + 4%
-^FFFFFF_^000000
-If used by Knight Jobs,
-Aspd - 5%.
-Type: Weapon
-Class: One-Handed Spear
-Attack: 140
-Property: Neutral
-Weight: 90
-Weapon Level: 4
-Required Level: 65
-Required Job: Transcendent Swordman Jobs
+Class : One-Handed Spear
+Attack : 140
+Property : Neutral
+Weight : 90
+Weapon Level : 4
+Required Level : 65
+Jobs : Transcendent Swordman Classes
 ^FFFFFF_^000000
 #
 1422#
@@ -7512,21 +7490,19 @@ Required Job: Transcendent Swordman Jobs
 ^808080A beautiful spear engraved with patterns of the Rune Kingdom.^000000
 ^FFFFFF_^000000
 MATK +40
-Increases the damage of ^0000FFBanishing Point^000000 and ^0000FFCannon Spear^000000 by 20%.
-Increases the damage of ^0000FFBanishing Point^000000 and ^0000FFCannon Spear^000000 by 3% per 2 upgrade levels of this item.
+Increases the damage of ^0000FFVanishing Point^000000 and ^0000FFCannon Spear^000000 by 20%.
+Increases the damage of ^0000FFVanishing Point^000000 and ^0000FFCannon Spear^000000 by 3% per 2 upgrade levels of this item.
 ^FFFFFF_^000000
-^800080Set Bonus^000000
-^008080Imperial Guard [1]^000000
-^008080Imperial Spear [1]^000000
-Increases the damage of ^0000FFGenesis Ray^000000 and ^0000FFGrand Cross^000000 by 10%.
-Type: Weapon
-Class: One-Handed Spear
-Attack: 180
-Property: Neutral
-Weight: 180
-Weapon Level: 3
-Required Level: 102
-Required Job: Royal Guard
+When equipped with ^008080Imperial Spear [1]^000000,
+increases the damage of ^0000FFGenesis Ray^000000 and ^0000FFGrand Cross^000000 by 10%.
+Type : Weapon
+Class : One-Handed Spear
+Attack : 180
+Property : Neutral
+Weight : 180
+Weapon Level : 3
+Required Level : 102
+Job : Royal Guard
 ^FFFFFF_^000000
 #
 1434#
@@ -7543,17 +7519,18 @@ Required Job: Swordman Jobs
 ^FFFFFF_^000000
 #
 1435#
-Max SP - 100
-Increases the damage of ^0000FFBanishing Point^000000 and ^0000FFCannon Spear^000000 by 10%.
-Increases the damage of ^0000FFBanishing Point^000000 and ^0000FFCannon Spear^000000 by an additional 3% per upgrade level of the item.
-Type: Weapon
-Class: One-Handed Spear
-Attack: 180
-Property: Neutral
-Weight: 160
-Weapon Level: 4
-Required Level: 100
-Required Job: Royal Guard Jobs
+ A very sharp spear made from cranium.
+MSP - 100
+Increases the damage of ^0000FFCannon Spear^000000 by 10%.
+Increases the damage of ^0000FFCannon Spear^000000 by an additional 3% per upgrade level of the item.
+Type : Weapon
+Class : One-Handed Spear
+Attack : 180
+Property : Neutral
+Weight : 160
+Weapon Level : 4
+Required Level : 100
+Job : Royal Guard
 ^FFFFFF_^000000
 #
 1436#
@@ -7602,7 +7579,7 @@ Required Level: ^77777740^000000
 Job: ^777777Swordsman Classes^000000
 #
 1438#
-A magic spear sculpted from Shard of Gray to counter Thanatos.
+A magic spear sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +100, INT +6, VIT +6, LUK -6
@@ -7876,47 +7853,40 @@ Required Job: Swordman Jobs
 #
 1467#
 ^808080A spear with a hooked blade that has proven its versatility in battle.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Two-Handed Spear
-Attack: 183
-Property: Neutral
-Weight: 100
-Weapon Level: 4
-Required Level: 48
-Required Job: Swordman Jobs
-^FFFFFF_^000000
-Increases physical damage on Brute race targets by 10%.
-Increases physical damage on Demi-Human race targets by 5%.
+Increases physical damage on Brute enemies by an additional 10%.
+Increases physical damage on Demi-Human enemies by an additional 5%.
+Class : Two-Handed Spear
+Attack : 183
+Property : Neutral
+Weight : 100
+Weapon Level : 4
+Required Level : 48
+Jobs : Swordman Classes
 #
 1468#
 ^808080A spear imbued with the Wind property.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: Two-Handed Spear
-Attack: 170
-Property: Wind
-Weight: 200
-Weapon Level: 4
-Required Level: 48
-Required Job: Swordman Jobs
-^FFFFFF_^000000
-Adds a 10% chance of casting ^0000FFLevel 3 Thunderstorm^000000 on the target when performing a physical attack.
-Adds a 2% chance of inflicting ^800000Silence^000000 on the target when performing a physical attack.
+Adds a low chance of casting ^0000FFLv3 Thunderstorm^000000 on the enemy when dealing physical attack.
+Adds a chance of inflicting ^800000Silence^000000 on the enemy when dealing physical attack.
+Class : Two-Handed Spear
+Attack : 170
+Property : Wind
+Weight : 200
+Weapon Level : 4
+Required Level : 48
+Jobs : Swordman Classes
 #
 1469#
 ^808080A legendary spear owned by the tragic soldier, Longinus.^000000
+Increase physical damage on Demi-Human, Angel enemies by 10%.
 ^FFFFFF_^000000
-Type: Weapon
-Class: Two-Handed Spear
-Attack: 180
-Property: Shadow
-Weight: 250
-Weapon Level: 4
-Required Level: 48
-Required Job: Swordman Jobs
+Class : Two-Handed Spear
+Attack : 180
+Property : Shadow
+Weight : 250
+Weapon Level : 4
+Required Level : 48
+Required Job : Swordman Classes
 ^FFFFFF_^000000
-Increases physical damage on Demi-Human, Angel race targets by 10%.
 #
 1470#
 ^808080A spear that radiates with the warm, glowing light of pure holiness.^000000
@@ -8058,18 +8028,17 @@ Required Job: Swordman Jobs
 #
 1478#
 ^808080An auger-shaped spear that is designed for striking the weak points of an enemy.^000000
+Ignores physical defense of enemies by 100%.
+Increases physical damage on Demi-Human by an additional 10%.
+Adds a chance of casting ^0000FFLv5 Pierce^000000 on the enemy when dealing physical attack.
 ^FFFFFF_^000000
-Increases physical damage on Demi-Human race targets by 10%.
-Pierces 100% of DEF on Boss, Normal, Player protocol targets when performing a physical attack.
-Adds a 3% chance of casting ^0000FFLevel 5 Pierce^000000 on the target when performing a physical attack.
-Type: Weapon
 Class: Two-Handed Spear
-Attack: 120
-Property: Neutral
-Weight: 100
-Weapon Level: 4
-Required Level: 65
-Required Job: Knight Jobs, Crusader Jobs
+Attack : 120
+Property : Neutral
+Weight : 100
+Weapon Level : 4
+Required Level : 65
+Jobs : Knight Classes, Crusader Classes
 ^FFFFFF_^000000
 #
 1479#
@@ -8339,7 +8308,7 @@ Required Level: ^77777740^000000
 Job: ^777777Swordsman Classes^000000
 #
 1496#
-A two-handed magic spear sculpted from Shard of Gray to counter Thanatos.
+A two-handed magic spear sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +50, INT +6, VIT +6, LUK -6.
@@ -8347,11 +8316,11 @@ When dealing physical attack, has a low chance of regaining 5% of your damage as
 Drains 100 HP every 10 seconds.
 Consumes 1,000 HP when unequipped.
 
-Class: ^777777Two-Handed Spear^000000
-Attack: ^777777250^000000
+Class : ^777777Two-Handed Spear^000000
+Attack : ^777777250^000000
 Weight : 375
-Weapon Level: ^7777774^000000
-Requires Level: ^777777120^000000
+Weapon Level : ^7777774^000000
+Requires Level : ^777777120^000000
 Jobs : ^777777Swordman Classes^000000
 #
 1498#
@@ -8702,16 +8671,16 @@ Required Job: Acolyte Jobs
 1527#
 ^808080A heavy and powerful iron mace with a rounded top.^000000
 ^FFFFFF_^000000
-Increases physical damage on Demi-Human race targets by 10%.
-Increases physical damage on Earth and Undead property targets by 10%.
-Type: Weapon
-Class: Mace
-Attack: 165
-Property: Neutral
-Weight: 90
-Weapon Level: 4
-Required Level: 40
-Required Job: Acolyte Jobs
+Increase physical damage on Demi-Human enemies by 10%.
+Increase physical damage on Earth and Undead property enemies by 10%.
+Type : Weapon
+Class : Mace
+Attack : 165
+Property : Neutral
+Weight : 90
+Weapon Level : 4
+Required Level : 40
+Jobs : Acolyte Classes
 ^FFFFFF_^000000
 #
 1528#
@@ -9234,26 +9203,27 @@ Required Job: Priest Jobs, Sage Jobs, Taekwon Master
 ^FFFFFF_^000000
 #
 1565#
-^808080These books are used by demons to kill the living by writing their names on the pages, and a few of these were lost and ended up in human hands. The last name, 'Hollg--' looks like it wasn't completed. Maybe the demon changed his mind?^000000
+^808080These books are used by demons to kill the living by writing their names on the pages,
+and a few of these were lost and ended up in human hands.
+The last name, 'Hollg--' looks like it wasn't completed. Maybe the demon changed his mind?^000000
 ^FFFFFF_^000000
 STR +3
 INT + 3
 LUK - 20
 MATK + 100
-Aspd + 1% per upgrade level of the item.
-Adds a 0.1% chance of inflicting ^800000Coma^000000 on Demi-Human race targets when performing a physical attack.
+For every refine level, increases ASPD by 1%.(Decrease delay after attack by 1%)
+Adds a chance of inflicting ^800000Coma^000000 on Demi-Human enemies when dealing physical attack.
 ^FFFFFF_^000000
-If used by Sage Jobs,
-Adds a 2% chance of casting ^0000FFLevel 5 Hell's Judgment^000000 on the target when performing a physical attack.
-Type: Weapon
-Class: Book
-Attack: 137
-Property: Neutral
-Weight: 100
-Weapon Level: 4
-Required Level: 85
-Required Job: Priest Jobs, Sage Jobs, Taekwon Master
+If equipped by Sage ,
+Adds a chance of casting ^0000FFLv5 Hell's Judgment^000000 and inflict Curse status ailment to every enemies onscreen.
 ^FFFFFF_^000000
+Class : Book
+Attack : 137
+Property : Neutral
+Weight : 100
+Weapon Level : 4
+Required Level : 85
+Jobs : Priest Classes, Sage Classes, Taekwon Master
 #
 1568#
 ^808080A hefty book with a hard cover that has been enchanted with the Water property.^000000
@@ -10644,7 +10614,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Mage Jobs/Soul Linker^000000
 #
 1669#
-A magic staff sculpted from Shard of Gray to counter Thanatos.
+A magic staff sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +200, INT +6, VIT +6, LUK -6.
@@ -10658,7 +10628,7 @@ Attack  : ^777777100^000000
 Weight : ^777777100^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777120^000000
-Job : ^777777Mage and Acolyte Classes^000000
+Jobs : ^777777Mage and Acolyte Classes^000000
 #
 1670#
 ^808080A staff created for the 2012 RWC (Ragnarok World Championship) infused with pure gold.^000000
@@ -12302,19 +12272,19 @@ Required Level: ^77777740^000000
 Job: ^777777Priest Classes/Monk Classes^000000
 #
 1836#
-A magic knuckle sculpted from Shard of Gray to counter Thanatos.
+A magic knuckle sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +100, INT +6, VIT +6, LUK -6.
-Physical attack has a low chance of regaining 5% of your damage as HP and SP.
+When dealing physical attack, has a low chance of regaining 5% of your damage as HP and SP.
 Drains 100 HP from the user every 10 seconds.
 Consumes 1,000 HP when unequipped.
 
-Class: ^777777Knuckle^000000
-Attack: ^777777160^000000
-Weight: ^77777760^000000
-Weapon Level: ^7777774^000000
-Requires Level: ^777777120^000000
+Class : ^777777Knuckle^000000
+Attack : ^777777160^000000
+Weight : ^77777760^000000
+Weapon Level : ^7777774^000000
+Requires Level : ^777777120^000000
 Jobs : ^777777Sura^000000
 #
 1837#
@@ -12848,20 +12818,20 @@ Required Level: ^77777740^000000
 Job: ^777777Bard Classes^000000
 #
 1933#
-A magic violin sculpted from Shard of Gray to counter Thanatos.
+A magic violin sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +130, INT +6, VIT +6, LUK -6.
-Physical attack has a low chance to drain 5% of attack into HP and SP.
+When dealing physical attack, has a low chance to drain 5% of attack into HP and SP.
 Increases long range physical attack by 20%.
 Drains 100 HP every 10 seconds.
 Consumes 1,000 HP when unequipped.
 
-Class: ^777777Musical Instrument^000000
-Attack: ^777777200^000000
-Weight: ^777777200^000000
-Weapon Level: ^7777774^000000
-Requires Level: ^777777120^000000
+Class : ^777777Musical Instrument^000000
+Attack : ^777777200^000000
+Weight : ^777777200^000000
+Weapon Level : ^7777774^000000
+Requires Level : ^777777120^000000
 Jobs : ^777777Maestro^000000
 #
 1934#
@@ -13460,20 +13430,20 @@ Required Level: ^77777740^000000
 Job: ^777777Dancer Classes^000000
 #
 1988#
-A whip sculpted from Shard of Gray to counter Thanatos.
+A whip sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +130, INT +6, VIT +6, LUK -6.
-Physical attack has a low chance to drain 5% of attack into HP and SP.
+When dealing physical attack, has a low chance to drain 5% of attack into HP and SP.
 Increases long range physical attack by 20%.
 Drains 100 HP every 10 seconds.
 Consumes 1,000 HP when unequipped.
 
-Class: ^777777Whip^000000
-Attack: ^777777200^000000
-Weight: ^777777220^000000
-Weapon Level: ^7777774^000000
-Requires Level: ^777777120^000000
+Class : ^777777Whip^000000
+Attack : ^777777200^000000
+Weight : ^777777220^000000
+Weapon Level : ^7777774^000000
+Requires Level : ^777777120^000000
 Jobs : ^777777Wanderer^000000
 #
 1989#
@@ -13833,7 +13803,7 @@ Required Level: ^777777150^000000
 Jobs: ^777777HighWizardClass^000000
 #
 2023#
-A magic staff sculpted from Shard of Gray to counter Thanatos.
+A magic staff sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +250, INT +6, VIT +6, LUK -6.
@@ -13843,11 +13813,11 @@ Consumes 100 HP every 10 seconds.
 Consumes 1,000 HP when unequipped.
 
 Class : ^777777Two-Handed Staff^000000
-Attack  : ^777777180^000000
+Attack  : ^777777120^000000
 Weight : ^777777140^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777120^000000
-Job : ^777777Mage Classes & Acolyte Classes^000000
+Jobs : ^777777Mage and Acolyte Classes^000000
 #
 2025#
 ^808080A two-handed staff emitting a red aura.^000000
@@ -14685,9 +14655,9 @@ Job: ^777777Novice^000000
 2185#
 Excellent Shield with ability to reflect magic.
 MDEF + 10.
-Adds a 3% chance to reflect magic attack that do not target the ground.
-If refine is +7, increase reflect chance by 3%.
-If refine is +9, increase reflect chance by 3%.
+Has 3% chance to reflect single target magic attack.
+If refine level is +7, increase reflect chance by 3%.
+If refine level is +9, increase reflect chance by 3%.
 Class : ^777777Shield^000000 Defense : ^77777750^000000
 Weight : ^777777100^000000
 Required Level : ^77777799^000000
@@ -14695,14 +14665,15 @@ Jobs : ^777777All Jobs^000000
 #
 2186#
 Revised Encyclopedia published by famous Prontera Editor. Its hard cover can be used to resist enemy attack.
-MATK +5, INT +3, DEX +2, CRI +3.
-If refine is +7, CRI +2. If refine is +9, MATK +5.
-If equipped with Encyclopedia, ASPD +1% per refine of Encyclopedia.
-If equipped with Encyclopedia(Rental), ASPD +15%.
+MATK +5, INT +3, DEX +2, CRIT +3.
+If refine level is +7, CRIT +2.
+If refine level is +9, MATK +5.
+Equip with Encyclopedia, for every refine level of Encyclopedia, increase ASPD (Decrease delay after attack by 1%).
+Equip with Rental Encyclopedia increase ASPD (Decrease delay after attack by 15%).
 Class : ^777777Shield^000000 Defense : ^77777750^000000
 Weight : ^77777720^000000
 Required Level : ^77777799^000000
-Jobs : ^777777Priest Jobs, Sage Jobs, Taekwon Master^000000
+Jobs : ^777777Priest Classes / Sage Classes / Star Gladiator^000000
 #
 2187#
 Shield surrounded by dark aura. Has the ability to resist divine power.
@@ -15745,17 +15716,13 @@ Jobs: ^777777All^000000
 #
 2291#
 A black leather mask,
-shaped like butterfly
-wings, that increases
-damage inflicted
-upon Demihuman
-monsters by 3%.
-Class: ^777777Headgear^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^77777710^000000
-Jobs: ^777777Every job
-except novice^000000
+shaped like butterfly wings.
+Increase physical damage on Demi-Human enemies by 3%.
+Class : ^777777Headgear^000000
+Defense : ^7777770^000000
+Location : ^777777Middle^000000
+Weight : ^77777710^000000
+Jobs : ^777777All Jobs except Novice^000000
 #
 2292#
 A durable mask made
@@ -21922,8 +21889,8 @@ Job: ^777777All jobs^000000
 2963#
 Geffen developed magic ring, can enhance the body's ability.
 ATK +5%.
-If equipped with Anti-magic Suit, Increases ASPD. (Decrease Delay After Attack by 5%)
-If equipped with Geffen Magic Robe, Decreases after skill delay by 5% and damage taken from Demi-Human enemies by 5%.
+Equip with Anti-magic Suit, increase ASPD (Decrease delay after attack by 5%).
+Equip with Geffen Magic Robe, decrease after skill delay by 5% and damage taken from Demi-Human enemies by 5%.
 Class : ^777777Accessory^000000 Defense : ^7777770^000000
 Weight : ^77777710^000000
 Required Level : ^77777790^000000
@@ -21932,8 +21899,8 @@ Jobs : ^777777All Jobs^000000
 2964#
 This magic ring developed in Geffen enhances its wearer's magical abilities.
 MATK +5%.
-If equipped with Geffen Magic Robe, Decreases variable cast time by 5%.
-If equipped with Anti-magic Suit, Decreases after skill delay by 5% and damage taken from Demi-Human enemies by 5%.
+Equip with Geffen Magic Robe, decrease variable cast time by 5%.
+Equip with Anti-magic Suit, decrease after skill delay by 5% and damage taken from Demi-Human enemies by 5%.
 Class : ^777777Accessory^000000 Defense : ^7777770^000000
 Weight : ^77777710^000000
 Required Level : ^77777790^000000
@@ -22467,12 +22434,10 @@ Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4035#
-Increases damage
-on Demihuman
-monsters by 20%.
-Class: ^777777Card^000000
-Location: ^777777Weapon^000000
-Weight: ^7777771^000000
+Increase physical damage on Demi-Human enemies by 20%.
+Class : ^777777Card^000000
+Location : ^777777Weapon^000000
+Weight : ^7777771^000000
 #
 4036#
 HP Recovery +10%
@@ -22676,12 +22641,10 @@ Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4058#
-Reduces damage
-from Demihuman
-monsters by 30%.
-Class: ^777777Card^000000
-Location: ^777777Shield^000000
-Weight: ^7777771^000000
+Decrease damage on Demi-Human enemies by 30%.
+Class : ^777777Card^000000
+Location : ^777777Shield^000000
+Weight : ^7777771^000000
 #
 4059#
 Reduces damage from
@@ -23199,13 +23162,10 @@ Location: ^777777Shield^000000
 Weight: ^7777771^000000
 #
 4125#
-Increases damage on
-Demihuman, Brute,
-Plant, and Insect
-monsters by 7%.
-Class: ^777777Card^000000
-Location: ^777777Weapon^000000
-Weight: ^7777771^000000
+Increase physical damage on Demi-Human, Brute, Plant, and Insect enemies by 7%.
+Class : ^777777Card^000000
+Location : ^777777Weapon^000000
+Weight : ^7777771^000000
 #
 4126#
 Increases damage
@@ -24577,41 +24537,27 @@ Location: ^777777Footwear^000000
 Weight: ^7777771^000000
 #
 4245#
-Am Mut Card.
-Receive 10% more Experience Points from Demihuman monsters.
-Receive 20% more damage from Demihuman monsters.
-Class: ^777777Card^000000
-Location: ^777777Footwear^000000
-Weight: ^7777771^000000
+Increase experience points by 10% when defeating Demi-Human enemies. 
+Increase physical damage on Demi-Human enemies by 20%.
+Class : ^777777Card^000000
+Location : ^777777Footwear^000000
+Weight : ^7777771^000000
 #
 4246#
-Assaulter Card.
-Inflict 10% more damage 
-with a Critical Attack.
-Critical +7 on 
-Demihuman monsters.
-^6A5ACDSwordman Card Set^000000
-^3CB371Assaulter Card^000000
-^3CB371Permeter Card^000000
-^3CB371Solider Card^000000
-^3CB371Freezer Card^000000
-^3CB371Heater Card^000000
-Set Bonus: A chance to cast 
-level 1 Weapon Perfection 
-when attacking.
-HP Regen +50%
-A chance of gaining 
-Red Potion
-each time a monster is killed.
-Max HP +20%
+Increase critical damage by 10%.
+Increase critical rate on Demi-Human enemies by 7%. 
+^ffffff_^000000
+When equipped with Permeter Card, Solider Card, Freezer Card, and Heater Card:
 STR +10
-Swordman Class:
-+50% HP Restoration 
-when using Red, Yellow, 
-and White Potions.
-Class: ^777777Card^000000
-Location: ^777777Weapon^000000
-Weight: ^7777771^000000
+MHP +20%
+HP Recovery +50%
+Adds a chance of gaining a 'Red Potion' item when defeating enemies.
+Adds a chance to cast Lv1 Weapon Perfection on the enemies when dealing physical attacks.
+^ffffff_^000000
+Swordman Class: Increase the recovery of Red, Yellow and White Potions by 50%.
+Class : ^777777Card^000000
+Location : ^777777Weapon^000000
+Weight : ^7777771^000000
 #
 4247#
 Aster Card.
@@ -27507,53 +27453,37 @@ Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4521#
-Increase Critical attacks by 15%.
+Increase critical damage by 15%.
 Class: ^777777Card^000000
 Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4522#
-When attacking closely, makes an enemy freeze.
+Has chance to apply Crystallization upon inflicting physical melee attack.
 Class: ^777777Card^000000
 Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4523#
-Changes armor to the Water property.
-Reduces damage by Fish-type monsters by 10%.
+Changes armor property to the Water property.
+Decrease damage taken from Fish monsters by 10%.
 Class: ^777777Card^000000
-Location: ^777777armor^000000
-Weight: ^7777771^000000
-The armor type is changed to Water type.
-10% damage decreased from seafood.
-Class: ^777777Card^000000
-Location: ^777777armor^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4524#
 STR +2.
-[^00ff00Swordman Class^000000]
-Increase STR +1 for every 3 Refine.
-Class: ^777777Card^000000
-Location: ^777777Headgear^000000
-Weight: ^7777771^000000
-STR +2; for Swordman Class, when Refine 3 times, the STR is increased an additional +1.
+[For every 3 refine level, STR +1 to ^00ff00Swordman Classes^000000]
 Class: ^777777Card^000000
 Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4525#
-Flee +10.
-Enables use of Hide Level 1 and Raid Level 1.
-Chance of causing a Bleeding effect when using Raid.
+FLEE +10.
+Able to use Lv 1 Hiding and Lv 1 Sightless Mind.
+Has chance to apply Bleed upon casting Sightless Mind.
 Class: ^777777Card^000000
-Location: ^777777Upper^000000
-Weight: ^7777771^000000
-Flee +10.
-[Hiding] Level 1, [Surprise attack] Level 1 available to use.
-[Surprise attack] makes an enemy bleed.
-Class: ^777777Card^000000
-Location: ^777777Upper^000000
+Location: ^777777Garment^000000
 Weight: ^7777771^000000
 #
 4526#
@@ -27955,10 +27885,10 @@ Location: ^777777Helm^000000
 Weight: ^7777771^000000
 #
 4587#
-+12 Critical damage on Demihuman/Players/Animal/Fish monsters.
-Class: ^777777Card^000000
-Location: ^777777Accessory^000000
-Weight: ^7777771^000000
+Increase Critical Rate against Players, Demi-Human, Brute, and Fish monsters by 12%.
+Class : ^777777Card^000000
+Location : ^777777Accessory^000000
+Weight : ^7777771^000000
 #
 4588#
 ATK +5 every 10 pure STR.
@@ -29180,10 +29110,10 @@ Location: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4992#
-1% chance to restore HP by 1% of damage dealt (P. ATK only)
+Has 1% chance to absorb 1% of physical damage dealt to enemy as HP.
 #
 4993#
-1% chance to restore SP by 1% of damage dealt (P. ATK only)
+Has 1% chance to absorb 1% of physical damage dealt to enemy as SP.
 #
 4998#
 GM_Aegis_Card
@@ -30492,21 +30422,18 @@ Required Level: ^777777N/A^000000
 Jobs: ^777777All^000000
 #
 5121#
-This mask, which is
-symbolic of Zealotus,
-mistress of the Glast
-Heim Underground Prison, makes its wearer feel like
-looking down on normal human peons. Increases
-damage against Demihuman monsters by 5% and reduces
-damage from Demihuman
-monsters by 5%.
+This mask, which is symbolic of Zealotus,
+mistress of the Glast Heim Underground Prison,
+makes its wearer feel like
+looking down on normal human peons.
+Increase physical damage on Demi-Human enemies by 5%.
+Decrease damage on Demi-Human enemies by 5%.
 Class: ^777777Headgear^000000
-Defense: ^7777773^000000
-Location: ^777777Upper, Mid^000000
-Weight: ^77777740^000000
-Required Level: ^77777770^000000
-Jobs: ^777777All except
-Novice Class^000000
+Defense : ^7777773^000000
+Location : ^777777Upper, Mid^000000
+Weight : ^77777740^000000
+Required Level : ^77777770^000000
+Jobs : ^777777All Jobs except Novice^000000
 #
 5122#
 Once owned by Magni,
@@ -34491,12 +34418,12 @@ Usable By: ^777777Archer Class^000000
 #
 5518#
 A headgear made from the horns of Baphomet.
-Increases resistance to Demi-human monsters by 12%.
-Increases a certain amount of ATK in accordance with wearer's Job Level.
-Equipment Type: ^777777Headgear^000000 Defense: ^7777775^000000
-Equip Slot: ^777777Upper^000000 Weight: ^77777780^000000
-Required Level: ^77777750^000000
-Usable By: ^777777All Character Types^000000
+Decrease damage taken from Demi-Human enemies by 12%.
+Increase certain amount of ATK depending on the wearer's job level.
+Class : ^777777Headgear^000000 Defense : ^7777775^000000
+Location : ^777777Upper^000000 Weight : ^77777780^000000
+Required Level : ^77777750^000000
+Jobs : ^777777All Jobs^000000
 #
 5519#
 You seem to sing a song like a Bard.
@@ -39714,23 +39641,17 @@ Location: ^777777Upper^000000
 Weight: ^77777710^000000
 #
 6642#
-^0000FFATK +1%^000000
-^FFFFFF_^000000
-Give this item to ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
-to enchant your costume.
-^FFFFFF_^000000
-Class: ^777777Enchant Stone^000000
-Location: ^777777Middle^000000
+A stone with the ability to increase ATK.
+Gives the following Stats to costume middle slot:
+ATK +1%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6643#
-^0000FFMATK +1%^000000
-^FFFFFF_^000000
-Give this item to ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
-to enchant your costume.
-^FFFFFF_^000000
-Class: ^777777Enchant Stone^000000
-Location: ^777777Middle^000000
+A stone with the ability to increase MATK.
+Gives the following Stats to costume middle slot:
+MATK +1%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6644#
@@ -39792,7 +39713,7 @@ Take this ticket to the RWC Enchanter to change the enchantment on your RWC 2012
 Weight: ^7777771^000000
 #
 6671#
-^ff0000Cannot be traded to another game account.^000000
+^ff0000This item cannot be traded with other accounts.^000000
 A coin given to those who participated in the Geffen Magic tournament.
 Weight : ^7777770^000000
 #
@@ -39992,23 +39913,17 @@ located at Geffen 82, 71
 Weight: ^7777770^000000
 #
 6740#
-^0000FFRecovery by skill or item +2%^000000
-^FFFFFF_^000000
-Give this item to ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
-to enchant your costume.
-^FFFFFF_^000000
-Class: ^777777Enchant Stone^000000
-Location: ^777777Upper^000000
+A stone with the ability to increase recovery effect.
+Gives the following Stats to costume upper slot:
+Recovery effect from heal and item +2%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6741#
-^0000FFRecovery Skill Effect +3%^000000
-^FFFFFF_^000000
-Give this item to ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
-to enchant your costume.
-^FFFFFF_^000000
-Class: ^777777Enchant Stone^000000
-Location: ^777777Upper^000000
+A stone with the ability to increase healing skill effect.
+Gives the following Stats to costume upper slot:
+Healing skill effect +3%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6742#
@@ -40022,33 +39937,24 @@ Location: ^777777Middle^000000
 Weight: ^77777710^000000
 #
 6743#
-^0000FFMax HP +1%^000000
-^FFFFFF_^000000
-Give this item to ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
-to enchant your costume.
-^FFFFFF_^000000
-Class: ^777777Enchant Stone^000000
-Location: ^777777Middle^000000
+A stone with the ability to increase HP.
+Gives the following Stats to costume middle slot:
+Max HP +1%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6744#
-^0000FFMax SP +1%^000000
-^FFFFFF_^000000
-Give this item to ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
-to enchant your costume.
-^FFFFFF_^000000
-Class: ^777777Enchant Stone^000000
-Location: ^777777Middle^000000
+A stone with the ability to increase SP.
+Gives the following Stats to costume middle slot:
+Max SP +1%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6745#
-^0000FFRestores 1 SP when defeating monsters with physical or magic attacks^000000
-^FFFFFF_^000000
-Give this item to ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
-to enchant your costume.
-^FFFFFF_^000000
-Class: ^777777Enchant Stone^000000
-Location: ^777777Lower^000000
+A stone with the ability to gain SP during combat.
+Gives the following Stats to costume lower slot:
+Restore 1 SP upon defeating enemies with physical or magic attack.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6746#
@@ -40467,23 +40373,17 @@ A freely wandering soul which was captured escaping from Niflheim. The only plac
 Weight: ^7777770^000000
 #
 6943#
-^0000FFATK +1%^000000
-^FFFFFF_^000000
-Give this item to ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
-to enchant your costume.
-^FFFFFF_^000000
-Class: ^777777Enchant Stone^000000
-Location: ^777777Upper^000000
+A stone with the ability to increase ATK.
+Gives the following Stats to costume upper slot:
+ATK +1%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6944#
-^0000FFMATK +1%^000000
-^FFFFFF_^000000
-Give this item to ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
-to enchant your costume.
-^FFFFFF_^000000
-Class: ^777777Enchant Stone^000000
-Location: ^777777Upper^000000
+A stone with the ability to increase MATK.
+Gives the following Stats to costume upper slot:
+MATK +1%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6945#
@@ -40547,13 +40447,10 @@ Location: ^777777Middle^000000
 Weight: ^77777710^000000
 #
 6951#
-^0000FFMax HP +1%^000000
-^FFFFFF_^000000
-Give this item to ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
-to enchant your costume.
-^FFFFFF_^000000
-Class: ^777777Enchant Stone^000000
-Location: ^777777Lower^000000
+A stone with the ability to increase SP.
+Gives the following Stats to costume lower slot:
+MaxHP +1%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6956#
@@ -40573,23 +40470,17 @@ It might be useful in creating something.
 Weight: ^7777771^000000
 #
 6963#
-^0000FF1% chance to restore HP by 1% of damage when dealing physical attacks^000000
-^FFFFFF_^000000
-Give this item to ^ffffff<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
-to enchant your costume.
-^FFFFFF_^000000
-Class: ^777777Enchant Stone^000000
-Location: ^777777Garment^000000
+A stone with the ability for HP absorption.
+Gives the following Stats to costume garment slot:
+Has 1% chance to absorb 1% of physical damage dealt to enemy as HP.
+^ffffff<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6964#
-^0000FF1% chance to restore SP by 1% of damage when dealing physical attacks^000000
-^FFFFFF_^000000
-Give this item to ^ffffff<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
-to enchant your costume.
-^FFFFFF_^000000
-Class: ^777777Enchant Stone^000000
-Location: ^777777Garment^000000
+A stone with the ability for SP absorption.
+Gives the following Stats to costume garment slot:
+Has 1% chance to absorb 1% of physical damage dealt to enemy as SP.
+^ffffff<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
 Weight: ^77777710^000000
 #
 6988#
@@ -40619,16 +40510,11 @@ With this certificate, you are guaranteed to refine ^006400your armor to 10^0000
 Weight : ^7777770^000000
 #
 6999#
-^808080A stone with the ability for HP absorption.^000000
-^FFFFFF_^000000
-Item Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Upper
-^FFFFFF_^000000
-1% chance to absorb 3% of damage dealt to enemy as HP.
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability for HP absorption.
+Gives the following Stats to costume upper slot:
+Has 1% chance to absorb 3% of physical damage dealt to enemy as HP.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 7001#
 A handful of soft,
@@ -45210,7 +45096,7 @@ Weight: ^7777771^000000
 #
 7799#
 A powerful gemstone that can be transmuted into another element when combined correctly.
-Weight: ^7777770^000000
+Weight: ^7777771^000000
 #
 7801#
 ^808080A Letter which writes about Riko's memories of love.^000000
@@ -51993,12 +51879,14 @@ Weight: ^7777771^000000
 #
 12418#
 A potion that increases a little bit of ATK for 500 seconds.
-
+^ff0000If the character becomes incapacitated the item effect will also disappear.^000000
+ 
 Weight : ^7777775^000000
 #
 12419#
 A potion that increases a little bit of MATK for 500 seconds.
-
+^ff0000If the character becomes incapacitated the item effect will also disappear.^000000
+ 
 Weight : ^7777775^000000
 #
 12422#
@@ -53495,6 +53383,11 @@ Reduce neutral damage received by 5 % for 30 minutes.
 The buff does not disappear when the user dies.
 Weight: ^7777770^000000 
 #
+12754#
+A special food for new year.
+Restores HP and SP by 30%.
+Weight : ^7777771^000000
+#
 12766#
 A manual that get Extra 25% Job Exp during 30 minutes
 Can be duplicated with Battle Manual.
@@ -54226,34 +54119,24 @@ Jobs: ^777777Swordsman, Merchant, and Thief Classes^000000
 Weight: ^7777771^000000
 #
 12938#
-A box that contains
-1 Combat Knife. Please
-handle with care.
-
 ^000088Rental Item^000000
-
-A military combat
-knife designed for
-killing humanoids.
-Ignores Demi-human
-monster physical defense.^FFFFFF ^000000 Reduces damage from
-Demi-human monsters
-by 10%, but increases
-damage inflicted by
-Devil monsters by 10%.
-Restores 3 SP when
-hitting a monster.
-Max SP +10%.
-
-Weapon Class: ^777777Dagger^000000
-Attack Strength: ^777777129^000000
-Weight: ^7777771^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordsman, Merchant, Thief Classes, Soul
-Linker, and Ninja jobs^000000
-^ffffff_^000000
-Weight: ^7777771^000000
+A box containing 1 Refined Combat Knife.
+Please take a care because is fragile.
+Rental period for 7 days.
+^FFFFFF_^000000
+A fatal dagger made for a variety of attacks in close combat.
+Ignores physical defense of Demi-Human enemies by 100%.
+Decrease damage from Demi-Human enemies by 10%.
+Increases damage taken from Demon enemies by 10%.
+Restores 3 SP when hitting enemies.
+MSP +10%.
+^FFFFFF_^000000
+Class : ^777777Dagger^000000
+Attack : ^777777129^000000
+Weight : ^7777770^000000
+Weapon Level : ^7777774^000000
+Required Level : ^7777771^000000
+Jobs : Swordman Classes, Merchant Classes, Thief Classes, Mage Classes, Archer Classes, Ninja Classes, Soul Linker
 #
 12939#
 A box that contains
@@ -55185,15 +55068,15 @@ enough to divide
 oceans or cut
 through the air to
 make it bleed water.
-Add Critical +10 against^FFFFFF ^000000 Demi-human monsters
-when inflicting short^FFFFFF    ^000000 range physical attacks.
-Class: ^777777Dagger^000000
-Attack: ^77777795^000000
-Weight: ^77777770^000000
-Property:^777777Water^000000
-Weapon Level: ^7777772^000000
-Required Level: ^77777724^000000
-Jobs:^777777Ninja^000000
+Increase Critical on the Demi-Human enemies by 10,
+when dealing short range physical attacks.
+Class : ^777777Dagger^000000
+Attack : ^77777795^000000
+Weight : ^77777770^000000
+Property :^777777Water000000
+Weapon Level : ^7777772^000000
+Required Level : ^77777724^000000
+Job :^777777Ninja^000000
 #
 13013#
 A famous sword that
@@ -55202,15 +55085,15 @@ enough to divide
 oceans or cut
 through the air to
 make it bleed water.
-Add Critical +10 against^FFFFFF ^000000 Demi-human monsters
-when inflicting short^FFFFFF    ^000000 range physical attacks.
-Class: ^777777Dagger^000000
-Attack: ^77777795^000000
-Weight: ^77777770^000000
-Property:^777777Water000000
-Weapon Level: ^7777772^000000
-Required Level: ^77777724^000000
-Jobs:^777777Ninja^000000
+Increase Critical on the Demi-Human enemies by 10,
+when dealing short range physical attacks.
+Class : ^777777Dagger^000000
+Attack : ^77777795^000000
+Weight : ^77777770^000000
+Property :^777777Water000000
+Weapon Level : ^7777772^000000
+Required Level : ^77777724^000000
+Job :^777777Ninja^000000
 #
 13014#
 A dagger that has a
@@ -55321,27 +55204,20 @@ Acolyte Class^000000
 #
 13021#
 ^000088Rental Item^000000
-
-A military combat
-knife designed for
-killing humanoids.
-Ignores Demi-human
-monster physical defense.^FFFFFF ^000000 Reduces damage from
-Demi-human monsters
-by 10%, but increases
-damage inflicted to
-Demon monsters by 10%.
-Restores 3 SP when
-hitting a monster.
-Max SP +10%.
-
-Weapon Class: ^777777Dagger^000000
-Attack Strength: ^777777129^000000
-Weight: ^7777771^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordsman, Merchant, Thief Classes, Soul
-Linker, and Ninja jobs^000000
+This item cannot be traded with other accounts.
+A fatal dagger made for a variety of attacks in close combat.
+Ignores physical defense of Demi-Human enemies by 100%.
+Decrease damage from Demi-Human enemies by 10%.
+Increases damage taken from Demon enemies by 10%.
+Restores 3 SP when hitting enemies.
+MSP +10%.
+^FFFFFF_^000000
+Class : ^777777Dagger^000000
+Attack : ^777777129^000000
+Weight : ^7777770^000000
+Weapon Level : ^7777774^000000
+Required Level : ^7777771^000000
+Jobs : Swordman Classes, Merchant Classes, Thief Classes, Mage Classes, Archer Classes, Ninja Classes, Soul Linker
 #
 13022#
 ^000088Rental Item^000000
@@ -55958,11 +55834,11 @@ Required Level: ^7777771^000000
 Jobs: ^777777All except Acolyte Class^000000
 #
 13093#
-A dagger sculpted from Shard of Gray to counter Thanatos.
+A dagger sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +130, INT +6, VIT +6, LUK -6.
-Dealing physical attack has a low chance of regaining 5% of your damage as HP and SP.
+When dealing physical attack, has a low chance of regaining 5% of your damage as HP and SP.
 Consumes 100 HP every 10 seconds.
 Consumes 1,000 HP when unequipped.
 
@@ -55971,7 +55847,7 @@ Attack  : ^777777100^000000
 Weight : ^77777780^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777120^000000
-Job : ^777777Swordsman, Archer, Merchant, and Thief Classes^000000
+Jobs : ^777777Swordsman, Archer, Merchant, and Thief Classes^000000
 #
 13094#
 This dagger was once used for vanquishing an evil slayer and his followers.
@@ -58212,11 +58088,11 @@ Required Level: ^7777771^000000
 Jobs: ^777777Novice/Swordmen/Merchants/Thieves^000000
 #
 13441#
-A sword sculpted from Shard of Gray to counter Thanatos.
+A sword sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +100, INT +6, VIT +6, LUK -6.
-Dealing physical attack has a low chance of regaining 5% of your damage as HP and SP.
+When dealing physical attack, has a low chance of regaining 5% of your damage as HP and SP.
 Consumes 100 HP every 10 seconds.
 Consumes 1,000 HP when unequipped.
 
@@ -58225,7 +58101,7 @@ Attack  : ^777777150^000000
 Weight : ^77777770^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777120^000000
-Job : ^777777Swordsman Classes^000000
+Jobs : ^777777Swordsman Classes^000000
 #
 13442#
 ^808080A very old, worn-out parasol. No one knows how old it is, but you can feel magic emanating from it.^000000
@@ -62947,6 +62823,12 @@ The effect is not active at the state of berserk.
 When a character is incapable of combat, the effect of item disappears.
 Weight : ^7777771^000000
 #
+14849#
+A funky smell, suspicious look stew that does make you feel like an immortal when you eat it.
+VIT +10 for 30 minutes.
+ 
+Weight : ^7777771^000000
+#
 14851#
 This beverage is named after the legendary spring that is believed to be the source of the world's rivers, and is famous for its pure, amazing taste.
 DEX + 10 for 30 minutes.
@@ -63093,6 +62975,10 @@ Weight : ^7777771^000000
 #
 14890#
 A special hair style box 
+Weight : ^7777771^000000
+#
+14891#
+A special hair style box
 Weight : ^7777771^000000
 #
 14892#
@@ -63242,13 +63128,13 @@ Weight: ^7777771^000000
 15000#
 Dark plated armor covered with sharp bones.
 Has a 1% chance to Autocast Bleeding in a 5x5 area of the wearer when physically attacked.
-Reduces damage from Demi-human & Brute monsters by 10%. 
+Ignores 10% physical defense of Demi-Human and Brute enemies.
 STR +1, MDEF +3
-Equipment Type: ^777777Armor^000000
-Defense: ^77777760^000000
-Weight: ^777777100^000000
-Required Level: ^77777785^000000
-Usable By: ^777777Transcendent Thief / Merchant / Swordsman Classes^000000
+Class : ^777777Armor^000000
+Defense : ^77777760^000000
+Weight : ^777777100^000000
+Required Level : ^77777785^000000
+Jobs : ^777777Transcendent Thief ,Merchant ,Swordsman Classes^000000
 #
 15002#
 Armor constructed of a solid plate and adorned with gorgeous runes and jewels. Despite how solid it is, it's actually very light and feels as though magic is winding around your body.
@@ -63458,16 +63344,18 @@ Usable By: ^777777None^000000
 15036#
 Armor created by purifying Ur runestones.
 MDEF +10.
-Increases MaxHP by 1% per refinement level, and resistance to Demi-humans and Neutral element by 5%.
+Increases MHP by 1% per refinement level. Decrease damage on Demi-Human and Neutral element enemies by 5%.
 ^99FF66Ur's Armor Set^000000
-If equipped together with Ur's Greaves, Ur's Manteau, and Ur's Seal: 
-MaxHP +14%, Increases SP Cost of all skills and resistance to Neutral element by 10%.
-Increases damage of Hundred Spears by 50%, enables Crusader skill Lvl.1 Guard
-Equipment Type: ^777777Armor^000000
-Defense: ^777777110^000000
-Weight: ^777777300^000000
-Required Level: ^777777100^000000
-Usable By: ^777777Rune Knight^000000
+When equipped together with Ur's Greaves, Ur's Manteau, and Ur's Seal: 
+MHP +14%.
+Enable to use Lv1 Auto Guard.
+Increases SP consumption of all skills and resistance to Neutral element by 10%.
+Increases damage of Hundred Spears by 50%.
+Class : ^777777Armor^000000
+Defense : ^777777110^000000
+Weight : ^777777300^000000
+Required Level : ^777777100^000000
+Job : ^777777Rune Knight^000000
 #
 15037#
 Armor created by purifying Peuz runestones.
@@ -63753,10 +63641,10 @@ Jobs : ^777777All Jobs^000000
 #
 15074#
 This uniform worn by the Geffen Mages enhances its wearer's concentration while he casts spells.
-Reduces SP consumption by 10%.
-Increases variable cast time by 15%. Casting cannot be interrupted outside of WoE.
-If refine is +7, reduces the SP cost by 5%.
-If refine is +9, reduces variable cast time by 5%.
+Decrease SP consumption by 10%.
+Increase variable cast time by 15%. Casting cannot be interrupted.
+If refine level is +7, decrease SP consumption by 5%.
+If refine level is +9, decrease variable cast time by 5%.
 Class : ^777777Armor^000000 Defense : ^77777740^000000
 Weight : ^777777100^000000
 Required Level : ^77777799^000000
@@ -63790,7 +63678,7 @@ MDEF + 10.
 Class : ^777777Armor^000000 Defense : ^77777790^000000
 Weight : ^777777240^000000
 Required Level : ^777777120^000000
-Jobs : ^777777Swordman/Archer/Merchant/Theif Classes^000000
+Jobs : ^777777Swordman/Archer/Merchant/Thief Classes^000000
 #
 15091#
 Sculpted out of Gray Shard and infused with Sakray's old, abandoned memories, this robe protects its wearer against holiness and fear.
@@ -63805,11 +63693,11 @@ Jobs : ^7777773rd Magician/Acolyte Classes^000000
 #
 15093#
 MDEF +5
-MaxHP/SP +5%
+MHP, MSP +5%
 ATK +10, MATK +10, HIT +10, FLEE +10.
-Banishing Point damage +10%.
-Storm Blast damage +10%.
-Chance to Autocast Lvl.10 Healing/Storm Gust when physically attacking.
+Increase the damage of Vanishing Point by 10%.
+Increase the damage of Storm Blast by 10%.
+Adds a chance to Autocast Lv10 Heal or Lv10 Storm Gust when physical attacking.
 Chance to cast increases in accordance with refinement level.
 Class: ^777777Armor^000000 Defense: ^777777120^000000
 Weight: ^777777400^000000
@@ -64037,7 +63925,7 @@ Required Level: ^777777110^000000
 Usable By: ^7777773rd Job Only^000000
 #
 15121#
-Sarah's robe that imbued with spiritual power.
+Sarah's robe is that imbued with spiritual power.
 Has a certain chance to increase MATK by (8X Refine Level) for 10 sec when dealing magical attack
 Class : ^777777Armor^000000 Defense : ^77777735^000000
 Weight : ^77777780^000000
@@ -66967,6 +66855,24 @@ Location : ^777777Lower^000000 Weight : ^77777720^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
+15922#
+Able to cast Lv 1 Endow Tsunami.
+For every 15 pure AGI + VIT, increase healing rate by 1%.
+
+Equip with Manteau of Mystic Frozen,
+Upon casting heal skill, has 100% chance to cast Auto Spell: Lv 1 Increase Agility (If the learned level is higher than Lv 1, higher skill will be casted)
+
+Upon casting Increase Agility, has 100% chance to cast Auto Spell: Lv 1 Blessing (If the learned level is higher than Lv 1, higher skill will be casted)
+
+Upon casting Cantocandidus, has 100% chance to cast Auto Spell: Lv 1 Clementia (If the learned level is higher than Lv 1, higher skill will be casted)
+
+Decrease cooldown of Coluseo Heal by 2 seconds.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^77777720^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 16000#
 This mace's shape is inspired by a Snake, which symbolizes the fountain of knowledge.
 ^FFFFFF_^000000
@@ -67239,20 +67145,20 @@ Required Level : ^777777100^000000
 Jobs : ^777777Novice/Swordman/Acolyte/Merchant^000000
 #
 16028#
-A hammer sculpted from Shard of Gray to counter Thanatos.
+A hammer sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +120, INT +6, VIT +6, LUK -6.
-Dealing physical attack has a low chance of regaining 5% of your damage as HP and SP.
+When dealing physical attack, has a low chance of regaining 5% of your damage as HP and SP.
 Consumes 100 HP every 10 seconds.
 Consumes 1,000 HP when unequipped.
 
 Class : ^777777Blunt Weapon^000000
-Attack  : ^777777180^000000
+Attack : ^777777180^000000
 Weight : ^777777300^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777120^000000
-Job : ^777777Swordsman, Merchant, and Acolyte Classes^000000
+Jobs : ^777777Swordsman, Merchant, and Acolyte Classes^000000
 #
 16029#
 ^808080As a sacred cross-shaped blunt weapon bearing God's blessing; the power of conviction has also been reinforced.^000000
@@ -72540,7 +72446,7 @@ Required level: ^77777740^000000
 Usable By: ^777777Archer Class; Thief and Rogue Jobs^000000
 #
 18119#
-A cursed bow sculpted from Shard of Gray to counter Thanatos.
+A cursed bow sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +110, INT +6, VIT +6, LUK -6.
@@ -72553,12 +72459,13 @@ Attack  : ^777777180^000000
 Weight : ^777777130^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777120^000000
-Job : ^7777773rd Archer Classes^000000
+Jobs : ^7777773rd Archer Classes^000000
 #
 18120#
 This bow was once used for vanquishing an evil slayer and his followers.
 Increase damage on Demon and Undead monsters by 10%.
-If refined to +9,ATK +5%,If refined to +12, Additional ATK +7%.
+If refined to +9, increase ATK by 5%,
+If refined to +12, increasr additional ATK by 7%.
 Class : ^777777Bow^000000 Attack : ^777777115^000000
 Weight : ^777777135^000000
 Weapon Level : ^7777773^000000
@@ -73354,10 +73261,10 @@ Job: ^777777All^000000
 #
 18600#
 A cute beret with cat ears! Cats don't normally wear hats but if they did they would wear this one.
- 
-Increase damage to all classes enemies by 5%.
-Increase Physical Damage to Demi-humans by 1% and decrease damage taken from Demi-humans by 1% for every refinement after + 6.
- 
+^FFFFFF_^000000
+Increase physical damage on all classes enemies by 5%.
+Increase physical damage on Demi-Human enemies by 1% and decrease damage on Demi-Human enemies by 1% for every refinement after + 6.
+^FFFFFF_^000000
 Class : ^777777Headgear^000000 Defense : ^7777775^000000
 Location : ^777777Upper^000000 Weight : ^77777730^000000
 Required Level : ^7777771^000000
@@ -73367,7 +73274,7 @@ Jobs : ^777777All Jobs^000000
 A lovely red hat with a white pom pom.
  
 MATK + 5%, MDEF + 5.
-Increase Magic Damage to Demi-humans by 1% and decrease damage taken from Demi-humans by 1% for every refinement after + 6.
+Increase magic damage on Demi-Human enemies by 1% and decrease damage on Demi-Human enemies by 1% for every refinement after + 6.
  
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^77777730^000000
@@ -74233,12 +74140,13 @@ Level Requirement: ^77777720^000000
 Job: ^777777All Job except Novice^000000
 #
 18694#
-You will feel like you are in a fairytale after having worn it.
-CRI + 10.
-Class: ^777777Headgear^000000    Defense: ^7777773^000000
-Location: ^777777Upper^000000    Weight: ^77777720^000000
-Level Requirement: ^77777720^000000
-Job: ^777777All Job except Novice^000000
+A famous red hood from a fairy tale.
+CRIT +10.
+ 
+Class : ^777777Headgear^000000    Defense : ^7777773^000000
+Location : ^777777Upper^000000    Weight : ^77777720^000000
+Required Level : ^77777720^000000
+Jobs : ^777777All Jobs Except Novice^000000
 #
 18695#
 Usually, the Myo tribe wears this headgear. It makes you feel like a dignified lady.
@@ -75852,15 +75760,14 @@ Job: ^777777All jobs^000000
 #
 18893#
 I feel the power of a flame dragon flowing inside me!
-Increase resistance against Dragon and Demi-human by 8%
-Increases healing effect of Meat by 200%
-if refined to 12, increase MHP + 7%, MSP + 3%
-^FF0000Winner of pRO's Headgear-making contest 2012
-Created by bladetip of pRO Valkyrie Server^000000
-Type: ^777777Headgear^000000 Defense: ^7777775^000000
-Location: ^777777Upper ^000000Weight: ^777777100^000000
-Required Level: ^77777710^000000
-Job: ^777777All Jobs^000000
+Decrease damage taken from Dragon and Demi-human by 8%
+Increase recovery rate of Meat by 200%.
+If refine level is +12, increase Max HP by 7%, Max SP by 3%.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777775^000000
+Location : ^777777Upper ^000000Weight : ^777777100^000000
+Required Level : ^77777710^000000
+Jobs : ^777777All Jobs^000000
 #
 18894#
 Walk on a rainbow trail; walk on a trail of song, and all about you will be beauty. There is a way out of every dark mist, over a rainbow trail. - Robert Motherwell
@@ -76207,11 +76114,13 @@ A Ten Gallon Hat with sealed power of flame god.
 Undestroyable.
 Decrease resistance against Water property by 10%.
 Increase resistance against Fire property by 10%.
-Has a chance to inflict burn effect upon receiving physical or magic damage.
-Equip with Shining Trapezohedron, ATK +9%, MATK +9%.
-Has a chance to deduct enemy's SP by 30 upon receiving physical or magic damage.
+Has a chance to apply Burn Effect on enemies when being attacked by physical or magic damage.
+Has a chance to drain wearer's SP by 30 when being attacked by physical or magic damage.
+^FFFFFF_^000000
+When equipped with Shining Trapezohedron:
+Increase ATK and MATK by 9%.
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
-Location : ^777777Upper ^000000Weight : ^777777100^000000
+Location : ^777777Upper ^000000 Weight : ^777777100^000000
 Required Level : ^77777790^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -76220,39 +76129,45 @@ A Hunting Cap with sealed power of wind god.
 Undestroyable.
 Decrease resistance against Earth property by 10%.
 Increase resistance against Wind property by 10%.
-Has a chance to inflict fear effect upon receiving physical or magic damage.
-Equip with Shining Trapezohedron, decrease ranged physical damage taken by 5%.
+Has a chance to apply Fear Effect on enemies when being attacked by physical or magic damage.
+Has a chance to drain wearer's SP by 30 when being attacked by physical or magic damage.
+^FFFFFF_^000000
+When equipped with Shining Trapezohedron:
+Decrease ranged physical damage taken by 5%,
 Decrease magic damage taken by 5%.
-Has a chance to deduct enemy's SP by 30 upon receiving physical or magic damage.
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
-Location : ^777777Upper ^000000Weight : ^777777100^000000
+Location : ^777777Upper ^000000 Weight : ^777777100^000000
 Required Level : ^77777790^000000
 Jobs : ^777777All Jobs^000000
 #
 18942#
-A neatted cap with sacred water god power.
+A neatted cap with sealed power of water god.
 Undestroyable.
 Decrease resistance against Wind property by 10%.
 Increase resistance against Water property by 10%.
-Has a chance to apply Crystallization on upon inflicting physical and magic damage.
-Equip with Shining Trapezohedron, decrease variable cast time by 15%
-Has a chance to decrease enemy's SP by 30 upon inflicting physical and magic damage.
+Has a chance to apply Crystallization on enemies when being attacked by physical or magic damage.
+Has a chance to drain wearer's SP by 30 when being attacked by physical or magic damage.
+^FFFFFF_^000000
+When equipped with Shining Trapezohedron:
+Decrease variable cast time by 15%.
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
-Location : ^777777Upper ^000000Weight : ^777777100^000000
+Location : ^777777Upper ^000000 Weight : ^777777100^000000
 Required Level : ^77777790^000000
 Jobs : ^777777All Jobs^000000
 #
 18943#
-A silk hat with sacred earth god power.
+A silk hat with sealed power of earth god.
 Undestroyable.
 Decrease resistance against Fire property by 10%.
 Increase resistance against Earth property by 10%.
-Has a chance to apply Deep Sleep on upon inflicting physical and magic damage.
-Equip with Shining Trapezohedron, increase Max HP by 5%
+Has a chance to apply Deep Sleep on enemies when being attacked by physical or magic damage.
+Has a chance to drain wearer's SP by 30 when being attacked by physical or magic damage.
+^FFFFFF_^000000
+When equipped with Shining Trapezohedron:
+Increase MHP by 5%,
 Increase white slim potion restore by 10%.
-Has a chance to decrease enemy's SP by 30 upon inflicting physical and magic damage.
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
-Location : ^777777Upper ^000000Weight : ^777777100^000000
+Location : ^777777Upper ^000000 Weight : ^777777100^000000
 Required Level : ^77777790^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -78741,6 +78656,14 @@ Weight: ^7777770^000000
 Required level: ^7777771^000000
 Job: ^777777All^000000
 #
+19586#
+A cute pink bunny hair band.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 19587#
 The Master of all Porings, a hat of King Poring.
 Class : ^777777Costume^000000 Defense : ^7777770^000000
@@ -79501,6 +79424,14 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
+19703#
+A fluffy black afro wig!
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 19706#
 A red dress hat. It goes well with fancy dresses.
 Class: ^777777Costume^000000
@@ -79531,10 +79462,11 @@ Job: ^777777All^000000
 #
 19710#
 A hair ornament made from Valkyrie's Feathers and precious gems. Rumored to protect its wearer from any harm.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper Mid ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper/Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19712#
 You'll never feel anything less than blessed with this adorable angel relaxing atop your head!
@@ -80186,22 +80118,12 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 19816#
-^808080A hat made from a Chocobo. It's yellow and soft and makes the wearer look cute.^000000
-^ffffff_^000000
-^FF6633[Permanent Effect] ^000000
-EXP + 2%
-^ffffff_^000000
-Obtain from ^CC66FFLoading Screen Contest Season 4 - Consolation Prize^000000
-^ffffff_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted at Eden 2nd floor with NPC Costama Girl (Located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume cap that is motivated by Pecopeco.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19817#
 An indispensable ever-blazing costume of fire breath to keep you warm wherever you go.
@@ -81461,6 +81383,16 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
+20039#
+Wing ears made of beautiful butterfly wings.
+^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4Exchangeable for Costume Enchantment Stone Box 7.^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 20041#
 A flower decoration with the power of great Mother Earth.
 Class: ^777777Costume Gear^000000
@@ -82279,7 +82211,7 @@ Job: ^777777All ^000000
 A mask of the king of beasts. 
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
-Location : ^777777Upper/Middle/Lower^000000 Weight : ^7777770^000000
+Location : ^777777Upper/Middle^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -82668,13 +82600,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20249#
-The wig that reproduces the characteristic of a race that changes hairstyles when they surpass their limit.
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+A hair inspired by certain race whose hair changes when they exceed their limits.
+^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4Exchangeable for Costume Enchantment Stone Box 7.^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20250#
 The wig that reproduces the characteristic of a race that changes hairstyles when they surpass their limit.
@@ -82715,6 +82648,16 @@ A costume pancake with sweet fragrant.
 Sadly we can't eat this as this is designed for a costume.
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+20258#
+Cool refreshing headdress costume. Essentials for a fresh maiden.
+^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4Exchangeable for Costume Enchantment Stone Box 7.^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -83020,13 +82963,14 @@ Required Level: 1
 Required Job: All Jobs
 #
 20313#
-^808080It feels like a lot of data from CDs flows into the brain through the mouth.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Lower)
-Weight: 0
-Required Level: 1
-Required Job: All Jobs
+Feels like a lot of data from the CD flows into the brain through the mouth.
+^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4Exchangeable for Costume Enchantment Stone Box 7.^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20314#
 ^808080Sunglasses with a futuristic design^000000
@@ -83038,17 +82982,16 @@ Required Level: 1
 Required Job: All Jobs
 #
 20315#
-^808080A hologram used for analyzing things ahead.^000000
+^808080An item developed by fusing uncharted technology and magic power of Juperos Ruin.^000000
 ^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted at Eden 2nd floor with NPC Costama Girl (Located on 33, 185)
+When you wear it, an image is projected right in front of the eyes.
 ^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Class : ^777777Costume^000000
+Defense : ^7777770^000000
+Location : ^777777Lower^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20316#
 ^808080A helm that features the image of shield and wings that symbolize a Cerub. It was designed especially for Royal Guards.^000000
@@ -83866,18 +83809,13 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20404#
-^808080May the poring be with you.?=],
-				[=[^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted at Eden 2nd floor with NPC Costama Girl (Located on 33, 185)
-^FFFFFF_^000000
-The Poring God is on your side. ^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A costume that receive blessing from angels.
+It's filled with joy, warm and comfort.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20405#
 A scarf of some kind. Lost by an old hero...
@@ -85400,7 +85338,7 @@ If refined to + 10, increase chance to apply Frozen.
 Indestructible.
 Class : ^777777Garment^000000 Defense : ^77777710^000000
 Weight : ^77777730^000000
-Required Level : ^7777771^000000
+Required Level : ^77777770^000000
 Jobs : ^777777All Jobs^000000
 #
 20746#
@@ -86064,7 +86002,7 @@ Required Level: ^777777150^000000
 Jobs: ^777777Knight/Crusader class^000000
 #
 21009#
-A great sword sculpted from Shard of Gray to counter Thanatos.
+A great sword sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +120, INT +6, VIT +6, LUK -6.
@@ -86077,7 +86015,7 @@ Attack  : ^777777280^000000
 Weight : ^777777130^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777120^000000
-Job : ^777777Swordsman Classes^000000
+Jobs : ^777777Swordsman Classes^000000
 #
 21010#
 This two-handed sword was once used for vanquishing an evil slayer and his followers.
@@ -86491,7 +86429,7 @@ It is an object robbed by monsters during the Airship attack incident.
 AGI + 1.
 Increases attack speed (decrease after attack delay by 10%).
 Unrefineable, Untradable.
-Class : ^777777Footgear^000000    Defense : ^77777726^000000
+Class : ^777777Shoes^000000    Defense : ^77777726^000000
 Weight : ^7777770^000000
 Required level : ^777777125^000000
 Jobs : ^777777All Jobs can equip^000000
@@ -86503,7 +86441,7 @@ AGI + 1, increases attack speed (decreases after attack delay by 5%).
 If refined to +7: AGI + 1, decreases after attack delay by 5%.
 If refined to +9: AGI + 1, decreases after attack delay by 5%.
 If refined to +12: ASPD + 1.
-Class : ^777777Garment^000000  Defense : ^77777713^000000
+Class : ^777777Shoes^000000  Defense : ^77777713^000000
 Weight : ^77777725^000000
 Required level : ^777777125^000000
 Jobs : ^777777All Jobs can equip^000000
@@ -87662,6 +87600,11 @@ Weight : ^7777770^000000
 잡교범25_24h
 SetPeriodBuff "EFST_PERIOD_PLUSJOBEXP"	86400	25	0	86400
 #
+22953#
+A box that contains enchantment stones for costume equipment.
+It contains HP Absorb Stone (Upper), SP Aborb Stone(Upper), STR Exchange Stone (Middle), AGI Exchange Stone (Lower) and Stones from previous box. 
+Weight : ^7777771^000000
+#
 22971#
 Limited time offer.
 When opened gives the user one of the following
@@ -87720,6 +87663,13 @@ No EXP Loss when character dies, the buff is available for 24 hours
 ^FFFFFF_^000000
 ^FF0000Cannot be traded.^000000
 Weight: ^7777771^000000
+#
+23012#
+A small bottle containing the sap from the petals of the Yggdrasil tree. It is said to be effective in mana regeneration.
+Restores an amount of SP equal of 5% of your Max SP every 5 seconds for 10 minutes.
+The effect is not active at the state of berserk.
+When a character is incapable of combat, the effect of item disappears.
+Weight : ^7777771^000000
 #
 23023#
 Fly like a Giant butterfly Wings
@@ -88369,7 +88319,8 @@ When this scroll is opened, you will receive one of the following items:
 Weight: ^7777771^000000
 #
 23436#
-Shadow_Refine_Hammer
+A hammer that refines Shadow item randomly from +1 to +10. The highest chance is +4.
+Caution - Has chance to decrease the refine level if the shadow item is already refined!
 Weight : ^7777771^000000
 #
 23437#
@@ -88599,6 +88550,82 @@ Weight : ^7777771^000000
 23670#
 A scroll looking with slightly seeing of Gram Peony
 Weight: ^7777771^000000
+#
+23675#
+Magic scroll that is prepared by Geffen Magic Tournament. Enchant the armor with random magic.
+Both refine level and card will be retained.
+^ffffff_^000000
+^000088[Valid Item]^000000
+Geffen Magic Robe
+Anti-magic Suit
+^ffffff_^000000
+Weight : ^77777710^000000
+#
+23676#
+Specially created abrasive which is similar to the abrasive that Gray Blacksmith uses.
+It is suitable for physical melee weapon.
+Both refine level and card will be retained.
+^ffffff_^000000 
+^000088[Valid Item]^000000
+Thanatos Sword
+Thanatos Great Sword
+Thanatos Spear
+Thanatos Long Spear
+Thanatos Dagger
+Thanatos Katar
+Thanatos Knuckle
+Thanatos Hammer
+Thanatos Axe
+Thanatos Whip
+Thanatos Violin
+^ffffff_^000000 
+Weight : ^7777775^000000
+#
+23677#
+Specially created abrasive which is similar to the abrasive that Gray Blacksmith uses.
+It is suitable for magic weapon.
+Both refine level and card will be retained.
+^ffffff_^000000 
+^000088[Valid Item]^000000
+Thanatos Two-handed Staff
+Thanatos Staff
+Thanatos Dagger
+Thanatos Sword
+Thanatos Violin
+Thanatos Whip
+^ffffff_^000000 
+Weight : ^7777775^000000
+#
+23678#
+Specially created abrasive which is similar to the abrasive that Gray Blacksmith uses.
+It is suitable for ranged weapon.
+Both refine level and card will be retained.
+^ffffff_^000000 
+^000088[Valid Item]^000000
+Thanatos Bow
+Thanatos Whip
+Thanatos Violin
+Thanatos Sword
+Thanatos Great Sword
+Thanatos Spear
+Thanatos Long Spear
+Thanatos Katar
+Thanatos Knuckle
+Thanatos Hammer
+Thanatos Axe
+^ffffff_^000000 
+Weight : ^7777775^000000
+#
+23679#
+Magic scroll that is prepared by Geffen Magic Tournament. Enchant the armor with random magic.
+Suitable for Accessory.
+Both refine level and card will be retained.
+^ffffff_^000000
+^000088[Valid Item]^000000
+Physical Enhancer Ring
+Magic Intensifier Ring
+^ffffff_^000000
+Weight : ^77777710^000000
 #
 23713#
 ^ff0000This item cannot be traded with others.^000000
@@ -89325,16 +89352,16 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 24046#
-It is a Necklace that is known for protecting its owner. It brings out the potential from the owner.
+A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.
 MDEF +3.
-When Refined by Lv.7, MDEF + 3 added.
-^32CD32Resist Spell power Pendant Shadow^000000 and ^32CD32Athena Earring Shadow^000000are equipped together, Increase non-property tolerance by 1%.
-if the total refine value is over 15, increase extra non-property tolerance by 1%.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Pendant^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+If refine level is +7, MDEF +3.
+Equip with ^32CD32Resist Spell Power Shadow Pendant^000000 and ^32CD32Athena Shadow Earring^000000, increase resistance against Neutral property by 1%.
+If total refine level is +15, increase resistance against Neutral property by 1%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Pendant^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24047#
 It is a Necklace that is known for protecting its owner. It brings out the potential from the owner.
@@ -89362,15 +89389,15 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 24049#
-Sacred earring protecting the owner. Enables user's potential ability.
+A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
 HP +100.
-When refine level is 7, MHP +1% increase.
-When refine level 9, MHP +1% increase.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Accessory^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+If refine level is +7, Max HP +1%.
+If refine level is +9, Max HP +1%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Earring^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24050#
 Sacred earring protecting the owner. Enables user's potential ability.
@@ -89384,16 +89411,16 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 24051#
-Sacred earring protecting the owner. Enables user's potential ability.
-DEF + 10.
-When refine level is 7, DEF + 10 increase.
-When equipped together with ^32CD32Athena Earring Shadow^000000 and ^32CD32Resist Spell Power Pendant Shadow^000000, Non Elemental resistance 1% increase.
-When refine rate total is 15, Non Elemental resistance 1% extra increase.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Accessory^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
+DEF +10.
+If refine level is +7, DEF +10.
+Equip with ^32CD32Athena Shadow Earring^000000 and ^32CD32Resist Spell Power Shadow Pendant^000000, increase resistance against Neutral property by 1%.
+If total refine level is +15, increase resistance against Neutral property by 1%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Earring^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24052#
 Small extra shield gives you additional defense effect. Not very effective when worn alone.
@@ -90710,6 +90737,34 @@ Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777Gunslinger Classes^000000
 #
+24332#
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+CRIT +5. 
+For every 2 refine level, CRIT +1.
+If refine level is +7, increase critical damage by 1%.
+If refine level is +9, increase critical damage by 1%.
+Equip with Critical Shadow (Shield and Shoes), increase ATK by total refine level. 
+If total refine level is +15, increase critical damage by 1%. 
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24333#
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+FLEE +5.
+For every 2 refine level, FLEE +1.
+If refine level is +7, CRIT +2.
+If refine level is +9, CRIT +2.
+Equip with Critical Shadow (Shield and Shoes), increase ATK by total refine level.
+If total refine level is +15, increase critical damage by 1%. 
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shoes^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 24339#
 A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities. 
 All State + 1 per refinement.
@@ -90723,6 +90778,30 @@ A sacred pendant which is believed to protect its wearer. It also draws the wear
 All State + 1 per refinement.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Pendant^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24366#
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+MATK +10.
+If refine level is +7, increase healing rate by 3%.
+If refine level is +9, increaes healing rate by 5%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24367#
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+MATK +10.
+If refine level is +7, increase healing rate by 3%.
+If refine level is +9, increaes healing rate by 5%.
+Equip with Healing Shadow (Weapon and Shield), increase healing rate by 5%.
+If total refine level of ^32CD32Healing Shadow (Weapon, Shield and Shoes)^000000 is +25, increase healing rate by 15%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shoes^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -90811,237 +90890,148 @@ Required level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 25000#
-A stone with SP absorption ability.
-Gives below stats on Costume upper slot.
-Absorb 1% of damage dealt to enemy into SP with 1% chance.
+A stone with the ability for SP absorption.
+Gives the following Stats to costume upper slot:
+Has 1% chance to absorb 1% of physical damage dealt to enemy as SP.
 ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
-Weight: ^77777710^000000
-^808080A stone with SP absorption ability.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Headgear (Upper)
-^FFFFFF_^000000
-Adds a 1% chance of restoring 1% of damage as SP when performing a physical attack.
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25001#
-^808080A stone with defense.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-DEF + 20
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase Defense.
+Gives the following Stats to costume middle slot:
+DEF +20.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25002#
-^808080A stone that exchanges strength for luck.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-STR - 3
-LUK - 3
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase LUK but decrease STR.
+Gives the following Stats to costume middle slot:
+LUK +3, STR -3.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25003#
-^808080A stone that exchanges intelligence for strength.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-STR +3
-INT - 3
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase STR but decrease INT.
+Gives the following Stats to costume middle slot:
+STR +3, INT -3.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25004#
-^808080A stone that exchanges luck for agility.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-AGI + 3
-LUK - 3
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase AGI but decrease LUK.
+Gives the following Stats to costume middle slot:
+AGI +3, LUK -3.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25005#
-^808080A stone that exchanges dexterity for intelligence.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-INT + 3
-DEX - 3
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase INT but decrease DEX.
+Gives the following Stats to costume middle slot:
+INT +3, DEX -3.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25006#
-^808080A stone that exchanges agility for vitality.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-AGI - 3
-VIT + 3
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase VIT but decrease AGI.
+Gives the following Stats to costume middle slot:
+VIT +3, AGI -3.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25007#
-^808080A stone that exchanges vitality for dexterity.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-VIT - 3
-DEX +3
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase DEX but decrease VIT.
+Gives the following Stats to costume middle slot:
+DEX +3, VIT -3.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25008#
-^808080A stone that exchanges luck for vitality.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-VIT + 3
-LUK - 3
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase VIT but decrease LUK.
+Gives the following Stats to costume lower slot:
+VIT +3, LUK -3.
+Equip with VIT Exchange Stone (Middle),
+AGI +3, LUK +3.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25009#
-^808080A stone that exchanges luck for vitality.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-STR - 3
-AGI + 3
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase AGI but decrease STR.
+Gives the following Stats to costume lower slot:
+AGI +3, STR -3.
+Equip with AGI Exchange Stone (Middle),
+LUK +3, STR +3.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25010#
-^808080A stone that exchanges agility for dexterity.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-AGI - 3
-DEX +3
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase DEX but decrease AGI.
+Gives the following Stats to costume lower slot:
+DEX +3, AGI -3.
+Equip with DEX Exchange Stone (Middle),
+VIT +3, AGI +3.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25011#
-^808080A stone that exchanges intelligence for luck.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-INT - 3
-LUK - 3
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase LUK but decrease INT.
+Gives the following Stats to costume lower slot:
+LUK +3, INT -3.
+Equip with LUK Exchange Stone (Middle),
+STR +3, INT +3.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25012#
-^808080A stone that exchanges dexterity for strength.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-STR +3
-DEX - 3
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase STR but decrease DEX.
+Gives the following Stats to costume lower slot:
+STR +3, DEX -3.
+Equip with STR Exchange Stone (Middle),
+INT +3, DEX +3.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25013#
-^808080A stone that exchanges vitality for intelligence.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-VIT - 3
-INT + 3
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase INT but decrease VIT.
+Gives the following Stats to costume lower slot:
+INT +3, VIT -3.
+Equip with INT Exchange Stone (Middle),
+DEX +3, VIT +3.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25014#
-^808080A stone with magical defense.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Middle
-^FFFFFF_^000000
-MDEF +4
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase MDEF.
+Gives the following Stats to costume lower slot:
+MDEF +4.
+Equip with DEF Stone (Middle),
+HIT +5, FLEE +5.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25015#
-^808080A stone with experience.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Lower
-^FFFFFF_^000000
-Increases the experience given from monsters by 2%.
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase EXP gain.
+Gives the following Stats to costume lower slot:
+Increase EXP from monsters by 2%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25016#
-^808080A stone with physical attack power.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Lower
-^FFFFFF_^000000
-ATK +1%
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase ATK.
+Gives the following Stats to costume lower slot:
+ATK +1%.
+Equip with ATK Stone (Upper and Middle),
+ATK +2%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25017#
-^808080A stone with magical attack power.^000000
-^FFFFFF_^000000
-Type: Miscellaneous
-Item Type: Enchant Stone
-Weight: 10
-Enchants on: Lower
-^FFFFFF_^000000
-MATK +1%
-^FFFFFF_^000000
-^FFFFFF<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+A stone with the ability to increase MATK.
+Gives the following Stats to costume lower slot:
+MATK +1%.
+Equip with MATK Stone (Upper and Middle),
+MATK +2%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25073#
 Old documents that were in the possession of the Sphinx's shaman, Marduk. Contains information on some kind of ritual.
@@ -92261,7 +92251,7 @@ Location : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 28000#
-A Katar with magical powers sculpted from Shard of Gray to counter Thanatos.
+A Katar with magical powers sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +80, INT +6, VIT +6, LUK -6.
@@ -92274,7 +92264,7 @@ Attack  : ^777777220^000000
 Weight : ^777777180^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777120^000000
-Job : ^777777Guillotine Cross^000000
+Jobs : ^777777Guillotine Cross^000000
 #
 28001#
 This katar was once used for vanquishing an evil slayer and his followers.
@@ -92350,7 +92340,7 @@ Required Level:^777777 70^000000
 Jobs:^777777 Assassin Jobs^000000
 #
 28100#
-A two-handed axe sculpted from Shard of Gray to counter Thanatos.
+A two-handed axe sculpted from Gray Shard to counter Thanatos.
 It offers incredible power and mana at a great cost.
 
 MATK +80, INT +6, VIT +6, LUK -6.
@@ -92363,7 +92353,7 @@ Attack  : ^777777300^000000
 Weight : ^777777400^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777120^000000
-Job : ^777777Swordsman and Merchant Classes^000000
+Jobs : ^777777Swordsman and Merchant Classes^000000
 #
 28101#
 ^808080Its name is coined from the shape of the blade.^000000
@@ -92506,8 +92496,8 @@ A 10% chance of casting ^0000FFLevel 1 Cross Slash^000000 on the target when dea
 A 3% chance of inflicting ^800000Curse^000000 status on the target when dealing physical attacks.
 #
 28310#
-Sarah's left earing. When equipped, it feels like you can use Sarah's power.
-Can use Heal Lv. 1
+Sarah's left earring. When equipped, it feels like you can use Sarah's power.
+Can use Heal Lv.1
 ^ff0000This item cannot be traded with other accounts.^000000
 Class : ^777777Accessory^000000 Defense : ^7777770^000000
 Weight : ^77777710^000000
@@ -92515,8 +92505,8 @@ Required level : ^777777145^000000
 Jobs : ^777777All Jobs^000000
 #
 28311#
-Sarah's right earing. When equipped, it feels like you can use Sarah's power. 
-Can use Teleport 1Lv.
+Sarah's right earring. When equipped, it feels like you can use Sarah's power. 
+Can use Teleport Lv.1
 ^ff0000This item cannot be traded with other accounts.^000000
 Class : ^777777Accessory^000000 Defense : ^7777770^000000
 Weight : ^77777710^000000
@@ -92612,19 +92602,21 @@ Job: ^777777All^000000
 #
 28391#
 A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
-Has 20% chance to increase ATK and FLEE by 30 for 5 seconds upon casting Stone Fling. For every refine level, increase ATK and FLEE by 10.
-Equip with Thief Shadow (Earring and Pendant), ATK +1%, Max HP +1%.
-If the total refine level of the set is +10, ATK +2%, Max HP +2%.
+Has 20% chance to active a state effect that increase ATK and FLEE by 30 for 5 seconds upon casting Stone Fling.
+For every refine level, will additional increase ATK and FLEE by 10 when state effect active.
+Equip with Thief Shadow (Earring and Pendant), ATK +1%, MHP +1%.
+If the total refine level of the set is +10, ATK +2%, MHP +2%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Earring^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Job : ^777777All Jobs^000000
+Jobs : ^777777All Jobs^000000
 #
 28392#
 A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
-Has 20% chances to increase ATK and HIT by 30 for 5 seconds upon casting Double Strafe. For every refine level, increase ATK and HIT by 10. 
+Has 20% chances to active a state effect that increase ATK and HIT by 30 for 5 seconds upon casting Double Strafe.
+For every refine level, will additional increase ATK and FLEE by 10 when state effect active.
 Equip with Archer Shadow (Earring and Pendant), ATK +1%, Max HP +1%.
-If the total refine level of the set is +10, ATK +2%, Max HP +2%.
+If the total refine level of the set is +10, ATK +2%, MHP +2%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Earring^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -93692,81 +93684,76 @@ Required Level:^777777 50 ^000000
 Required Jobs: ^777777 All ^000000
 #
 29013#
-1% chance to absorb 3% of damage dealt to enemy as HP.
+Has 1% chance to absorb 3% of physical damage dealt to enemy as HP.
 #
 29014#
-STR +3
-INT - 3
+STR +3, INT -3.
 #
 29015#
-STR +3
-DEX - 3
+STR +3, DEX -3.
+Equip with STR +3 INT -3, DEX +3, INT +3.
 #
 29016#
-INT + 3
-DEX - 3
+INT +3, DEX -3.
 #
 29017#
-VIT - 3
-INT + 3
+INT +3, VIT -3.
+Equip with INT +3 DEX -3, DEX +3, VIT +3.
 #
 29018#
-VIT - 3
-DEX +3
+DEX +3, VIT -3.
 #
 29019#
-AGI - 3
-DEX +3
+DEX +3, AGI -3.
+Equip with DEX +3 VIT -3, VIT +3, AGI +3.
 #
 29020#
-AGI - 3
-VIT + 3
+VIT +3, AGI -3.
 #
 29021#
-VIT + 3
-LUK - 3
+VIT +3, LUK -3.
+Equip with VIT +3 AGI -3, AGI +3, LUK +3.
 #
 29022#
-AGI + 3
-LUK - 3
+AGI +3, LUK -3.
 #
 29023#
-STR - 3
-AGI + 3
+AGI +3, STR -3.
+Equip with AGI +3 LUK -3, LUK +3, STR +3.
 #
 29024#
-STR - 3
-LUK - 3
+LUK +3, STR -3.
 #
 29025#
-INT - 3
-LUK - 3
+LUK +3, INT -3.
+Equip with LUK +3 STR -3, STR +3, INT +3.
 #
 29026#
-DEF + 20
+DEF +20
 #
 29027#
-Increases the experience given from monsters by 2%.
+Increase EXP from monsters by 2%.
 #
 29028#
 ATK +1%.
-Gives ATK + 2%, if ATK + 1% effect on Costume middle and lower slot.
+Equip with ATK +1% (Middle, Lower), ATK +2%.
 #
 29029#
-ATK +1%
+ATK +1%.
 #
 29030#
 MATK +1%.
-Gives MATK + 2%, if MATK + 1% effect on Costume middle and lower slot.
+Equip with MATK +1% (Middle, Lower), MATK +2%.
 #
 29031#
-MATK +1%
+MATK +1%.
 #
 29032#
-Absorb 1% of damage dealt to enemy into SP with 1% chance.
+Has 1% chance to absorb 1% of physical damage dealt to enemy as SP.
 #
 29033#
 MDEF +4
+Equip with "DEF +20", HIT +5, FLEE +5.
 #
 29239#
 HIT + 5.
@@ -94485,7 +94472,7 @@ Jobs: ^777777All^000000
 A mask rumored to make its wearer ferociously aggressive.
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
-Location : ^777777상중단^000000 Weight : ^7777770^000000
+Location : ^777777Upper/Middle^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -94889,134 +94876,68 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 31226#
-Long Twin-tail hair style of Mikiu when she performed her concerts.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31227#
-Long Twin-tail hair style of Mikiu when she performed her concerts.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31228#
-^808080Long Twin-tail hair style of Mikiu when she performed her concerts.^000000
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31229#
-Long Twin-tail hair style of Mikiu when she performed her concerts.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31230#
-Long Twin-tail hair style of Mikiu when she performed her concerts.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31231#
-Long Twin-tail hair style of Mikiu when she performed her concerts.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31232#
-Long Twin-tail hair style of Mikiu when she performed her concerts.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31233#
-Long Twin-tail hair style of Mikiu when she performed her concerts.
-^FFFFFF_^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31249#
 ^808080A hat designed based on the "Alice" character in the famous game titled "Broody Roar" ^000000
@@ -95402,9 +95323,7 @@ Jobs: ^777777All^000000
 31303#
 A commemorative hat for those who spent their summer with noodles.
 It's ramen with seafood.
-HP +5%, SP +5%. Increase damage to Fish Monsters by 10%. HIT +20
-Increase EXP from Fish Monsters by 5%.
-(Item effect will be removed once event ends.)
+ 
 Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
@@ -95700,17 +95619,15 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 31398#
-^808080Look at my eyes, and you will feel sleepy. ^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000 
-Location: ^777777Middle ^000000 
-Weight: ^7777770^000000 
-Required Level: ^7777771^000000 
-Jobs: ^777777All^000000
+Eyes flicker when worn.
+'Why doesn't it blink normally?' Let's not ask the question.
+^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4Exchangeable for Costume Enchantment Stone Box 7.^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs except Doram^000000
 #
 31399#
 ^808080 A veil that is popular among Voodoo witches and that can cover the wearer's face rather well. ^000000
@@ -96594,18 +96511,13 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 31616#
-^808080 Counting sheep one by one makes you feel sleepy.
-You will fall asleep instantly as soon as you lie down.^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Counting two or three sheep slowly, you just want to go to sleep.
+Just lying down, you will fall asleep right away.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31617#
 ^808080Tiny Lady Tanee. Don't make her angry or she will punish you.^000000
@@ -98202,16 +98114,16 @@ It seems to resonate with Ancient Hero Boots.
 
 Every 2 Refine levels ATK + 10.
 For each 3 refine levels, increase ranged physical damage by 4%.
-When refined to +7 or higher, increases damage of Cannon Spear, Banishing Point by 15%.
-When refined to +9 or higher, increases attack speed (reduces delay after attack by 10%.)
-When refined to +11 or higher, increases damage of Cannon Spear, Banishing Point by additional 20%.
+If refined to +7 or higher, increases damage of Cannon Spear, Vanishing Point by 15%.
+If refined to +9 or higher, increases attack speed (reduces delay after attack by 10%.)
+If refined to +11 or higher, increases damage of Cannon Spear, Vanishing Point by additional 20%.
 When equipped with Ancient Hero Boots, adds random chance to increase STR +20, ATK+15% for 7 sec when wearer physical attacks.
 
 Class : ^777777One-Handed Spear^000000 Attack : ^777777180^000000
 Weight : ^777777120^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777100^000000
-Job : ^777777Royal Guard Classes^000000
+Jobs : ^777777Royal Guard Classes^000000
 #
 32033#
 ^808080A spear made with Grossular ore,
@@ -99559,6 +99471,19 @@ A special box rewarded to players for using Kafra Points.
 ^ff0000This item cannot be traded with other accounts.^000000
 Weight : ^7777771^000000
 #
+101708#
+Place 2 specific headgear costumes into this box to get 1 random item. Chance to get limited-time headgear costumes.
+Weight : ^7777771^000000
+#
+101709#
+May the Poring God be with you!
+Weight : ^7777771^000000
+#
+101741#
+Singapore turns 57 on 9 August 2022! No matter where in the world you may be, we can't wait to celebrate National Day with you.
+ 
+Weight : ^7777771^000000
+#
 200000#
 Gains 1 fly wing when consumed.
 Weight: ^7777771^000000
@@ -99616,6 +99541,14 @@ Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All Jobs^000000
+#
+410107#
+A helmet that is made from straw rice bag.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 420000#
 VIT +1, DEX +1, INT +1.

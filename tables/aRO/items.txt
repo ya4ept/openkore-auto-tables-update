@@ -2667,8 +2667,8 @@
 4949#After Cast Delay Lv 2#
 4950#After Cast Delay Lv 3#
 4991#리액토 보조 ASPD#
-4992#HP Restore 1% (Phy.)#
-4993#SP Restore 1% (Phy.)#
+4992#HP Absorb 1#
+4993#SP Absorb 1#
 4998#민첩의 니브 2Lv#
 4999#민첩의 니브 3Lv#
 5001#Headset#
@@ -3153,7 +3153,7 @@
 5515#Pisces Crown#
 5516#Hawk Eyes#
 5517#Hawk Eyes#
-5518#대형 마제스틱 고우트#
+5518#Gigantic Majestic Goat#
 5519#Peacock Feather#
 5520#Rabbit Earmuffs#
 5521#분노한 입#
@@ -3965,7 +3965,7 @@
 6991#VIP 30Day Card#
 6993#Safe to 10 Weapon Certificate#
 6994#Safe to 10 Armor Certificate#
-6999#HP흡수스톤(Upper)#
+6999#HP Absorb Stone (Upper)#
 7001#Mold Powder#
 7002#Ogre Tooth#
 7003#Anolian Skin#
@@ -4588,7 +4588,7 @@
 7796#Author's Autograph#
 7797#Author's Memo#
 7798#Fragment of Darkness#
-7799#Black Birthstone#
+7799#Crystal of Darkness#
 7801#Riko's Letter#
 7802#MSP's Book#
 7810#Yellow Birthstone#
@@ -5487,6 +5487,7 @@
 12744#Chocolate Box#
 12745#Vivid Notation#
 12748#Immune Scroll#
+12754#New Year Bun#
 12766#[Not For Sale] JOB Manual#
 12767#Aigenta Receipts Box#
 12768#Aspersio Scroll Box (10 ea)#
@@ -6286,6 +6287,7 @@
 14845#[Egg]LV10 Blessing Scroll#
 14846#[Egg]LV10 Agi Scroll#
 14847#[Egg]Small Life Potion#
+14849#[Egg]Stew Of Immortality#
 14851#[Egg]Hwergelmir's Tonic#
 14852#[Egg]Breath of Dragon Cocktail#
 14853#[Egg]Steamed Desert Scorpions#
@@ -6308,6 +6310,7 @@
 14888#Hair Buns Box#
 14889#Cowlick Box#
 14890#Side Pigtail Box#
+14891#Long Twin Box#
 14892#Long Pony Tail Box#
 14906#Meow Can#
 14909#Spring Scroll#
@@ -6471,6 +6474,7 @@
 15886#Reptile's Head (OSM)#
 15887#Odious's Robe#
 15921#Charm Of Great Nature#
+15922#Charm Of Mystic Frozen#
 16000#Erde#
 16001#Red Square Bag#
 16003#Carga Mace#
@@ -6916,7 +6920,7 @@
 18116#Metal Bow#
 18118#TE WoE Bow#
 18119#Thanatos Bow#
-18120#Evil Slayer Piercer bow#
+18120#Evil Slayer Piercer Bow#
 18122#Gigantic Bow#
 18123#Bow Of Storm#
 18130#진홍의 보우#
@@ -7200,7 +7204,7 @@
 18890#Gray Bunny Band#
 18891#Husky Hat#
 18892#Ufo Poring Hat#
-18893#Dragon Claw Helm#
+18893#Dragon Claw Helmet#
 18894#Rainbow Star#
 18895#Heavenly Dark Flame#
 18896#Pterios Fins#
@@ -7433,6 +7437,7 @@
 19583#의상 의적안대#
 19584#Costume Pirate Dagger#
 19585#Costume Feather Beret#
+19586#Costume Pink Bunny Hair Band#
 19587#Costume King Poring Hat#
 19589#Costume Fallen Angel Hairband#
 19597#매직아이즈#
@@ -7514,6 +7519,7 @@
 19697#Rudolph Santa Hat Costume#
 19701#Costume Red Bonnet#
 19702#Costume Dear Santa#
+19703#Costume Black Afro Wig#
 19706#Costume Red Dress Hat#
 19707#Polar Bear Cap Costume#
 19709#Outfit Yellow Ribbon#
@@ -7600,7 +7606,7 @@
 19813#의상 아이스크림 모자#
 19814#의상 눈부신 가발#
 19815#Costume Lolita Ten Gallon Hat#
-19816#Costume Chocobo Cap#
+19816#Costume Pecopeco Cap#
 19817#Costume Ifrits Breath#
 19818#Costume Droop Morocc Minion#
 19819#의상 강령술사의 두건#
@@ -7747,6 +7753,7 @@
 20036#Costume Sword Master's Crown#
 20037#의상 아울듀크의 실크햇#
 20038#의상 알폰소의 투구#
+20039#Costume Butterfly Wing Ears#
 20041#Costume Earth Goddess Flower#
 20042#Costume Hermose Cap#
 20045#Costume Zimzalabim#
@@ -7872,6 +7879,7 @@
 20253#Costume Alicel's Doll#
 20255#Costume Love Cheeks#
 20256#Costume Honey Pancake#
+20258#Costume Blue Headdress#
 20266#Costume Secret Zipper#
 20267#Costume: Penguin Cap#
 20268#Costume Sleep Eclipse Family#
@@ -7904,9 +7912,9 @@
 20306#의상 예술가의 모자#
 20311#Costume High-Tech Earphone#
 20312#의상 바론의 마안#
-20313#의상 입에 무는 디스크#
+20313#Costume Disk In Mouth#
 20314#의상 뉴웨이브 선글라스#
-20315#Costume Data Analyze#
+20315#Costume Analyze Eye#
 20316#의상 지천사의 날개 투구#
 20317#Costume Cyber Meow Headphone#
 20318#의상 찰스턴의 안테나#
@@ -7967,7 +7975,7 @@
 20398#Costume NH Bunny Hat#
 20399#Costume Crow Tengu Mask#
 20401#Costume God's Ring#
-20404#Costume Poring Family#
+20404#Costume Blessing of Angel#
 20405#Costume Eremes Scarf#
 20406#Costume Saint of Heaven#
 20407#Costume Skarlet's Aura#
@@ -8285,6 +8293,7 @@
 22908#Elysee Zonda Calling Bell#
 22914#Bubble Gum 24h#
 22929#JOB Battle Manual 24h#
+22953#Enchanted Stone Box Vol.7#
 22971#매드바니 스크롤#
 22979#[Not For Sale] Field x Gum Manual#
 22991#Soccer Cake#
@@ -8292,6 +8301,7 @@
 23008#Bubble Gum 24Hours#
 23010#Battle Manual 24Hours#
 23011#Lufe Insurance 24Hours#
+23012#[Not For Sale]Small Mana Potion#
 23023#Buffy Party Fly Wing#
 23032#Stats Soul Potion Box#
 23038#[Not For Sale]White Slim Potion Box#
@@ -8375,7 +8385,7 @@
 23377#Earth Armor Scroll#
 23434#Earth Scroll#
 23435#Cat Cash Scroll#
-23436#Shadow_Refine_Hammer#
+23436#Holgren's Shadow Refine Hammer#
 23437#Siege White Potion Box#
 23467#Poring Scroll#
 23468#Sky Scroll#
@@ -8406,6 +8416,11 @@
 23648#Kafra Storage Bell#
 23652#[Not For Sale] Songpyun#
 23670#Magic Scroll#
+23675#Geffen Magic Armor Scroll#
+23676#Gray Abrasive (Physical)#
+23677#Gray Abrasive (Magic)#
+23678#Gray Abrasive (Ranged)#
+23679#Geffen Magic Accessory Scroll#
 23713#Summer Perfume ATK#
 23714#Summer Perfume MATK#
 23715#Summer Perfume ASPD#
@@ -8450,12 +8465,12 @@
 24043#Dexterous Shadow Weapon#
 24044#Vital Shadow Shield#
 24045#Athletic Shadow Shoes#
-24046#Resist Spellpower Pendant Shadow#
+24046#Resist Spell Power Shadow Pendant#
 24047#Rapid Pendant Shadow#
 24048#Caster Shadow Pendant#
-24049#Hard Earring Shadow#
+24049#Hard Shadow Earring#
 24050#Wise Earring Shadow#
-24051#Athena Earring Shadow#
+24051#Athena Shadow Earring#
 24052#Cranial Shield Shadow#
 24053#Safeguard Shield Shadow#
 24054#Brutal Shield Shadow#
@@ -8561,8 +8576,12 @@
 24315#Taekwon Shadow Shield#
 24318#Super Novice Shadow Shield#
 24319#Gunslinger Shadow Shield#
+24332#Critical Shadow Shield#
+24333#Critical Shadow Shoes#
 24339#Almighty Shadow Earring#
 24340#Almighty Shadow Pendant#
+24366#Healing Shadow Shield#
+24367#Healing Shadow Shoes#
 24422#Costume 99LV Sura Orange#
 24716#Promotion Shadow Armor#
 24717#Promotion Shadow Shoes#
@@ -8570,24 +8589,24 @@
 24719#Promotion Shadow Earring#
 24720#Promotion Shadow Pendant#
 24721#Promotion Shadow Weapon#
-25000#SP흡수스톤(Upper)#
-25001#방어스톤(Middle)#
-25002#LUK변환스톤(Middle)#
-25003#STR변환스톤(Middle)#
-25004#AGI변환스톤(Middle)#
-25005#INT변환스톤(Middle)#
-25006#VIT변환스톤(Middle)#
-25007#DEX변환스톤(Middle)#
-25008#VIT변환스톤(Lower)#
-25009#AGI변환스톤(Lower)#
-25010#DEX변환스톤(Lower)#
-25011#LUK변환스톤(Lower)#
-25012#STR변환스톤(Lower)#
-25013#INT변환스톤(Lower)#
-25014#마방스톤(Lower)#
-25015#경험치 스톤(Lower)#
-25016#공격스톤(Lower)#
-25017#마공스톤(Lower)#
+25000#SP Absorb Stone (Upper)#
+25001#DEF Stone (Middle)#
+25002#LUK Exchange Stone (Middle)#
+25003#STR Exchange Stone (Middle)#
+25004#AGI Exchange Stone (Middle)#
+25005#INT Exchange Stone (Middle)#
+25006#VIT Exchange Stone (Middle)#
+25007#DEX Exchange Stone (Middle)#
+25008#VIT Exchange Stone (Lower)#
+25009#AGI Exchange Stone (Lower)#
+25010#DEX Exchange Stone (Lower)#
+25011#LUK Exchange Stone (Lower)#
+25012#STR Exchange Stone (Lower)#
+25013#INT Exchange Stone (Lower)#
+25014#MDEF Stone(Lower)#
+25015#EXP Stone (Lower)#
+25016#ATK Stone (Lower)#
+25017#MATK Stone (Lower)#
 25073#Old Papyrus#
 25074#Old Coin#
 25075#Admiral's Sword#
@@ -8821,26 +8840,26 @@
 28961#Madder Cony Shield (OSM)#
 28963#Poring Power Shield (OSM)#
 28964#Dark Cross Shield (OSM)#
-29013#HP흡수3#
-29014#STR+3 INT-3#
-29015#STR+3 DEX-3#
-29016#INT+3 DEX-3#
-29017#INT+3 VIT-3#
-29018#DEX+3 VIT-3#
-29019#DEX+3 AGI-3#
-29020#VIT+3 AGI-3#
-29021#VIT+3 LUK-3#
-29022#AGI+3 LUK-3#
-29023#AGI+3 STR-3#
-29024#LUK+3 STR-3#
-29025#LUK+3 INT-3#
-29026#DEF+20#
-29027#경험치+2%#
-29028#ATK +1%#
-29029#ATK +1%#
-29030#MATK +1%#
-29031#MATK +1%#
-29032#SP흡수1#
+29013#HP Absorb 3#
+29014#STR +3 INT -3#
+29015#STR +3 DEX -3#
+29016#INT +3 DEX -3#
+29017#INT +3 VIT -3#
+29018#DEX +3 VIT -3#
+29019#DEX +3 AGI -3#
+29020#VIT +3 AGI -3#
+29021#VIT +3 LUK -3#
+29022#AGI +3 LUK -3#
+29023#AGI +3 STR -3#
+29024#LUK +3 STR -3#
+29025#LUK +3 INT -3#
+29026#DEF +20#
+29027#EXP +2%#
+29028#ATK +1% (Upper)#
+29029#ATK +1% (Lower)#
+29030#MATK +1% (Upper)#
+29031#MATK +1% (Lower)#
+29032#SP Absorb 1#
 29033#MDEF +4#
 29239#HIT+5#
 29380#ATK + 5#
@@ -8948,14 +8967,14 @@
 31223#Costume Yukimura Hairstyle (Pearl)#
 31224#Costume Yukimura's Hairstyle (Milk Tea)#
 31225#Costume Yukimura's Hairstyle (Taro)#
-31226#Costume Miku Hairstyle (Navy)#
-31227#Costume Miku Hairstyle (Rose)#
-31228#Costume Miku Hairstyle (Cream)#
-31229#Costume Miku Hairstyle (Green)#
-31230#Costume Miku Hairstyle (Cacao)#
-31231#Costume Miku Hairstyle (Pearl)#
-31232#Costume Miku Hairstyle (Milk Tea)#
-31233#Costume Miku Hairstyle (Taro)#
+31226#Costume Long Twin (Blue)#
+31227#Costume Long Twin (Red)#
+31228#Costume Long Twin (Yellow)#
+31229#Costume Long Twin (Green)#
+31230#Costume Long Twin (Black)#
+31231#Costume Long Twin (White)#
+31232#Costume Long Twin (Brown)#
+31233#Costume Long Twin (Purple)#
 31249#Costume Cream Rabbit Hoppin#
 31252#Costume Gothic White Cat#
 31257#Costume Poring Water Jars#
@@ -9017,7 +9036,7 @@
 31391#Costume Reality Stone#
 31395#Costume Book of Sabrina#
 31396#Costume Sorcerer Viel#
-31398#Costume Elegant Eyes#
+31398#Costume Blinking Small Eyes#
 31399#Costume Warlock Veil#
 31402#Costume Green Apple Flavour#
 31404#Costume Poring's Traffic#
@@ -9091,7 +9110,7 @@
 31611#Costume Dark Snake Lord Muffler#
 31612#Costume Himiko Crown#
 31613#Costume Blue Hair of the Strong#
-31616#Costume Zzz#
+31616#Costume Sleep Sheep#
 31617#Costume Lady Tanee#
 31618#Costume Lady Butterfly#
 31624#Costume Meow Lover#
@@ -9320,6 +9339,9 @@
 101688#9000 KP Box#
 101689#18000 KP Box#
 101690#36000 KP Box#
+101708#Head Costume Synthesis Box#
+101709#Angelic Egg#
+101741#SG National Day 2022 Box#
 200000#IDTest Cash#
 200190#Box of 1 Nyangvine#
 200210#Almighty package#
@@ -9327,6 +9349,7 @@
 200212#Infinity package set#
 300000#IDTest Card#
 400115#Costume Angeling Bread Hat#
+410107#Costume Straw Rice Bag#
 420000#Isabella's Carrot#
 420029#Costume Imperial Glory#
 420030#Feather In Mouth#
