@@ -8692,6 +8692,8 @@
 101691#SweetGothic Scroll#
 101742#ROCxRazerGold Box#
 101749#Glimpse of Angel Scroll#
+101773#Holgren's Shadow Smelting Hammer#
+101794#Raging Inferno Costume Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
