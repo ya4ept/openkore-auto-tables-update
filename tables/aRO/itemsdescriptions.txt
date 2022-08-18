@@ -4269,9 +4269,9 @@ Required Job: Swordman Jobs
 #
 1169#
 ^808080A gruesome sword used to behead criminals destined for the death penalty.^000000
-Ignores physical defense of Demi-Human monsters by 100%.
-Increase physical damage on Demi-Human monsters by 20%,
-but increase physical damage taken from Demi-Human monsters by 10%.
+Ignores physical defense of Demi-Human enemies by 100%.
+Increase physical damage on Demi-Human enemies by 20%,
+but increase physical damage taken from Demi-Human enemies by 10%.
 ^FFFFFF_^000000
 Class : Two-Handed Sword
 Attack : 155
@@ -4409,9 +4409,9 @@ Required Job: Swordman Jobs
 #
 1179#
 ^808080A gruesome sword used to behead criminals destined for the death penalty.^000000
-Ignores physical defense of Demi-Human monsters by 100%.
-Increase physical damage on Demi-Human monsters by 20%,
-but increase physical damage taken from Demi-Human monsters by 10%.
+Ignores physical defense of Demi-Human enemies by 100%.
+Increase physical damage on Demi-Human enemies by 20%,
+but increase physical damage taken from Demi-Human enemies by 10%.
 ^FFFFFF_^000000
 Class : Two-Handed Sword
 Attack : 155
@@ -5054,8 +5054,8 @@ Required Job:Swordman Jobs, Merchant Jobs, Thief Jobs, Mage Jobs, Archer Jobs, S
 1228#
 A fatal dagger made for a variety of attacks in close combat.
 ^FFFFFF_^000000
-Increases physical damage on Demi-Human enemies by 10%.
 Ignores physical defense of Demi-Human enemies by 100%.
+Reduces damage taken from Demi-Human enemies by 10%.
 Increases physical damage taken from Demon enemies by 10%.
 Class : Dagger
 Attack : 80
@@ -5130,9 +5130,9 @@ Required Job: Assassin Jobs
 1233#
 ^808080A ceremonial dagger that possesses the power to defeat evil and that is used in performing exorcisms.^000000
 ^FFFFFF_^000000
-Decrease damage on Demon enemies by 5%.
+Decrease damage taken from Demon enemies by 5%.
 Ignores physical defense of Demon enemies by 100%.
-Increase physical damage on Demi-Human enemies by 10%.
+Increase physical damage taken from Demi-Human enemies by 10%.
 ^FFFFFF_^000000
 Class : Dagger
 Attack : 90
@@ -7579,7 +7579,7 @@ Required Level: ^77777740^000000
 Job: ^777777Swordsman Classes^000000
 #
 1438#
-A magic spear sculpted from Gray Shard to counter Thanatos.
+A magic spear sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +100, INT +6, VIT +6, LUK -6
@@ -8029,7 +8029,7 @@ Required Job: Swordman Jobs
 1478#
 ^808080An auger-shaped spear that is designed for striking the weak points of an enemy.^000000
 Ignores physical defense of enemies by 100%.
-Increases physical damage on Demi-Human by an additional 10%.
+Increases physical damage on Demi-Human enemies by an additional 10%.
 Adds a chance of casting ^0000FFLv5 Pierce^000000 on the enemy when dealing physical attack.
 ^FFFFFF_^000000
 Class: Two-Handed Spear
@@ -8308,7 +8308,7 @@ Required Level: ^77777740^000000
 Job: ^777777Swordsman Classes^000000
 #
 1496#
-A two-handed magic spear sculpted from Gray Shard to counter Thanatos.
+A two-handed magic spear sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +50, INT +6, VIT +6, LUK -6.
@@ -10614,7 +10614,7 @@ Required Level: ^77777780^000000
 Jobs: ^777777Mage Jobs/Soul Linker^000000
 #
 1669#
-A magic staff sculpted from Gray Shard to counter Thanatos.
+A magic staff sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +200, INT +6, VIT +6, LUK -6.
@@ -12272,7 +12272,7 @@ Required Level: ^77777740^000000
 Job: ^777777Priest Classes/Monk Classes^000000
 #
 1836#
-A magic knuckle sculpted from Gray Shard to counter Thanatos.
+A magic knuckle sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +100, INT +6, VIT +6, LUK -6.
@@ -12818,7 +12818,7 @@ Required Level: ^77777740^000000
 Job: ^777777Bard Classes^000000
 #
 1933#
-A magic violin sculpted from Gray Shard to counter Thanatos.
+A magic violin sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +130, INT +6, VIT +6, LUK -6.
@@ -13430,7 +13430,7 @@ Required Level: ^77777740^000000
 Job: ^777777Dancer Classes^000000
 #
 1988#
-A whip sculpted from Gray Shard to counter Thanatos.
+A whip sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +130, INT +6, VIT +6, LUK -6.
@@ -13803,7 +13803,7 @@ Required Level: ^777777150^000000
 Jobs: ^777777HighWizardClass^000000
 #
 2023#
-A magic staff sculpted from Gray Shard to counter Thanatos.
+A magic staff sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +250, INT +6, VIT +6, LUK -6.
@@ -21399,13 +21399,13 @@ Level Requirement: ^77777710^000000
 Job: ^777777All jobs^000000
 #
 2881#
-a necklace for implementing the best of royal palace food.
+A necklace for implmenting best of royal palace food.
 DEX +2, MATK +20.
-When used with an Orleans globe, can have MATK +20;  with an Orleans uniform, can have stat casting 15% decrease; when with an Orleans server, can have MATK + 2 increase for shield 1.
-Class: ^777777Accessory^000000 Def: ^7777770^000000
-Weight: ^77777710^000000
-Required Level: ^7777770^000000
-Jobs: ^777777All^000000
+Equip with Orleans' Glove, MATK + 20. Equip with Orleans' Gown, decrease variable cast time by 15%. Equip with Orleans' Server, for every refine level, MATK +2.
+Class : ^777777Accessory^000000 Defense : ^7777770^000000
+Weight : ^77777710^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 2883#
 A seal created by refining an Ur Runestone
@@ -21909,11 +21909,11 @@ Jobs : ^777777All Jobs^000000
 2965#
 An ornament carved with delicate and beautiful angels from the shell of an eggshells.
 
-All Stats + 1, increase physical damage and MATK by 5% to all monster classes.
+All Stats + 1, increase physical damage and MATK by 5% to all enemies classes.
 Equip with Deep Blue Angel Hairband or Pink Angel Hairband,
 All Stats + 1, MHP + 5%, MSP + 5%,
 has a chance to cast Lv 5 Lord of Vermilion upon receiving physical damage,
-increase damage by 5% to all races,
+increase physical damage by 5% to all races,
 decrease variable cast time by 10%.
 
 Class : ^777777Accessory^000000  Defense : ^7777771^000000
@@ -22641,7 +22641,7 @@ Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4058#
-Decrease damage on Demi-Human enemies by 30%.
+Decrease damage taken from Demi-Human enemies by 30%.
 Class : ^777777Card^000000
 Location : ^777777Shield^000000
 Weight : ^7777771^000000
@@ -24538,7 +24538,7 @@ Weight: ^7777771^000000
 #
 4245#
 Increase experience points by 10% when defeating Demi-Human enemies. 
-Increase physical damage on Demi-Human enemies by 20%.
+Increase physical damage taken from Demi-Human enemies by 20%.
 Class : ^777777Card^000000
 Location : ^777777Footwear^000000
 Weight : ^7777771^000000
@@ -27208,6 +27208,22 @@ Class: ^777777Card^000000
 Location: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
+4483#
+Has 5% chance to absorb 5% of physical damage dealt to enemy as SP.
+If refine level is +15, increase the chance by 7%.
+^ff0000Caution - ^000088Silit Pong^ff0000 cannot be used for card desocketing!^000000
+Class: ^777777Card^000000
+Location: ^777777Weapon^000000
+Weight: ^7777771^000000
+#
+4485#
+Increase physical damage to Holy, Shadow property monsters and Angel,Demon monsters by 20%.
+If refine level is +15, increase physical damage to Holy, Shadow property monsters and Angel,Demon monsters by 10%.
+^ff0000Caution - ^000088Silit Pong^ff0000 cannot be used for card desocketing!^000000
+Class: ^777777Card^000000
+Location: ^777777Armor^000000
+Weight: ^7777771^000000
+#
 4486#
 Reduce Floating Cast Time by 15%.
 Class: ^777777Card ^000000
@@ -27221,15 +27237,19 @@ Compound: ^777777Accessory^000000
 Weight: ^7777771^000000
 #
 4488#
-When a character receives damage, there will be certain rate of activating Auto Spell to cast Level 5 skill of Meteor Storm.
-Class: ^777777Card ^000000
-Compound: ^777777Shoe^000000
+Has chance to cast Auto spell: Lv 5 Meteor Storm upon receiving physical damage.
+Equip with Dark Illusion card, MHP +10%, MSP +10%
+If refine level is +15 and equip with Dark Illusion card, MHP +5%, MSP +5%.
+^ff0000Caution - ^000088Silit Pong^ff0000 cannot be used for card desocketing!^000000
+Class: ^777777Card^000000
+Location: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4489#
-Reduce 15% of the normal SP amount required to perform the skill.
-Class: ^777777Card ^000000
-Device: ^777777Helmet^000000
+Decrease SP consumption of the skill by 15%.
+^ff0000Caution - ^000088Silit Pong^ff0000 cannot be used for card desocketing!^000000
+Class: ^777777Card^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4490#
@@ -27247,10 +27267,11 @@ Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4492#
-Increase resistance 40%. VIT +3.
-Additional 20% of resistance to Stun if Refine is over Level 15.
+VIT +3
+Increase resistance against Stun by 40%.
+If refine level is +15, increase resistance against Stun by 60%.
 Class: ^777777Card^000000
-Jobs: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4493#
@@ -27285,19 +27306,20 @@ Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4497#
-When conducting a physical attack, cast storm gast Level 1. 
-When attacking near and far, can cast an ice move.
-If Refine is over Level 15, there is a greater chance.
+Has chance to cast Auto spell: Lv 1 Storm Gust upon inflicting normal melee attack.
+Has chance to apply Frozen upon inflicting melee/ranged physical attack.
+If refine level is +15, increase the chance to apply Frozen.
+^ff0000Caution - ^000088Silit Pong^ff0000 cannot be used for card desocketing!^000000
 Class: ^777777Card^000000
-Jobs: ^777777weapon^000000
+Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4498#
 MHP -60%, MSP +50%.
-When hunting monsters, can get a banana, and its recovery rate is 50%.
-If Refine is over Level 15, MHP -50%, MSP +50%, can get a banana, and its recovery rate is improved to 30%.
+Has chance to get Banana from the monsters and increase healing effect of the Banana by 50%.
+If refine level is +15, MHP -50% and increase healing effect of the Banana by 80%.
 Class: ^777777Card^000000
-Jobs: ^777777Shoe^000000
+Location: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4499#
@@ -27310,10 +27332,10 @@ Compound: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4500#
-Can reflect 15% damage to enemies when being physically attacked in a short range.
-If compounded equipment is refined to +15 and above, can reflect 25% damage to enemies.
-Class: ^777777Card ^000000
-Compound: ^777777Armor^000000
+Reflect 15% of all the melee physical damage.
+If refine level is +15, reflect 25% of all the physical melee damage.
+Class: ^777777Card^000000
+Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4501#
@@ -27339,11 +27361,11 @@ Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4504#
-Unlimited use of the [Endure] skill.
-Reduces 50% Max HP.
-If compounded equipment is refined to +15 and above, reduces 35% Max HP.
-Class: ^777777Card ^000000
-Compound: ^777777Shoes^000000
+Infinte [Endure]. 
+MHP -50%.
+If refine level is +15, MHP -35%.
+Class: ^777777Armor^000000
+Location: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4505#
@@ -27591,10 +27613,11 @@ Jobs: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4538#
-Increases the effect of the Heal, Santuary, and Potion Pitcher skills by 15% when they are cast by the wearer, but also increases SP Consumption by 30%.
-If compounded equipment is refined to +15 and above, increases the effect of the Heal, Santuary, and Potion Pitcher skills by 25% when they are cast by the wearer, but also increases SP Consumption by 20%.
+Increase Heal, Sanctuary and Aid Potion's effect by 15%,  increase SP consumption by 30%.
+If refine level is +15, increase Heal, Sanctuary and Aid Potion's effect by 10%, decrease SP consumption by 10%.
+^ff0000Caution - ^000088Silit Pong^ff0000 cannot be used for card desocketing!^000000
 Class: ^777777Card^000000
-Compound: ^777777Headgear^000000
+Location: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4539#
@@ -28029,8 +28052,8 @@ Weight: ^7777771^000000
 #
 4610#
 If the user receives damage that is over a certain ratio of MHP, only receive damage up to the certain ratio. Damage of attacks that deal true damage cannot be decreased.
-Type : ^777777Card^000000
-Class : ^777777Armor^000000
+Class : ^777777Card^000000
+Location : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4625#
@@ -30427,7 +30450,7 @@ mistress of the Glast Heim Underground Prison,
 makes its wearer feel like
 looking down on normal human peons.
 Increase physical damage on Demi-Human enemies by 5%.
-Decrease damage on Demi-Human enemies by 5%.
+Decrease damage taken from Demi-Human enemies by 5%.
 Class: ^777777Headgear^000000
 Defense : ^7777773^000000
 Location : ^777777Upper, Mid^000000
@@ -33485,13 +33508,13 @@ Required Level: ^77777745^000000
 Usable By: ^777777All Character Types^000000
 #
 5405#
-Gentle Filir. He is too gentle. He never attacks.
-Reflects 1% of short range physical attacks.
-Not upgradable.
-Equipment Type: ^777777Headgear^000000    Defense: ^7777772^000000
-Equip Slot: ^777777Upper^000000    Weight: ^77777720^000000
-Required Level: ^77777780^000000
-Usable By: ^777777All Character Types^000000
+A gentle Filir. He's way too gentle that he doesn't attack at all.
+Reflect 1% of melee physical damage taken.
+Cannot refine
+Class : ^777777Headgear^000000    Defense : ^7777772^000000
+Location : ^777777Upper^000000    Weight : ^77777720^000000
+Required Level : ^77777780^000000
+Jobs : ^777777All Jobs^000000
 #
 5406#
 placeholder
@@ -33828,13 +33851,12 @@ Weight: ^77777710^000000
 Usable By: ^777777All Character Types^000000
 #
 5446#
-A hairpin in the shape of a cat's paw.
-Flee +5, Perfect Dodge +3
-Equipment Type: ^777777Headgear^000000
-Defense: ^7777770^000000
-Usable By: ^777777Upper^000000
-Weight: ^77777720^000000
-Usable By: ^777777All Character Types^000000
+A hairpin designed to look like a footprint of a cat.
+FLEE +5, Perfect Dodge +3.
+Class : ^777777Headgear^000000    Defense : ^7777770^000000
+Location : ^777777Upper^000000    Weight : ^77777720^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 5447#
 A hat which resembles the Frog God. But even the god of all frogs looks just like any other frog.
@@ -38213,18 +38235,18 @@ One of the hardest metals found in the Ash Vacuum. It was difficult to refine be
 Weight : ^77777715^000000
 #
 6225#
-^ff0000This item can't be traded with other accounts.^000000
-It has been compressed for a very long time that the density and solidity got heightened. It seems that it becomes more difficult for Defense Weapon Upgrade.
-- When you fail while upgrading an Armor whose upgrade level is over +10, it won't be destroyed or disappear! -
-(When the upgrade fails, upgrade level gets-1.)
+^ff0000This item cannot be traded with other accounts.^000000
+It has been compressed for a very long time that the density and solidity got heightened. It seems that it becomes more difficult to refine the armor.
+- Armor with +10 refine level will not be destroyed during refinement! -
+(If refinement fails it will downgrade by 1.)
 ^ffffff<NAVI>^4D4DFF[Blacksmith Vasta]^000000<INFO>itemmall,25,71,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777771^000000
 #
 6226#
-^ff0000This item can't be traded with other accounts.^000000
-The density and solidity has been heightened by repeated experiments of Midgard's scholars. It seems that it becomes more difficult for weapon upgrade.
-- When you fail while upgrading a Weapon whose upgrade level is over +10, it won't be destroyed or disappear! -
-(When the upgrade fails, upgrade level gets-1.)
+^ff0000This item cannot be traded with other accounts.^000000
+The density and solidity has been heightened by repeated experiments of Midgard's scholars. It seems that it becomes more difficult to refine the weapon.
+- Weapon with +10 refine level will not be destroyed during refinement! -
+(If refinement fails it will downgrade by 1.)
 ^ffffff<NAVI>^4D4DFF[Blacksmith Vasta]^000000<INFO>itemmall,25,71,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777771^000000
 #
@@ -38285,16 +38307,18 @@ With this certificate, you are guaranteed to refine ^006400your armor to 11^0000
 Weight : ^7777770^000000
 #
 6240#
+^ff0000This item cannot be traded with other accounts.^000000
 A delicated ore that protects precious equipment.
 - Weapon with + 7 refine level will not be destroyed during refinement! But cannot refine above +10. -
-(Once refinement is fail it will downgrade by 1.)
+(If refinement fails it will downgrade by 1.)
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
 6241#
+^ff0000This item cannot be traded with other accounts.^000000
 A delicated ore that protects precious equipment.
 - Armor with + 7 refine level will not be destroyed during refinement! But cannot refine above +10. -
-(Once refinement is fail it will downgrade by 1.)
+(If refinement fails it will downgrade by 1.)
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
@@ -39552,12 +39576,6 @@ Weight: ^7777771^000000
 6624#
 A refined energy source that helps you increase the ability of certain items.
 Contains an advanced and concentrated form of energy.
-Weight: ^7777771^000000
-#
-6625#
-^ff0000This item is Account Bound.^000000
-A mighty energy source that helps you increase the ability of certain items.
-The purest form of Energy Crystal.
 Weight: ^7777771^000000
 #
 6635#
@@ -52459,6 +52477,14 @@ Weight: ^7777770^000000
 A very cute egg scroll. It feels so fancy that it makes you expect something from it.
 Weight: ^7777771^000000
 #
+12494#
+^ff0000This item cannot be traded with other accounts.^000000
+An enchanted, giant wing from an ancient creature.
+Enables instant teleportation of all the party members when used by a Party Leader.
+(Does not receive the Mandragora Howling effect.) 
+^ffffff_^000000
+Weight : ^7777771^000000
+#
 12497#
 [Not For Sale] This item is given by event.
 Sweet, tasty bubble
@@ -53303,6 +53329,7 @@ Casts "Giant Growth", heightening power and attack strength tremendously.
 STR increases by 30 and has a 15% chance to deal x2 the damage while melee attacking.
 If the caster is a Rune Knight, it also increases physical attack damage by 250% (125% in WOE and PvP Areas).
 ^ff0000Rhydo Runestone's Crushing Strike damage won't be affected by this runestone^000000
+There is a low chance the caster's weapon may break under this giant power.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
@@ -54126,7 +54153,7 @@ Rental period for 7 days.
 ^FFFFFF_^000000
 A fatal dagger made for a variety of attacks in close combat.
 Ignores physical defense of Demi-Human enemies by 100%.
-Decrease damage from Demi-Human enemies by 10%.
+Decrease damage taken from Demi-Human enemies by 10%.
 Increases damage taken from Demon enemies by 10%.
 Restores 3 SP when hitting enemies.
 MSP +10%.
@@ -55207,7 +55234,7 @@ Acolyte Class^000000
 This item cannot be traded with other accounts.
 A fatal dagger made for a variety of attacks in close combat.
 Ignores physical defense of Demi-Human enemies by 100%.
-Decrease damage from Demi-Human enemies by 10%.
+Decrease damage taken from Demi-Human enemies by 10%.
 Increases damage taken from Demon enemies by 10%.
 Restores 3 SP when hitting enemies.
 MSP +10%.
@@ -55834,7 +55861,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777All except Acolyte Class^000000
 #
 13093#
-A dagger sculpted from Gray Shard to counter Thanatos.
+A dagger sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +130, INT +6, VIT +6, LUK -6.
@@ -58088,7 +58115,7 @@ Required Level: ^7777771^000000
 Jobs: ^777777Novice/Swordmen/Merchants/Thieves^000000
 #
 13441#
-A sword sculpted from Gray Shard to counter Thanatos.
+A sword sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +100, INT +6, VIT +6, LUK -6.
@@ -61992,6 +62019,12 @@ Fully restores SP when using
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
+14524#
+A slice of a very rare fish that can barely be caught once a year. It has the scent of blue sea.
+Restores full HP and SP.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
 14527#
 A scroll on which
 many dungeon map
@@ -62829,6 +62862,11 @@ VIT +10 for 30 minutes.
  
 Weight : ^7777771^000000
 #
+14850#
+Payon dish that bestows luck to those fortunate.
+LUK +10 for 30 minutes.
+Weight : ^7777771^000000
+#
 14851#
 This beverage is named after the legendary spring that is believed to be the source of the world's rivers, and is famous for its pure, amazing taste.
 DEX + 10 for 30 minutes.
@@ -62984,6 +63022,10 @@ Weight : ^7777771^000000
 14892#
 A special hair style box
 
+Weight : ^7777771^000000
+#
+14893#
+A special hair style box
 Weight : ^7777771^000000
 #
 14906#
@@ -63344,7 +63386,7 @@ Usable By: ^777777None^000000
 15036#
 Armor created by purifying Ur runestones.
 MDEF +10.
-Increases MHP by 1% per refinement level. Decrease damage on Demi-Human and Neutral element enemies by 5%.
+Increases MHP by 1% per refinement level. Decrease damage taken from Demi-Human and Neutral element enemies by 5%.
 ^99FF66Ur's Armor Set^000000
 When equipped together with Ur's Greaves, Ur's Manteau, and Ur's Seal: 
 MHP +14%.
@@ -63866,25 +63908,25 @@ It is an object robbed by monsters during the Airship attack incident.
 MaxHP + 1000, MaxSP + 100, MDEF + 10.
 All State + 1.
 Unrefineable, Untradable.
-When Airship's Armor, Airship's Cloak, and Airship's Boots are equipped together, MaxHP + 25%, MaxSP + 25%, increases movement speed.
+When Airship Armor, Airship Cloak, and Airship Boots are equipped together, MaxHP + 25%, MaxSP + 25%, increases movement speed.
 Class : ^777777Armor^000000    Defense : ^777777100^000000
 Weight : ^7777770^000000
 Required level : ^777777125^000000
 Jobs : ^777777All Jobs can equip^000000
 #
 15117#
-A possession of Felrock, the captain of the airship.
+A possession of Felock, the captain of the airship.
 Obtained as a booty after solving the airship assault incident.
 MaxHP + 500, MaxSP + 50, MDEF + 10.
 All State + 1.
 If refined to +7: MaxHP + 500, MaxSP + 50.
 If refined to +9: MaxHP + 200, MaxSP + 20.
 If refined to +12: MaxHP + 300, MaxSP + 30.
-When Felrock's Armor, Felrock's Cape, Felrock's Boots are equipped together, MaxHP + 25%, MaxSP + 25%, increase movement speed, if the sum of the refine level of the entire set is equal or higher than 30, add MaxHP + 5%, MaxSP + 5%.
+When Felock's Armor, Felock's Cape, Felock's Boots are equipped together, MaxHP + 25%, MaxSP + 25%, increase movement speed, if the sum of the refine level of the entire set is equal or higher than 30, add MaxHP + 5%, MaxSP + 5%.
 Class : ^777777Armor^000000    Defense : ^77777770^000000
 Weight : ^77777775^000000
 Required level : ^777777125^000000
-Jobs : ^777777All Jobs can equip^000000
+Jobs : ^777777All Jobs^000000
 #
 15118#
 A newly crafted armor.
@@ -63925,8 +63967,8 @@ Required Level: ^777777110^000000
 Usable By: ^7777773rd Job Only^000000
 #
 15121#
-Sarah's robe is that imbued with spiritual power.
-Has a certain chance to increase MATK by (8X Refine Level) for 10 sec when dealing magical attack
+Sarah's robe that is imbued with spiritual power.
+Has a certain chance to increase MATK by (8X Refine Level) for 10 sec when dealing magic attack
 Class : ^777777Armor^000000 Defense : ^77777735^000000
 Weight : ^77777780^000000
 Required level : ^777777145^000000
@@ -67145,7 +67187,7 @@ Required Level : ^777777100^000000
 Jobs : ^777777Novice/Swordman/Acolyte/Merchant^000000
 #
 16028#
-A hammer sculpted from Gray Shard to counter Thanatos.
+A hammer sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +120, INT +6, VIT +6, LUK -6.
@@ -72446,7 +72488,7 @@ Required level: ^77777740^000000
 Usable By: ^777777Archer Class; Thief and Rogue Jobs^000000
 #
 18119#
-A cursed bow sculpted from Gray Shard to counter Thanatos.
+A cursed bow sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +110, INT +6, VIT +6, LUK -6.
@@ -72459,7 +72501,7 @@ Attack  : ^777777180^000000
 Weight : ^777777130^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777120^000000
-Jobs : ^7777773rd Archer Classes^000000
+Jobs : ^7777773rd Archer Classes and Rogue Classes^000000
 #
 18120#
 This bow was once used for vanquishing an evil slayer and his followers.
@@ -73263,7 +73305,7 @@ Job: ^777777All^000000
 A cute beret with cat ears! Cats don't normally wear hats but if they did they would wear this one.
 ^FFFFFF_^000000
 Increase physical damage on all classes enemies by 5%.
-Increase physical damage on Demi-Human enemies by 1% and decrease damage on Demi-Human enemies by 1% for every refinement after + 6.
+Increase physical damage on Demi-Human enemies by 1% and decrease damage taken from Demi-Human enemies by 1% for every refinement after + 6.
 ^FFFFFF_^000000
 Class : ^777777Headgear^000000 Defense : ^7777775^000000
 Location : ^777777Upper^000000 Weight : ^77777730^000000
@@ -73274,7 +73316,7 @@ Jobs : ^777777All Jobs^000000
 A lovely red hat with a white pom pom.
  
 MATK + 5%, MDEF + 5.
-Increase magic damage on Demi-Human enemies by 1% and decrease damage on Demi-Human enemies by 1% for every refinement after + 6.
+Increase magic damage on Demi-Human enemies by 1% and decrease damage taken from Demi-Human enemies by 1% for every refinement after + 6.
  
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^77777730^000000
@@ -73756,18 +73798,13 @@ Jobs: ^777777All^000000
 #
 18659#
 A Hat created with power of mythical creature, Boitata.
---------------------
-Have a chance to cast ^0000ffLv.5 Sonic Blow^000000 when performing a physical attack
-Have a chance to Enchant fire property on weapon for 3 min when performing a physical attack.
---------------------
-If the user puts this on with Boitata Armor, the user will give 10% more damage to Earth property monsters and enchant fire property on their armor. INT+3, STR + 3, MDEF + 10
---------------------
-Class: ^777777Headgear^000000
-Defense: ^7777775^000000
-Location: ^777777Upper & Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777770^000000
-Jobs: ^777777All^000000
+Has chance to cast Auto spell: Lv 5 Sonic Blow or apply Fire property to the weapon for 3 minutes upon inflicting physical damage.
+Equip with Boitata Armor, increase damage to Earth property monsters by 10%, and apply Fire property to the armor. INT +3, STR +3, MDEF +10.
+Class : ^777777Headgear^000000    Defense : ^7777775^000000
+Location : ^777777Upper/Middle^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 18660#
 Splendid hair accessory made from bird feathers.
@@ -75366,20 +75403,14 @@ Drains 50 HP from the user every 5 seconds.
 MATK + X per upgrade level of the item.
 #
 18849#
-^808080A luxurious, gold-rimmed ribbon. It has been with Kimi since it was thrown away by its previous owner.^000000
-^FFFFFF_^000000
-Type: Headgear
-Position: Upper
-Defense: 0
-Weight: 20
-Required Level: 1
-Required Job: All Jobs
-^FFFFFF_^000000
-DEX + 3
-MATK + 40
-Restores 200 HP to the user when a monster is killed by a magical attack.
-Drains 50 HP from the user every 5 seconds.
-MATK + X per upgrade level of the item.
+A luxurious, gold-rimmed ribbon. It has been with Kimi since it was thrown away by its previous owner.
+DEX +3, MATK +40. For every refine level, MATK +7.
+Restore 200 HP upon defeating enemies with magic attack.
+For every 5 seconds, decrease 50 HP.
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^77777720^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 18850#
 Christmas hat that Raccoon Hooray team 'borrowed' from Santa.
@@ -76239,20 +76270,12 @@ Required Level: ^77777710^000000
 Job: ^777777All jobs^000000
 #
 18956#
-^808080A delicious chocolate ball decorated with sprinkled sugar.^000000
-^808080You will feel a caramel running into your mouth when you bite it.^000000
-^FFFFFF_^000000
-^FF6633[Item Effect]^000000
-Str +1, Int +1, Luk +1
-^FFFFFF_^000000
-Obtained from ^CC66FFValentine Quest 2021: Heart Attack^000000
-^FFFFFF_^000000
-Class: ^777777Headgear^000000
-Location: ^777777Lower^000000
-Defense: ^7777771^000000
-Weight: ^77777710^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Colorful sugar sprinkled above on a delicious chocolate.
+STR +1, INT +1, LUK +1, MDEF +1
+Class : ^777777Headgear^000000 Defense : ^7777771^000000
+Location : ^777777Lower ^000000Weight : ^77777710^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 18961#
 A hat made after a fluffy monster Lunatic.
@@ -77330,6 +77353,16 @@ Class: Lower Headgear
 Required: l
 Applicable Jobs: Every Job
 Weight: 1
+#
+19151#
+A Deviling balloon that floating over your head.
+Somehow you feel really lucky just by wearing this.
+Increase EXP from monsters and item drop rate by 5%.
+Has chance to apply Curse to enemy upon inflicting physical damage.
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777771^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19158#
 ^808080 The eyes of the Azure witch that show the power of ice.^000000
@@ -80723,7 +80756,7 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 19914#
-The hat of Felrock, the captain of the airship.
+The hat of Felock, the captain of the airship.
 The color is different from the usual hat he wears.
 Class : ^777777Costume^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
@@ -83676,30 +83709,13 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20378#
-^00CC00This 2 Week Rental Box contains 1 Item.  The box is Tradable, but the item that comes out of it may not be. Please read the description.^000000
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC20% Bonus Attack Damage to Water Element Targets^000000
-A top of the line,
-high performance
-grenade launcher.
-Each short ranged
-physical attack has
-a low chance of
-destroying an
-enemy's armor.
-^CC0000This item is not Refinable^000000
-Class: ^777777Grenade Launcher^000000
-Attack: ^777777241^000000
-Weight: ^777777120^000000
-Weapon Level: ^7777772^000000
-Required Level: ^7777771^000000
-Jobs:^777777Gunslinger^000000
-Schwartzvald's pilot helm.
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper/Middle/Lower ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Schwartzvald's pilot helmet.
+
+Class : ^777777Costume^000000
+Defense : ^7777770^000000
+Location : ^777777Upper/Middle/Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20379#
 ^00CC00This 2 Week Rental Box contains 1 Item.  The box is Tradable, but the item that comes out of it may not be. Please read the description.^000000
@@ -84038,17 +84054,13 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20448#
-^808080 Into the power of aqua.^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted at Eden 2nd floor with NPC Costama Girl (Located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Lower^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Fast streams circling around you! Aquatic bubbles that can stick on your opponent and drown him!
+Who dares to challenge the archmage of the water element?
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20449#
 It feels like a black and a white cat's seduction.
@@ -84905,6 +84917,15 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
+20579#
+One of the 4 main archangels, Raphael's wing.
+Raphael is also known as "Angel of healing".
+Class : ^777777Costume^000000
+Location : ^777777Garment ^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 20584#
 A groomed foxtail bigger than a Doram.
 Most of the Dorams can't resist playing with this big fox tail due to its shape.
@@ -84988,6 +85009,14 @@ Location: ^777777Garment^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
+#
+20593#
+Costume wings that show the inner beauty of the ice crystals.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Garment^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20594#
 ^808080A long red ribbon that will make you look rich.^000000
@@ -85316,7 +85345,7 @@ Required level : ^777777125^000000
 Jobs : ^777777All Jobs can equip^000000
 #
 20744#
-A possession of Felrock, the captain of the airship. 
+A possession of Felock, the captain of the airship. 
 Obtained as a booty after solving the airship assault incident. 
 Increases resistance against Neutral element attacks by 10%, Flee + 20.
 Reduces variable cast time by 10%.
@@ -85326,7 +85355,7 @@ If refined to 12: additional reduction to variable cast time by 5%.
 Class : ^777777Garment^000000    Defense : ^77777712^000000
 Weight : ^77777740^000000
 Required level : ^777777125^000000
-Jobs : ^777777All Jobs can equip^000000
+Jobs : ^777777All Jobs^000000
 #
 20745#
 A manteau with water spirit. It is protected by water all the time.
@@ -85454,13 +85483,11 @@ Required Level: ^7777771^000000
 Job: ^777777All Jobs^000000
 #
 20798#
-A costume that resemble the grim reaper whose waiting to take someone's soul.
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Lower ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Location: ^777777All^000000
+A costume that resembles the grim reaper whose waiting to take someone's soul.
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20800#
 Garment that Eremes used to wear within battle.
@@ -86002,7 +86029,7 @@ Required Level: ^777777150^000000
 Jobs: ^777777Knight/Crusader class^000000
 #
 21009#
-A great sword sculpted from Gray Shard to counter Thanatos.
+A great sword sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +120, INT +6, VIT +6, LUK -6.
@@ -86435,7 +86462,7 @@ Required level : ^777777125^000000
 Jobs : ^777777All Jobs can equip^000000
 #
 22047#
-A possession of Felrock, the captain of the airship. 
+A possession of Felock, the captain of the airship. 
 Obtained as a booty after solving the airship assault incident. 
 AGI + 1, increases attack speed (decreases after attack delay by 5%).
 If refined to +7: AGI + 1, decreases after attack delay by 5%.
@@ -86444,7 +86471,7 @@ If refined to +12: ASPD + 1.
 Class : ^777777Shoes^000000  Defense : ^77777713^000000
 Weight : ^77777725^000000
 Required level : ^777777125^000000
-Jobs : ^777777All Jobs can equip^000000
+Jobs : ^777777All Jobs^000000
 #
 22050#
 The shoes that popular among adventurers while they hunting monsters.
@@ -88567,17 +88594,17 @@ It is suitable for physical melee weapon.
 Both refine level and card will be retained.
 ^ffffff_^000000 
 ^000088[Valid Item]^000000
-Thanatos Sword
-Thanatos Great Sword
-Thanatos Spear
-Thanatos Long Spear
-Thanatos Dagger
-Thanatos Katar
-Thanatos Knuckle
-Thanatos Hammer
-Thanatos Axe
-Thanatos Whip
-Thanatos Violin
+Thanos Sword
+Thanos Great Sword
+Thanos Spear
+Thanos Long Spear
+Thanos Dagger
+Thanos Katar
+Thanos Knuckle
+Thanos Hammer
+Thanos Axe
+Thanos Whip
+Thanos Violin
 ^ffffff_^000000 
 Weight : ^7777775^000000
 #
@@ -88587,12 +88614,12 @@ It is suitable for magic weapon.
 Both refine level and card will be retained.
 ^ffffff_^000000 
 ^000088[Valid Item]^000000
-Thanatos Two-handed Staff
-Thanatos Staff
-Thanatos Dagger
-Thanatos Sword
-Thanatos Violin
-Thanatos Whip
+Thanos Two-handed Staff
+Thanos Staff
+Thanos Dagger
+Thanos Sword
+Thanos Violin
+Thanos Whip
 ^ffffff_^000000 
 Weight : ^7777775^000000
 #
@@ -88602,17 +88629,17 @@ It is suitable for ranged weapon.
 Both refine level and card will be retained.
 ^ffffff_^000000 
 ^000088[Valid Item]^000000
-Thanatos Bow
-Thanatos Whip
-Thanatos Violin
-Thanatos Sword
-Thanatos Great Sword
-Thanatos Spear
-Thanatos Long Spear
-Thanatos Katar
-Thanatos Knuckle
-Thanatos Hammer
-Thanatos Axe
+Thanos Bow
+Thanos Whip
+Thanos Violin
+Thanos Sword
+Thanos Great Sword
+Thanos Spear
+Thanos Long Spear
+Thanos Katar
+Thanos Knuckle
+Thanos Hammer
+Thanos Axe
 ^ffffff_^000000 
 Weight : ^7777775^000000
 #
@@ -89742,15 +89769,59 @@ Jobs : ^777777All Jobs^000000
 #
 24090#
 A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
-DEF+3.
-Increases resistance against Stun, Freezing, Bleeding, Curse status by 1% per every 2 refine levels.
-Increases resistance against Stone Curse, Sleeping, Silence, Blind status by 1% per every refine level.
-If Stability Shield  Shadow and the set consisting of Unfreezing Weapon Shadow, Unfreezing Earring Shadow, and Unfreezing Pendant Shadow are worn together, DEF+4.
-If the total combined refine levels of four items are greater than 30, gains immunity to the Freezing status.
-Category: ^777777Shadow Equipment^000000
-Equip Slot: ^777777Shield^000000 Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Class: ^777777All classes^000000
+DEF +3.
+For every 2 refine level, increase resistance against Frozen, Bleed and Curse by 1%.
+For every refine level, increase resistance against Petrification, Sleep, Silence and Blind by 1%.
+
+Equip with ^32CD32Plasterer's Shadow (Armor and Shoes)^000000, DEF +5.
+If total refine level is +20, immune to Petrification.
+
+Equip with ^32CD32Insomniac Shadow (Armor and Shoes)^000000, DEF +5.
+If total refine level is +20, immune to Sleep.
+
+Equip with ^32CD32Peerless Shadow (Armor and Shoes)^000000, DEF +5.
+If total refine level is +20, immune to Silence.
+
+Equip with ^32CD32Adurate Shadow (Armor and Shoes)^000000, DEF +5.
+If total refine level is +20, immune to Blind.
+
+Equip with ^32CD32Unfreezing Shadow (Weapon, Earring, Pendant)^000000, DEF +4.
+If total refine level is +30, immune to Frozen.
+
+Equip with ^32CD32Neutral Shadow (Weapon, Earring, Pendant)^000000, DEF +4.
+If total refine level is +30, immune to Stun.
+
+Equip with ^32CD32Curse Lift Shadow (Earring, Pendant)^000000, DEF +5.
+If total refine level is +20, immune to Curse.
+
+Equip with ^32CD32Vitality Shadow (Earring, Pendant)^000000, DEF +5.
+If total refine level is +20, immune to Bleed.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24091#
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+DEF +1.
+For every refine level, increase resistance against Petrification by 1%.
+Equip with ^32CD32Stability Shadow Shield^000000 and ^32CD32Plasterer's Shadow Shoes^000000, DEF +5.
+If total refine level is +20, immune to Petrification.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Armor^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24092#
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+DEF +1.
+For every refine level, increase resistance against Petrification by 1%.
+Equip with ^32CD32Stability Shadow Shield^000000 and ^32CD32Plasterer's Shadow Armor^000000, DEF +5.
+If total refine level is +20, immune to Petrification.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shoes^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24099#
 A glove equipped on wearer's hand to draw his/her potential ability.
@@ -90214,6 +90285,42 @@ Job : ^777777All Jobs^000000
 An armor worn on top of normal armor for additional defense. Can be equipped alone but needs a complete set to have bonus effect. 
 Has 1 % change to Increase ATK by x5 of refinement level for 3 seconds when dealing physical melee damage.
 Increase chance by 0.2% per refinement.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Armor ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24219#
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+After +2 refine level, has 1 % chance to cast Lv (refine level/2) Cold Bolt upon inflicting melee physical attack.
+For every refine level, increase the chance by 0.2%.
+Class: ^777777Shadow Equipment^000000
+Location: ^777777Armor ^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Jobs^000000
+#
+24220#
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+After +2 refine level, has 1 % chance to cast Lv (refine level/2) Fire Bolt upon inflicting melee physical attack.
+For every refine level, increase the chance by 0.2%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Armor ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24221#
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+After +2 refine level, has 1 % chance to cast Lv (refine level/2) Lightning Bolt upon inflicting melee physical attack.
+For every refine level, increase the chance by 0.2%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Armor ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24222#
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+After +2 refine level, has 1 % chance to cast Lv (refine level/2) Earth Spike upon inflicting melee physical attack.
+For every refine level, increase the chance by 0.2%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Armor ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -91373,7 +91480,7 @@ Weight: ^7777770^000000
 #
 25310#
 A certificate imbued with the power of the invulnerable Siegfried
-which allows its bearer to overcome death.
+which allows its bearer^FFFFFF ^000000 to overcome death.
 Revives the dead character.
 Weight : ^7777771^000000
 #
@@ -92031,7 +92138,7 @@ Weight : ^7777771^000000
 27181#
 Increase long ranged physical damage by 1%. For every 2 refine levels: Increase ranged physical attack by an additional 1%, CRIT + 1.
 Class : ^777777Card^000000
-Equip : ^777777Weapon^000000
+Location : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 27182#
@@ -92041,22 +92148,39 @@ Increase damage of [Hammer of God] by 30%.
 Refine level +10: Increase damage of [Anti Material Blast] by an additional 30%,
 Increase damage of [Hammer of God] by an additional 30%.
 Class : ^777777Card^000000
-Equip : ^777777Weapon^000000
+Location : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 27183#
 ATK + 20. 
 Base STR is at least 120: ATK + 20, decrease attack speed (increase after-attack delay by 3%).
 Class : ^777777Card^000000
-Equip : ^777777Accessory (Left)^000000
+Location : ^777777Accessory (Left)^000000
 Weight : ^7777771^000000
 #
 27184#
 ATK + 20. 
 Increase physical damage to Demon and Undead monsters by 30%.
 Class : ^777777Card^000000
-Equip : ^777777Weapon^000000
+Location : ^777777Weapon^000000
 Weight : ^7777771^000000
+#
+27211#
+Non-skill normal physical attack deals splash damage (9 cells).
+HIT -30.
+If refine level is +15,
+HIT -20.
+Class: ^777777Card^000000
+Location: ^777777Weapon^000000
+Weight: ^7777771^000000
+#
+27212#
+Reflect single target magic attack by 15% chance.
+If refine level is +15,
+increase reflect chance to 30%.
+Class: ^777777Card^000000
+Location: ^777777Shield^000000
+Weight: ^7777771^000000
 #
 27249#
 ATK + 15, MATK + 15, MHP + 500, HIT + 15, FLEE + 15.
@@ -92251,7 +92375,7 @@ Location : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 28000#
-A Katar with magical powers sculpted from Gray Shard to counter Thanatos.
+A Katar with magical powers sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +80, INT +6, VIT +6, LUK -6.
@@ -92340,7 +92464,7 @@ Required Level:^777777 70^000000
 Jobs:^777777 Assassin Jobs^000000
 #
 28100#
-A two-handed axe sculpted from Gray Shard to counter Thanatos.
+A two-handed axe sculpted from Gray Shard to counter Tartanos.
 It offers incredible power and mana at a great cost.
 
 MATK +80, INT +6, VIT +6, LUK -6.
@@ -93397,6 +93521,29 @@ Weight : ^77777750^000000
 Required Level : ^77777790^000000
 Jobs : ^777777All Jobs^000000
 #
+28921#
+A shield that contains the power of the wind.
+Has different effect based on the wearer.
+
+Undestroyable.
+MDEF +15
+Resistance against Wind property +10%.
+Increase physical and magic damage to Wind property monsters by 5%.
+If refine level is +6, increase resistance against Wind property by 15%.
+Increase physical and magic damage to Wind property monsters by 10%.
+Refine level +8:
+If pure STR is 90, ATK +50 
+If pure INT is 90, MATK +30 
+If pure AGI is 90, increase ASPD (decrease delay after attack by 5%).
+If pure VIT is 90, increase healing effect of the item by 10%.
+If pure DEX is 90, decrease cast time by 5%.
+If pure LUK is 90, increase critical damage by 5%.
+
+Class: ^777777Shield^000000 Defense: ^777777150^000000
+Weight: ^777777350^000000
+Required Level: ^77777790^000000
+Jobs: ^777777All Jobs^000000
+#
 28923#
 Guard that has already been upgraded
 DEF + 1 for every upgrade and MDEF + 1 for every two upgrades
@@ -94256,11 +94403,6 @@ Usable By: ^777777All^000000
 Helmet for costumes used in ancient western countries.
 It seems that he was good at a dense formation that boasts robust defense power.
  
-All Stats +5.
-Decrease Fixed Cast time by 0.5 seconds.
-Increase physical and magic damage by 12% to normal and boss monsters.
-(^ff0000This stats will be removed after the event ends.^000000)
- 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Upper/Middle/Lower^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -95111,124 +95253,76 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 31281#
-^808080A hairstyle that was inspired by Irene.^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A costume hair which can be attached to the hair for different hair style.
+Soft and wavy twin tails.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31282#
-^808080A hairstyle that was inspired by Irene.^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A costume hair which can be attached to the hair for different hair style.
+Soft and wavy twin tails.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31283#
-^808080A hairstyle that was inspired by Irene.^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A costume hair which can be attached to the hair for different hair style.
+Soft and wavy twin tails.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31284#
-^808080A hairstyle that was inspired by Irene.^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A costume hair which can be attached to the hair for different hair style.
+Soft and wavy twin tails.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31285#
-^808080A hairstyle that was inspired by Irene.^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A costume hair which can be attached to the hair for different hair style.
+Soft and wavy twin tails.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31286#
-^808080A hairstyle that was inspired by Irene.^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A costume hair which can be attached to the hair for different hair style.
+Soft and wavy twin tails.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31287#
-^808080A hairstyle that was inspired by Irene.^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A costume hair which can be attached to the hair for different hair style.
+Soft and wavy twin tails.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31288#
-^808080A hairstyle that was inspired by Irene.^000000
-^009900[Item Function]^000000
-^FF0000This item can be used 
-for dyeing new hair colors at^000000
-at NPC ^0000FF[Yuko Yamatachi]^000000
-located on the^0000FF2nd Floor of Eden Group (14,182)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A costume hair which can be attached to the hair for different hair style.
+Soft and wavy twin tails.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31290#
 ^808080 The hat of the student who is interested in the light side.
@@ -96190,11 +96284,6 @@ Jobs : ^777777All Classes^000000
 31558#
 Helmet for costumes used in ancient western countries.
 It seems that he was good at a dense formation that boasts robust defense power.
- 
-All Stats +3.
-Decrease Fixed Cast time by 0.2 seconds.
-Increase physical and magic damage by 4% to normal and boss monsters.
-(^ff0000This stats will be removed after the event ends.^000000)
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Upper/Middle/Lower ^000000Weight : ^7777770^000000
@@ -99479,9 +99568,39 @@ Weight : ^7777771^000000
 May the Poring God be with you!
 Weight : ^7777771^000000
 #
+101739#
+Place any 5 specific cosumables into this box to get 1 random item.
+Small chance to get rare costumes.
+Weight : ^7777771^000000
+#
+101740#
+Contains a Sealed MVP Card.
+
+-
+Sealed Gloom Under Night,
+Sealed Pharaoh,
+Sealed Lady Tanee,
+Sealed Eddga,
+Sealed Dracula,
+Sealed Orc Hero,
+Sealed Stormy Knight,
+Sealed Dark Lord,
+Sealed Orc Lord,
+Sealed Baphomet,
+Sealed Maya,
+Sealed White Lady
+ -
+ 
+Weight : ^7777771^000000
+#
 101741#
 Singapore turns 57 on 9 August 2022! No matter where in the world you may be, we can't wait to celebrate National Day with you.
  
+Weight : ^7777771^000000
+#
+101743#
+Warning! It contains unimaginable power!
+
 Weight : ^7777771^000000
 #
 200000#
@@ -99528,6 +99647,39 @@ Casting cannot be interrupted.
 
 Weight : ^7777771^000000
 #
+200224#
+A package containing 5 HD Elunium and Blacksmith Blessing. Offer is for a limited time only !
+_
+- Armor with + 7 refine level will not be destroyed during refinement! But cannot refine above +10. -
+(If refinement fails it will downgrade by 1.)
+_
+
+Weight : ^7777771^000000
+#
+200225#
+A package containing 5 HD Carnium and Blacksmith Blessing. Offer is for a limited time only !
+_
+- Armor with +10 refine level will not be destroyed during refinement! -
+(If refinement fails it will downgrade by 1.)
+_
+Weight : ^7777771^000000
+#
+200226#
+A package containing 5 HD Bradium and Blacksmith Blessing. Offer is for a limited time only !
+_
+- Weapon with +10 refine level will not be destroyed during refinement! -
+(If refinement fails it will downgrade by 1.)
+_
+Weight : ^7777771^000000
+#
+200227#
+A package containing 5 HD Oridecon and Blacksmith Blessing. Offer is for a limited time only !
+_
+- Weapon with + 7 refine level will not be destroyed during refinement! But cannot refine above +10. -
+(If refinement fails it will downgrade by 1.)
+_
+Weight : ^7777771^000000
+#
 300000#
 AGI +1
 Type: ^777777Card^000000
@@ -99541,6 +99693,14 @@ Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All Jobs^000000
+#
+400225#
+A fluffy costume cape that looks like a rabbit.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 410107#
 A helmet that is made from straw rice bag.

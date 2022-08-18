@@ -720,7 +720,7 @@
 1435#Cannon Spear#
 1436#Bellum Spear#
 1437#TE WoE Pike#
-1438#Thanatos Spear#
+1438#Thanos Spear#
 1441#Blue Spear#
 1442#빛나는 창#
 1443#진홍의 스피어#
@@ -766,7 +766,7 @@
 1492#Bellum Glaive#
 1493#Metal Lance#
 1495#TE WoE Lance#
-1496#Thanatos Long Spear#
+1496#Thanos Long Spear#
 1498#진홍의 랜스#
 1501#Club#
 1502#Club#
@@ -906,7 +906,7 @@
 1661#Mental Destroyer#
 1667#TE WoE Staff#
 1668#소드 스틱#
-1669#Thanatos Staff#
+1669#Thanos Staff#
 1670#RWC Memory Staff#
 1671#Evil Slayer Vanquisher Staff#
 1676#바쿠룸 다이모니쿰#
@@ -1017,7 +1017,7 @@
 1831#Eden Group Knuckle I#
 1832#Bellum Claw#
 1834#TE WoE Fist#
-1836#Thanatos Knuckle#
+1836#Thanos Knuckle#
 1837#Iron Nail#
 1839#진홍의 너클#
 1847#Iron Nail#
@@ -1052,7 +1052,7 @@
 1930#Green Whistle#
 1931#Eden Group Guitar I#
 1932#TE WoE Guitar#
-1933#Thanatos Violin#
+1933#Thanos Violin#
 1934#Contrabass#
 1935#Ukulele of Newoz#
 1936#Blue Violin#
@@ -1093,7 +1093,7 @@
 1985#Rosebine#
 1986#Eden Group Whip I#
 1987#TE WoE rope#
-1988#Thanatos Whip#
+1988#Thanos Whip#
 1989#Gymnastics Ribbon#
 1990#Floral Mic of Aigu#
 1991#Blue Whip#
@@ -1119,7 +1119,7 @@
 2020#Jormungand#
 2021#Ganbantein#
 2022#Staff of Geffen#
-2023#Thanatos Two-handed Staff#
+2023#Thanos Two-handed Staff#
 2025#진홍의 스태프#
 2048#Iron Staff#
 2101#Guard#
@@ -1758,7 +1758,7 @@
 2872#G Honor Certificate#
 2873#Cat Hand Glove#
 2874#물소의 뿔#
-2881#Orleans Necklace#
+2881#Orleans' Necklace#
 2883#Ur's Seal#
 2884#Peuz's Seal#
 2886#Sapha Ring#
@@ -2304,6 +2304,8 @@
 4480#Sealed Kiel Card#
 4481#Sealed Ktullanux Card#
 4482#Sealed Boss Ygnizem Card#
+4483#Sealed Dracula Card#
+4485#Sealed Gloom Under Night Card#
 4486#Sealed Berzebub Card#
 4487#Sealed Ifrit Card#
 4488#Sealed Dark Lord Card#
@@ -2315,8 +2317,8 @@
 4494#Sealed Turtle General Card#
 4495#Sealed Amon Ra Card#
 4496#Sealed Drake Card#
-4497#Sealed Knight of Windstorm Card#
-4498#Sealed Lady Tanee Car#
+4497#Sealed Stormy Knight Card#
+4498#Sealed Lady Tanee Card#
 4499#Sealed Samurai Card#
 4500#Sealed Orc Lord Card#
 4501#Sealed High Priest Card#
@@ -2661,8 +2663,8 @@
 4943#Dodge Lv 2#
 4944#Dodge Lv 3#
 4945#Thrift Lv 1#
-4946#Thrift Lv 1#
-4947#Thrift Lv 1#
+4946#Thrift Lv 2#
+4947#Thrift Lv 3#
 4948#After Cast Delay Lv 1#
 4949#After Cast Delay Lv 2#
 4950#After Cast Delay Lv 3#
@@ -3819,7 +3821,6 @@
 6615#WoE Guild Coin#
 6623#Rough Energy Crystal#
 6624#Purified Energy Crystal#
-6625#High Energy Crystal#
 6635#Blacksmith Blessing#
 6636#STR Stone (Upper)#
 6637#INT Stone (Upper)#
@@ -5346,6 +5347,7 @@
 12490#Vivid Notation#
 12491#신기한 눈뭉치#
 12493#Fortune Egg IV#
+12494#[Not For Sale]Giant Fly Wing#
 12497#[Not For Sale] Bubble Gum#
 12501#[Not For Sale]Steamed Tongue#
 12502#[Not For Sale]Steamed Desert Scorpions#
@@ -5680,7 +5682,7 @@
 13089#Face Worm Leg#
 13090#Face Worm Queen Leg#
 13092#RWC Memory Knife#
-13093#Thanatos Dagger#
+13093#Thanos Dagger#
 13094#Evil Slayer Stabber Dagger#
 13100#Six Shooter#
 13101#Six Shooter#
@@ -5869,7 +5871,7 @@
 13434#Eden Group Saber III#
 13439#TE WoE Sword#
 13440#Ceremonial Sword#
-13441#Thanatos Sword#
+13441#Thanos Sword#
 13442#Old Parasol#
 13444#Pala#
 13454#진홍의 세이버#
@@ -6198,6 +6200,7 @@
 14521#Repair Scroll#
 14522#Salapao#
 14523#Gyoza#
+14524#Superb Fish Slice#
 14527#Dungeon Teleport Scroll#
 14529#탐욕 스크롤#
 14530#Flee 30 Scroll#
@@ -6288,6 +6291,7 @@
 14846#[Egg]LV10 Agi Scroll#
 14847#[Egg]Small Life Potion#
 14849#[Egg]Stew Of Immortality#
+14850#[Egg]Cooked Nine Tail's Tails#
 14851#[Egg]Hwergelmir's Tonic#
 14852#[Egg]Breath of Dragon Cocktail#
 14853#[Egg]Steamed Desert Scorpions#
@@ -6312,6 +6316,7 @@
 14890#Side Pigtail Box#
 14891#Long Twin Box#
 14892#Long Pony Tail Box#
+14893#Loose Wave Twin Box#
 14906#Meow Can#
 14909#Spring Scroll#
 14915#Star Music Scroll#
@@ -6496,7 +6501,7 @@
 16025#TE WoE Mace#
 16026#RWC Memory Mace#
 16027#Evil Slayer Destroyer Hammer#
-16028#Thanatos Hammer#
+16028#Thanos Hammer#
 16029#Noble Cross#
 16030#파일벙커S#
 16031#파일벙커P#
@@ -6919,7 +6924,7 @@
 18114#Bellum CrossBow#
 18116#Metal Bow#
 18118#TE WoE Bow#
-18119#Thanatos Bow#
+18119#Thanos Bow#
 18120#Evil Slayer Piercer Bow#
 18122#Gigantic Bow#
 18123#Bow Of Storm#
@@ -7030,7 +7035,7 @@
 18656#마녀의 호박모자#
 18657#Pegasus Ear Wing#
 18658#(null)#
-18659#Tiny Boitata Hat#
+18659#Boitata Hat#
 18660#Indian Feather Headband#
 18661#Trident Helmet#
 18662#사슴뿔 신사 모자#
@@ -7241,7 +7246,7 @@
 18946#참 귀요미 인형 모자#
 18953#pRO 10주년 기념 모자#
 18955#해적의 어리석음#
-18956#Bon Bon Chocolate#
+18956#Chocolate Bomb#
 18961#루나틱 제련 모자#
 18962#Panda Balloon#
 18963#기쁜 앵무새#
@@ -7314,6 +7319,7 @@
 19146#Marin Balloon#
 19147#Drops Balloon#
 19148#Santa Poring Balloon#
+19151#Deviling Balloon#
 19158#Costume Azure Witch Eyes#
 19162#Scuba Mask #
 19164#Awakened Eden Group HatⅠ#
@@ -7966,7 +7972,7 @@
 20375#의상 이그니스 캡#
 20376#의상 메모리 오브 러버스#
 20377#의상 비행모#
-20378#의상 스카이멧#
+20378#Costume Sky Helmet#
 20379#의상 회중시계 머리 장식#
 20385#Costume Orc Hero Helmet#
 20386#Costume Emperor of Sun Crown#
@@ -7995,7 +8001,7 @@
 20442#Costume Mochi Fruity Flavour#
 20443#Costume Guardian of Sun Helm#
 20447#Costume Rolling Poring#
-20448#Costume Aqua Aura#
+20448#Costume Waterbender#
 20449#Costume Black And White's Temptation#
 20450#Costume Gram Peony#
 20451#Costume Sky Of Memory#
@@ -8076,12 +8082,14 @@
 20574#Costume Red School Bag#
 20575#Costume Black School Bag#
 20577#Costume Cute Balloon Wing#
+20579#Costume Raphael's Wings#
 20584#Costume Fox Tail#
 20586#Costume Magnetic Moon#
 20588#Costume Kiki Witch Broom#
 20590#Costume Dark Cross#
 20591#Costume Bow of Hawkeye#
 20592#Costume Santa Claus's Bag#
+20593#Costume Frozen Crystal Wings#
 20594#Costume Huge Red Ribbon#
 20596#Costume Cute Bear Bag#
 20601#Costume 99LV Rune Red#
@@ -8151,7 +8159,7 @@
 21005#Metal Two-Handed Sword#
 21006#TE WoE TwoHand Sword#
 21007#Heavy Sword#
-21009#Thanatos Great Sword#
+21009#Thanos Great Sword#
 21010#Evil Slayer Sword#
 21011#기간트 블레이드#
 21015#진홍의 투핸드소드#
@@ -8497,7 +8505,9 @@
 24081#Malicious Shadow Armor#
 24082#Malicious Shadow Shoes#
 24083#Malicious Shadow Shield#
-24090#Stability Shield Shadow#
+24090#Stability Shadow Shield#
+24091#Plasterer's Shadow Armor#
+24092#Plasterer's Shadow Shoes#
 24099#Unfreezing Weapon Shadow#
 24100#Unfreezing Earing Shadow#
 24101#Unfreezing Pendant Shadow#
@@ -8532,6 +8542,10 @@
 24212#Rookie's Shadow Shoes#
 24213#Rookie's Shadow Shield#
 24216#Attack Shadow Armor#
+24219#Cold Bolt Shadow Armor#
+24220#Fire Bolt Shadow Armor#
+24221#Lightning Bolt Shadow Armor#
+24222#Earth Spike Shadow Armor#
 24246#Swordman Shadow Earring#
 24247#Merchant Shadow Earring#
 24248#Acolyte Shadow Earring#
@@ -8652,7 +8666,7 @@
 25290#Choco Koin#
 25291#Dark Chocolate#
 25292#Chocolate Chip#
-25310#[Kachua]Token of Siegfried#
+25310#[Egg]Token of Siegfried#
 25321#WorldCup Ticket A 1#
 25322#WorldCup Ticket A 2#
 25323#WorldCup Ticket B 1#
@@ -8732,11 +8746,13 @@
 27182#Felock Card#
 27183#Gigantes Card#
 27184#Knight Sakray Card#
+27211#Sealed Baphomet Card#
+27212#Sealed Maya Card#
 27249#Archi Card#
 27250#Dio Anemos Card#
 27251#Geffen Gang Card#
 27252#Geffen Thug Card#
-27253#Geffen Theif Card#
+27253#Geffen Thief Card#
 27254#Pa Monk Card#
 27255#Ordre Card#
 27256#Blut Hase Card#
@@ -8757,11 +8773,11 @@
 27326#Morocc's Servant#
 27327#Grim Reaper Ankou#
 27328#Corrupt Life#
-28000#Thanatos Katar#
+28000#Thanos Katar#
 28001#Evil Slayer Ripper Katar#
 28007#진홍의 카타르#
 28051#Jurbanite Katar#
-28100#Thanatos Axe#
+28100#Thanos Axe#
 28101#토네이도 액스#
 28106#진홍의 투핸드액스#
 28130#Avenger#
@@ -8833,6 +8849,7 @@
 28901#저주받은 매드바니#
 28902#매드바니#
 28909#Formless Shield of Earth#
+28921#Anemos Shield#
 28923#Upg Guard#
 28924#Upg Buckler#
 28925#Upg Shield#
@@ -8991,14 +9008,14 @@
 31278#Costume Cowlick(White)#
 31279#Costume Cowlick(Orange)#
 31280#Costume Cowlick(Purple)#
-31281#Costume Irene Hairstyle (Navy)#
-31282#Costume Irene Hairstyle (Rose)#
-31283#Costume Irene Hairstyle (Cream)#
-31284#Costume Irene Hairstyle (Lime)#
-31285#Costume Irene Hairstyle (Cacao)#
-31286#Costume Irene Twin Tail (Pearl)#
-31287#Costume Irene Hairstyle (Milk Tea)#
-31288#Costume Irene Hairstyle (Taro)#
+31281#C Loose Wave Twin (Blue)#
+31282#C Loose Wave Twin (Red)#
+31283#C Loose Wave Twin (Yellow)#
+31284#C Loose Wave Twin (Green)#
+31285#C Loose Wave Twin (Black)#
+31286#C Loose Wave Twin (White)#
+31287#C Loose Wave Twin (Brown)#
+31288#C Loose Wave Twin (Purple)#
 31290#Costume School of Angel Hat#
 31291#Costume School of Devil Hat#
 31295#Costume Priest Hat J#
@@ -9341,14 +9358,22 @@
 101690#36000 KP Box#
 101708#Head Costume Synthesis Box#
 101709#Angelic Egg#
+101739#Consumables Synthesis Box#
+101740#Sealed Card#
 101741#SG National Day 2022 Box#
+101743#Cosmic Egg#
 200000#IDTest Cash#
 200190#Box of 1 Nyangvine#
 200210#Almighty package#
 200211#LimitPowerBooster package#
 200212#Infinity package set#
+200224#[Limited] HD Elunium 5 Box#
+200225#[Limited] HD Carnium 5 Box#
+200226#[Limited] HD Bradium 5 Box#
+200227#[Limited] HD Oridecon 5 Box#
 300000#IDTest Card#
 400115#Costume Angeling Bread Hat#
+400225#Costume Fluffy Rabbit Cape#
 410107#Costume Straw Rice Bag#
 420000#Isabella's Carrot#
 420029#Costume Imperial Glory#
