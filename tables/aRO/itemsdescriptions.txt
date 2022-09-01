@@ -1016,11 +1016,10 @@ Class: Taming Item
 Weight: 5
 #
 633#
-^808080A baked sweet potato with an appetizing scent. Smokie loves eating this.^000000
-^FFFFFF_^000000
-Type: Consumable
-Class: Taming Item
-Weight: 5
+Well baked sweet potato. Monster: Smokie loves it.
+^ff0000Event monsters, slave monsters cannot be tamed.^000000
+Type : ^777777Taming Item^000000
+Weight : ^7777775^000000
 #
 634#
 ^808080A premium quality banana grown in the tropics. Yoyo finds it irresistible; it will forever be his one weakness.^000000
@@ -1165,13 +1164,10 @@ Weight: 3
 Movement Speed + 80% for 3 minutes.
 #
 663#
-^808080This is a popular food in traditional Korean festivals. It's made by filling a cone shaped, woven straw container with rice, then covering it with pine needles.^000000
-^FFFFFF_^000000
-Type: Consumable
-Class: Recovery
-Weight: 1
-^FFFFFF_^000000
-Restores 10% HP.
+Mass created with rice flour, milled in the right size to cover the entire sheet and form a delicious rice cake.
+One of traditional holiday food in South Korea.
+Restores 10% of Max HP.
+Weight : ^7777771^000000
 #
 664#
 ^808080A box that contains some sort of present.^000000
@@ -1366,13 +1362,9 @@ Weight: 1
 Casts ^0000FFLevel 3 Fire Bolt^000000.
 #
 691#
-^808080A spell scroll which was made by the essence of ancient magic.^000000
-^FFFFFF_^000000
-Type: Consumable
-Class: Scroll
-Weight: 1
-^FFFFFF_^000000
-Casts ^0000FFLevel 5 Fire Bolt^000000.
+A spell scroll which was made by the essence of ancient magic. Able to cast Lv 5 ^000088Fire Bolt^000000.
+^ffffff_^000000
+Weight : ^7777771^000000
 #
 692#
 ^808080A spell scroll which was made by the essence of ancient magic.^000000
@@ -1438,13 +1430,9 @@ Weight: 1
 Casts ^0000FFLevel 1 Fire Wall^000000.
 #
 699#
-^808080A spell scroll which was made by the essence of ancient magic.^000000
-^FFFFFF_^000000
-Type: Consumable
-Class: Scroll
-Weight: 1
-^FFFFFF_^000000
-Casts ^0000FFLevel 5 Fire Wall^000000.
+A spell scroll which was made by the essence of ancient magic. Able to cast Lv 5 ^000088Fire Wall^000000.
+^ffffff_^000000
+Weight : ^7777771^000000
 #
 700#
 ^808080A spell scroll which was made by the essence of ancient magic.^000000
@@ -8714,22 +8702,19 @@ Required Job: Priest Jobs, Monk Jobs
 ^FFFFFF_^000000
 #
 1530#
-^808080A facsimile of the mighty hammer wielded
-by Thor, god of thunder.^000000
-^FF6633[Effect of Item] ^000000
-Dex +50 , Str +20
-ASPD +10%
-10% chance to cast [Thunder Storm] Lv.10 on the target
-5% chance getting buff [Splash Damage] for 10 seconds
-^FFFFFF_^000000
-^FF0000This item is untradable.^000000
-^FFFFFF_^000000
-Property:^777777Wind^000000
-Attack: ^777777350^000000
+A facsimile of the mighty hammer wielded by Thor, god of thunder.
+DEX +50
+STR +20
+High chance to cast Auto Spell: Lv 10 Thunder Storm upon inflicting melee physical damage.
+Has chance to inflict splash damage for 10 seconds upon inflicting melee physical damage.
+Increase ASPD.
+Unrefineable. Undestroyable
+ 
+Class: ^777777Mace^000000 Attack: ^777777350^000000
 Weight: ^777777600^000000
 Weapon Level: ^7777774^000000
 Required Level: ^77777795^000000
-Jobs: ^777777Swordman and Merchant Classes^000000
+Jobs: ^777777Swordsman Classes, Merchant Classes^000000
 #
 1531#
 ^808080A heavy tool with many practical applications.^000000
@@ -14720,6 +14705,18 @@ Weight : ^77777720^000000
 Required Level : ^777777130^000000
 Jobs : ^7777773rd Job Class^000000
 #
+2193#
+A fallen angel's shield.
+ 
+Has chance to decrease after skill delay by 10% upon inflicting magic attack.
+If refine level is +7, for every refine level, decrease after skill delay by 5%.
+Equip with Diabolus Robe, decrease after skill delay by 10%.
+ 
+Class : ^777777Shield^000000 Defense : ^777777100^000000
+Weight : ^77777750^000000
+Required Level : ^77777760^000000
+Jobs : ^777777All Jobs^000000
+#
 2199#
 '^339999The Shield of all Shields^000000
 #
@@ -16982,23 +16979,17 @@ Jobs: ^777777Every job
 except novice^000000
 #
 2410#
-^808080Named after Odin's trusty steed, these shoes also
-mimic Sleipnir's powers.
-^FFFFFF_^000000
-^FF6633[Effect of Item] ^000000
-Int + 25
-MDEF +10
-SP Recovery + 25%
-Max HP/SP + 20%
-Increase Movement Speed
-^FFFFFF_^000000
-^FF0000This item is untradable.^000000
-^FFFFFF_^000000
-Class: ^777777Footgear ^000000
-Defense: ^77777740^000000
-Weight: ^777777350^000000
-Required Level:^777777 94 ^000000
-Required Jobs: ^777777 All ^000000
+Named after Odin's trusty steed, these shoes also mimic Sleipnir's powers.
+Increase Max HP and Max SP by 20%.
+Increase SP recovery by 25%
+INT +25, MDEF +10
+Increase movement speed
+Unrefineable. Undestroyable
+ 
+Class : ^777777Shoes^000000    Defense : ^77777740^000000
+Weight : ^777777350^000000
+Required Level : ^77777794^000000
+Jobs : ^777777All Jobs^000000
 #
 2411#
 Steel boots which
@@ -19204,38 +19195,26 @@ Weight: ^77777720^000000
 Jobs: ^777777Novice^000000
 #
 2629#
-^808080 A reproduction of the girdle of might that
-Thor wore to enhance.^000000
-^FF6633[Effect of Item] ^000000
-STR +40
-MDEF +7
-STR +1 for every 5 levels of character.
-^FFFFFF_^000000
-^FF0000This item is untradable^000000
-^FFFFFF_^000000
-Class: ^777777 Accessory ^000000
-Defense: ^7777772^000000
-Weight: ^7777770^000000
-Required Level:^777777 94 ^000000
-Required Jobs: ^777777 All ^000000
+A reproduction of the girdle of might that Thor wore to enhance.
+STR +40, MDEF +7
+For every 5 base level, STR +1.
+If pure STR is +120, increase physical damage to boss monsters by 10%.
+ 
+Class : ^777777Accessory^000000
+Defense : ^7777772^000000      Weight : ^777777800^000000
+Required Level : ^77777794^000000
+Jobs : ^777777All Jobs^000000
 #
 2630#
-^808080An imitation of the necklace worn by the
-beautiful goddess Freya.^000000
-^FFFFFF_^000000
-^FF6633[Effect of Item] ^000000
-STR +6, AGI +6
-Vit +6, Dex +6
-Int +10, Luk +10 , MDEF +5
-Increase power of recovery rate of skill by 6%
-^FFFFFF_^000000
-^FF0000This item is untradable^000000
-^FFFFFF_^000000
-Class: ^777777 Accessory ^000000
-Defense: ^7777771^000000
-Weight: ^777777150^000000
-Required Level:^777777 94 ^000000
-Required Jobs: ^777777 All ^000000
+An imitation of the necklace worn by the beautiful goddess Freya.
+STR, AGI, DEX, VIT +6, LUK, INT +10.
+MDEF +5
+Increase Heal and Sanctuary effect by 6%.
+ 
+Class : ^777777Accessory^000000
+Defense : ^7777771^000000      Weight : ^777777150^000000
+Required Level : ^77777794^000000
+Jobs : ^777777All Jobs^000000
 #
 2631#
 ^808080Mysterious Gold Ring that will give special abilities to users.^000000
@@ -34739,25 +34718,17 @@ Required Level: ^77777770^000000
 Usable By: ^777777All Character Types^000000
 #
 5550#
-^808080This crown honors Taurus, the 2nd astrological sign in the zodiac calendar.^000000
-^808080Its power increases defense from Earth attacks.^000000
-^ffffff_^000000
-^FF6633Equipment Effect(s): ^000000
-AGI +2, Flee +20
-^ffffff_^000000
-Chance to inflict ^0000FFStun^000000 on target enemy
-when dealing physical damage.
-^0000FFStun^000000 chance will increase as refinement level increases.
-^ffffff_^000000
-When refined to +7 or higher,
-ATK +15 , ASP +5%
-^ffffff_^000000
-Equipment Type: ^777777Headgear^000000
-Defense: ^7777776^000000
-Equip Slot: ^777777Upper^000000
-Weight: ^77777730^000000
-Required Level: ^77777770^000000
-Usable By: ^777777All Character Types^000000
+A magnificent crown created to pay tribute to the 2nd sign of the zodiac. The birthstone, emerald is attached to the crown.
+ 
+AGI +2, FLEE +10.
+Has low chance to apply Stun to the enemy upon inflicting physical attack. 
+Based on the refine level, increase the chance to apply Stun.
+If refine level is +7, ATK +15, increase ASPD (decrease delay after attack by 5%)
+ 
+Class : ^777777Headgear^000000 Defense : ^7777776^000000
+Location : ^777777Upper^000000 Weight : ^77777730^000000
+Required Level : ^77777770^000000
+Jobs : ^777777All Jobs^000000
 #
 5552#
 ^000088Rental Item^000000
@@ -39305,6 +39276,16 @@ Weight: ^7777770^000000
 Belongs to a missing Port Malaya villager.
 Weight: ^7777770^000000
 #
+6521#
+Bring this certificate to exchange the reward.
+^ffffff<NAVI>^4D4DFF[Royal Vending Machine]^000000<INFO>malangdo,234,187,0,100,0,0</INFO></NAVI>^000000
+Weight : ^7777770^000000
+#
+6522#
+A common certificate. Collect more of these and exchange to Royal Certificate.
+^ffffff<NAVI>^4D4DFF[King Paul]^000000<INFO>malangdo,235,186,0,100,0,0</INFO></NAVI>^000000
+Weight : ^7777770^000000
+#
 6523#
 Transparent item which imprisons Bakonawa's Spirit. Rumor has it that you can see Bakonawa when held up to the moonlight.
 
@@ -39319,6 +39300,11 @@ Weight: ^7777771^000000
 Transparent item which imprisons Buwaya's Spirit. Rumor has it you can hear Buwaya's angry shrieks when it touches with water.
 
 Weight: ^7777771^000000
+#
+6531#
+A special certificate that can be exchanged to 5 royal certificates.
+^ffffff<NAVI>^4D4DFF[King Paul]^000000<INFO>malangdo,235,186,0,100,0,0</INFO></NAVI>^000000
+Weight : ^7777770^000000
 #
 6535#
 ^ff0000Cannot be dropped, traded, mailed or vended.^000000
@@ -39576,6 +39562,12 @@ Weight: ^7777771^000000
 6624#
 A refined energy source that helps you increase the ability of certain items.
 Contains an advanced and concentrated form of energy.
+Weight: ^7777771^000000
+#
+6625#
+^ff0000This item is Account Bound.^000000
+A mighty energy source that helps you increase the ability of certain items.
+The purest form of Energy Crystal.
 Weight: ^7777771^000000
 #
 6635#
@@ -40892,12 +40884,8 @@ Its thunderous sound
 can be heard for miles. Weight: ^77777750^000000
 #
 7058#
-Impossibly strong
-thread woven from
-the sound of Cat
-Tread, a Woman's
-Moustache, Root of Stone,
-Spirit of Fish, Sputum of Bird, and Sinew of Bear. Weight: ^7777771^000000
+A iron chain made out of Cat Tread, Woman's Moustache, Root of Stone, Spirit of Fish, Sputum of Bird, and Sinew of Bear. Although it's light and as thin as thread, it is extremely strong.
+Weight : ^77777750^000000
 #
 7059#
 A ticket that entitles
@@ -49449,6 +49437,12 @@ It will be even tastier when you wear a festive costume.
 ^ff0000(This item will be removed once event ends.) ^000000
 Weight: ^7777775^000000
 #
+11613#
+A biscuit made in commemoration of the harvest festival.
+Restores about 275 HP.
+(This item will be removed once event ends.) 
+Weight : ^7777773^000000
+#
 11616#
 Skelion's favorite piece of meat. Pet Food Merchants sell this item.
 Weight: ^7777775^000000
@@ -50783,23 +50777,20 @@ targeted Mercenary.
 ^ffffff_^000000
 Weight: ^77777710^000000
 #
+12188#
+A moon cake that restores 50% of the HP and SP.
+^ffffff_^000000
+Weight : ^77777730^000000
+#
 12192#
 A tasty pumpkin flavored treat, usually enjoyed during the fall season.
 ^000088Slightly recovers HP & SP.^000000
 Weight: ^7777771^000000
 #
 12194#
-A small bundle that reminds you of your hometown; you will feel warmth when hold it in your hand.
-Randomly gives you the following:
-Plain Rice Cake
-Hearty Rice Cake
-Salty Rice Cake
-Lucky Rice Cake
-Sesame Pastry
-Honey Pastry
-Rainbow Cake
-Korean Rice Cake
-Weight: ^77777720^000000
+A small bundle that reminds you of your hometown.
+^ffffff_^000000
+Weight : ^77777720^000000
 #
 12195#
 						
@@ -50833,14 +50824,9 @@ Weight: ^77777710^000000
 						
 #
 12198#
-						
-A Rice Cake that						
-is flavored with						
-a hint of Vanilla.						
-Luk +21.						
-^ffffff_^000000						
-Weight: ^77777710^000000						
-						
+A rice cake with sweet fragrance. LUK +21.
+^ffffff_^000000
+Weight : ^77777710^000000
 #
 12200#
 A Christmas cake
@@ -51498,6 +51484,12 @@ Weight: ^7777770^000000
 A crystal that shines with mysterious color. When used, you recover 15% of MaxSP.
 ^ffffff_^000000
 Weight: ^7777771^000000
+#
+12336#
+Grilled mushroom with zero calorie! Don't worry about the calories and enjoy!
+Restores 30% of the HP and SP.
+^ffffff_^000000
+Weight : ^77777730^000000
 #
 12340#
 A chewy rice powder that has a mysterious glow. It can be used to harden Hot Rice Cake dough.
@@ -63026,6 +63018,10 @@ Weight : ^7777771^000000
 #
 14893#
 A special hair style box
+Weight : ^7777771^000000
+#
+14894#
+A special hair style box.
 Weight : ^7777771^000000
 #
 14906#
@@ -75353,21 +75349,14 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 18843#
-Porings are having a party.
-Ruduce Damage from Demi-Human race 5%
-----------------
-If Refine to +8 = Max HP + 1%
-----------------
-If Refine to +9 = Max HP + 1% 
-----------------
-If Refine to +10 = Max HP + 1% 
-----------------
-Class: ^777777Headgear^000000 
-Defense: ^7777777^000000
-Location: ^777777Upper ^000000
-Weight: ^77777735^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Devilings are having a party.
+Decrease damage taken from Demi-human enemies by 5%.
+If refine level is +8, for every refine level, Max HP +1%.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777777^000000
+Location : ^777777Upper ^000000Weight : ^77777735^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 18844#
 Blue Porings fly in the sky.
@@ -77070,6 +77059,15 @@ Weight: ^77777712^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+19095#
+Colorful balloons with poring image on it's surface.
+Kids love to hold these on festival.
+Increase EXP from monsters by 5%, increase item drop by 10%.
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777771^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 19101#
 A box that contains 1 Classic Omni Clothing Dye Coupon
 Description:
@@ -77285,6 +77283,21 @@ Location: ^777777Upper^000000
 Weight: ^77777730^000000
 Required Level: ^77777770^000000
 Job: ^777777All^000000
+#
+19116#
+A very rare breed of dragon that is red.
+Max HP +5%.
+Max SP +5%.
+Increase damage of [Dragon Breath and Dragon Water Breath] by 15%.
+If refine level is +6,
+increase damage of [Dragon Breath and Dragon Water Breath] by 15%.
+If refine level is +8,
+increase damage of [Dragon Breath and Dragon Water Breath] by 15%.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^77777770^000000
+Required Level : ^77777790^000000
+Jobs : ^777777All Jobs^000000
 #
 19126#
 A tool that can control the brain wave to amplify their skills.
@@ -77598,6 +77611,24 @@ A device which increases powers of the wearer by controlling the brainwaves.
 Unable to apply abilities due to over usage of Booster Amplifier, but can be sold with high price.
 Class : ^777777Headgear^000000 Defense : ^77777710^000000
 Location : ^777777Middle ^000000Weight : ^77777730^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+19268#
+A model depicting the fire that the giant snake is emitting.
+Just wearing it makes me feel like a giant snake.
+Increase Fire property magic damage by 1%.
+ 
+Equip with Giant God Snake Skin:
+For every pure 20 STR, ATK +5.
+For every pure 20 AGI, decrease delay after attack by 3%.
+For every pure 20 VIT, increase resistance against Neutral property by 1%.
+For every pure 20 INT, decrease variable cast time by 4%.
+For every pure 20 DEX, increase ranged attack by 1%.
+For every pure 20 LUK, increase critical damage by 3%.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777772^000000
+Location : ^777777Lower ^000000Weight : ^77777730^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -78283,13 +78314,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19520#
-When it rains it pours. Especially when it's only raining right above your head.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+Rain cloud above your head.
+ 
+Class : ^777777Costume^000000
+Location : ^777777Upper ^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19521#
 A circular shaped bowler hat reminiscent of the style worn by an 'Old Timey' actor from the past.
@@ -78421,22 +78451,20 @@ Used for: ^777777Upper ^000000
 Weight: ^7777771^000000
 #
 19538#
-A bright full moon that is biggest on the 15th of August.
-Has a chance of adding +50 Atk or +50 Matk while physically attacking or magically attacking for 5 seconds.
-This effect does not work during War of Emperium
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A bright full moon that appears in September. This full moon is also known as "Harvest Moon".
+Class : ^777777Costume^000000
+Location : ^777777Upper ^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19539#
-A hair ornament that took on the name of the Valkyrie Reginleif. Those who wear it will receive the gift of God.
-All State + 1.
-Class: ^777777Costume^000000
-Location: ^777777Upper-Mid ^000000 Weight: ^7777770^000000
-Req Level: ^7777771^000000
-Jobs: ^777777All^000000
+Wings name after the Valkyrie 'Reginleif'. Wearer can receive the gift of God.
+All Stats +1.
+ 
+Class : ^777777Costume^000000
+Location : ^777777Upper/Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19540#
 ^808080Cute earmuffs that Momo always loved to wear it!^000000
@@ -79683,6 +79711,15 @@ A costume containing a massive spirit of the devil.
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+19742#
+Holy wings that contains the power of god.
+Increase EXP rate by 1%.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -82576,17 +82613,12 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 20240#
-^808080A present of snow^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted at Eden 2nd floor with NPC Costama Girl (Located on 33, 185)
-^FFFFFF_^000000
-Type: ^777777Costume equipment^000000 
-Defense: ^7777770^000000
-Location: ^777777Lower ^000000
-Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Class: ^777777All classes^000000
+Shiny snow flakes around the wearer.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20241#
 A hat modeled after Eclipse, the leader of Lunatics
@@ -82757,13 +82789,12 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 20278#
-A hairdo that Josuke always had when going to Pattaya.
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All Jobs^000000
+Look like a hunk o' burnin' love with this retro hairstyle wig.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20279#
 ^808080A cheering whistle. Only blowing it makes you feel revitalized.^000000
@@ -83922,17 +83953,12 @@ Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
 #
 20430#
-A costume imitating the protection aura of the Devil Morocc.
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted at Eden 2nd floor with NPC Costama Girl (Located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Def: ^7777770^000000
-Location: ^777777Middle ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A costume that imitating the protection aura of Devil Morocc.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20432#
 ^808080The Holder of this ancient cap will have the power and will of the Water Mage itself.^000000
@@ -85043,6 +85069,14 @@ Location: ^777777Garment ^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
+#
+20597#
+A costume modeled after the weapon possessed by the Evil.
+ 
+Class: ^777777Costume^000000 Defense: ^7777770^000000
+Location: ^777777Garment ^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Jobs^000000
 #
 20601#
 ^808080Feel the power of lava overwhelming inside^000000
@@ -87261,6 +87295,16 @@ Weight: ^7777770^000000
 A strange box that seems to contain a random headgear...
 Weight: ^7777771^000000
 #
+22658#
+A nice braised beef short ribs
+Decrease variable cast time by 5% and SP consumption by 3%.
+Weight : ^77777710^000000
+#
+22659#
+A nice braised pork short ribs
+Increase ASPD (decrease delay after attack by 5%). Decrease SP consumption by 2%.
+Weight : ^77777710^000000
+#
 22660#
 A sealed envelope. Open it up to see what's inside.
 Weight: ^7777771^000000
@@ -88355,6 +88399,17 @@ A box contains 100 of Siege White Potions. Be cautious when opening.
 "^ff0000Caution - The potions might disappear if you have exceed weight limit or item quantity limit when this box is opened!^000000"
 Weight: ^7777770^000000
 #
+23445#
+A traditional way to celebrate the thanksgiving.
+Restores 20% of the HP and SP
+(This item will be removed once event ends.) 
+Weight : ^77777710^000000
+#
+23446#
+A trap to capture a hungry wild boar safely.
+(This item will be removed once event ends.) 
+Weight : ^7777770^000000
+#
 23467#
 A scroll that reveals mysterious items.
 When this scroll is opened, you will receive one of the following items:
@@ -88558,6 +88613,13 @@ Weight : ^7777770^000000
 An enchanted tonic that's made from the root of a dream flower.
 ^ffffff_^000000
 Weight : ^7777770^000000
+#
+23636#
+A sweet and sour dessert made by Guyak. It would be great when it's cool.
+Increase character's movement speed by 100% for 5 minutes. 
+ 
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^77777720^000000
 #
 23647#
 With this, you can summon a tool dealer from anywhere, buy useful consumables, or sell the items you have.
@@ -89546,16 +89608,16 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 24060#
-Small extra shield gives you additional defense effect. Not very effective when worn alone.
-1% damage decrease when attacked by immortal type monsters.
-When refine level is 7, 1% extra damage decrease when attacked by immortal type monsters.
-When refine level 9, 1% extra damage decrease when attacked by immortal type monsters.
-When equipped together with ^32CD32Requiem Shield Shadow^000000 and ^32CD32Divine Shoes Shadow^000000, 3% exp increase when hunting immortal type monsters.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Shield^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+Decrease damage taken from Undead enemies by 1%.
+If refine level is +7, decrease damage taken from Undead enemies by 1%.
+If refine level is +9, decrease damage taken from Undead enemies by 1%.
+Equip with ^32CD32Requiem Shadow Shield^000000 and ^32CD32Divine Shadow Shoes^000000, increase EXP gain from Undead monsters by 3%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24061#
 Small extra shield gives you additional defense effect. Not very effective when worn alone.
@@ -89666,16 +89728,16 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 24070#
-Special shoes worn over your original shoes. Not very effective when worn alone.
-2% extra damage to immortal type monsters.
-When refine level is 7, 1% extra damage to immortal type monsters.
-When refine level 9, 2% extra damage to immortal type monsters.
-When equipped together with ^32CD32Divine Shoes Shadow^000000 and ^32CD32Requiem Shield Shadow^000000, 3% exp increase when hunting immortal type monsters.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Shoes^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+Increase damage to Undead monsters by 2%.
+If refine level is +7, increase damage to Undead monsters by 1%.
+If refine level is +9, increase damage to Undead monsters by 2%.
+Equip with ^32CD32Divine Shadow Shoes^000000 and ^32CD32Requiem Shadow Shield^000000, increase EXP gain from Undead monsters by 3%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shoes^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24071#
 Special shoes worn over your original shoes. Not very effective when worn alone.
@@ -89999,6 +90061,16 @@ Location : ^777777Weapon^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
+24129#
+A glove that can draw the wearer's potential ability.
+Able to cast Lv 1 [Hiding].
+Increase SP consumption of [Hiding] by 50, for every refine level, decrease SP consumption by 5.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Weapon^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 24186#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
 Increase physical and magic damage to Neutral property monster by 1%.
@@ -90321,6 +90393,77 @@ Jobs : ^777777All Jobs^000000
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
 After +2 refine level, has 1 % chance to cast Lv (refine level/2) Earth Spike upon inflicting melee physical attack.
 For every refine level, increase the chance by 0.2%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Armor ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24238#
+A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
+Increase physical and magic damage to small size monsters by 1%.
+If refine level is +7, increase physical and magic damage to small size monsters by 1%.
+If refine level is +9, increase physical and magic damage to small size monsters by 2%.
+Equip with ^32CD32Gigantic Shadow Pendant^000000 and ^32CD32Gigantic Shadow Earring^000000, ATK +5.
+If total refine level is +15, increase physical and magic damage to small size monsters by 2%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Earring^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24239#
+A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
+Increase physical and magic damage to small size monsters by 1%.
+If refine level is +7, increase physical and magic damage to small size monsters by 1%.
+If refine level is +9, increase physical and magic damage to small size monsters by 2%.
+Equip with ^32CD32Gigantic Shadow Earring^000000 and ^32CD32Gigantic Shadow Pendant^000000, ATK +5.
+If total refine level is +15, increase physical and magic damage to small size monsters by 2%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Pendant^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24240#
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+MATK +5.
+Decrease SP consumption of the skill by 1%.
+For every 2 refine level, decrease variable cast time by 1%.
+Equip with ^32CD32Caster Shadow (Shield and Armor)^000000,
+decrease SP consumption of the skill by 1%.
+For every 5 total refine level, decrease variable cast time by 1%.
+If total refine level is +25, decrease SP consumption of the skill by 1%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shoes^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24241#
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+MATK +5.
+Decrease SP consumption of the skill by 1%.
+For every 2 refine level, decrease variable cast time by 1%.
+Equip with ^32CD32Caster Shadow (Shoes and Armor)^000000,
+decrease SP consumption of the skill by 1%.
+For every 5 total refine level, decrease variable cast time by 1%.
+If total refine level is +25, decrease SP consumption of the skill by 1%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24242#
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+MATK +5.
+Decrease SP consumption of the skill by 1%.
+For every 2 refine level, decrease variable cast time by 1%.
+Equip with ^32CD32Caster Shadow (Shoes and Shield)^000000,
+decrease SP consumption of the skill by 1%.
+For every 5 total refine level, decrease variable cast time by 1%.
+If total refine level is +25, decrease SP consumption of the skill by 1%.
+ 
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Armor ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -91575,6 +91718,36 @@ Weight: ^7777770^000000
 It has promotional content for Noodle Festa. It's a surprisingly sturdy fan that generates a cool watermelon-scented breeze.
 (This item will be removed once event ends.) 
 Weight: ^7777770^000000
+#
+25390#
+A box that contains a captured wild boar.
+(This item will be removed once event ends.) 
+Weight : ^7777770^000000
+#
+25391#
+A high quality branch that can be obtained from a tree with very small quantities.
+(This item will be removed once event ends.) 
+Weight : ^7777770^000000
+#
+25392#
+A speedboat ticket. Present this ticket to ^ffffff<NAVI>^4D4DFF[Speedboat Captain]^000000<INFO>alberta,140,170,0,100,0,0</INFO></NAVI>^000000 in Alberta to visit one of the local areas for free.
+(This item will be removed once event ends.) 
+Weight : ^7777770^000000
+#
+25393#
+Everyone loves delicious yellow corns.
+(This item will be removed once event ends.) 
+Weight : ^7777770^000000
+#
+25394#
+A basket of all kinds of fruit.
+(This item will be removed once event ends.) 
+Weight : ^7777770^000000
+#
+25395#
+Very small embers. It is essential to make a fire for cooking or heating.
+(This item will be removed once event ends.) 
+Weight : ^7777770^000000
 #
 25408#
 Memories of Gyoll. It looks very complicated but it contains essential information.
@@ -94036,14 +94209,13 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 31062#
-^808080A wig that looks similar to the hairstyle of Eleanor the homunculus.^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+A costume wig modeled after Homunculus Eleanor's hairstyle.
+In order to maximize the cuteness of Eleanor, an ear movement function has been added.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31063#
  A costume hair which can be attached to the hair for different hair style.
@@ -94640,18 +94812,13 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 31165#
-^808080Carry a novice on your back!^000000
-^808080But be careful as they may be heavy.^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+Carry a novice on your back,
+but be careful as he may be heavy.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31166#
 A hat made to look like a teddy bear's face.
@@ -95565,18 +95732,80 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+31349#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31350#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31351#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31352#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31353#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31354#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31355#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31356#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 31368#
-^808080Have you ever seen a hot head? You're about to see it now.^000000
-^ffffff_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Usable By: ^777777All jobs^000000
+A hat made in commemoration of a harvest festival. It feels grateful to harvest all the crops and wish a good harvest for next year.
+Has chance to get Harvest Biscuit from monsters during the event period.
+Increase restore effect of Harvest Biscuit by 100%.
+Has chance to increase critical damage and MATK by 15% for 5 seconds upon inflicting physical and magic damage.
+(Item stats will be removed after the event ends.) 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31375#
 ^808080 Eyes of the brave and warriors at war ^000000
@@ -95646,15 +95875,12 @@ Required Level: ^7777771^000000
 Usable By: ^777777All jobs^000000
 #
 31385#
-^808080A violet hairband made from the pumpkin to look like Jakk.
-Really suited for a Halloween costume!^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A big ribbon with a king of pumpkin on top of it.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31387#
 Jack with an under-developed body.
@@ -95860,17 +96086,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 31440#
-^808080 Bacbac, is that you?^000000
-^ffffff_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^ffffff_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A fluffy snow bear hood with a blue trim.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31445#
 ^808080A hat that Zolo, the legendary thief, used to wear.^000000
@@ -96061,14 +96282,12 @@ Required Level: ^7777771^000000
 Job: ^777777All Character Types^000000
 #
 31492#
-An adorable brown cape. Oh look! It also has cat ears.
---------------------
-Class: ^777777Headgear^000000
-Location: ^777777Lower^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+A costume brown cat ears cape
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31493#
 ^808080Hairstyle of Caddie's girl, named Minty! She has mysterious magic.^000000
@@ -96152,14 +96371,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 31513#
-^808080Giant brown rabbit hat decorated with Moon Goddess Symbol and Carrot^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+A cute hat with long ears of the rabbit.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31515#
 ^808080A cute brown cat that is not fully grown. Looks cute but still wild.^000000
@@ -96298,14 +96515,13 @@ Requires Level: ^7777771^000000
 Usable by: ^777777All jobs^000000
 #
 31561#
-^808080Ears decorated with Satan that has the evil aura shining around it.^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Middle^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Earrings that contains the breath of the dragon.
+It also contains the power of the dragon.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31563#
 ^808080You will not be able to avoid staring out from these eyes.^000000
@@ -96498,6 +96714,15 @@ Class: ^777777Headgear^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
+#
+31589#
+The moment it is worn as a helmet resembling a goat's horn, the wearer enjoys the effect of enormous attention and at the same time gives a feeling of pride.
+It is decorated with gold and looks particularly luxurious.
+ 
+Class : ^777777Costume^000000
+Location : ^777777Upper ^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31591#
 ^808080A prestigious and powerful crown that only chosen ones can wear.
@@ -97244,6 +97469,14 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
+31720#
+A helmet made by combining parts found in Juperos Ruins. Enemies can get anxious just by looking at the parts that look like a face.
+ 
+Class: ^777777Costume^000000Defense: ^7777770^000000
+Location: ^777777Upper ^000000Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Jobs^000000
+#
 31729#
 ^808080Take a flower shower
 Woo hoo, woo hoo
@@ -97288,6 +97521,14 @@ Location: ^777777Lower ^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
+#
+31735#
+A costume muffler with Yawata seal on it.
+ 
+Class: ^777777Costume^000000 Defense: ^7777770^000000
+Location: ^777777Lower ^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Jobs^000000
 #
 31762#
 ^808080A useful card that sometimes can be used as a weapon.^000000
@@ -98131,6 +98372,14 @@ Location: ^777777Lower ^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
+#
+31954#
+A costume necklace which presents the evidence of the servitude.
+ 
+Class: ^777777Costume^000000 Defense: ^7777770^000000
+Location: ^777777Lower^000000 Weight: ^7777770^000000
+Required Level: ^7777771^000000
+Jobs: ^777777All Jobs^000000
 #
 31959#
 A costume hair with cute fluffy wave perm.
@@ -99603,6 +99852,37 @@ Warning! It contains unimaginable power!
 
 Weight : ^7777771^000000
 #
+101795#
+You can sense it's negative energy.
+
+Weight: ^7777771^000000
+#
+101796#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts^000000
+Weight : ^7777771^000000
+#
+101797#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts^000000
+Weight : ^7777771^000000
+#
+101798#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts^000000
+Weight : ^7777771^000000
+#
+101799#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts^000000
+Weight : ^7777771^000000
+#
+101810#
+Malaysia turns 65 on 31 August 2022!
+No matter where in the world you may be, we can't wait to celebrate National Day with you.
+ 
+Weight : ^7777771^000000
+#
 200000#
 Gains 1 fly wing when consumed.
 Weight: ^7777771^000000
@@ -99694,6 +99974,15 @@ Location: ^777777Upper^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All Jobs^000000
 #
+400163#
+A whale themed costume hat.
+The eyes and tail make the hat even cuter.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 400225#
 A fluffy costume cape that looks like a rabbit.
  
@@ -99726,6 +100015,18 @@ Location: ^777777Lower ^000000 Weight: ^77777710^000000
 Required Level: ^77777770^000000
 Jobs: ^777777All Jobs^000000
 #
+420003#
+Feels like a lot of data from the CD flows into the brain through the mouth.
+ 
+Increase all properties magic attack by 5%.
+Has chance to cast Lv 10 Soul Strike upon inflicting normal melee physical damage.
+Equip with Old Parasol, MATK +50 and has chance to cast Lv 3 Gravitational Field upon inflicting normal physical damage.
+ 
+Class: ^777777Headgear^000000 Defense: ^7777770^000000
+Location: ^777777Lower ^000000 Weight: ^77777720^000000
+Required Level: ^77777710^000000
+Jobs: ^777777All Jobs^000000
+#
 420029#
 A replica of the carapace worn by the legendary royal guard.
  
@@ -99743,12 +100044,28 @@ Location : ^777777Lower^000000 Weight : ^7777771^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
+420047#
+A costume cape that is said to be awarded to a honorable and brave knight.
+
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 420071#
 Shawl with wings.
 It's pretty to see blowing in the wind.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
 ^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+420078#
+Royal bats flying around the wearer.
+ 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Lower^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -99925,6 +100242,15 @@ Costume coats worn by adventurers to withstand the cold. A thing that can't be m
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
 ^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Garment^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+480107#
+A twin swords made after the sword of an ancient king.
+It is known as a sword that praised the glory of the ancient king and a sword that destroyed thousand nations.
+ 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Garment^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000

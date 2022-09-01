@@ -120,7 +120,7 @@
 630#Dew Laden Moss#
 631#Deadly Noxious Herb#
 632#Fatty Chubby Earthworm#
-633#Sweet Potato#
+633#Baked Sweet Potato#
 634#Tropical Banana#
 635#Horror of the Tribe#
 636#No Recipient#
@@ -168,7 +168,7 @@
 688#Level 3 Cold Bolt#
 689#Level 5 Cold Bolt#
 690#Level 3 Fire Bolt#
-691#Level 5 Fire Bolt#
+691#Lv 5 Fire Bolt#
 692#Level 3 Lightening Bolt#
 693#Level 5 Lightening Bolt#
 694#Level 3 Soul Strike#
@@ -176,7 +176,7 @@
 696#Level 1 Fire Ball#
 697#Level 5 Fire Ball#
 698#Level 1 Fire Wall#
-699#Level 5 Fire Ball#
+699#Lv 5 Fire Wall#
 700#Level 1 Frost Diver#
 701#Ora Ora#
 702#Animal Gore#
@@ -1198,6 +1198,7 @@
 2188#Svalinn#
 2189#매드바니#
 2190#Ancient Shield Of Aeon#
+2193#Fallen Angel Shield#
 2199#Ahura Mazdah#
 2201#Sunglasses#
 2202#Sunglasses#
@@ -3765,9 +3766,12 @@
 6518#Buwaya Doll#
 6519#Collected Sample#
 6520#Lost Belongings#
+6521#Royal Certificate#
+6522#Common Certificate#
 6523#Piece of Bakonawa's Spirit#
 6524#Piece of Bangungot's Spirit#
 6525#Piece of Buwaya's Spirit#
+6531#Special Certificate#
 6535#Piece Of Red Fabric#
 6536#Momogem#
 6539#Old Left Laphine#
@@ -3821,6 +3825,7 @@
 6615#WoE Guild Coin#
 6623#Rough Energy Crystal#
 6624#Purified Energy Crystal#
+6625#High Energy Crystal#
 6635#Blacksmith Blessing#
 6636#STR Stone (Upper)#
 6637#INT Stone (Upper)#
@@ -4965,6 +4970,7 @@
 11607#Sweet Crepe#
 11611#Popcorn#
 11612#Aromatic Popcorn#
+11613#Harvest Biscuit#
 11616#Yummy Meat#
 11744#Sexy Pur Potion#
 12000#Level 5 Frost Diver#
@@ -5142,6 +5148,7 @@
 12183#Holy Arrow Quiver#
 12184#Mercenary Red Potion#
 12185#Mercenary Blue Potion#
+12188#Grace Moon Cake#
 12192#Pumpkin Pie #
 12194#Hometown Gift#
 12195#Plain Rice Cake#
@@ -5222,6 +5229,7 @@
 12329#멋진 운영자님 소환서#
 12330#예쁜 운영자님 소환서#
 12333#Ancilla#
+12336#Grilled Mushroom#
 12340#Chewy Rice Powder#
 12341#Special Alloy Trap Box#
 12342#Manuk's Opportunity#
@@ -6317,6 +6325,7 @@
 14891#Long Twin Box#
 14892#Long Pony Tail Box#
 14893#Loose Wave Twin Box#
+14894#Roll Twin Box#
 14906#Meow Can#
 14909#Spring Scroll#
 14915#Star Music Scroll#
@@ -7300,6 +7309,7 @@
 19037#93식 유혈시#
 19038#Shinnok's Crown#
 19039#Shinnok's Ears#
+19095#Happy Balloon#
 19101#글래스트헤임의 방관자#
 19102#Night Sparrow Hat#
 19103#고대왕의 왕관#
@@ -7312,6 +7322,7 @@
 19110#발할라 아이돌#
 19111#레이저 오브 이글#
 19114#Sting Silk Ribbon#
+19116#Red Baby Dragon#
 19126#쉐도우 부스터#
 19134#Wickebine's Black Cat Ears#
 19139#Survivors Orb (OSM)#
@@ -7340,6 +7351,7 @@
 19241#Magical Booster#
 19243#Blue Rear Ribbon#
 19245#Crimson Booster#
+19268#Giant God Snake Breath#
 19275#[Rental] Scuba Mask#
 19277#Soda In Mouth#
 19290#Costume Devil's Horn#
@@ -7399,7 +7411,7 @@
 19517#Costume KFZ Hairband#
 19518#Rainbow#
 19519#Lightning Cloud#
-19520#Rain Cloud#
+19520#Costume Rain Cloud#
 19521#Charlie Hat#
 19522#Mini Crown1#
 19524#Costume Green Feeler#
@@ -7414,8 +7426,8 @@
 19535#Costume Sinsuncho Hat#
 19536#장미 코르사쥬#
 19537#Costume Gryphon Hat#
-19538#Full Moon#
-19539#Costume Reginleif Wings#
+19538#Costume Full Moon#
+19539#Costume Reginleif's Wings#
 19540#Costume Momo's Earmuffs#
 19541#Costume Momo's Flower#
 19542#Costume Gangar's Soul#
@@ -7553,6 +7565,7 @@
 19737#Costume Corsair#
 19739#의상 잠자는 고양이 모자#
 19741#Costume Majestic Evil Horns#
+19742#Costume Small Golden Wings#
 19743#Costume Anubis Helm#
 19744#Costume Black Tail Ribbon#
 19745#의상 빨간 마칭햇#
@@ -7874,7 +7887,7 @@
 20237#의상 분홍색 털모자#
 20238#의상 파란색 늘어진 고양이#
 20239#Costume Large Ribbon Muffler#
-20240#의상 눈의 선물#
+20240#Costume Gift of Snow#
 20241#의상 이클립스모자#
 20242#Costume Love of Snowman#
 20243#의상 초코민트 보넷#
@@ -7893,7 +7906,7 @@
 20271#Costume Sunflower#
 20273#Costume Soft Sheep Hat#
 20277#Costume Balloon Hat#
-20278#Costume Josuke Hairstyle#
+20278#Costume Man's Medal#
 20279#의상 엘 휘슬#
 20280#의상 잘근잘근 씹어놓은 연필#
 20281#의상 유치원생의 모자#
@@ -7989,7 +8002,7 @@
 20413#Costume Piamette Ear (Dark)#
 20414#Costume Crown Of Deceit#
 20429#Costume Gentleman's Ribbon#
-20430#Costume Morocc Kid Servant#
+20430#C Servant of Demon God Morocc#
 20432#Costume Elestra Knight Helm#
 20433#Costume Louise Red Hat#
 20434#의상 늘어진 건슬링거#
@@ -8092,6 +8105,7 @@
 20593#Costume Frozen Crystal Wings#
 20594#Costume Huge Red Ribbon#
 20596#Costume Cute Bear Bag#
+20597#Costume Evil Scythe#
 20601#Costume 99LV Rune Red#
 20602#Costume Ace of Angel Wing (Sweet)#
 20603#Costume Ulysses Butterfly#
@@ -8254,6 +8268,8 @@
 22650#8월 럭키박스#
 22651#8월 행운의 상자#
 22652#화려한 모자상자#
+22658#Braised Beef Short Ribs#
+22659#Braised Pork Short Ribs#
 22660#봉인된 편지봉투#
 22669#HALLOWEEN G BOX#
 22670#DARK INVITATION#
@@ -8395,6 +8411,8 @@
 23435#Cat Cash Scroll#
 23436#Holgren's Shadow Refine Hammer#
 23437#Siege White Potion Box#
+23445#Thanksgiving Turkey#
+23446#Wild Boar Trap#
 23467#Poring Scroll#
 23468#Sky Scroll#
 23471#Mofu Costume Scroll#
@@ -8420,6 +8438,7 @@
 23623#Lucky Girl#
 23630#Limited Miracle Medicine#
 23631#Limited Secret Medicine#
+23636#[Not For Sale]Guyak Pudding#
 23647#Tool Dealer Summon Bell#
 23648#Kafra Storage Bell#
 23652#[Not For Sale] Songpyun#
@@ -8487,7 +8506,7 @@
 24057#Dragoon Shield Shadow#
 24058#Satanic Shield Shadow#
 24059#Flameguard Shield Shadow#
-24060#Requiem Shield Shadow#
+24060#Requiem Shadow Shield#
 24061#Cadi Shield Shadow#
 24062#Bloody Shoes Shadow#
 24063#Liberation Shoes Shadow#
@@ -8497,7 +8516,7 @@
 24067#Fisher Shoes Shadow#
 24068#Seraphim Shoes Shadow#
 24069#Beholder Shoes Shadow#
-24070#Divine Shoes Shadow#
+24070#Divine Shadow Shoes#
 24071#Dragoon Shoes Shadow#
 24078#Spiritual Shadow Weapon#
 24079#Spiritual Shadow Earring#
@@ -8517,6 +8536,7 @@
 24112#Spellflow Armor Shadow#
 24113#Spellflow Shield Shadow#
 24117#Greed Shadow Weapon#
+24129#Hiding Shadow Weapon#
 24186#Basis Shadow Armor#
 24187#Hallowed Shadow Armor#
 24188#Saharic Shadow Armor#
@@ -8546,6 +8566,11 @@
 24220#Fire Bolt Shadow Armor#
 24221#Lightning Bolt Shadow Armor#
 24222#Earth Spike Shadow Armor#
+24238#Gigantic Shadow Earring#
+24239#Gigantic Shadow Pendant#
+24240#Caster Shadow Shoes#
+24241#Caster Shadow Shield#
+24242#Caster Shadow Armor#
 24246#Swordman Shadow Earring#
 24247#Merchant Shadow Earring#
 24248#Acolyte Shadow Earring#
@@ -8692,6 +8717,12 @@
 25365#Thin Noodle#
 25366#Noodle Festa Coin#
 25367#Promotional Fan#
+25390#Captured Wild Boar#
+25391#High Quality Branches#
+25392#Ticket to Anywhere#
+25393#Tasty Corn#
+25394#Fruit Lunch Box#
+25395#Small Ember#
 25408#Memories of Gyoll#
 25421#Pumpkin Decoration#
 25422#Dry White Stem#
@@ -9040,14 +9071,22 @@
 31324#Costume DJ Kitty#
 31326#Costume Rolf Von Gigue 666th#
 31332#Costume Saleana Knight Helm#
-31368#Costume Bonfire of Camping#
+31349#Costume Roll Twin (Blue)#
+31350#Costume Roll Twin (Red)#
+31351#Costume Roll Twin (Yellow)#
+31352#Costume Roll Twin (Green)#
+31353#Costume Roll Twin (Black)#
+31354#Costume Roll Twin (White)#
+31355#Costume Roll Twin (Brown)#
+31356#Costume Roll Twin (Purple)#
+31368#C. Thanksgiving Memorial Hat#
 31375#Costume Eyes of War#
 31380#Costume Whisper of Raven#
 31381#Costume Skarlet's Lapel#
 31382#Costume Punkish Cat Ears#
 31383#Costume Minty's Hairstyle (Sky)#
 31384#Costume Ear's Candy#
-31385#Costume Jakk Magic Hairband#
+31385#Costume Gothic Pumpkin Head#
 31387#Costume Jack#
 31390#Costume Let It Snow#
 31391#Costume Reality Stone#
@@ -9082,7 +9121,7 @@
 31489#Costume Bouquet Hat#
 31490#Costume Poring's Muffler#
 31491#Costume Orange Flavor Cat#
-31492#Costume Coffee Cat Ear Cape#
+31492#Costume Brown Cat Ears Cape#
 31493#Costume Minty's Hairstyle (Pearl)#
 31497#Costume Flowery Vision#
 31498#Costume Elephangel PH#
@@ -9090,7 +9129,7 @@
 31504#Costume Hungry Fish#
 31509#Costume Cute Bambi#
 31512#Costume Marble Rabbit#
-31513#Costume Choc Rabbit Hoppin#
+31513#Costume Black Rabbit Ears#
 31515#Costume Bengal Cat#
 31522#Costume Orange Flavour#
 31531#Costume Lovely Heart Cap#
@@ -9103,7 +9142,7 @@
 31549#Costume Little Aquarium (Lower)#
 31558#Costume Hoplite Helmet Black#
 31559#Costume Royal Guard Necklace#
-31561#Costume Devil Aura Ears#
+31561#C 8 Forms Purgatory Wing#
 31563#Costume Idol Makeup#
 31565#Costume Nohime's Crown#
 31569#Costume DJ Cyber#
@@ -9119,6 +9158,7 @@
 31586#Costume Poporing's Muffler#
 31587#Costume Skoi Rider#
 31588#Costume Snowflower On Hair#
+31589#Costume Golden Majestic Goat#
 31591#Costume Crown Of Saint#
 31593#Costume Yellow Scarf#
 31596#Costume Queen of Spider#
@@ -9192,9 +9232,11 @@
 31716#Costume Sexy Wink Eyes#
 31717#Costume IU's Hairstyle (Pearl)#
 31719#Costume Inferno Aura#
+31720#Costume Vesper Headgear#
 31729#Costume Flower Shower#
 31730#Costume Minty's Hairstyle (Peach)#
 31732#Costume Cute Bear Balloon#
+31735#Costume Yawata Seal#
 31762#Costume Gambler Card#
 31766#Costume Peony Ribbon#
 31767#Costume 3rd Year Balloon#
@@ -9253,6 +9295,7 @@
 31947#Costume Motaro Horn#
 31950#Costume Alvin's Chipmunk#
 31951#Costume Sappy Cat#
+31954#Costume Vassalage Necklace#
 31959#Costume Wave Perm (Black)#
 31960#Costume Wave Perm (Blue)#
 31961#Costume Wave Perm (Green)#
@@ -9362,6 +9405,12 @@
 101740#Sealed Card#
 101741#SG National Day 2022 Box#
 101743#Cosmic Egg#
+101795#Corrupted Egg#
+101796#1500 KP Box#
+101797#9000 KP Box#
+101798#18000 KP Box#
+101799#36000 KP Box#
+101810#MY National Day 2022 Box#
 200000#IDTest Cash#
 200190#Box of 1 Nyangvine#
 200210#Almighty package#
@@ -9373,12 +9422,16 @@
 200227#[Limited] HD Oridecon 5 Box#
 300000#IDTest Card#
 400115#Costume Angeling Bread Hat#
+400163#Costume Whale Cap#
 400225#Costume Fluffy Rabbit Cape#
 410107#Costume Straw Rice Bag#
 420000#Isabella's Carrot#
+420003#Disk In Mouth#
 420029#Costume Imperial Glory#
 420030#Feather In Mouth#
+420047#Costume Honorable Knight Cloak#
 420071#Costume Feather Stola#
+420078#Costume Ghost Bat#
 440002#Costume Happy Cat#
 450000#IDTest armor#
 450211#Guardian Mail#
@@ -9392,6 +9445,7 @@
 470151#Predator Boots#
 470152#Marauder Boots#
 480096#Costume Winter Coat#
+480107#Costume King's Twin Swords#
 480163#Guardian Manteau#
 480164#Raider Muffler#
 480165#Mystic Cape#
