@@ -8709,7 +8709,6 @@ High chance to cast Auto Spell: Lv 10 Thunder Storm upon inflicting melee physic
 Has chance to inflict splash damage for 10 seconds upon inflicting melee physical damage.
 Increase ASPD.
 Unrefineable. Undestroyable
- 
 Class: ^777777Mace^000000 Attack: ^777777350^000000
 Weight: ^777777600^000000
 Weapon Level: ^7777774^000000
@@ -10569,34 +10568,14 @@ Required Level: ^77777740^000000
 Job: ^777777Novice Classes/Mage Classes/Acolyte Classes/Soul Linker^000000
 #
 1668#
-^808080A stick wand used as an accessory. This has a hidden knife that can be used for close quarter combat.^000000
-^FFFFFF_^000000
-Type: Weapon
-Class: One-Handed Staff
-Attack: 120
-Property: Neutral
-Weight: 50
-Weapon Level: 4
-Required Level: 80
-Required Job: Mage Jobs, Soul Linker
-^FFFFFF_^000000
-MATK + 150
-Aspd + 10%
-^FFFFFF_^000000
-^800080Set Bonus^000000
-^008080Lounge Suit^000000
-^008080Sword Stick [2]^000000
-Reduces the cooldown of skills by 10%
-Reduces the cooldown of skills by an additional 1% per upgrade level of the item up to a maximum upgrade level of 10.
-A stick wand used as an accessory. This has a hidden knife that can be used for close quarter combat.
-MATK + 150, Increase Atk speed (10% After attack delay reduction)
-10% after skill delay reduction, 1% additional after skill delay reduction (Max up to 10 refine level) when equipped with Lounge Suit.
-Class: ^777777One-Handed Wand^000000
-Attack Strength: ^777777120^000000
-Weight: ^77777750^000000
-Weapon Level: ^7777774^000000
-Required Level: ^77777780^000000
-Jobs: ^777777Mage Jobs/Soul Linker^000000
+A staff used by gentlemen. here is sharp dagger inside the stick that can be used as self defense.
+MATK +150, increase ASPD (decrease delay after attack by 10%)
+Equip with Lounge Suit, decrease after skill delay by 10%. For every refine level, decrease after skill delay by 1% (Max: +10)
+Class : ^777777One-Handed Staff^000000 Attack : ^777777120^000000
+Weight : ^77777750^000000
+Weapon Level : ^7777774^000000
+Required Level : ^77777780^000000
+Jobs : ^777777Mage Classes / Soul Linker Classes^000000
 #
 1669#
 A magic staff sculpted from Gray Shard to counter Tartanos.
@@ -19207,7 +19186,7 @@ Jobs : ^777777All Jobs^000000
 #
 2630#
 An imitation of the necklace worn by the beautiful goddess Freya.
-STR, AGI, DEX, VIT +6, LUK, INT +10.
+STR +6, AGI +6, DEX +6, VIT +6, INT+10, LUK+ 10.
 MDEF +5
 Increase Heal and Sanctuary effect by 6%.
  
@@ -20163,14 +20142,12 @@ Required Level: ^77777780^000000
 Jobs: ^777777Wizard, Sage, Soul Linker^000000
 #
 2717#
-A silver-colored watch with a connecting chain.
-If equipped with a Monocle and Memory Book, 
-HP and SP recovery speed increases by 15%. 
-MATK +7%.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000      Weight: ^77777720^000000
-Required Level: ^77777780^000000
-Jobs: ^777777Mage Jobs/Soul Linker^000000
+A silver-colored watch connected with chain.
+Equip with Monocle and Memory Book, increase HP and SP recovery speed by 15%, MATK +7%.
+Class : ^777777Accessory^000000
+Defense : ^7777771^000000      Weight : ^77777720^000000
+Required Level : ^77777780^000000
+Jobs : ^777777Mage Classes / Soul Linker Classes^000000
 #
 2718#
 A crescent-shaped golden shining brooch.
@@ -21856,14 +21833,15 @@ Required Level: ^77777785^000000
 Job: ^7777772nd job and over/Taekwon Master/Soul Linker/Kakero/Oboro^000000
 #
 2959#
-A collar symbolizing a close relationship.
+A choker that symbolizes a close relationship with the owner.
+ 
 AGI +2.
-Decrease 3% of damage received from Brute monster.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000
-Weight: ^77777730^000000
-Required Level: ^77777750^000000
-Job: ^777777All jobs^000000
+Decrease damage taken from Beast monsters by 3%.
+ 
+Class : ^777777Accessory^000000  Defense : ^7777770^000000
+Weight : ^77777730^000000
+Required Level : ^77777750^000000
+Jobs : ^777777All Jobs^000000
 #
 2963#
 Geffen developed magic ring, can enhance the body's ability.
@@ -21973,14 +21951,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 2971#
-A silver-colored watch with a connecting chain.
-If equipped with a Monocle and Memory Book, 
-HP and SP recovery speed increases by 15%. 
-MATK +7%.
-Class: ^777777Accessory^000000
-Defense: ^7777770^000000      Weight: ^77777720^000000
-Required Level: ^77777780^000000
-Jobs: ^777777Mage Jobs/Soul Linker^000000
+A silver-colored watch connected with chain.
+Equip with Monocle and Memory Book, increase HP and SP recovery speed by 15%, MATK +7%.
+Class : ^777777Accessory^000000
+Defense : ^7777771^000000      Weight : ^77777720^000000
+Required Level : ^77777780^000000
+Jobs : ^777777Mage Classes / Soul Linker Classes^000000
 #
 2976#
 ^808080A spooky red lantern.^000000
@@ -28037,68 +28013,64 @@ Weight : ^7777771^000000
 #
 4625#
 MATK +20%.
-Increase SP consumption of skills by 10%.
-Class: ^777777Card^000000
-Location: ^777777Weapon^000000
-Weight: ^7777771^000000
+Increase SP consumption of the skill by 10%.
+Class : ^777777Card^000000
+Location : ^777777Weapon^000000
+Weight : ^7777771^000000
 #
 4626#
-Increases magical damage against Formless and Demon races by 5%.
-When equipped with a shield compounded to a Rental Punk Card:
-ignores 50% of Formless and Demon monsters' Magic Defense Rate.
-Class: ^777777Card^000000
-Location: ^777777Weapon^000000
-Weight: ^7777771^000000
+Increase magic damage to Formless monsters by 5%.
+Increase magic damage to Demon monsters by 5%.
+Equip with Neo Punk Card, increase MDEF pierce by 50% to Formless and Demon monsters.
+Class : ^777777Card^000000
+Location : ^777777Weapon^000000
+Weight : ^7777771^000000
 #
 4627#
-Increase physical damage against Formless and Demon races by 10%.
-When equipped with a shield compounded to a Rental Punk Card:
-ignores 50% of Formless and Demon monsters' Defense Rate.
-Class: ^777777Card^000000
-Location: ^777777Weapon^000000
-Weight: ^7777771^000000
+Increase physical damage to Formless and Demon monsters by 10%.
+Equip with Neo Punk Card, increase DEF pierce by 50% to Formless and Demon monsters.
+Class : ^777777Card^000000
+Location : ^777777Weapon^000000
+Weight : ^7777771^000000
 #
 4628#
-Reduce damage taken from Formless and Demon races by 20%.
-When equipped with a weapon compounded to Big Ben Card:
-further reduce damage taken from Formless and Demon races by 5%.
-When equipped with a weapon compounded to Big Bell Card:
-further reduce damage taken from Formless and Demon races by 5%.
-Class: ^777777Card^000000
-Location: ^777777Shield^000000
-Weight: ^7777771^000000
+Decrease damage taken from Formless monsters by 20%.
+Decrease damage taken from Demon monsters by 20%.
+Equip with Big Ben Card, decrease damage taken from Formless and Demon monsters by 5%.
+Equip with Big Bell Card, decrease damage taken from Formless and Demon monsters by 5%.
+Class : ^777777Card^000000
+Location : ^777777Shield^000000
+Weight : ^7777771^000000
 #
 4629#
-Increases resistance against Neutral property attack by 15%.
-Increases damage of Earth property magic by 3% per refine.
-When equipped with shoes compounded to a Time Keeper Card:
-further increases resistance against Neutral property attack by 5%.
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+Increase resistance against Neutral property attack by 15%.
+For every refine level, increase Earth property magic attack by 3%.
+Equip with Time Keeper Card, increase resistance against Neutral property attack by 5%.
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4630#
-Has a chance of inflicting the Curse status on all enemies in an 11x11 area around the wearer when attacked.
-When equipped with a garment compounded with an Arc Elder Card:
-the chance is further increased.
-Class: ^777777Card^000000
-Location: ^777777Footwear^000000
-Weight: ^7777771^000000
+Has 3% chance to apply Curse to all enemies in 11x11 cells area around the wearer upon receiving damage.
+Equip with Arc Elder Card, 
+Has 5% chance to apply Curse to all enemies in 11x11 cells area around the wearer upon receiving damage.
+Class : ^777777Card^000000
+Location : ^777777Shoes^000000
+Weight : ^7777771^000000
 #
 4631#
-ASPD +3%
-Class: ^777777Card^000000
-Location: ^777777Accessory^000000
-Weight: ^7777771^000000
+Increase ASPD (Decrease delay after attack by 3%)
+Class : ^777777Card^000000
+Location : ^777777Accessory^000000
+Weight : ^7777771^000000
 #
 4632#
-Adds a chance of auto casting Level 1 Whirlwind when dealing a physical attack.
-If the user has mastered the skill at Level 5, it will cast Level 5 instead.
-When equipped with an accessory compounded to an Owl Viscount Card:
-adds a chance of auto casting level 1 Lord of Vermilion when dealing a physical attack.
-Class: ^777777Card^000000
-Location: ^777777Accessory^000000
-Weight: ^7777771^000000
+Has 2% chance to cast Auto Spell: Lv 1 Whirlwind upon inflicting physical damage.
+If skill level of Whirlwind is 5, cast Lv 5 Whirlwind instead.
+Equip with Owl Viscount Card, has 2 % chance to cast Auto Spell: Lv 1 Lord of Vermilion upon inflicting physical damage.
+Class : ^777777Card^000000
+Location : ^777777Accessory^000000
+Weight : ^7777771^000000
 #
 4652#
 Increases magic damage against Shadow and Undead monsters by 50%
@@ -31275,29 +31247,27 @@ Required Level: ^77777730^000000
 Jobs: ^777777All except novice^000000       ^FFFFFF  ^000000
 #
 5185#
-A wreath made with bright blue leaves and flowers to make you feel fresh and rejuvenated.
+A crown made from branches covered with green leaves and beautiful flowers. Wearing this feels very refreshing.
+ 
 LUK +3.
-Adds 5% tolerance to Darkness and Stun.
-If +9 with each monster slain, gain 40 HP and 3 SP while reducing HP/SP recovery by 50%.
-If +11 with each monster slain, gain 60 HP and 5 SP while reducing HP/SP recovery by 50%.
-Class: ^777777Headgear^000000
-Defense: ^7777772^000000
-Location: ^777777Upper^000000
-Weight: ^77777710^000000
-Required Level: ^77777710^000000
-Jobs: ^777777All^000000
+Increase resistance against Blind and Curse by 5%.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777772^000000
+Location : ^777777Upper^000000 Weight : ^77777710^000000
+Required Level : ^77777710^000000
+Jobs : ^777777All Jobs^000000
 #
 5186#
-A Geographer that is made for decorative purposes as a headgear.
+A special decoration geographer designed to rest nicely on your head.
 INT +1.
-Auto casts Heal Level 1 with a low chance when receiving short-range physical attacks.
-Cannot be upgraded.
-Class: ^777777Headgear^000000
-Defense: ^7777772^000000
-Location: ^777777Upper^000000
-Weight: ^77777750^000000
-Required Level: ^77777730^000000
-Jobs: ^777777All^000000
+Has a low chance to cast Auto Spell: Lv 1 Heal upon receiving melee physical attack.
+Unrefineable.
+ 
+Class : ^777777Headgear^000000    Defense : ^7777772^000000
+Location : ^777777Upper^000000
+Weight : ^77777750^000000
+Required Level : ^77777730^000000
+Jobs : ^777777All Jobs^000000
 #
 5187#
 A red ribbon with a white flower. It makes girls prettier.
@@ -49333,20 +49303,22 @@ Weight: ^7777773^000000
 Weight: ^7777773^000000
 #
 11578#
-^ff0000Item cannot be traded between accounts.^000000
-Lollipop ^000088that recovers 105 HP^000000.
-^ffffff_^000000
-Weight: ^7777774^000000
+A candy bar that restores ^000088about 105 HP^000000.
+^ff0000(This item will be removed once event ends)^000000
+ 
+Weight : ^7777774^000000
 #
 11580#
-^ff0000Item cannot be traded between accounts.^000000
-Sweet candy ^000088that recovers 45 HP^000000.
-Weight: ^7777773^000000
+Sweet and tasty candy ^000088restores about 45 HP^000000.
+^ff0000(This item will be removed once event ends)^000000
+ 
+Weight : ^7777773^000000
 #
 11581#
-^ff0000Item cannot be traded between accounts.^000000
-Huge cake that's been cut into slices. Melting taste of soft cream. HP is recovered when consumed.
-Weight: ^77777710^000000
+A piece of cake. It has a good fragrant and tast so soft. Restores some HP.
+^ff0000(This item will be removed once event ends)^000000
+ 
+Weight : ^77777710^000000
 #
 11583#
 ^000088HP/SP Recovery Item^000000
@@ -52692,7 +52664,8 @@ Weight: ^7777770^000000
 #
 12550#
 A box that contains 30 Poison Bottles.
-Box Weight: ^7777770^000000
+Weight : ^7777770^000000
+"^ff0000Caution - Items may be lost if you've exceeded the weight or carrying amount when you open the box!^000000"
 #
 12553#
 Contains Brysingamen
@@ -63024,6 +62997,10 @@ Weight : ^7777771^000000
 A special hair style box.
 Weight : ^7777771^000000
 #
+14895#
+A special hair style box
+Weight : ^7777771^000000
+#
 14906#
 Delicious canned food from Malangdo. Strangely, it is said that when people eat, they become full of vitality and energy.
 Increase EXP and Job EXP by 100% for 15 minutes. (Stackable with other EXP items and only applicable to monster hunting.)
@@ -63699,14 +63676,13 @@ Required Level: ^7777771^000000
 Usable By: ^777777All Character Types^000000
 #
 15089#
-A suit worn by gentleman.
-ASPD +3% (3% After Attack Delay reduction), 3% After Cast Delay reduction
-When refined to +7 or higher, additional ASPD +2% (2% After Attack Delay reduction), 2% After Cast Delay reduction.
-Equipment Type: ^777777Armor^000000
-Defense: ^77777740^000000
-Weight: ^77777730^000000
-Required Level: ^77777780^000000
-Usable By: ^777777All Character Types except Novice Class^000000
+A suit usually worn by Gentleman. According to a rumor, a cursed suit can control the time.
+Increase ASPD (decrease delay after attack by 3%), decrease after skill delay and variable cast time by 3%.
+If refine level is +7, increase ASPD (decrease delay after attack by 2%), decrease after skill delay and variable cast time by 2%.
+Class : ^777777Armor^000000 Defense : ^77777740^000000
+Weight : ^77777730^000000
+Required Level : ^77777780^000000
+Jobs : ^777777All Jobs except Novice^000000
 #
 15090#
 Sculpted out of Gray Shard and infused with Sakray's old, abandoned memories, this armor protects its wearer against holiness and fear.
@@ -67135,13 +67111,12 @@ Jobs : ^777777Novice / Swordsman Class / Acolyte Class / Merchant Class^000000
 #
 16024#
 A heavy and powerful iron mace with a rounded top.
-Increases damage to Undead, Demi-humans and Earth element monsters by 10%.
-Equipment Type: ^777777Mace^000000
-Attack Strength: ^777777165^000000
-Weight: ^77777790^000000
-Weapon Level: ^7777774^000000
-Required Level: ^77777740^000000
-Usable By: ^777777Acolyte Class^000000
+Increase damage to Undead, Demi-human monsters by 10%. Increase damage to Earth property monsters by 10%.
+Class : ^777777Mace^000000    Attack : ^777777165^000000
+Weight : ^77777790^000000
+Weapon Level : ^7777774^000000
+Required Level : ^77777740^000000
+Jobs : ^777777 Acolyte Classes^000000
 #
 16025#
 ^ff0000Cannot be traded.^000000
@@ -73721,19 +73696,23 @@ Req Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18652#
-Vanargand is a another name of Fenrir: the God Biter, which inspired the design of this helmet.
-Under the +5 refine level, the effect is absorb 1% of damage dealt to enemy into HP, and 1% into SP with certain rate.
-If refined to  +5 and +6, absorb 3% of damage dealt to enemy into HP, 1% into SP with certain rate. 
-If refined to +7, absorb 5% of damage dealt to enemy into HP, 2% into SP with certain rate.
-If refined to +8, absorb 5% of damage dealt to enemy into HP, 2% into SP with a higher rate.
-If refined to +9 or above, absorb 8% of damage dealt to enemy into HP, 4% into SP with a higher rate.
-^ff0000Can be traded, stored, and vended^000000
-Class: ^777777Helmet^000000    
-Defense: ^77777710^000000
-Location: ^777777Upper^000000    
-Weight: ^777777150^000000
-Required Level: ^77777780^000000
-Job: ^777777All jobs ^000000
+A helmet designed after the God Biter: Fenrir who is also known as Vanargandr.
+ 
+If refine level is below +5, has 1% chance to absorb 1% of physical damage dealt to enemy as HP.
+Has 1% chance to absorb 1% of physical damage dealt to enemy as SP.
+If refine level is below +7, has 1% chance to absorb 3% of physical damage dealt to enemy as HP.
+Has 1% chance to absorb 1% of physical damage dealt to enemy as SP.
+If refine level is below +8, has 3% chance to absorb 5% of physical damage dealt to enemy as HP.
+Has 1% chance to absorb 2% of physical damage dealt to enemy as SP.
+If refine level is below +9, has 5% chance to absorb 5% of physical damage dealt to enemy as HP.
+Has 1% chance to absorb 2% of physical damage dealt to enemy as SP.
+If refine level is below +10, has 6% chance to absorb 8% of physical damage dealt to enemy as HP.
+Has 2% chance to absorb 4% of physical damage dealt to enemy as SP.
+ 
+Class : ^777777Headgear^000000 Defense : ^77777710^000000
+Location : ^777777Upper^000000 Weight : ^777777150^000000
+Required Level : ^77777780^000000
+Jobs : ^777777All Jobs^000000
 #
 18653#
 A headphone from Devil Deviruchi. It is good to block the noise from outside
@@ -74614,15 +74593,13 @@ Equipped by: ^777777All Jobs^000000
 #
 18752#
 A cursed book that can absorb life.
-When attacking, 4% chance that 4% of damage will be absorbed as HP. HP absorption increases with every 2 refine levels
-When attacking, 1% of damage could be absorbed to SP by 1% chance. SP absorption increases with every 3 refine levels
-HP will be lost per 5 sec depending on refined degree.
-Class: ^777777Helmet^000000
-Defense: ^7777773^000000
-Location: ^777777Upper ^000000
-Weight: ^77777730^000000
-Required Level: ^77777799^000000
-Jobs: ^777777For all Rebirth classes except Novice^000000
+Has 4% chance to absorb 4% of physical damage dealt to enemy as HP. (For every 2 refine level, increase absorb rate by 1%)
+Has 1% chance to absorb 1% of physical damage dealt to enemy as SP. (For every 3 refine level, increase absorb rate by 1%)
+Consumes (refine level)HP every 5 seconds.
+Class : ^777777Headgear^000000 Defense : ^7777773^000000
+Location : ^777777Upper ^000000Weight : ^77777730^000000
+Required Level : ^77777799^000000
+Jobs : ^777777All Transcendent Classes except Novice^000000
 #
 18753#
 The hat is made according to the traditional food during the Dragon Boat Festival. It is tasty and delicious.
@@ -74660,19 +74637,18 @@ Location: ^777777Upper^000000    Weight: ^77777760^000000
 Job: ^777777All except Novice Classes^000000
 #
 18756#
-A hat designed after a black Amatsu hound.
-ATK +30
-Increases physical damage against Brute monsters by 10%.
-When combined with Fidelity Necklace: 
-When dealing or receiving physical attacks, has a low chance to transform into a Atroce. 
-While in transformed state, ATK +30 and drains 5 SP per second.
-Refine rate of the headgear increases the chance of transform activation.
-Class: ^777777Headgear^000000
-Defense: ^7777776^000000
-Location: ^777777Upper ^000000
-Weight: ^77777740^000000
-Required Level: ^77777750^000000
-Job: ^777777All jobs^000000
+A hat designed after a traditional dog breed in Asia country. It is loyal to its owner and brave, suitable to guard the house.
+ 
+ATK +30.
+Increase physical damage to Beast monsters by 10%.
+ 
+Equip with Fidelity Necklace, has chance to transform into 'Atroce' upon inflicting or receiving physical damage. While transformed, consumes 5 SP every 1 second.
+Depends on the refine level of Black Shiba Inu, increase chance to transform.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777776^000000
+Location : ^777777Upper^000000 Weight : ^77777740^000000
+Required Level : ^77777750^000000
+Jobs : ^777777All Jobs^000000
 #
 18759#
 The nose of a wood goblin fashioned into a nose guard. Though comic in nature, it helps to track the scent of certain plants.
@@ -75630,12 +75606,10 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 18874#
-A glass for one eye only. Made for style rather than practicality.
-Class: ^777777Heeadgear^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^77777710^000000
-Job: ^777777All^000000
+An aristocratically stylish lens that is worn for only one eye. Usually worn by nobility or butler.
+Class : ^777777Headgear^000000    Defense : ^7777770^000000
+Location : ^777777Middle^000000    Weight : ^77777710^000000
+Jobs : ^777777All Jobs^000000
 #
 18877#
 In spite of its name, it really does have the feel of a certain space themed television show.
@@ -79279,6 +79253,14 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
 #
+19676#
+A poring hat that keeps on changing its color. You will never know what is the real color of this hat.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 19677#
 ^808080A mysterious ring floating above your head. It's a sign that you are a good person.^000000
 ^FFFFFF_^000000
@@ -81071,11 +81053,12 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 19978#
-Silver exclamation mark.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A silver exclamation mark.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19979#
 Golden question mark.
@@ -83058,13 +83041,12 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 20316#
-^808080A helm that features the image of shield and wings that symbolize a Cerub. It was designed especially for Royal Guards.^000000
-^FFFFFF_^000000
-Type: Costume
-Position: Headgear (Upper)
-Weight: 0
-Required Level: 1
-Required Job: All Jobs
+A costume helmet blessed by Seraph.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20317#
 ^808080Hi-Tech Headphone.
@@ -85985,6 +85967,14 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
 #
+20990#
+Gears that rotate constantly seem to symbolize the passage of time.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Garment^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 21001#
 Stats during WoE & PVP.
 Increases physical damage to enemies by 80% and bypasses 30% DEF.
@@ -87072,10 +87062,10 @@ Lasts for 5 minutes.
 Weight : ^7777771^000000
 #
 22515#
-A key cursed by a timekeeper's twisted time spell. Curses time to go slower.
-Reuse time: 60 seconds
-Required Level: ^777777100^000000
-Weight: ^77777730^000000
+A key that is cursed by the Time Keeper. Has power to twist the time and able to slow down the time.
+Cool down : 60 Seconds.
+Required Level : 100
+Weight : ^77777730^000000
 #
 22516#
 ^808080The dark red fluid seems to have hardened. It could be mistaken for a beautiful red gem unless you take a closer look. You can feel the ominous power from within.^000000
@@ -87993,6 +87983,11 @@ When you use Nyangvine item, all characters in the server get the following effe
 ^FF0000Cannot be traded.^000000
 Weight: ^7777771^000000
 #
+23169#
+A box containing Alchemist's research results, selected as 'Alchemist of the year' by the Alchemist Association.
+No one knows what is inside the box but it contains a random Alchemist bottle.
+Weight : ^7777771^000000
+#
 23177#
 Kafra card issued by Kafra headquarters. The name capra is obliged to answer the call of the customer at any time.
 When used, you can use the Kafra Warehouse Service once. 
@@ -88188,108 +88183,131 @@ Warning - It must be used within 3 minutes or the effect will be gone.
 Weight : ^7777771^000000
 #
 23342#
-Confidentail Special Document from Shopaholic Girl.
-Contains 1-day employment voucher for hiring beginner part-time vendor.
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A sealed envelope containing a document issued by the Merchant Guild.
+ 
+It contains a 1-day employment voucher that you can use to hire a beginner part-time vendor.
+ 
+Weight : ^7777771^000000
 #
 23343#
-Confidential Special Document from Shopaholic Girl.
-Contains 1-day employment voucher for hiring part-time vendor.
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A sealed envelope containing a document issued by the Merchant Guild.
+ 
+It contains a 1-day employment voucher that you can use to hire a part-time vendor.
+ 
+Weight : ^7777771^000000
 #
 23344#
-Confidential Special Document from Shopaholic Girl.
-Contains 1-day employment voucher for hiring high quality vendor.
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A sealed envelope containing a document issued by the Merchant Guild.
+ 
+It contains a 1-day employment voucher that you can use to hire a master part-time vendor.
+ 
+Weight : ^7777771^000000 
 #
 23345#
-Confidentail Special Document from Shopaholic Girl.
-Contains 1-day employment voucher for hiring beginner part-time buyer.
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A sealed envelope containing a document issued by the Merchant Guild.
+ 
+It contains a 1-day employment voucher that you can use to hire a beginner part-time buyer. 
+ 
+Weight : ^7777771^000000
 #
 23346#
-Confidentail Special Document from Shopaholic Girl.
-Contains 1-day employment voucher for hiring part-time buyer.
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A sealed envelope containing a document issued by the Merchant Guild.
+ 
+It contains a 1-day employment voucher that you can use to hire a part-time buyer.
+ 
+Weight : ^7777771^000000
 #
 23347#
-Confidentail Special Document from Shopaholic Girl.
-Contains 1-day employment voucher for hiring high quality buyer.
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A sealed envelope containing a document issued by the Merchant Guild.
+ 
+It contains a 1-day employment voucher that you can use to hire a master part-time buyer.
+ 
+Weight : ^7777771^000000
 #
 23348#
-Confidentail Special Document from Shopaholic Girl.
-Contains employment voucher for hiring beginner part-time vendor.
-^FFFFFF_^000000
-^777777 Allow users to vend 3 items ^000000
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+ 
+Employment voucher that you can use to hire a beginner part-time vendor.
+It can't be used after the voucher expires.
+ 
+Weight : ^7777770^000000
 #
 23349#
-Confidentail Special Document from Shopaholic Girl.
-Contains employment voucher for hiring part-time vendor.
-^FFFFFF_^000000
-^777777 Allow users to vend 4 items ^000000
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+ 
+Employment voucher that you can use to hire a part-time vendor.
+It can't be used after the voucher expires.
+ 
+Weight : ^7777770^000000
 #
 23350#
-Confidentail Special Document from Shopaholic Girl.
-Contains employment voucher for hiring high quality vendor.
-^FFFFFF_^000000
-^777777 Allow users to vend 5 items ^000000
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+ 
+Employment voucher that you can use to hire a master part-time vendor.
+It can't be used after the voucher expires.
+ 
+Weight : ^7777770^000000
+#
+23351#
+ 
+Employment voucher that you can use to hire a beginner part-time buyer.
+It can't be used after the voucher expires.
+ 
+Weight : ^7777770^000000
+#
+23352#
+ 
+Employment voucher that you can use to hire a part-time buyer.
+It can't be used after the voucher expires.
+ 
+Weight : ^7777770^000000
+ 
+#
+23353#
+ 
+Employment voucher that you can use to hire a master part-time buyer.
+It can't be used after the voucher expires.
+ 
+Weight : ^7777770^000000
 #
 23354#
-Confidentail Special Document from Shopaholic Girl.
-Contains 3-day employment voucher for hiring beginner part-time vendor.
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A sealed envelope containing a document issued by the Merchant Guild.
+ 
+It contains a 3-day employment voucher that you can use to hire a beginner part-time vendor.
+ 
+Weight : ^7777771^000000
 #
 23355#
-Confidential Special Document from Shopaholic Girl.
-Contains 10-day employment voucher for hiring part-time vendor.
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A sealed envelope containing a document issued by the Merchant Guild.
+ 
+It contains a 3-day employment voucher that you can use to hire a part-time vendor.
+ 
+Weight : ^7777771^000000
+#
+23356#
+A sealed envelope containing a document issued by the Merchant Guild.
+ 
+It contains a 3-day employment voucher that you can use to hire a master part-time vendor.
+ 
+Weight : ^7777771^000000
 #
 23357#
-Confidentail Special Document from Shopaholic Girl.
-Contains 3-day employment voucher for hiring beginner part-time buyer.
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A sealed envelope containing a document issued by the Merchant Guild.
+ 
+It contains a 3-day employment voucher that you can use to hire a beginner part-time buyer.
+ 
+Weight : ^7777771^000000
 #
 23358#
-Confidentail Special Document from Shopaholic Girl.
-Contains 10-day employment voucher for hiring part-time buyer.
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A sealed envelope containing a document issued by the Merchant Guild.
+ 
+It contains a 3-day employment voucher that you can use to hire a part-time buyer.
+ 
+Weight : ^7777771^000000
 #
 23359#
-Confidentail Special Document from Shopaholic Girl.
-Contains 3-day employment voucher for hiring high quality buyer.
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A sealed envelope containing a document issued by the Merchant Guild.
+ 
+It contains a 3-day employment voucher that you can use to hire a master part-time buyer.
+ 
+Weight : ^7777771^000000
 #
 23362#
 The best tasting culinary ingredient that can be obtained from Nyailo. Pig Potato adds a heavenly taste when put on all types of noodles.
@@ -88327,13 +88345,12 @@ Restores 30% HP and SP
 Weight : ^77777710^000000
 #
 23368#
-Special Catalog made by Shopaholic Girl.
-Allow you to buy or sell items in your area.
-^FFFFFF_^000000
-^FF0000 *You can see only the vendor/buying shop in your area ^000000
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A special catalog made by the Merchant Guild.
+Lightly touch the screen to view the Street Stall products in the area and easily purchase or sell items. 
+ 
+Only Street Stalls open in the map where the user is standing will be displayed.=],
+				[=[ 
+Weight : ^7777771^000000
 #
 23374#
 ^808080A scroll that endows your armor with the 
@@ -89572,16 +89589,16 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 24057#
-Small extra shield gives you additional defense effect. Not very effective when worn alone.
-1% damage decrease when attacked by dragon type monsters.
-When refine level is 7, 1% extra damage decrease when attacked by dragon type monsters.
-When refine level 9, 1% extra damage decrease when attacked by dragon type monsters.
-When equipped together with ^32CD32Dragon Shield Shadow^000000 and ^32CD32Dragon Shoes Shadow^000000, 3% exp increase when hunting dragon type monsters.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Shield^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+Decrease damage taken from Dragon enemies by 1%.
+If refine level is +7, decrease damage taken from Dragon enemies by 1%.
+If refine level is +9, decrease damage taken from Dragon enemies by 1%.
+Equip with ^32CD32Dragoon Shadow Shield^000000 and ^32CD32Dragoon Shadow Shoes^000000, increase EXP gain from Dragon monsters by 3%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24058#
 Small extra shield gives you additional defense effect. Not very effective when worn alone.
@@ -89740,16 +89757,40 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 24071#
-Special shoes worn over your original shoes. Not very effective when worn alone.
-2% extra damage to dragon type monsters.
-When refine level is 7, 1% extra damage to dragon type monsters.
-When refine level 9, 2% extra damage to dragon type monsters.
-When equipped together with ^32CD32Dragoon Shoes Shadow^000000 and ^32CD32Dragoon Shield Shadow^000000, 3% exp increase when hunting dragon type monsters.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Shoes^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+Increase damage to Dragon monsters by 2%.
+If refine level is +7, increase damage to Dragon monsters by 1%
+If refine level is +9, increase damage to Dragon monsters by 2%
+Equip with ^32CD32Dragoon Shadow Shoes^000000 and ^32CD32Dragoon Shadow Shield^000000, increase EXP gain from Dragon monsters by 3%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shoes^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24072#
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+Decrease damage taken from large size monster by 2%.
+If refine level is +7, decrease damage taken from large size monster by 1%.
+If refine level is +9, decrease damage taken from large size monster by 2%.
+Equip with ^32CD32Large Shadow Armor^000000 and ^32CD32Large Shadow Weapon^000000, Max HP +1%, Max SP +1%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Armor^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24075#
+A glove that can draw the wearer's potential ability.
+Increase physical and magic damage to large size enemies by 2%.
+If refine level is +7, increase physical and magic damage to large size enemies by 1%.
+If refine level is +9, increase physical and magic damage to large size enemies by 2%.
+Equip with ^32CD32Large Shadow Weapon^000000 and ^32CD32Large Shadow Armor^000000, Max HP +1%, Max SP +1%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Weapon^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24078#
 A glove which enables the owner's potential ability.
@@ -89917,6 +89958,30 @@ Category: ^777777Shadow Equipment^000000
 Equip Slot: ^777777Pendant^000000 Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Class: ^777777All classes^000000
+#
+24102#
+A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
+DEF +1. 
+For every refine level, increase resistance against Bleed by 1%.
+Equip with Stability Shadow Shield and Vitality Shadow (Earring, Pendant), DEF +5. 
+If total refine level is +20, immune to Bleed.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Earring^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24103#
+A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.
+DEF +1. 
+For every refine level, increase resistance against Bleed by 1%.
+Equip with Stability Shadow Shield and Vitality Shadow (Earring, Pendant), DEF +5. 
+If total refine level is +20, immune to Bleed.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Pendant^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24109#
 Sacred earring protecting the owner. Enables user's potential ability.  
@@ -91704,6 +91769,27 @@ A round and flat stone. It shimmers like a jewel. Maybe it is a jewel?
 (This item will be removed once event ends.) 
 Weight: ^7777770^000000
 #
+25358#
+This item cannot be traded with other accounts.
+It looks like operating certain machinery somewhere will cause data to be printed on the card.
+Must be returned once the investigation is complete.
+ 
+Weight : ^77777720^000000
+#
+25359#
+This item cannot be traded with other accounts.
+A sturdy box with three outlines of receipts once stuck to it. It seems to be recycled.
+Make sure to deliver it where you are directed. 
+ 
+Weight : ^77777720^000000
+#
+25360#
+This item cannot be traded with other accounts.
+A receipt written in clean letters.
+If you bring it to Masha of Alberta Merchant Guild, you will receive the promised item.
+ 
+Weight : ^77777720^000000
+#
 25365#
 Long, thin strands of noodles. When thrown at a wall, the fully cooked noodles stick to it.
 (This item will be removed once event ends.) 
@@ -92897,6 +92983,18 @@ Weight: ^77777710^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
+28377#
+A ring created to enhance magical powers.
+The sorceress who made this ring was a great admirer of rune knights.
+ 
+Increase Fire, Water, Earth and Wind property magic damage by 5%.
+For every 5 base level, increase damage of Fire, Cold, Lightning Bolt and Earth Spike by 1%.
+ 
+Class : ^777777Accessory^000000  Defense : ^7777770^000000
+Weight : ^77777710^000000
+Required Level : ^77777720^000000
+Jobs : ^777777All Jobs^000000
+#
 28391#
 A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
 Has 20% chance to active a state effect that increase ATK and FLEE by 30 for 5 seconds upon casting Stone Fling.
@@ -93342,6 +93440,28 @@ Class: ^777777Accessory^000000 Defense: ^7777770^000000
 Weight: ^7777770^000000
 Required Level: ^777777160^000000
 Job: ^777777All jobs^000000
+#
+28502#
+A scarf worn during a revolt. It gives the user the courage they need to never yield to anyone!
+ 
+Able to cast Lv 2 Spell Breaker.
+
+Equip with Sunglasses and Glasses,
+for every pure 80 stats (STR+LUK),
+increase damage to all classes (Normal, Boss, Guardian) monsters by 6%.
+CRIT +5, critical damage +10%.
+ 
+For every pure 80 stats (INT+DEX),
+MATK +120, decrease variable cast time by 3%.
+Increase heal effect by 10%.
+ 
+For every pure 80 stats (AGI+VIT),
+Increase ASPD (decrease delay after attack by 5%), Max HP +5%, increase resistance against Players by 2%.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^77777710^000000
+Required Level : ^777777100^000000
+Jobs : ^777777All Jobs^000000
 #
 28505#
 A ring that empowers the essences of the Demon God.
@@ -94879,11 +94999,11 @@ Jobs: ^777777All^000000
 #
 31178#
 Muffler made from the feathers of KASA.
-Be cautious! It's very hot!
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Lower ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Location: ^777777All^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31179#
 ^808080The Wolf Mark that is used for covering the face when the full moon night comes.^000000
@@ -95249,17 +95369,12 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 31249#
-^808080A hat designed based on the "Alice" character in the famous game titled "Broody Roar" ^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000 
-Location: ^777777Upper ^000000 
-Weight: ^7777770^000000 
-Required Level: ^7777771^000000 
-Jobs: ^777777All^000000
+A cute hat with long ears of the rabbit.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31252#
 ^808080Gothic style hat which is decorated with move-able cat ears. Increase Kawaii of the wearer by 100%.^000000
@@ -95512,13 +95627,12 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 31295#
-A red driver's hat decorated with white wings.
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+A special costume that can only be obtained from the community event!
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31296#
 The sweet and delicious strawberry in the mouth.
@@ -95731,6 +95845,78 @@ Location: ^777777Upper ^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
+#
+31333#
+A costume hair which can be attached to the hair for different hair style.
+A typical ponytail that goes well with different styles.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31334#
+A costume hair which can be attached to the hair for different hair style.
+A typical ponytail that goes well with different styles.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31335#
+A costume hair which can be attached to the hair for different hair style.
+A typical ponytail that goes well with different styles.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31336#
+A costume hair which can be attached to the hair for different hair style.
+A typical ponytail that goes well with different styles.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31337#
+A costume hair which can be attached to the hair for different hair style.
+A typical ponytail that goes well with different styles.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31338#
+A costume hair which can be attached to the hair for different hair style.
+A typical ponytail that goes well with different styles.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31339#
+A costume hair which can be attached to the hair for different hair style.
+A typical ponytail that goes well with different styles.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31340#
+A costume hair which can be attached to the hair for different hair style.
+A typical ponytail that goes well with different styles.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31349#
 A costume hair which can be attached to the hair for different hair style.
@@ -96109,16 +96295,12 @@ Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
 #
 31447#
-^808080A hat that makes artists look more sexy.^000000
-^ffffff_^000000
-Obtained from ^CC66FFDavinci Code Event^000000
-^ffffff_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A hat which is sealed with the executors wing.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31448#
 A luxurious ribbon made with soft silk. Unlike other ordinary ribbons it gives a comfortable fit to the wearer.
@@ -96254,18 +96436,13 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 31490#
-^808080The muffler that is designed from Poring. 
-Always makes the wearer feel cool and fluffy - as if you are always touched by the Poring.^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A cute Poring shaped muffler.
+May be it can be your companion when you are alone?
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31491#
 ^808080 The cat that doesn't think she is a pet.
@@ -96660,41 +96837,31 @@ Required Level: ^7777771^000000
 Usable By: ^777777All jobs^000000
 #
 31584#
-^808080 Muffler decorated by Cutie Marin. It will keep you warm and make you look fashionable at the same time.^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A cute Marin shaped muffler.
+May be it can be your companion when you are alone?
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31585#
-^808080Feel fresh with the orange power of this Drop!^000000
-^ffffff_^000000
-obtain from ^CC66FFRO Streamer ^000000
-^ffffff_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^ffffff_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+A cute Drops shaped muffler.
+May be it can be your companion when you are alone?
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31586#
-^808080You will feel calm when you look at the green color of this muffler^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A cute Poporing shaped muffler.
+May be it can be your companion when you are alone?
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31587#
 ^808080A colorful helmet. Can protect you from being hit in the head.^000000
@@ -97476,6 +97643,14 @@ Class: ^777777Costume^000000Defense: ^7777770^000000
 Location: ^777777Upper ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All Jobs^000000
+#
+31728#
+A refreshing straw hat with a red ribbon.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31729#
 ^808080Take a flower shower
@@ -99883,6 +100058,15 @@ No matter where in the world you may be, we can't wait to celebrate National Day
  
 Weight : ^7777771^000000
 #
+101817#
+Open to get a random normal shadow equipment.
+ 
+Weight : ^7777771^000000
+#
+101818#
+If you are looking for an item, it will be under the moonlight.
+Weight : ^7777771^000000
+#
 200000#
 Gains 1 fly wing when consumed.
 Weight: ^7777771^000000
@@ -99988,6 +100172,15 @@ A fluffy costume cape that looks like a rabbit.
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+410068#
+A costume cart which is designed for Doram who loves the cart.
+Let's open up our own fish marche!
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -100250,6 +100443,14 @@ Jobs : ^777777All Jobs^000000
 480107#
 A twin swords made after the sword of an ancient king.
 It is known as a sword that praised the glory of the ancient king and a sword that destroyed thousand nations.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Garment^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+480108#
+A basket filled with lots of Porings.
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Garment^000000 Weight : ^7777770^000000
@@ -100543,31 +100744,32 @@ Weight: ^7777771^000000
 #
 1001005#
 Can be used to redeem event rewards.
+^ff0000(This item will be removed once event ends)^000000
+ 
 Weight : ^7777770^000000
 #
 1001039#
 A special item for the event reward.
-
-^ff0000(This item will be removed after the event ends.)^000000
+^ff0000(This item will be removed once event ends)^000000
  
 Weight : ^7777770^000000
 #
 1001040#
 A special item for the event reward.
+^ff0000(This item will be removed once event ends)^000000
  
-^ff0000(This item will be removed after the event ends.)^000000
 Weight : ^7777770^000000
 #
 1001041#
 A special item for the event reward.
+^ff0000(This item will be removed once event ends)^000000
  
-^ff0000(This item will be removed after the event ends.)^000000
 Weight : ^7777770^000000
 #
 1001042#
 A special item for the event reward.
+^ff0000(This item will be removed once event ends)^000000
  
-^ff0000(This item will be removed after the event ends.)^000000
 Weight : ^7777770^000000
 #
 1001066#
@@ -100582,6 +100784,15 @@ Weight : ^7777770^000000
 Talk to Abang Mat for processing, or to exchange for rewards.
 ^ff0000(This item will be removed after the event ends.)^000000
 Weight : ^7777770^000000
+#
+1001148#
+A ticket used to access Event Poring Island.
+Speak to NPC ^ffffff<NAVI>^4D4DFF[Popo]^000000<INFO>gonryun,167,138,0,100,0,0</INFO></NAVI>^000000 in Gonryun event area to use it.
+ 
+^0000ffCaution! : This item can be used during event period only: 15th of September ~ 15th of December.^000000
+^ff0000(This item will be removed once event ends)^000000
+ 
+Weight : ^7777771^000000
 #
 1100000#
 Recovers 30 HP and 10 SP when consumed.

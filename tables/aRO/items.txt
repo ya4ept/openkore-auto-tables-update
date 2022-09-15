@@ -905,7 +905,7 @@
 1660#Empowered Wand Of Affection#
 1661#Mental Destroyer#
 1667#TE WoE Staff#
-1668#소드 스틱#
+1668#Sword Stick#
 1669#Thanos Staff#
 1670#RWC Memory Staff#
 1671#Evil Slayer Vanquisher Staff#
@@ -1574,8 +1574,8 @@
 2626#Rosary#
 2627#Belt#
 2628#Novice Armlet#
-2629#Magingiorde#
-2630#Brysinggamen#
+2629#Megingjard#
+2630#Brisingamen#
 2631#3rd Years Ring#
 2634#Couple Ring#
 2635#Couple Ring#
@@ -1812,7 +1812,7 @@
 2967#RWC Memorial Ring#
 2968#RWC Memorial Pendant#
 2969#RWC Memorial Pendant#
-2971#회중시계#
+2971#Pocket Watch#
 2976#Red Lantern#
 2977#Hurt Mind#
 2978#Kind Heart#
@@ -2420,14 +2420,14 @@
 4606#원한의기사 카드#
 4607#성실한눈동자 카드#
 4610#Sarah Card#
-4625#타임홀더 카드#
-4626#빅 벤 카드#
-4627#빅 벨 카드#
-4628#네오 펑크 카드#
-4629#아크 엘더 카드#
-4630#타임 키퍼 카드#
-4631#아울바이카운트 카드#
-4632#아울마퀴스 카드#
+4625#Time Holder Card#
+4626#Big Ben Card#
+4627#Big Bell Card#
+4628#Neo Punk Card#
+4629#Arc Elder Card#
+4630#Time Keeper Card#
+4631#Owl Viscount Card#
+4632#Owl Marquees Card#
 4652#Nightmare Amon Ra Card#
 4653#Nightmare Arclouse Card#
 4654#Nightmare Mimic Card#
@@ -4803,9 +4803,9 @@
 9876#Silver Cube 2020#
 9882#Hana Scroll#
 9889#Sexy Pur Potion Box#
-9894#[Egg] LV5 Adrenaline Scroll#
-9895#[Egg] Abrasive#
-9896#[Egg] Power Booster#
+9894#[Egg]LV5 Adrenaline Scroll#
+9895#[Egg]Abrasive#
+9896#[Egg]Power Booster#
 9899#Sana Scroll#
 9900#Oda Scroll#
 9901#Tenkai Scroll#
@@ -4954,9 +4954,9 @@
 11573#[Not For Sale] White Slim Potion#
 11574#[Not For Sale] Yellow Slim Potion#
 11575#Fortune cookie#
-11578#Lollipop#
-11580#Candy#
-11581#A piece of Cake#
+11578#[Not For Sale] Candy Bar#
+11580#[Not For Sale] Candy#
+11581#[Not For Sale] Piece of Cake#
 11583#Chocolate Drink#
 11589#Iceflake#
 11592#Bloody Candy#
@@ -6294,7 +6294,7 @@
 14836#Xin Niar Scroll#
 14841#[Egg]Songpyun#
 14843#[Egg]Life Insurance#
-14844#[Egg] Kafra Card#
+14844#[Egg]Kafra Card#
 14845#[Egg]LV10 Blessing Scroll#
 14846#[Egg]LV10 Agi Scroll#
 14847#[Egg]Small Life Potion#
@@ -6312,12 +6312,12 @@
 14865#[Egg]Quagmire Scroll#
 14866#[Egg]Holy Armor Scroll#
 14867#[Egg]Shadow Armor Scroll#
-14869#[Egg]Red booster#
+14869#[Egg]Red Booster#
 14874#[Egg]Glass of Illusion#
 14875#[Egg]Medium Life Potion#
 14883#Music Scroll#
 14884#Weather Scroll#
-14886#[Egg] Ultimate Cook#
+14886#[Egg]Ultimate Cook#
 14887#[Not For Sale] Ultimate Cook#
 14888#Hair Buns Box#
 14889#Cowlick Box#
@@ -6326,6 +6326,7 @@
 14892#Long Pony Tail Box#
 14893#Loose Wave Twin Box#
 14894#Roll Twin Box#
+14895#Straight Pony Tail Box#
 14906#Meow Can#
 14909#Spring Scroll#
 14915#Star Music Scroll#
@@ -6394,7 +6395,7 @@
 15073#Anti-magic Suit#
 15074#Geffen Magic Robe#
 15088#학생교복#
-15089#신사복#
+15089#Lounge Suit#
 15090#Armor Of Gray#
 15091#Robe Of Gray#
 15093#Hero Plate#
@@ -6506,7 +6507,7 @@
 16020#Bellum Stunner#
 16021#Bellum Flail#
 16023#Metal Mace#
-16024#쿼드릴#
+16024#Quadrille#
 16025#TE WoE Mace#
 16026#RWC Memory Mace#
 16027#Evil Slayer Destroyer Hammer#
@@ -7038,7 +7039,7 @@
 18648#(null)#
 18649#(null)#
 18650#RWC외치는 입#
-18652#바나르간드의 투구#
+18652#Vanargandr Helm#
 18653#데비루치 헤드폰#
 18655#(null)#
 18656#마녀의 호박모자#
@@ -7205,7 +7206,7 @@
 18867#바쥬라#
 18868#Assassin Skull Mask#
 18873#Sweet Valentine#
-18874#외눈 안경#
+18874#Monocle#
 18877#Baron Evil Eye#
 18878#Palace Guard Cap#
 18882#Kannam On Head#
@@ -7514,6 +7515,7 @@
 19669#Costume Reginleif Wings#
 19672#Costume Poring's Letter#
 19675#Costume Jumping Poring#
+19676#Costume Rainbow Poring Hat#
 19677#Costume Soulless Wing#
 19678#Costume Jingle Bells#
 19679#의상 동그란 눈동자#
@@ -7728,7 +7730,7 @@
 19974#의상 얼룩무늬 토끼후드#
 19976#Costume Cat Santa Hat#
 19977#의상 금색 느낌표#
-19978#의상 은색 느낌표#
+19978#Costume Silver Exclamation#
 19979#의상 금색 물음표#
 19980#의상 은색 물음표#
 19982#Costume Santa Hat#
@@ -7934,7 +7936,7 @@
 20313#Costume Disk In Mouth#
 20314#의상 뉴웨이브 선글라스#
 20315#Costume Analyze Eye#
-20316#의상 지천사의 날개 투구#
+20316#Costume Seraph Wing Helm#
 20317#Costume Cyber Meow Headphone#
 20318#의상 찰스턴의 안테나#
 20319#Costume Cyber Punk Ears#
@@ -8167,6 +8169,7 @@
 20950#Costume 175LV Sura Orange#
 20982#Babe's Apron (OSM)#
 20987#Costume Piglering Bag#
+20990#Costume Rotating Gears#
 21001#Bellum Claymore#
 21002#Bellum Katzbalger#
 21003#Muramasa#
@@ -8240,7 +8243,7 @@
 22507#Old Scroll#
 22508#Eden Group Mark#
 22511#Fenrir Card#
-22515#뒤틀린 시간의 열쇠#
+22515#Key of Twisted Time#
 22516#Dark Red Clot#
 22517#Loki Summoning Scroll#
 22534#Closed Mind Box#
@@ -8357,6 +8360,7 @@
 23157#Evil Druid Scroll#
 23164#할배 스피드 포션#
 23165#Premium Service Personal#
+23169#Alchemist Box#
 23177#[Not For Sale] Kafra Card#
 23203#Small Mana Potion#
 23204#빛나는 방어 스크롤#
@@ -8383,26 +8387,30 @@
 23330#Buffy Party Fly Wing Box#
 23331#Weekly Fly Wing Box#
 23340#[Not For Sale] Megaphone#
-23342#Vend Arbeit1 1Lv#
-23343#Vend Arbeit1 2Lv#
-23344#Vend Arbeit1 3Lv#
-23345#Buy Arbeit1 1Lv#
-23346#Buy Arbeit1 2Lv#
-23347#Buy Arbeit1 3Lv#
-23348#Vend Arbeit 1Lv#
-23349#Vend Arbeit 2Lv#
-23350#Vend Arbeit 3Lv#
-23354#Vend Arbeit3 1Lv#
-23355#Vend Arbeit3 2Lv#
-23357#Buy Arbeit3 1Lv#
-23358#Buy Arbeit3 2Lv#
-23359#Buy Arbeit3 3Lv#
+23342#Sales(Beginner) 1-day Certificate of Employment#
+23343#Sales(General) 1-day Certificate of Employment#
+23344#Sales(Master) 1-day Certificate of Employment#
+23345#Purchases(Beginner) 1-day Certificate of Employment#
+23346#Purchases(General) 1-day Certificate of Employment#
+23347#Purchases(Master) 1-day Certificate of Employment#
+23348#Purchases(Beginner) Certificate of Employment#
+23349#Purchases(General) Certificate of Employment#
+23350#Purchases(Master) Certificate of Employment#
+23351#Purchases(Beginner) Certificate of Employment#
+23352#Purchases(General) Certificate of Employment#
+23353#Purchases(Master) Certificate of Employment#
+23354#Sales(Beginner) 3-day Certificate of Employment#
+23355#Sales(General) 3-day Certificate of Employment#
+23356#Sales(Master) 3-day Certificate of Employment#
+23357#Purchases(Beginner) 3-day Certificate of Employment#
+23358#Purchases(General) 3-day Certificate of Employment#
+23359#Purchases(Master) 3-day Certificate of Employment#
 23362#Pig Potato#
 23363#Watermelon Pudding#
 23364#Criatura Pope Cookie#
 23365#Criatura Souvenir Box#
 23367#Tomato Noodles#
-23368#Store Search1#
+23368#Special Shopper Catalog#
 23374#Fire Armor Scroll#
 23375#Cold Armor Scroll#
 23376#Wind Armor Scroll#
@@ -8503,7 +8511,7 @@
 24054#Brutal Shield Shadow#
 24055#Gargantua Shield Shadow#
 24056#Homers Shield Shadow#
-24057#Dragoon Shield Shadow#
+24057#Dragoon Shadow Shield#
 24058#Satanic Shield Shadow#
 24059#Flameguard Shield Shadow#
 24060#Requiem Shadow Shield#
@@ -8517,7 +8525,9 @@
 24068#Seraphim Shoes Shadow#
 24069#Beholder Shoes Shadow#
 24070#Divine Shadow Shoes#
-24071#Dragoon Shoes Shadow#
+24071#Dragoon Shadow Shoes#
+24072#Large Shadow Armor#
+24075#Large Shadow Weapon#
 24078#Spiritual Shadow Weapon#
 24079#Spiritual Shadow Earring#
 24080#Spiritual Shadow Pendant#
@@ -8530,6 +8540,8 @@
 24099#Unfreezing Weapon Shadow#
 24100#Unfreezing Earing Shadow#
 24101#Unfreezing Pendant Shadow#
+24102#Vitality Shadow Earring#
+24103#Vitality Shadow Pendant#
 24109#Caster Shadow Earring#
 24110#Caster Shadow Weapon#
 24111#Spellflow Shoes Shadow#
@@ -8714,6 +8726,9 @@
 25341#Red Hot Marble#
 25342#Healthful Herb#
 25344#Flat Round Stone#
+25358#Data Retrieval Card#
+25359#Slightly Aged Antique Box#
+25360#Receipt#
 25365#Thin Noodle#
 25366#Noodle Festa Coin#
 25367#Promotional Fan#
@@ -8823,6 +8838,7 @@
 28326#부러진 칩 01#
 28327#부러진 칩 02#
 28332#Jewerly Ring#
+28377#Magical Ring#
 28391#Thief Shadow Earring#
 28392#Archer Shadow Earring#
 28439#Sea Otter Cute Fan#
@@ -8867,6 +8883,7 @@
 28480#Awakened Eden Group Necklace of Recovery Ⅳ#
 28481#Awakened Eden Group Ring of Recovery Ⅴ#
 28482#Awakened Eden Group Necklace of Recovery Ⅴ#
+28502#Mob Scarf#
 28505#Demon God's Ring#
 28507#Kathryne's Gloves (OSM)#
 28512#Golden Clip#
@@ -9023,7 +9040,7 @@
 31231#Costume Long Twin (White)#
 31232#Costume Long Twin (Brown)#
 31233#Costume Long Twin (Purple)#
-31249#Costume Cream Rabbit Hoppin#
+31249#Costume White Rabbit Ears#
 31252#Costume Gothic White Cat#
 31257#Costume Poring Water Jars#
 31258#Costume Playing with Snow#
@@ -9049,7 +9066,7 @@
 31288#C Loose Wave Twin (Purple)#
 31290#Costume School of Angel Hat#
 31291#Costume School of Devil Hat#
-31295#Costume Priest Hat J#
+31295#Costume Priest Hat#
 31296#Costume Strawberry in the Mouth#
 31297#Costume Fruit of Love#
 31298#Costume Eden Group Hat II#
@@ -9071,6 +9088,14 @@
 31324#Costume DJ Kitty#
 31326#Costume Rolf Von Gigue 666th#
 31332#Costume Saleana Knight Helm#
+31333#Costume Straight Pony (White)#
+31334#Costume Straight Pony (Blue)#
+31335#Costume Straight Pony (Brown)#
+31336#Costume Straight Pony (Red)#
+31337#Costume Straight Pony (Purple)#
+31338#Costume Straight Pony (Green)#
+31339#Costume Straight Pony (Yellow)#
+31340#Costume Straight Pony (Black)#
 31349#Costume Roll Twin (Blue)#
 31350#Costume Roll Twin (Red)#
 31351#Costume Roll Twin (Yellow)#
@@ -9106,7 +9131,7 @@
 31439#Costume Fluffy Lovely Earmuffs#
 31440#Costume Snow Bear Hood#
 31445#Costume Muzik Hat#
-31447#Costume Sexy Artist#
+31447#Costume Pale Moon Hat#
 31448#Costume Sting Silk Ribbon#
 31453#Costume Giant Black Ribbon#
 31455#Costume Pom Pom#
@@ -9119,7 +9144,7 @@
 31483#Costume Love Whisper#
 31488#Costume MVP#
 31489#Costume Bouquet Hat#
-31490#Costume Poring's Muffler#
+31490#Costume Poring Muffler#
 31491#Costume Orange Flavor Cat#
 31492#Costume Brown Cat Ears Cape#
 31493#Costume Minty's Hairstyle (Pearl)#
@@ -9153,9 +9178,9 @@
 31575#Costume Sexy Love Hairstyle (NG)#
 31577#Costume Chick Chic#
 31583#Costume Firefly Spirit Light#
-31584#Costume Marin's Muffler#
+31584#Costume Marin Muffler#
 31585#Costume Drops Muffler#
-31586#Costume Poporing's Muffler#
+31586#Costume Poporing Muffler#
 31587#Costume Skoi Rider#
 31588#Costume Snowflower On Hair#
 31589#Costume Golden Majestic Goat#
@@ -9233,6 +9258,7 @@
 31717#Costume IU's Hairstyle (Pearl)#
 31719#Costume Inferno Aura#
 31720#Costume Vesper Headgear#
+31728#Costume Ribbon Straw Hat#
 31729#Costume Flower Shower#
 31730#Costume Minty's Hairstyle (Peach)#
 31732#Costume Cute Bear Balloon#
@@ -9342,7 +9368,7 @@
 101351#[Not For Sale] Kafra Storage Bell Box (7 Days)#
 101352#[Not For Sale] Bubble Gum Box#
 101366#Secret Event Box#
-101367#[Egg] Small Mana Potion#
+101367#[Egg]Small Mana Potion#
 101386#50,000 Fans Box#
 101387#Pre-reg Milestone Box#
 101417#[Limited] Supply Box A#
@@ -9411,6 +9437,8 @@
 101798#18000 KP Box#
 101799#36000 KP Box#
 101810#MY National Day 2022 Box#
+101817#Shadow Equipment Box#
+101818#Moonlit Egg#
 200000#IDTest Cash#
 200190#Box of 1 Nyangvine#
 200210#Almighty package#
@@ -9424,6 +9452,7 @@
 400115#Costume Angeling Bread Hat#
 400163#Costume Whale Cap#
 400225#Costume Fluffy Rabbit Cape#
+410068#Costume Fish Marche#
 410107#Costume Straw Rice Bag#
 420000#Isabella's Carrot#
 420003#Disk In Mouth#
@@ -9446,6 +9475,7 @@
 470152#Marauder Boots#
 480096#Costume Winter Coat#
 480107#Costume King's Twin Swords#
+480108#Costume Poring Basket#
 480163#Guardian Manteau#
 480164#Raider Muffler#
 480165#Mystic Cape#
@@ -9476,6 +9506,7 @@
 1001042#Drops Diamond#
 1001066#Gold Bullion#
 1001067#Gold Ore#
+1001148#Poring Island Entry Ticket#
 1100000#IDTest heal#
 1200000#IDTest arrow#
 1210000#IDTest cannon#
