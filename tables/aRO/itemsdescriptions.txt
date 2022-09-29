@@ -10184,8 +10184,8 @@ per 2 upgrade levels of the item.
 Pierces 1% of MDEF on Boss, Normal, 
 Player protocol targets when performing a magical attack per upgrade level of the item.
 --------------------
-800080Set Bonus^000000
-^008080Skull Cap [1]^000000
+^800080Set Bonus^000000
+^008080Skull Cap 		[1]^000000
 ^008080Thorn Staff of Darkness^000000
 MATK + 10 per upgrade level of the ^008080Thorn Staff of Darkness^000000.
 ^FFFFFF_^000000
@@ -10199,7 +10199,7 @@ Property: Shadow
 Weight: 70
 Weapon Level: 4
 Required Level: 75
-Required Job: Transcendent Mage Jobs, Transcendent Acolyte Jobs
+Jobs: Transcendent Mage Jobs, Transcendent Acolyte Jobs
 #
 1637#
 ^808080A staff that causes enemy mental distraction.^000000
@@ -14527,18 +14527,18 @@ Level Requirement: ^77777765^000000
 Job : ^777777all^000000
 #
 2177#
-The Shield of the Lord of Death
-Increase damage to Boss-type monsters by 2%
-Receive 10% more damage from normal monsters.
-^99FF66Set Bonus^000000
-^00FF00Lord of Death^000000
-^00FF00Shield of Death^000000
-Increase damage to Boss-type monsters by 5%
-if Lord of Death refined +7 above, additional 5% damage to Boss-type monsters.
-Class: ^777777Shield^000000 Def : ^777777150^000000
-Weight: ^777777200^000000
-Required Lv: ^77777790^000000
-Jobs: ^777777All^000000
+The Shield of the Lord of Death.
+ 
+Increase physical damage to Boss class enemies by 2%.
+Increase damage taken from Normal class enemies by 10%.
+ 
+Equip with Lord of Death, increase physical damage to Boss class enemies by 5%.
+If refine level of Lord of Death is +7, increase physical damage to Boss class enemies by 5%.
+ 
+Class : ^777777Shield^000000  Defense : ^777777150^000000
+Weight : ^777777200^000000
+Required Level : ^77777790^000000
+Jobs : ^777777All Jobs^000000
 #
 2178#
 ^ff0000Cannot be traded.^000000
@@ -21454,12 +21454,12 @@ Jobs: ^777777All^000000
 2899#
 Increases damage of Metallic Sound by 150%.
 Increases SP consumption of Metallic Sound by 60.
-Reduces Variable Casting time by 50%.
+Decreases Variable Casting time by 50%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^77777790^000000
-Jobs: ^777777Hunter / Bard / Dancer^0000007770^000000
+Jobs: ^777777Hunter, Bard, Dancer^000000
 #
 2907#
 ^808080Gimat Tattoo with a huge Alligator pattern. 
@@ -22052,7 +22052,7 @@ Job : ^777777All Jobs^000000
 #
 2988#
 Newoz's Winged Ring
-Decreases Floating Casting Time for all skills by 25%.
+Decreases the Variable Casting Time of skills by 25%.
 Class: ^777777Accessory^000000 DEF: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777130^000000
@@ -22060,7 +22060,7 @@ Jobs: ^777777Maestro^000000
 #
 2989#
 Aigu's flower bracelet.
-Decreases Floating Casting Time for all skills by 25%.
+Decreases the Variable Casting Time of skills by 25%.
 Class: ^777777Accessory^000000 DEF: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^777777130^000000
@@ -27316,10 +27316,10 @@ Compound: ^777777Headgear^000000
 Weight: ^7777771^000000
 #
 4504#
-Infinte [Endure]. 
-MHP -50%.
-If refine level is +15, MHP -35%.
-Class: ^777777Armor^000000
+Infinite Skill: [Endure] 
+Max HP -50%
+If refine level is +15, Max HP -35%
+Class: ^777777Card^000000
 Location: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
@@ -27348,10 +27348,10 @@ Location: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
 4508#
-ATK +20, MHP -1%
-Class: ^777777Card^000000
-Location: ^777777Accessory^000000
-Weight: ^7777771^000000
+ATK +20, Max HP - 1%.
+Class : ^777777Card^000000
+Location : ^777777Accessory^000000
+Weight : ^7777771^000000
 #
 4509#
 INT +3
@@ -27678,155 +27678,156 @@ Location: ^777777Shoes^000000
 Weight: ^7777771^000000
 #
 4560#
-Enables Level 10 Magic Strings (if equipped with a Musical Instrument/Whip).
-Flee +20. If VIT 110 or greater, additional Flee +20.
-Class: ^777777Card^000000
-Location: ^777777Armor^000000
-Weight: ^7777771^000000
+Equip on Instrument or Whip, able to cast Lv 10 Magic Strings.
+FLEE + 20. If VIT is +110, FLEE + 20.
+Class : ^777777Card^000000
+Location : ^777777Armor^000000
+Weight : ^7777771^000000
 #
 4561#
-Magic attacks from enemies create a high chance of auto casting Level 5 Magnetic Earth.
-MATK +7%. If DEX 110 or greater, additional MATK +7%.
-Class: ^777777Card^000000
-Location: ^777777Armor^000000
-Weight: ^7777771^000000
+Has high chance to cast Lv 5 Magnetic Earth upon receiving magic damage.
+MATK +7% If DEX is +110, MATK + 7%.
+Class : ^777777Card^000000
+Location : ^777777Armor^000000
+Weight : ^7777771^000000
 #
 4562#
-Physical attacks from enemies create a high chance of auto casting Level 5 Occult Impaction.
-ATK +7%. If AGI 110 or greater, additional ATK +7%.
-Class: ^777777Card^000000
-Location: ^777777Armor^000000
-Weight: ^7777771^000000
+Has high chance to cast Lv 5 Occult Impaction upon receiving physical damage.
+Increase physical damage to all enemy classes by 7%. If AGI is + 110, increase physical damage to all enemy classes by 7%.
+Class : ^777777Card^000000
+Location : ^777777Armor^000000
+Weight : ^7777771^000000
 #
 4563#
-Physical attacks from enemies create a high chance of auto casting Level 5 Acid Terror. (Requires Acid Bottles.)
-CRI +20. If STR 110 or greater, additional CRI +20.
-Class: ^777777Card^000000
-Location: ^777777Armor^000000
-Weight: ^7777771^000000
+Has high chance to cast Lv 5 Acid Terror upon receiving physical damage. (Consumes Acid Bottle)
+CRIT +20. If STR is +110, CRIT +20.
+Class : ^777777Card^000000
+Location : ^777777Armor^000000
+Weight : ^7777771^000000
 #
 4564#
-Physical attacks from enemies create a high chance of auto casting Level 1 Full Divestment.
-Hit +20. If LUK 110 or greater, additional Hit +20.
-Class: ^777777Card^000000
-Location: ^777777Armor^000000
-Weight: ^7777771^000000
+Has high chance to cast Lv 1 Full Divestment upon receiving physical damage.
+HIT +20. If LUK is +110, HIT + 20.
+Class : ^777777Card^000000
+Location : ^777777Armor^000000
+Weight : ^7777771^000000
 #
 4565#
-Magic attacks from enemies create a high chance of auto casting Level 10 Grand Cross.
-MHP +10%. If INT 110 or greater, additional MHP +10%.
-Class: ^777777Card^000000
-Location: ^777777Armor^000000
-Weight: ^7777771^000000
+Has high chance to cast Lv 10 Grand Cross upon receiving physical damage.
+Max HP +10%. If INT is +110, Max HP + 10%.
+Class : ^777777Card^000000
+Location : ^777777Armor^000000
+Weight : ^7777771^000000
 #
 4566#
-Enables Level 10 Lady Luck (if equipped with a Musical Instrument/Whip).
-Flee +20. If VIT 110 or greater, additional Flee +20.
-Class: ^777777Card^000000
-Location: ^777777Armor^000000
-Weight: ^7777771^000000
+Equip on Instrument or Whip, able to cast Lv 10 Lady Luck.
+FLEE +20. If VIT +110, FLEE + 20.
+Class : ^777777Card^000000
+Location : ^777777Armor^000000
+Weight : ^7777771^000000
 #
 4567#
-Flee +10.
-(For Bard classes) MHP +10%, MSP +5%.
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+FLEE +10.
+Using Bard classes, Max HP +10%, Max SP +5%.
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4568#
-Flee +10.
-Enables Level 1 Hocus Pocus.
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+FLEE +10.
+Able to cast Lv 1 Hocus-pocus.
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4569#
-Flee +10.
-Enables Level 2 Summon Spirit Sphere.
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+FLEE +10.
+Able to cast Lv 2 Summon Spirit Sphere.
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4570#
-Flee +10.
-Red/Yellow/Condensed White Potions effectiveness +200%.
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+FLEE +10.
+Increase healing effect of Red, Yellow, White Slim Potion by 200%.
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4571#
-Flee +10.
-Enables Level 1 Close Confine.
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+FLEE +10.
+Able to use Lv 1 Close Confine.
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4572#
-Flee +10.
-Enables Level 3 Guard.
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+FLEE +10.
+Able to use Lv 3 Guard.
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4573#
-Flee +10.
-(For Dancer classes) MHP +10%, MSP +5%.
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+FLEE +10.
+Using Dancer Classes, Max HP +10%, Max SP +5%.
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4574#
-One/Two-Handed Swords ATK +100.
-Class: ^777777Card^000000
-Location: ^777777Weapon^000000
-Weight: ^7777771^000000
+Equip on One-handed Sword or Two-handed Sword, ATK + 100.
+Class : ^777777Card^000000
+Location : ^777777Weapon^000000
+Weight : ^7777771^000000
 #
 4575#
 ATK +10.
-(For Daggers) ASPD +1 when upgraded to +10 and above, additional ASPD +1 when upgraded to +14 and above.
-Class: ^777777Card^000000
-Location: ^777777Weapon^000000
-Weight: ^7777771^000000
+If refine level of Dagger type weapon is +10, ASPD +1.
+If refine level is +14, ASPD +1.
+Class : ^777777Card^000000
+Location : ^777777Weapon^000000
+Weight : ^7777771^000000
 #
 4576#
-Wind/Ghost Magic damage +100%.
-All elemental resistances -30%.
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+Increase Wind and Ghost property magic damage by 100%.
+Decrease resistance against all properties by 30%.
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4577#
-Wind/Ghost Magic damage +20%.
-Class: ^777777Card^000000
-Location: ^777777Accessory^000000
-Weight: ^7777771^000000
+Increase Wind and Ghost property magic damage by 20%.
+Class : ^777777Card^000000
+Location : ^777777Accessory^000000
+Weight : ^7777771^000000
 #
 4578#
-Critical damage +30%.
-Damage from all monster types +10%.
-Class: ^777777Card^000000
-Location: ^777777Weapon^000000
-Weight: ^7777771^000000
+Increase critical damage by 30%.
+Decrease resistance against all races' attack by 10%.
+Class : ^777777Card^000000
+Location : ^777777Weapon^000000
+Weight : ^7777771^000000
 #
 4579#
-(For Maces) ATK +20, CRI +10.
-Additional ATK +1/CRI +1, depending on the upgrade levels.
-Class: ^777777Card^000000
-Location: ^777777Weapon^000000
-Weight: ^7777771^000000
+Equip on Mace type weapon, ATK +20, CRIT +10.
+Based on the refine level, increase above stats by 1.
+Class : ^777777Card^000000
+Location : ^777777Weapon^000000
+Weight : ^7777771^000000
 #
 4580#
-Fire/Water/Earth/Wind/Shadow/Undead Resistances +50%.
-Ghost/Holy damage from enemies +100%.
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+Increase resistance against Fire, Water, Earth, Wind, Shadow and Undead property attack by 50%.
+Decrease resistance against Ghost and Holy property attack by 100%.
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4581#
-Physical attacks from enemies create a chance of increasing Attack Speed for 3 seconds, increasing AGI +44, and casting Endure at the cost of 40 SP.
-Class: ^777777Card^000000
-Location: ^777777Shoes^000000
-Weight: ^7777771^000000
+Has chance to increase movement speed, AGI by 44 for 3 seconds upon receiving physical damage. Activates Endure but consumes 40 SP.
+Class : ^777777Card^000000
+Location : ^777777Shoes^000000
+Weight : ^7777771^000000
 #
 4582#
 Max HP +1% every 2 upgrade levels.
@@ -27899,56 +27900,56 @@ Location: ^777777Armor^000000
 Weight: ^7777771^000000
 #
 4593#
-Long-range Attack Strength +1% for every 10 pure DEX.
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+For every 10 pure DEX, increase range physical damage by 1%.
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4594#
-Critical damage +2% for every 10 pure LUK.
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+For every 10 pure LUK, increase critical damage by 2%.
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4595#
-Bonus on Attack Speed for every 10 pure AGI (-2% post-attack delay).
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+For every 10 pure AGI, increase ASPD (decrease delay after attack by 2%).
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4596#
-MATK +5 every 10 pure INT.
-Class: ^777777Card^000000
-Location: ^777777Garment^000000
-Weight: ^7777771^000000
+For every 10 pure INT, increase MATK by 5.
+Class : ^777777Card^000000
+Location : ^777777Garment^000000
+Weight : ^7777771^000000
 #
 4597#
-MATK +10. Water Magic damage +5%.
-Additional Water Magic damage +5% when upgraded to +9 or above.
-Class: ^777777Card^000000
-Location: ^777777Helm^000000
-Weight: ^7777771^000000
+MATK +10, increase Water property magic damage by 5%.
+If refine level is +9, increase Water property magic damage by 5%.
+Class : ^777777Card^000000
+Location : ^777777Headgear^000000
+Weight : ^7777771^000000
 #
 4598#
-MATK +10. Ghost Magic damage +5%.
-Additional Ghost Magic damage +5% when upgraded to +9 or above.
-Class: ^777777Card^000000
-Location: ^777777Helm^000000
-Weight: ^7777771^000000
+MATK +10, increase Ghost property magic damage by 5%.
+If refine level is +9, increase Ghost property magic damage by 5%.
+Class : ^777777Card^000000
+Location : ^777777Headgear^000000
+Weight : ^7777771^000000
 #
 4599#
-MATK +10. Fire Magic damage +5%.
-Additional Fire Magic damage +5% when upgraded to +9 or above.
-Class: ^777777Card^000000
-Location: ^777777Helm^000000
-Weight: ^7777771^000000
+MATK +10, increase Fire property magic damage by 5%.
+If refine level is +9, increase Fire property magic damage by 5%.
+Class : ^777777Card^000000
+Location : ^777777Headgear^000000
+Weight : ^7777771^000000
 #
 4600#
-MATK +10. Earth Magic damage +5%.
-Additional Earth Magic damage +5% when upgraded to +9 or above.
-Class: ^777777Card^000000
-Location: ^777777Helm^000000
-Weight: ^7777771^000000
+MATK +10, increase Earth property magic damage by 5%.
+If refine level is +9, increase Earth property magic damage by 5%.
+Class : ^777777Card^000000
+Location : ^777777Headgear^000000
+Weight : ^7777771^000000
 #
 4601#
 ATK +15%, MATK +15%.
@@ -28000,10 +28001,10 @@ Weight: ^7777771^000000
 #
 4607#
 ATK +5, MATK +5.
-(For Books) ATK +20 and MATK +20 when upgraded to +10 and above. ATK +20, MATK +20 when upgraded to +14 and above.
-Class: ^777777Card^000000
-Location: ^777777Weapon^000000
-Weight: ^7777771^000000
+If refine level of Book type weapon is + 10, ATK +20, MATK +20. If refine level is +14, ATK +20, MATK +20.
+Class : ^777777Card^000000
+Location : ^777777Weapon^000000
+Weight : ^7777771^000000
 #
 4610#
 If the user receives damage that is over a certain ratio of MHP, only receive damage up to the certain ratio. Damage of attacks that deal true damage cannot be decreased.
@@ -37300,6 +37301,20 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Usable By: ^777777All Character Types^000000
 #
+5918#
+A Seal once owned by a legendary gambler. Only those who know what true luck is, will be able to get the seal.
+CRIT +3.
+Increase critical damage by 3%. Decrease damage taken from [Arrow Storm] and [Gates of Hell] by 10%.
+For every 10 pure DEX, decrease critical damage by 2%.
+For every 10 pure LUK, CRIT +1, ATK +2, MATK +2.
+If pure LUK is +108, CRIT +5, increase critical damage by 10%.
+If pure LUK is +120, CRIT +10, increase critical damage by 17%. Decrease damage taken from [Arrow Storm] and [Gates of Hell] by 30%.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^77777750^000000
+Required Level : ^77777770^000000
+Jobs : ^777777All Jobs^000000
+#
 5948#
 A mask for Assassins
 Increases ASPD by 10%
@@ -38192,45 +38207,45 @@ The density and solidity has been heightened by repeated experiments of Midgard'
 Weight : ^7777771^000000
 #
 6228#
-With this certificate, you are guaranteed to refine ^006400your level 4 and below weapon to 9^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time-
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 4 and below weapon to 9^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time-
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 
 Weight : ^7777770^000000
 #
 6229#
-With this certificate, you are guaranteed to refine ^006400your weapon to 8^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time -
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 4 and below weapon to 8^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777770^000000
 #
 6230#
-With this certificate, you are guaranteed to refine ^006400your weapon to 7^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time -
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 4 and below weapon to 7^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777770^000000
 #
 6231#
-With this certificate, you are guaranteed to refine ^006400your weapon to 6^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time -
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 4 and below weapon to 6^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777770^000000
 #
 6232#
-With this certificate, you are guaranteed to refine ^006400your level 1 armor to 9^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time-
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 1 armor to 9^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time-
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 
 Weight : ^7777770^000000
 #
 6233#
-With this certificate, you are guaranteed to refine ^006400your armor to 8^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time -
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 1 armor to 8^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777770^000000
 #
 6234#
-With this certificate, you are guaranteed to refine ^006400your armor to 7^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time -
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 1 armor to 7^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777770^000000
 #
 6235#
-With this certificate, you are guaranteed to refine ^006400your armor to 6^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time -
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 1 armor to 6^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777770^000000
 #
 6237#
@@ -38238,13 +38253,13 @@ The most famous fruit from Brasilis. This fruit has natural properties that boos
 Weight: ^7777770^000000
 #
 6238#
-With this certificate, you are guaranteed to refine ^006400your weapon to 11^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time -
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 4 and below weapon to 11^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777770^000000
 #
 6239#
-With this certificate, you are guaranteed to refine ^006400your armor to 11^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time -
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 1 armor to 11^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777770^000000
 #
 6240#
@@ -38967,13 +38982,13 @@ Give this to Karen to perform Jingle Bell Rock (Sexy Version) at Lutie
 Weight: ^7777771^000000
 #
 6456#
-With this certificate, you are guaranteed to refine ^006400your weapon to 5^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time -
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 4 and below weapon to 5^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777770^000000
 #
 6457#
-With this certificate, you are guaranteed to refine ^006400your armor to 5^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time -
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 1 armor to 5^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777770^000000
 #
 6464#
@@ -39408,6 +39423,16 @@ Beautiful jewelry with divine power.
 You can only use its great power with legitimate ownership.
 Nothing will happen if obtained illegally.
 Weight: ^7777771^000000
+#
+6584#
+With this certificate, you are guaranteed to refine ^006400your level 4 and below weapon to 12^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+Weight : ^7777770^000000
+#
+6585#
+With this certificate, you are guaranteed to refine ^006400your level 1 armor to 12^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+Weight : ^7777770^000000
 #
 6586#
 ^ff0000This item cannot be traded.^000000
@@ -40480,13 +40505,13 @@ VIP Member for 30 Days
 Weight: ^7777770^000000
 #
 6993#
-With this certificate, you are guaranteed to refine ^006400your weapon to 10^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time -
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 4 and below weapon to 10^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777770^000000
 #
 6994#
-With this certificate, you are guaranteed to refine ^006400your armor to 10^000000 without any failure. Find the ^0000FFRefine Expert^000000 in ^8B4513Prontera^000000. - only for 1 time -
-^ffffff<NAVI>^4D4DFF[Refine Expert]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
+With this certificate, you are guaranteed to refine ^006400your level 1 armor to 10^000000 without any failure. Find the ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - only for 1 time -
+^ffffff<NAVI>^4D4DFF[Refine Master]^000000<INFO>prontera,184,177,0,100,0,0</INFO></NAVI>^000000
 Weight : ^7777770^000000
 #
 6999#
@@ -40854,7 +40879,7 @@ Its thunderous sound
 can be heard for miles. Weight: ^77777750^000000
 #
 7058#
-A iron chain made out of Cat Tread, Woman's Moustache, Root of Stone, Spirit of Fish, Sputum of Bird, and Sinew of Bear. Although it's light and as thin as thread, it is extremely strong.
+A iron chain made out of Cat Tread, Woman's Moustache, Root of Stone, Sputum of Bird, and Sinew of Bear. Although it's light and as thin as thread, it is extremely strong.
 Weight : ^77777750^000000
 #
 7059#
@@ -48856,6 +48881,11 @@ A box that contains30 Earth Armor Scrolls.
 Which can endow a character with the Earth property for a 30 minute duration.
 Even upon death, the effect does not disappear.
 ^ffffff_^000000
+Weight : ^7777771^000000
+#
+10627#
+A box that contains 1 shadow synthesis box.
+Use 3 Shadow Equipment to get a random Shadow Equipment. Chance to get higher grade Shadow Equipment.
 Weight : ^7777771^000000
 #
 11000#
@@ -62568,7 +62598,7 @@ Box contents: 1 of the following:
 Weight: ^7777771^000000
 #
 14614#
-Potion that made from dragon's strong skin, elf's mustache and special medicine.
+Potion that is made from dragon's strong skin, elf's mustache and special medicine.
  
 Increase resistance against physical and magic damage by 3% for 30 mins.
 ^000088If the character becomes incapacitated, the item effect will also disappear.^000000
@@ -62999,6 +63029,10 @@ Weight : ^7777771^000000
 #
 14895#
 A special hair style box
+Weight : ^7777771^000000
+#
+14896#
+A special hair style box.
 Weight : ^7777771^000000
 #
 14906#
@@ -70427,7 +70461,7 @@ A halter lead that summons an animal to ride on.
 Weight : ^7777771^000000
 #
 17176#
-Box Contents: Riding Halter. Item will be available for 3 days.
+Box Contents: Boarding Halter. Item will be available for 3 days.
 ^FFFFFF_^000000
 ^FF0000Non-tradeable^000000
 ^ff0000Box not tradeable once opened.^000000
@@ -72994,22 +73028,19 @@ Req Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18574#
-The Helm of the Lord of Death
-MDEF + 5.
-Increase Damage to Boss Type Monsters by 10%
-Take 5% more damage from normal Monsters and Players.
-For every upgrade 5 and higher add 1% more damage to Boss Class monsters.
-^99FF66Set Bonus^000000
-^00FF00Lord of the Dead Helm^000000
-^00FF00Abysmal Knight Card^000000
-Increase Damage to Boss Type Monster by additional 5%.
-If Lord of the Dead Helm +11, negates the damage from normal Monsters and Players.
-^ff0000The Abysmal Knight Card effect is only effective once.^000000
-Location: ^777777Upper Middle^000000
-Defense: ^77777710^000000
-Weight: ^777777100^000000
-Required Level: ^77777770^000000
-Jobs: ^777777All^000000
+The helm of the Lord of Death.
+ 
+All Stats +1, MDEF +5.
+Increase physical damage to Boss class enemies by 10%.
+Increase damage taken from Normal class enemies by 5%.
+ 
+For every refine level after +4, increase physical damage to Boss class enemies by 1%.
+ 
+Class : ^777777Headgear^000000 Defense : ^77777710^000000
+Location : ^777777Upper/Middle^000000
+Weight : ^777777100^000000
+Required Level : ^77777770^000000
+Jobs : ^777777All Jobs^000000
 #
 18575#
 ^808080A suspicious box that has eyebrows. 
@@ -73660,14 +73691,14 @@ Weight: ^77777730^000000
 Location: ^777777All^000000
 #
 18647#
-The Stunning Star Eyepatch is absolutely fabulous!
-It's so fabulous that you are 15% less likely to be inflicted with Stun status.
-^ff0000Account Bound^000000
-Class: ^777777Headgear^000000
-Defense: ^7777770^000000
-Location: ^777777Upper^000000
-Weight: ^77777710^000000
-Jobs: ^777777All^000000
+A Stunning Star Eyepatch that is absolutely fabulous!
+Increase resistance against Stun by 15%.
+ 
+Class : ^777777Headgear^000000    Defense : ^7777770^000000
+Location : ^777777Upper^000000
+Weight : ^77777710^000000
+Required Level: ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 18648#
 A charm once used to scare and expel demons.
@@ -75661,9 +75692,9 @@ Jobs: ^777777All^000000
 #
 18885#
 A colorful cap for JeJeling.
-Increase Mastela Fruit restore rate by 50%
-For every 3 refine level, increase resistance against Demi-human by 4%
-If refined to +12, decrease damage taken from all monsters by 5%
+Increase Mastela Fruit restore rate by 50%.
+For every 3 refine level, increase resistance against Demi-human enemies by 4%.
+If refined to +12, decrease damage taken from all monsters by 5%.
 
 Class : ^777777Headgear^000000 Defense : ^7777778^000000
 Location : ^777777Upper^000000 Weight : ^77777710^000000
@@ -75754,9 +75785,9 @@ Job: ^777777All jobs^000000
 #
 18893#
 I feel the power of a flame dragon flowing inside me!
-Decrease damage taken from Dragon and Demi-human by 8%
+Decrease damage taken from Dragon and Demi-human enemies by 8%.
 Increase recovery rate of Meat by 200%.
-If refine level is +12, increase Max HP by 7%, Max SP by 3%.
+If refine level is +12, increase MHP by 7%, MSP by 3%.
  
 Class : ^777777Headgear^000000 Defense : ^7777775^000000
 Location : ^777777Upper ^000000Weight : ^777777100^000000
@@ -77626,14 +77657,12 @@ Equip Level: ^7777771^000000
 Equipped By: ^777777All Classes^000000
 #
 19290#
-^808080The horns from an elder devil.
-Look charming and scary at the same time.^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Horns from an elder devil. This costume has a great magical powers.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19291#
 A costume that exactly looks like a Shiba Inu.
@@ -77663,6 +77692,24 @@ Location: ^777777Upper ^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
+#
+19296#
+A small hat with a very impressive leather quality.
+ 
+For every 2 refine level, ATK +15. 
+If refine level is +7, increase ranged physical damage by 7%.
+If refine level is +9, ATK +5%, ASPD +1. 
+If refine level is +11, increase ranged physical damage by 5%. 
+For every refine level after +10, decrease fixed cast time by 0.1 second (Maximum refine level +15)
+ 
+Equip with Piece Of Angent Skin, for every 2 refine level of the garment, increase damage of the Arrow Storm by 12%. 
+Equip with Leather of Tendrilion, for every 2 refine level of the garment, increase damage of the Severe Rainstorm by 7%. 
+Equip with Ancient Cape, for every 2 refine level of the garment, increase damage of the Triangle Shot by 15%. 
+ 
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19301#
 Beer tastes best after showers!!
@@ -78279,13 +78326,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19519#
-A dark thunder cloud that rivals the bolts created by Thor... Well maybe not.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+A dark thunder cloud that looks very dangerous.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19520#
 Rain cloud above your head.
@@ -82873,17 +82919,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 20290#
-It arouses the wearer's solitary and cynical mood.
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted at Eden 2nd floor with NPC Costama Girl (Located on 33, 185)
-^FFFFFF_^000000
-Type: ^777777Costume equipment^000000
-DEF: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Lv.: ^7777771^000000
-Class: ^777777All classes^000000
+It arouses wearer's solitary and cynical mood.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20293#
 ^808080A hat modeled after the monster Sleeper living in Juno fields.^000000
@@ -84969,18 +85010,13 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20590#
-^808080A black cross containing the power of darkness.
-Surely that it can't protect you from the evil^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted at Eden 2nd floor with NPC Costama Girl (Located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Garment ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+An imitation cross that can commonly be seen on an Evil Druid.
+Great for occasions when you want to feel like an evil priest.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Garment^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20591#
 ^808080A big bow that Hawkeye used during his fight.^000000
@@ -85324,18 +85360,17 @@ Required Level : ^77777770^000000
 Jobs : ^777777All Jobs^000000
 #
 20735#
-^000088Rental Item^000000
-A manteau with fire spirit powers.
-It is protected by flames all the time.
-Decreases damage from Fire property attacks 10%.
-Increases damage from Water property attacks 10%.
-Reflect 10% of physical damage received.
-Damage can be increased twice as much as the refine level.
-Indestructible.
-Class: ^777777Garment^000000 Defense: ^77777710^000000
-Weight: ^77777730^000000
-Required LV: ^77777771^000000
-Job: ^777777All^000000
+A manteau with fire spirit. It is protected by fire all the time.
+ 
+Increase resistance against Fire property attack by 10%.
+Decrease resistance against Water property attack by 10%.
+Deflect 10% of melee physical damage taken.
+Increase the deflect rate of melee physical damage taken by (refine level x2)%.
+ 
+Class : ^777777Garment^000000  Defense : ^77777710^000000
+Weight : ^77777730^000000
+Required Level : ^77777770^000000
+Jobs : ^777777All Jobs^000000
 #
 20737#
 ^808080An animal's wing that is from the ancient East made for a costume^000000
@@ -85904,6 +85939,20 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
+20962#
+Decrease damage taken from Fish and Demi-human enemies by 5%.
+Increase resistance against Neutral, Poison property attack by 5%.
+ 
+MDEF +10, AGI+5, VIT+5
+If refine level is +7, restores 10 SP upon defeating monsters with magic attack.
+If refine level is +8, for every 20 pure AGI + VIT, MATK +15, DEF +20
+If refine level is +9, restores 10 SP upon defeating monsters with magic attack.
+ 
+Class : ^777777Garment^000000  Defense : ^77777715^000000
+Weight : ^77777760^000000
+Required Level : ^777777100^000000
+Jobs : ^777777All Jobs^000000
+#
 20982#
 ^808080Baby's Apron of the greatly wizard in Midgard. It contain many mysterious power.^000000
 ^FFFFFF_^000000
@@ -86408,7 +86457,7 @@ Jobs : ^7777773rd Classes Only ^000000
 #
 22035#
 Made of Nepenthes leaves, a known muscle relaxant, these shoes help you cast skills quickly. 
-Floating Casting Time -10%.
+Decreases the Variable Casting Time by 10%.
 Additional -5% when Upgraded to +8. After that, additional -1% every Upgrade level (up to +10).
 Additional -3% when Upgraded to +11. After that, additional -3% every Upgrade level (up to +13).
 Class: ^777777Shoes^000000 DEF: ^77777710^000000
@@ -86534,6 +86583,23 @@ Defense: ^77777710^000000
 Weight: ^77777730^000000
 Required Level: ^77777730^000000
 Jobs: ^777777All^000000
+#
+22055#
+A magical pair of shoes containing the power of fire.
+ 
+MDEF +3. 
+Increase resistance against Fire property attack by 5%. 
+For every refine level, Max HP +1%, Max SP +1%. 
+Equip with Sharel Shield, decrease damage taken from Fire property monsters by 5%. 
+For every refine level of the Sharel Shield, increase resistance against Fire property attack by 2%. 
+ 
+Equip with Sharel Manteau, increase damage to Fire property monsters by 5%. 
+For every refine level of the Sharel Manteau, Max HP +1%, Max SP +1%. 
+ 
+Class : ^777777Shoes^000000  Defense : ^77777712^000000
+Weight : ^77777725^000000
+Required Level : ^77777790^000000
+Jobs : ^777777All Jobs^000000
 #
 22056#
 The shoes that popular among adventurers while they hunting monsters.
@@ -87075,6 +87141,12 @@ Weight: 1
 #
 22517#
 Scroll to summon Loki
+#
+22529#
+A shadow synthesis box.
+Use 3 Shadow Equipment to get a random Shadow Equipment. Chance to get higher grade Shadow Equipment.
+
+Weight : ^7777771^000000
 #
 22534#
 ^808080A fast closed small box created by her dreadful loneliness. Now it can be opened.^000000
@@ -87652,14 +87724,110 @@ We offer the following services at a special price. (Consuming silvervine)
 ^ffffff_^000000 
 Weight : ^7777770^000000
 #
+22909#
+An envelope that contains 1 Safe to 5 Weapon Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 4 and below weapon can be refined.^000000
+Weight : ^7777771^000000
+#
+22910#
+An envelope that contains 1 Safe to 6 Weapon Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 4 and below weapon can be refined.^000000
+Weight : ^7777771^000000
+#
+22911#
+An envelope that contains 1 Safe to 7 Weapon Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 4 and below weapon can be refined.^000000
+Weight : ^7777771^000000
+#
+22912#
+An envelope that contains 1 Safe to 8 Weapon Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 4 and below weapon can be refined.^000000
+Weight : ^7777771^000000
+#
+22913#
+An envelope that contains 1 Safe to 9 Weapon Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 4 and below weapon can be refined.^000000
+Weight : ^7777771^000000
+#
 22914#
 Ç³¼±²­24h
 SetPeriodBuff "EFST_PERIOD_RECEIVEITEM"	86400	100	0	86400
 Weight : ^7777770^000000
 #
+22915#
+An envelope that contains 1 Safe to 11 Weapon Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 4 and below weapon can be refined.^000000
+Weight : ^7777771^000000
+#
+22916#
+An envelope that contains 1 Safe to 12 Weapon Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 4 and below weapon can be refined.^000000
+Weight : ^7777771^000000
+#
+22924#
+An envelope that contains 1 Safe to 5 Armor Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 1 and below armor can be refined.^000000
+Weight : ^7777771^000000
+#
+22925#
+An envelope that contains 1 Safe to 6 Armor Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 1 and below armor can be refined.^000000
+Weight : ^7777771^000000
+#
+22926#
+An envelope that contains 1 Safe to 7 Armor Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 1 and below armor can be refined.^000000
+Weight : ^7777771^000000
+#
+22927#
+An envelope that contains 1 Safe to 8 Armor Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 1 and below armor can be refined.^000000
+Weight : ^7777771^000000
+#
+22928#
+An envelope that contains 1 Safe to 9 Armor Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 1 and below armor can be refined.^000000
+Weight : ^7777771^000000
+#
 22929#
 Àâ±³¹ü25_24h
 SetPeriodBuff "EFST_PERIOD_PLUSJOBEXP"	86400	25	0	86400
+#
+22930#
+An envelope that contains 1 Safe to 11 Armor Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 1 and below armor can be refined.^000000
+Weight : ^7777771^000000
+#
+22931#
+An envelope that contains 1 Safe to 12 Armor Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 1 and below armor can be refined.^000000
+Weight : ^7777771^000000
+#
+22943#
+An envelope that contains 1 Safe to 10 Armor Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 1 and below armor can be refined.^000000
+Weight : ^7777771^000000
+#
+22944#
+An envelope that contains 1 Safe to 10 Weapon Certificate.
+^ff0000Caution! Once you open the envelope, the item cannot be traded with other accounts and
+only equipped level 4 and below weapon can be refined.^000000
+Weight : ^7777771^000000
 #
 22953#
 A box that contains enchantment stones for costume equipment.
@@ -89529,16 +89697,16 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 24052#
-Small extra shield gives you additional defense effect. Not very effective when worn alone.
-1% damage decrease when attacked by human type monsters.
-When refine level is 7, 1% extra damage decrease when attacked by human type monsters.
-When refine level 9, 1% extra damage decrease when attacked by human type monsters.
-When equipped together with ^32CD32Cranial Shield Shadow^000000 and ^32CD32Bloody Shoes Shadow^000000, 3% exp increase when hunting human type monsters.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Shield^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+Decrease damage taken from Demi-human enemies by 1%.
+If refine level is +7, decrease damage taken from Demi-human enemies by 1%.
+If refine level is +9, decrease damage taken from Demi-human enemies by 1%.
+Equip with ^32CD32Cranial Shadow Shield^000000 and ^32CD32Bloody Shoes Shadow^000000, increase EXP gain from Demi-human monsters by 3%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24053#
 Small extra shield gives you additional defense effect. Not very effective when worn alone.
@@ -89649,16 +89817,16 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 24062#
-Special shoes worn over your original shoes. Not very effective when worn alone.
-2% extra damage to human type monsters.
-When refine level is 7, 1% extra damage to human type monsters.
-When refine level 9, 2% extra damage to human type monsters.
-When equipped together with ^32CD32Bloody Shoes Shadow^000000 and ^32CD32Cranial Shield Shadow^000000, 3% exp increase when hunting human type monsters.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Shoes^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+Increase damage to Demi-human enemies by 2%.
+If refine level is +7, increase damage to Demi-human enemies by 1%.
+If refine level is +9, increase damage to Demi-human enemies by 1%.
+Equip with ^32CD32Bloody Shadow Shoes^000000 and ^32CD32Cranial Shadow Shield^000000, increase EXP gain from Demi-human monsters by 3%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shoes^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24063#
 Special shoes worn over your original shoes. Not very effective when worn alone.
@@ -90418,6 +90586,30 @@ Required Level : ^77777750^000000
 Maximum Level : ^77777799^000000
 Job : ^777777All Jobs^000000
 #
+24214#
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+For every 3 refine level, increase EXP gain from monsters by 1%.
+Equip with Advanced Shadow Shoes and Advanced Shadow Shield, increase EXP gain from monsters by 2%.
+If total refine level is +15, increase EXP gain from monsters by 2%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shoes^000000 Weight : ^7777770^000000
+Required Level : ^777777100^000000
+Maximum Level: ^777777149^000000
+Jobs : ^777777All Jobs^000000
+#
+24215#
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+For every 3 refine level, increase EXP gain from monsters by 1%.
+Equip with Advanced Shadow Shield and Advanced Shadow Shoes, increase EXP gain from monsters by 2%.
+If total refine level is +15, increase EXP gain from monsters by 2%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^777777100^000000
+Maximum Level: ^777777149^000000
+Jobs : ^777777All Jobs^000000
+#
 24216#
 An armor worn on top of normal armor for additional defense. Can be equipped alone but needs a complete set to have bonus effect. 
 Has 1 % change to Increase ATK by x5 of refinement level for 3 seconds when dealing physical melee damage.
@@ -91052,6 +91244,18 @@ Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777Gunslinger Classes^000000
 #
+24324#
+A glove that can draw the wearer's potential ability.
+Increase SP recovery by 5%, ATK +1%.
+If refine level is +7, ATK +1%.
+Equip with ^32CD32Spiritual Shadow (Weapon II, Earring, Pendant)^000000,
+has 1% chance to absorb 1% of physical damage dealt as SP.
+For every 10 total refine level, absorb 1% of physical damage dealt as SP.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Weapon^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 24332#
 A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
 CRIT +5. 
@@ -91096,6 +91300,42 @@ Location : ^777777Pendant^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
+24363#
+A glove that can draw the wearer's potential ability.
+Max HP +100.
+For every 2 refine level, Max HP +150.
+Equip with ^32CD32Elegant Shadow (Weapon, Earring, Pendant)^000000,
+For every second, restore 100 HP for 5 seconds upon inflicting magic damage. (1% chance)
+For every 15 total refine level, increase the chance by 1%.
+If refine level is +25, increase HP restore rate by 150.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Weapon ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24364#
+A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
+MATK +5.
+Max HP +1%.
+For every 2 refine level, Max HP +50.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Earring^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24365#
+A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.
+MATK +5.
+Increase heal receive effect and potion recovery rate by 2%. 
+For every 3 refine level, increase heal receive effect and potion recovery rate by 1%. 
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Pendant^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 24366#
 A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
 MATK +10.
@@ -91117,6 +91357,98 @@ If total refine level of ^32CD32Healing Shadow (Weapon, Shield and Shoes)^000000
  
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shoes^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24373#
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+Increase DEF pierce by 5% on normal enemies.
+For every 2 refine level, increase DEF pierce by 1% on normal enemies.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shoes^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24374#
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+Increase DEF pierce by 5% on normal enemies.
+For every 2 refine level, increase DEF pierce by 1% on normal enemies.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24393#
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+Decrease delay after attack by 2%.
+If refine level is +7, decrease delay after attack by 3%.
+If refine level is +9, decrease delay after attack by 3%.
+Class : ^777777Shadow Equipment^000000 
+Location : ^777777Shoes^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24394#
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+Max HP +200.
+If refine level is +7, Max HP +2%.
+If refine level is +9, Max HP +3%.
+Class : ^777777Shadow Equipment^000000 
+Location : ^777777Shield^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24395#
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+ATK +20.
+If refine level is +7, ATK +2%.
+If refine level is +9, ATK +3%.
+Equip with ^32CD32Physical Shadow (Armor, Shield, Shoes)^000000, 
+increase ATK by the total refine level x 2.
+If total refine level is +23, ATK +2%.
+If total refine level is +25, ATK +3%.
+Class : ^777777Shadow Equipment^000000 
+Location : ^777777Armor^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24396#
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+Decrease variable cast time by 2%.
+If refine level is +7, decrease variable cast time by 3%.
+If refine level is +9, decrease variable cast time by 3%.
+Class : ^777777Shadow Equipment^000000 
+Location : ^777777Shoes^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24397#
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+Max SP +100.
+If refine level is +7, Max SP +2%.
+If refine level is +9, Max SP +3%.
+Class : ^777777Shadow Equipment^000000 
+Location : ^777777Shield^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24398#
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+MATK +20.
+If refine level is +7, MATK +2%.
+If refine level is +9, MATK +3%.
+Equip with ^32CD32Magical Shadow (Armor, Shield, Shoes)^000000,
+increase MATK by the total refine level x 2.
+If total refine level is +23, MATK +2%.
+If total refine level is +25, MATK +3%.
+Class : ^777777Shadow Equipment^000000 
+Location : ^777777Armor^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -94825,6 +95157,14 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000 
 Jobs: ^777777All^000000
 #
+31140#
+A black cowboy hat notoriously worn by western villains.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 31149#
 ^808080You want to be a mermaid? Here is your chance!^000000
 ^ffffff_^000000
@@ -95918,6 +96258,70 @@ Location : ^777777Middle^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
+31341#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31342#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31343#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31344#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31345#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31346#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31347#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31348#
+A costume hair which can be attached to the hair for different hair style.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 31349#
 A costume hair which can be attached to the hair for different hair style.
  
@@ -96405,6 +96809,15 @@ Location: ^777777Lower ^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
+#
+31479#
+Countless Stars shining in the sky.
+While wearing this you feel as if you are the center of everything.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31483#
 Cute cat ear decorated with a lovely pink ribbon with heart aura around it.
@@ -100067,6 +100480,30 @@ Weight : ^7777771^000000
 If you are looking for an item, it will be under the moonlight.
 Weight : ^7777771^000000
 #
+101831#
+"DON'T DEAD OPEN INSIDE"
+Weight : ^7777771^000000
+#
+101844#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
+101845#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
+101846#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
+101847#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
 200000#
 Gains 1 fly wing when consumed.
 Weight: ^7777771^000000
@@ -100142,6 +100579,11 @@ _
 - Weapon with + 7 refine level will not be destroyed during refinement! But cannot refine above +10. -
 (If refinement fails it will downgrade by 1.)
 _
+Weight : ^7777771^000000
+#
+200233#
+A box that contains 5 shadow synthesis boxes.
+Use 3 Shadow Equipment to get a random Shadow Equipment. Chance to get higher grade Shadow Equipment.
 Weight : ^7777771^000000
 #
 300000#
@@ -100220,6 +100662,15 @@ Location: ^777777Lower ^000000 Weight: ^77777720^000000
 Required Level: ^77777710^000000
 Jobs: ^777777All Jobs^000000
 #
+420016#
+A costume paper doll that floats around your body.
+It is said to have magical powers to prevent disasters on behalf of its owner.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 420029#
 A replica of the carapace worn by the legendary royal guard.
  
@@ -100240,6 +100691,15 @@ Jobs : ^777777All Jobs^000000
 420047#
 A costume cape that is said to be awarded to a honorable and brave knight.
 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+420053#
+A costume with Deviruchi's shadow on it.
+It is definitely a shadow but rumor has it that sometimes this shadow is moving.
+ 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Lower^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
