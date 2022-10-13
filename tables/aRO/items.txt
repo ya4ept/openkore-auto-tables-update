@@ -1546,6 +1546,7 @@
 2590#Buwaya Sack Cloth#
 2591#Buwaya Sack Cloth (Bayani)#
 2596#샤렐 망토#
+2597#Scarlet Poncho#
 2598#(null)#
 2601#Ring#
 2602#Earring#
@@ -2655,7 +2656,7 @@
 4934#무속성 내성2Lv#
 4935#무속성 내성3Lv#
 4936#ATK Large +1%#
-4937#ATK Middle +1%#
+4937#ATK Medium +1%#
 4938#ATK Small +1%#
 4939#CRI Lv 2#
 4940#CRI Lv 3#
@@ -2776,7 +2777,7 @@
 5101#Takius's Blindfold#
 5102#Blank Eyes#
 5103#Sunflower Hairpin#
-5104#Dark Blinkers#
+5104#Dark Blinder#
 5105#2nd Anniversary Hat#
 5106#2nd Anniversary Hat#
 5107#Crunch Toast#
@@ -3407,11 +3408,12 @@
 5912#의상 악마의 하수인#
 5914#Costume Flutter Butterfly#
 5918#Gambler's Seal#
+5933#Crow Tengu Mask#
 5948#로키의 어쌔신 마스크#
 5949#머리위의 브라#
 5963#날개 헤드폰#
 5967#Frenzy Galapago (OSM)#
-5973#Ancient Elven Ears#
+5973#Ancient Elven Ear#
 5977#Costume Poker Card In Mouth#
 5979#Costume Fluttering Angel's Wing#
 5980#Costume Classical Feather Hat#
@@ -3721,7 +3723,7 @@
 6468#Sexy Perfume#
 6469#Will Of Warrior#
 6470#Blood Thirst#
-6471#Goast Chill#
+6471#Ghost Chill#
 6473#Soul of Toucan#
 6474#Soul of Curupira#
 6475#Soul of Jarguar#
@@ -6219,7 +6221,7 @@
 14534#Saving Life Potion#
 14535#Medium Life Potion#
 14536#Abrasive#
-14537#Cream Soda#
+14537#Regeneration Potion#
 14538#Glass of Illusion#
 14539#Shadow Armor Scroll#
 14540#Holy Armor Scroll#
@@ -7009,7 +7011,7 @@
 18606#티어 드롭#
 18607#Blush S#
 18608#Small Ribbons S#
-18609#Dark Blinkers S#
+18609#Dark Blinder#
 18611#(null)#
 18612#White Musang Hat#
 18613#Black Musang Hat#
@@ -7111,6 +7113,7 @@
 18734#TE WoE Magic eyes#
 18736#Unknown request#
 18737#Tinder Mask#
+18738#White Boy's Cap#
 18739#카네이션 머리띠#
 18740#Costume Hair of Strong#
 18741#도깨비 불#
@@ -7299,7 +7302,7 @@
 19021#기간트 헬름#
 19022#부유하는 현자의 돌#
 19023#여왕 스카라바의 투구#
-19024#프로텍트 페더#
+19024#Protect Feathers#
 19025#강아지귀 모자#
 19026#에기르 헬름#
 19027#10식 차가운 눈#
@@ -7360,12 +7363,14 @@
 19268#Giant God Snake Breath#
 19275#[Rental] Scuba Mask#
 19277#Soda In Mouth#
+19288#Costume Giant's Helm#
 19290#Costume Elder Devil Horn#
 19291#Costume Shiba Inu#
 19292#Costume Smokie Tail Knit Cap#
 19294#Costume Meowth Cyber Punk#
 19296#Classical Feather Hat#
 19301#Beer Cap#
+19364#Engineer's Cap#
 19368#Flowery Vision PH#
 19377#(null)#
 19378#[임대] 북 오브 매직#
@@ -7406,7 +7411,7 @@
 19413#머리에 내려앉은 눈꽃#
 19414#포링 알림이 모자#
 19502#T고글#
-19507#Fine Sun#
+19507#Costume Shining Sun#
 19509#Butterfly Wing Ear#
 19510#Nut On Head#
 19511#파란 하트눈 안대#
@@ -7416,7 +7421,7 @@
 19515#Yellow Hat#
 19516#Singing Bird#
 19517#Costume KFZ Hairband#
-19518#Rainbow#
+19518#Costume Rainbow#
 19519#Costume Lightning Cloud#
 19520#Costume Rain Cloud#
 19521#Charlie Hat#
@@ -7963,7 +7968,7 @@
 20334#의상 조이스틱 햇#
 20335#Costume 2 Different Tears#
 20336#의상 입에 무는 설탕 과일#
-20337#(null)#
+20337#Costume Mohican Mask#
 20338#의상 무지개 낙지 모자#
 20339#의상 플라워 섬머 햇#
 20340#의상 스트레이트 포니 검정색#
@@ -8052,6 +8057,7 @@
 20490#Costume Full Bloom HP(Blue)#
 20499#Costume Gothic Cat Ear Hat (B)#
 20500#(null)#
+20502#Costume Little Devil Wings#
 20504#Costume Cupid's Pink Wings#
 20506#Costume Invisible Cape#
 20507#Costume Poring Bag#
@@ -8117,6 +8123,7 @@
 20601#Costume 99LV Rune Red#
 20602#Costume Ace of Angel Wing (Sweet)#
 20603#Costume Ulysses Butterfly#
+20605#Costume Leaf Umbrella#
 20700#Egir Manteau#
 20702#TE WoE Muffler#
 20703#TE WoE Cloak#
@@ -8350,6 +8357,7 @@
 22979#[Not For Sale] Field x Gum Manual#
 22991#Soccer Cake#
 22997#Endless Greed Scroll#
+23001#Enchanted Stone Box Vol.8#
 23008#Bubble Gum 24Hours#
 23010#Battle Manual 24Hours#
 23011#Lufe Insurance 24Hours#
@@ -8412,24 +8420,24 @@
 23330#Buffy Party Fly Wing Box#
 23331#Weekly Fly Wing Box#
 23340#[Not For Sale] Megaphone#
-23342#Sales(Beginner) 1-day Certificate of Employment#
-23343#Sales(General) 1-day Certificate of Employment#
-23344#Sales(Master) 1-day Certificate of Employment#
-23345#Purchases(Beginner) 1-day Certificate of Employment#
-23346#Purchases(General) 1-day Certificate of Employment#
-23347#Purchases(Master) 1-day Certificate of Employment#
-23348#Purchases(Beginner) Certificate of Employment#
-23349#Purchases(General) Certificate of Employment#
-23350#Purchases(Master) Certificate of Employment#
-23351#Purchases(Beginner) Certificate of Employment#
-23352#Purchases(General) Certificate of Employment#
-23353#Purchases(Master) Certificate of Employment#
-23354#Sales(Beginner) 3-day Certificate of Employment#
-23355#Sales(General) 3-day Certificate of Employment#
-23356#Sales(Master) 3-day Certificate of Employment#
-23357#Purchases(Beginner) 3-day Certificate of Employment#
-23358#Purchases(General) 3-day Certificate of Employment#
-23359#Purchases(Master) 3-day Certificate of Employment#
+23342#Sales(Beginner) 1-Day Cert#
+23343#Sales(General) 1-Day Cert#
+23344#Sales(Master) 1-Day Cert#
+23345#Purchases(Beginner) 1-Day Cert#
+23346#Purchases(General) 1-Day Cert#
+23347#Purchases(Master) 1-Day Cert#
+23348#Sales(Beginner) Cert#
+23349#Sales(General) Cert#
+23350#Sales(Master) Cert#
+23351#Purchases(Beginner) Cert#
+23352#Purchases(General) Cert#
+23353#Purchases(Master) Cert#
+23354#Sales(Beginner) 3-Day Cert#
+23355#Sales(General) 3-Day Cert#
+23356#Sales(Master) 3-Day Cert#
+23357#Purchases(Beginner) 3-Day Cert#
+23358#Purchases(General) 3-Day Cert#
+23359#Purchases(Master) 3-Day Cert#
 23362#Pig Potato#
 23363#Watermelon Pudding#
 23364#Criatura Pope Cookie#
@@ -8442,7 +8450,7 @@
 23377#Earth Armor Scroll#
 23434#Earth Scroll#
 23435#Cat Cash Scroll#
-23436#Holgren's Shadow Refine Hammer#
+23436#Holgren Shadow Refine Hammer#
 23437#Siege White Potion Box#
 23445#Thanksgiving Turkey#
 23446#Wild Boar Trap#
@@ -8538,7 +8546,7 @@
 24056#Homers Shield Shadow#
 24057#Dragoon Shadow Shield#
 24058#Satanic Shield Shadow#
-24059#Flameguard Shield Shadow#
+24059#Flameguard Shadow Shield#
 24060#Requiem Shadow Shield#
 24061#Cadi Shield Shadow#
 24062#Bloody Shadow Shoes#
@@ -8548,11 +8556,13 @@
 24066#Insecticide Shoes Shadow#
 24067#Fisher Shoes Shadow#
 24068#Seraphim Shoes Shadow#
-24069#Beholder Shoes Shadow#
+24069#Beholder Shadow Shoes#
 24070#Divine Shadow Shoes#
 24071#Dragoon Shadow Shoes#
 24072#Large Shadow Armor#
+24074#Small Shadow Armor#
 24075#Large Shadow Weapon#
+24077#Small Shadow Weapon#
 24078#Spiritual Shadow Weapon#
 24079#Spiritual Shadow Earring#
 24080#Spiritual Shadow Pendant#
@@ -8605,6 +8615,8 @@
 24220#Fire Bolt Shadow Armor#
 24221#Lightning Bolt Shadow Armor#
 24222#Earth Spike Shadow Armor#
+24236#Boned Shadow Earring#
+24237#Boned Shadow Pendant#
 24238#Gigantic Shadow Earring#
 24239#Gigantic Shadow Pendant#
 24240#Caster Shadow Shoes#
@@ -8697,6 +8709,21 @@
 25015#EXP Stone (Lower)#
 25016#ATK Stone (Lower)#
 25017#MATK Stone (Lower)#
+25058#Twinkle Effect (Upper)#
+25059#Ghost Effect (Middle)#
+25060#Critical Stone (Middle)#
+25061#Range Stone (Middle)#
+25062#Greed Stone (Lower)#
+25063#Max HP Stone (Lower)#
+25064#Max SP Stone (Lower)#
+25065#Detoxify Stone (Lower)#
+25066#Status Recovery Stone (Lower)#
+25067#Casting Stone (Garment)#
+25068#ASPD Stone (Upper)#
+25069#Reload Stone (Upper)#
+25070#Reload Stone (Middle)#
+25071#Reload Stone (Lower)#
+25072#Kyrie Stone (Lower)#
 25073#Old Papyrus#
 25074#Old Coin#
 25075#Admiral's Sword#
@@ -8733,6 +8760,7 @@
 25123#Job Map#
 25132#Pumpkin Deco#
 25133#Dry White Stem#
+25138#Shrink Effect (Middle)#
 25145#Cute But Cursed Doll#
 25150#Alice Anime Pillow#
 25152#Cherish Bouquet#
@@ -8965,6 +8993,20 @@
 29031#MATK +1% (Lower)#
 29032#SP Absorb 1#
 29033#MDEF +4#
+29040#Ghost Effect#
+29041#Twinkle Effect#
+29046#Greed#
+29047#Critical#
+29048#Expert Archer#
+29049#HP +100#
+29050#SP +50#
+29051#Detoxify#
+29052#Status Recovery#
+29053#After Skill Delay1 Upper#
+29054#After Skill Delay1 Middle#
+29055#After Skill Delay1 Lower#
+29056#Decrease Fixed Cast Time#
+29057#Kyrie Eleison#
 29239#HIT+5#
 29380#ATK + 5#
 29381#MATK + 5#
@@ -9045,7 +9087,7 @@
 31176#Costume Bear Reaper#
 31177#Costume Tail Hat#
 31178#Costume Fire Muffler#
-31179#Costume She Wolf#
+31179#Costume Wolf Masquerade#
 31180#Costume Shura King Pledge#
 31181#Costume Rosario's Necklace#
 31183#Costume Dark Pupid Wing#
@@ -9235,7 +9277,7 @@
 31589#Costume Golden Majestic Goat#
 31591#Costume Crown Of Saint#
 31593#Costume Yellow Scarf#
-31596#Costume Queen of Spider#
+31596#Costume Spider Seduction#
 31599#Costume IU's Hairstyle (Peach)#
 31600#Costume Ghost Shiba#
 31611#Costume Dark Snake Lord Muffler#
@@ -9286,7 +9328,7 @@
 31669#Costume Greentea Whisper#
 31670#Costume Miyabi Hairstyle (Dark)#
 31671#Costume Silvia Cannon#
-31672#Costume Little Mermaid#
+31672#Costume Mermaid Wig#
 31673#Costume Picnic Basket#
 31674#Costume Melody of Jitterbug#
 31675#Costume Orange Flavor Hat#
@@ -9295,7 +9337,7 @@
 31684#Costume Idol Hairstyle#
 31685#Costume Taeyeon's Hairstyle#
 31686#Costume Babe Descrt Wolf#
-31687#Costume Genetic's Square Bag#
+31687#Costume Alchemist Square Bag#
 31688#Costume Whisper of Poring#
 31693#Costume Lunatic Muffler#
 31695#Costume Tree Sprout#
@@ -9358,7 +9400,7 @@
 31879#Costume Jimin Hairstyle (Lime)#
 31880#Costume Jimin Hairstyle (Charcoal)#
 31881#Costume Jimin Hairstyle (Milk Tea)#
-31885#Costume Earth Aura#
+31885#Costume Earthbender#
 31888#Costume White Tiger Doll#
 31910#Costume Santa's Beard#
 31915#Costume Barbara Hairstyle#
@@ -9406,7 +9448,7 @@
 100933#[Not For Sale]Potion Box#
 101047#Blacksmith Blessing Box 3#
 101097#[Kachua]Infinity Drink#
-101165#Costume Set MSP#
+101165#Designer Heidam#
 101191#Kachua's Secret Box#
 101297#Guardian Set Box#
 101298#Raider Set Box#
@@ -9493,6 +9535,7 @@
 101845#9000 KP Box#
 101846#18000 KP Box#
 101847#36000 KP Box#
+101855#Tengu Egg#
 200000#IDTest Cash#
 200190#Box of 1 Nyangvine#
 200210#Almighty package#
@@ -9504,9 +9547,11 @@
 200227#[Limited] HD Oridecon 5 Box#
 200233#Shadow Synthesis 5 Box#
 300000#IDTest Card#
+310330#Range Stone (Middle)#
 400115#Costume Angeling Bread Hat#
 400163#Costume Whale Cap#
 400225#Costume Fluffy Rabbit Cape#
+410062#Costume Carefree Face#
 410068#Costume Fish Marche#
 410107#Costume Straw Rice Bag#
 420000#Isabella's Carrot#
@@ -9518,6 +9563,7 @@
 420053#Costume Shadow Devil#
 420071#Costume Feather Stola#
 420078#Costume Ghost Bat#
+420111#Costume Rocking Short#
 440002#Costume Happy Cat#
 450000#IDTest armor#
 450211#Guardian Mail#

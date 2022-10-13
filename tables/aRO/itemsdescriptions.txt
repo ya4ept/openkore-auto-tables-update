@@ -18872,6 +18872,21 @@ Weight: ^77777770^000000
 Required level: ^77777765^000000
 Jobs: ^777777All jobs available^000000
 #
+2597#
+A scarlet poncho that has a blood stain on it.
+It also has a hood that can cover your face. 
+ 
+Increase critical damage by 3%.
+Equip with Critical Ring,
+Critical damage +5%, CRIT +10.
+If refine level is +5, critical damage +3%.
+If refine level is +7, critical damage +4%.
+ 
+Class : ^777777Garment^000000  Defense : ^77777720^000000
+Weight : ^77777770^000000
+Required Level : ^77777765^000000
+Jobs : ^777777All Jobs^000000
+#
 2598#
 A magical manteau with property.
 Decrease damage -5% from undead property monster.
@@ -19086,8 +19101,8 @@ If the wearer has base STR 90 or higher,
 HIT +10, Flee +10.
 If the wearer has base AGI 90 or higher,
 ATK +10, CRIT +10
-When equipped with Black Cat, inflicts additional damage to large monsters by 8% and Casting Speed -3%.
-When equipped with Cold Heart, damage against medium-sized monsters +8%.
+When equipped with Black Cat, inflicts additional damage to large enemies by 8% and Casting Speed -3%.
+When equipped with Cold Heart, damage against medium size enemies +8%.
 Class: ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight: ^77777710^000000
@@ -19212,15 +19227,6 @@ Jobs: ^777777All^000000
 ^ffffff_^000000
 ^FF0000Groom's Ring^000000
 ^ffffff_^000000
-^FF6633[Item Effect]^000000
-Able to use the skills below.
-^0000FFCome to me, honey ~^000000 Level 1
-^0000FFLoving Touch^000000 Level 1
-^0000FFUndying Love^000000 Level 1
-^0000FFAngelus^000000 Level 10
-^ffffff_^000000
-obtain from ^CC66FFObtain from: Marriage System (MSP Version) ^000000
-^ffffff_^000000
 ^FF0000Character Bounded^000000
 ^ffffff_^000000
 Class: ^777777Armor^000000
@@ -19235,15 +19241,6 @@ Job: ^777777All jobs^000000
 ^808080Your name is engraved on the ring.^000000
 ^ffffff_^000000
 ^FF0000Bride's Ring^000000
-^ffffff_^000000
-^FF6633[Item Effect]^000000
-Able to use the skills below.
-^0000FFCome to me, honey ~^000000 Level 1
-^0000FFLoving Touch^000000 Level 1
-^0000FFUndying Love^000000 Level 1
-^0000FFAngelus^000000 Level 10
-^ffffff_^000000
-obtain from ^CC66FFObtain from: Marriage System (MSP Version) ^000000
 ^ffffff_^000000
 ^FF0000Character Bounded^000000
 ^ffffff_^000000
@@ -20385,7 +20382,7 @@ Jobs: ^7777772nd Transcendent Class^000000
 2746#
 A little something that Assassins should have. There are a number of rumors regarding the blood stain at the end of the blade.
 AGI +3
-When equipped with a Ring of Rogue, damage against medium-size monsters +8%.
+When equipped with a Ring of Rogue, damage against medium size enemies +8%.
 Increase in attack speed (delay after attacking reduces by 3%).
 Class: ^777777Accessory^000000
 Defense: ^7777771^000000
@@ -22863,8 +22860,8 @@ Weight: ^7777771^000000
 #
 4092#
 Increases damage
-inflicted on medium-
-size monsters by 15%.
+inflicted on medium
+size enemies by 15%.
 ATK +5
 Class: ^777777Card^000000
 Location: ^777777Weapon^000000
@@ -24615,7 +24612,7 @@ Weight: ^7777771^000000
 #
 4254#
 Ogretooth Card.
-Receive 25% less damage from medium-size monsters.
+Receive 25% less damage from medium size enemies.
 DEF +1.
 Class: ^777777Card^000000
 Location: ^777777Shield^000000
@@ -27679,56 +27676,56 @@ Weight: ^7777771^000000
 #
 4560#
 Equip on Instrument or Whip, able to cast Lv 10 Magic Strings.
-FLEE + 20. If VIT is +110, FLEE + 20.
+FLEE + 20. If pure VIT is +110, FLEE +20.
 Class : ^777777Card^000000
 Location : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4561#
 Has high chance to cast Lv 5 Magnetic Earth upon receiving magic damage.
-MATK +7% If DEX is +110, MATK + 7%.
+MATK +7%. If pure DEX is +110, MATK +7%.
 Class : ^777777Card^000000
 Location : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4562#
 Has high chance to cast Lv 5 Occult Impaction upon receiving physical damage.
-Increase physical damage to all enemy classes by 7%. If AGI is + 110, increase physical damage to all enemy classes by 7%.
+Increase physical damage to all enemy classes by 7%. If pure AGI is +110, increase physical damage to all enemy classes by 7%.
 Class : ^777777Card^000000
 Location : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4563#
 Has high chance to cast Lv 5 Acid Terror upon receiving physical damage. (Consumes Acid Bottle)
-CRIT +20. If STR is +110, CRIT +20.
+CRIT +20. If pure STR is +110, CRIT +20.
 Class : ^777777Card^000000
 Location : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4564#
 Has high chance to cast Lv 1 Full Divestment upon receiving physical damage.
-HIT +20. If LUK is +110, HIT + 20.
+HIT +20. If pure LUK is +110, HIT +20.
 Class : ^777777Card^000000
 Location : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4565#
 Has high chance to cast Lv 10 Grand Cross upon receiving physical damage.
-Max HP +10%. If INT is +110, Max HP + 10%.
+Max HP +10%. If pure INT is +110, Max HP + 10%.
 Class : ^777777Card^000000
 Location : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4566#
 Equip on Instrument or Whip, able to cast Lv 10 Lady Luck.
-FLEE +20. If VIT +110, FLEE + 20.
+FLEE +20. If pure VIT is +110, FLEE +20.
 Class : ^777777Card^000000
 Location : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 4567#
 FLEE +10.
-Using Bard classes, Max HP +10%, Max SP +5%.
+When using by Bard classes, Max HP +10%, Max SP +5%.
 Class : ^777777Card^000000
 Location : ^777777Garment^000000
 Weight : ^7777771^000000
@@ -27770,7 +27767,7 @@ Weight : ^7777771^000000
 #
 4573#
 FLEE +10.
-Using Dancer Classes, Max HP +10%, Max SP +5%.
+When using by Dancer classes, Max HP +10%, Max SP +5%.
 Class : ^777777Card^000000
 Location : ^777777Garment^000000
 Weight : ^7777771^000000
@@ -27804,14 +27801,14 @@ Weight : ^7777771^000000
 #
 4578#
 Increase critical damage by 30%.
-Decrease resistance against all races' attack by 10%.
+Increase damage taken from all class enemies by 10%.
 Class : ^777777Card^000000
 Location : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 4579#
 Equip on Mace type weapon, ATK +20, CRIT +10.
-Based on the refine level, increase above stats by 1.
+For every refine level, ATK +1, CRIT +1.
 Class : ^777777Card^000000
 Location : ^777777Weapon^000000
 Weight : ^7777771^000000
@@ -27824,7 +27821,7 @@ Location : ^777777Garment^000000
 Weight : ^7777771^000000
 #
 4581#
-Has chance to increase movement speed, AGI by 44 for 3 seconds upon receiving physical damage. Activates Endure but consumes 40 SP.
+Has chance to active following effect for 3 seconds upon receiving physical damage. Increase movement speed, increase AGI by 44, activates Endure and consumes 40 SP.
 Class : ^777777Card^000000
 Location : ^777777Shoes^000000
 Weight : ^7777771^000000
@@ -28001,7 +27998,7 @@ Weight: ^7777771^000000
 #
 4607#
 ATK +5, MATK +5.
-If refine level of Book type weapon is + 10, ATK +20, MATK +20. If refine level is +14, ATK +20, MATK +20.
+If refine level of Book type weapon is +10, ATK +20, MATK +20. If refine level is +14, ATK +20, MATK +20.
 Class : ^777777Card^000000
 Location : ^777777Weapon^000000
 Weight : ^7777771^000000
@@ -29035,7 +29032,7 @@ Reduces damage from Neutral property attacks by 3%.
 Increase damage to large-size monsters by 1%
 #
 4937#
-Increase damage to mid-size monsters by 1%
+Increase physical damage to medium size enemies by 1%
 #
 4938#
 Increase damage to small-size monsters by 1%
@@ -30186,13 +30183,13 @@ Jobs: ^777777Every job
 except novice^000000
 #
 5104#
-A blinder enchanted
-with dark magic that adds immunity to Blind and 2% tolerance to the Stun effect.
+A blinder enchanted with dark magic.
+Immune to Blind. Increase resistance against Stun by 2%.
 Class: ^777777Headgear^000000
 Defense: ^7777770^000000
 Location: ^777777Middle^000000
 Weight: ^77777710^000000
-Jobs: ^777777Every job except novice^000000
+Jobs: ^777777All Jobs except Novice classes^000000
 #
 5105#
 A birthday cake replica that won't fit a Dancer
@@ -31446,19 +31443,19 @@ Applicable Jobs: ^777777All^000000
 A hat designed to mimic the look of a terrible magic book that attacks people.
 ^FFFFFF_^000000
 Has a 5% chance to recover 8% of your damage as HP,
-when doing a physical attack.
+when dealing physical attack.
 ----------
 Has a 1% chance to recover 4% of your damage as SP,
-when doing a physical attack.
+when dealing physical attack.
 ----------
 Drains 10 HP every 5 seconds while equipped.
 ^ffffff_^000000
-Class: ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777773^000000
+Class : ^777777Headgear^000000
+Location : ^777777Upper^000000
+Defense : ^7777773^000000
 Weight: ^77777730^000000
-Level: ^77777740^000000
-Job: ^777777All occupations except Novices can be equipped^000000
+Required Level : ^77777740^000000
+Jobs : ^777777All Jobs except Novice^000000
 #
 5209#
 A yellow baseball cap worn to keep the sun from your eyes.
@@ -37315,6 +37312,19 @@ Location : ^777777Middle ^000000Weight : ^77777750^000000
 Required Level : ^77777770^000000
 Jobs : ^777777All Jobs^000000
 #
+5933#
+A mask that carries the grudge of its previous owner.
+ 
+Increase damage to all sizes enemies by 1%.
+Increase ranged physical damage by 2%.
+If pure STR is +108, increase damage to all sizes enemies by 1%, ranged physical damage by 2%.
+If pure STR is +120, increase damage to all sizes enemies by 2%, ranged physical damage by 3%.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777773^000000
+Required Level : ^77777780^000000
+Jobs : ^777777All Jobs^000000
+#
 5948#
 A mask for Assassins
 Increases ASPD by 10%
@@ -37359,18 +37369,13 @@ Required Level: ^77777755^000000
 Usable By: ^777777All Character Types^000000
 #
 5973#
-^808080An accessory with the spirit of an ancient elf who loved nature^000000
-^FFFFFF_^000000
-LUK +10
-MDEF +10
-Perfect Dodge +2
-^FFFFFF_^000000
-Equipment Type: ^777777Headgear^000000
-Defense: ^7777770^000000
-Equip Slot: ^777777Middle^000000
-Weight: ^77777720^000000
-Required Level: ^77777770^000000
-Usable By: ^777777All Character Types^000000
+An accessory with the spirit of an ancient elf who loved nature.
+LUK +10, MDEF +10, Perfect Dodge +2.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^77777720^000000
+Required Level : ^77777770^000000
+Jobs : ^777777All Jobs^000000
 #
 5977#
 ^808080 Gives you a feeling of an advantage over your enemies.^000000
@@ -40118,7 +40123,7 @@ Location: ^777777Upper^000000
 Weight: ^77777710^000000
 #
 6791#
-^0000FFATK + 1% against Medium Size Monsters^000000
+^0000FFATK + 1% against Medium Size Enemies^000000
 ^FFFFFF_^000000
 Give this item to ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 to enchant your costume.
@@ -67145,12 +67150,12 @@ Jobs : ^777777Novice / Swordsman Class / Acolyte Class / Merchant Class^000000
 #
 16024#
 A heavy and powerful iron mace with a rounded top.
-Increase damage to Undead, Demi-human monsters by 10%. Increase damage to Earth property monsters by 10%.
-Class : ^777777Mace^000000    Attack : ^777777165^000000
+Increase damage to Demi-human enemies by 10%. Increase damage to Undead, Earth property monsters by 10%.
+Class : ^777777Mace^000000 Attack : ^777777165^000000
 Weight : ^77777790^000000
 Weapon Level : ^7777774^000000
 Required Level : ^77777740^000000
-Jobs : ^777777 Acolyte Classes^000000
+Jobs : ^777777Acolyte Classes^000000
 #
 16025#
 ^ff0000Cannot be traded.^000000
@@ -73383,11 +73388,13 @@ Required Level: ^77777745^000000
 Available Job: ^777777Every Job^000000
 #
 18609#
-Blinkers enchanted by a dark magic.
-Never be blinded. Tolerance against Stun effect+2%.
-Class: ^777777Headgear^000000    Defense: ^7777770^000000
-Location: ^777777Middle^000000    Weight: ^77777710^000000
-Job: ^777777Every Job except Novice^000000
+A blinder enchanted with dark magic.
+Immune to Blind. Increase resistance against Stun by 2%.
+Class: ^777777Headgear^000000
+Defense: ^7777770^000000
+Location: ^777777Middle^000000
+Weight: ^77777710^000000
+Jobs: ^777777All Jobs except Novice classes^000000
 #
 18611#
 Dark-colored plastic framed glasses, great for looking retro and intelligent! Int +1, Mdef +2.
@@ -73729,15 +73736,24 @@ Jobs: ^777777All^000000
 18652#
 A helmet designed after the God Biter: Fenrir who is also known as Vanargandr.
  
-If refine level is below +5, has 1% chance to absorb 1% of physical damage dealt to enemy as HP.
+If refine level is +4 and below : 
+Has 1% chance to absorb 1% of physical damage dealt to enemy as HP.
 Has 1% chance to absorb 1% of physical damage dealt to enemy as SP.
-If refine level is below +7, has 1% chance to absorb 3% of physical damage dealt to enemy as HP.
+ 
+If refine level is +5 to +6 : 
+Has 1% chance to absorb 3% of physical damage dealt to enemy as HP.
 Has 1% chance to absorb 1% of physical damage dealt to enemy as SP.
-If refine level is below +8, has 3% chance to absorb 5% of physical damage dealt to enemy as HP.
+ 
+If refine level is +7 : 
+Has 3% chance to absorb 5% of physical damage dealt to enemy as HP.
 Has 1% chance to absorb 2% of physical damage dealt to enemy as SP.
-If refine level is below +9, has 5% chance to absorb 5% of physical damage dealt to enemy as HP.
+ 
+If refine level is +8 : 
+Has 5% chance to absorb 5% of physical damage dealt to enemy as HP.
 Has 1% chance to absorb 2% of physical damage dealt to enemy as SP.
-If refine level is below +10, has 6% chance to absorb 8% of physical damage dealt to enemy as HP.
+ 
+If refine level is +9 and above : 
+Has 6% chance to absorb 8% of physical damage dealt to enemy as HP.
 Has 2% chance to absorb 4% of physical damage dealt to enemy as SP.
  
 Class : ^777777Headgear^000000 Defense : ^77777710^000000
@@ -74519,6 +74535,16 @@ Location: ^777777Middle ^000000
 Weight: ^77777720^000000
 Required Level: ^77777710^000000
 Job: ^777777All jobs^000000
+#
+18738#
+A white crude hat usually worn by the leader of students.
+Has a chance to cast Lv 1 Weapon Perfection upon inflicting physical damage.
+Increase the chance based on the refine level.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777773^000000
+Location : ^777777Upper^000000 Weight : ^77777710^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs except Novice^000000
 #
 18739#
 Express your love to your mother.
@@ -75911,10 +75937,10 @@ Jobs : ^777777All Jobs^000000
 18910#
 Isabella's blue hat. It's a favorite among children.
 Decrease damage taken from Demi-human enemies by 5%.
-Increase damage to medium size monster by 10%.
+Increase damage to medium size enemies by 10%.
 If refined to +12, reflect 5% of physical damage taken.
 Class : ^777777Headgear^000000 Defense : ^7777778^000000
-Location : ^777777Upper ^000000Weight : ^77777730^000000
+Location : ^777777Upper ^000000 Weight : ^77777730^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -76804,21 +76830,25 @@ Location: ^777777Lower^000000
 Weight: ^7777770^000000^FFFFFF                 ^000000 Jobs: ^777777All Except Novice^000000
 #
 19024#
-A box that contains 1 Classic Tomahawk 2 Week Rental
-Description:
-^000088Rental Item^000000
-A light axe imbued with the Wind property that can be hurled at enemies.
-Enables use of
-^008800Tomahawk Throwing^000000.
-This item cannot be Dropped or Traded.
-Class: ^777777Axe^000000
-Attack: ^777777200^000000
-Weight: ^7777770^000000
-Property: ^777777Wind^000000
-Weapon Level: ^7777774^000000
-Required Level: ^7777771^000000
-Jobs: ^777777Swordman
-and Merchant Classes^000000
+A Protect Feathers
+ 
+Increase resistance against the players by 2%, decrease ASPD (increase delay after attack by 5%).
+If pure VIT is +108,
+increase resistance against the players by 3%, decrease ASPD (increase delay after attack by 5%).
+If pure VIT is +120,
+Max HP +3%, MDEF +3.
+ 
+Equip with ^00FF00Feather Beret.^000000
+increase ASPD (decrease delay after attack by 5%).
+If refine level of the Feather Beret is +7,
+increase ASPD (decrease delay after attack by 5%).
+If refine level of the Feather Beret is +9,
+Max HP +5%
+ 
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^77777750^000000
+Required Level : ^77777770^000000
+Jobs : ^777777All Jobs^000000
 #
 19025#
 A box that contains 1 Classic Spanner 2 Week Rental Box
@@ -77656,6 +77686,16 @@ Slot: ^777777Bottom ^000000Weight: ^7777775^000000
 Equip Level: ^7777771^000000
 Equipped By: ^777777All Classes^000000
 #
+19288#
+A helm that once belonged to an ancient giant.
+^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.8.^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 19290#
 Horns from an elder devil. This costume has a great magical powers.
  
@@ -77720,6 +77760,19 @@ Location: ^777777Upper^000000
 Weight: ^77777760^000000
 Required Level: ^77777718^000000
 Jobs: ^777777All except Novice jobs^000000
+#
+19364#
+An engineer's old cap hat. You can feel the engineer's spirit through the hat.
+For every 2 refine level, ATK +10, MATK +10.
+If refine level is +7, decrease physical and magic damage taken from Formless monsters by 5%.
+If refine level is +9, increase physical and magic damage to Formless monsters by 10%.
+If refine level is +11, MATK +5%, ATK +5%
+For every refine level After +10, increase physical and magic damage to Formless monsters by 2% (Maximum refine level +15)
+ 
+Class : ^777777Headgear^000000 Defense : ^77777710^000000
+Location: ^777777Upper ^000000 Weight : ^77777720^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19368#
 Flowery glasses. Famous glasses, but no one knows whether they can even be used to see properly.
@@ -78217,13 +78270,11 @@ Jobs: ^777777All^000000
 #
 19507#
 A brightly shining sun that floats above your head.
-^ff0000This item is account bound^000000
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19509#
 Have the appearance of wearing the wings of a butterfly as your ears with this accessory.
@@ -78317,13 +78368,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19518#
-Share your happiness with others with this brightly colored rainbow.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
-Defense: ^7777770^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+A rainbow that can only be seen after a shower of rain.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19519#
 A dark thunder cloud that looks very dangerous.
@@ -81485,7 +81535,7 @@ Job: ^777777All^000000
 20039#
 Wing ears made of beautiful butterfly wings.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box 7.^000000
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.7.^000000
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Middle^000000 Weight : ^7777770^000000
@@ -82696,7 +82746,7 @@ Jobs: ^777777All^000000
 20249#
 A hair inspired by certain race whose hair changes when they exceed their limits.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box 7.^000000
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.7.^000000
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^7777770^000000
@@ -82748,7 +82798,7 @@ Jobs : ^777777All Jobs^000000
 20258#
 Cool refreshing headdress costume. Essentials for a fresh maiden.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box 7.^000000
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.7.^000000
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^7777770^000000
@@ -83053,7 +83103,7 @@ Required Job: All Jobs
 20313#
 Feels like a lot of data from the CD flows into the brain through the mouth.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box 7.^000000
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.7.^000000
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Lower ^000000Weight : ^7777770^000000
@@ -83355,19 +83405,12 @@ Required Level: ^7777771^000000
 Jobs:^777777Gunslinger^000000
 #
 20337#
-^00CC00This 2 Week Rental Box contains 1 Item.  The box is Tradable, but the item that comes out of it may not be. Please read the description.^000000
-^CC0000This Rental Weapon is not Tradable^000000
-^0000CC20% Bonus Attack Damage to Earth Element Targets^000000
-A Gatling Gun whose
-name evokes the image
-of a lonely traveler.
-^CC0000This item is not Refinable^000000
-Class: ^777777Gatling Gun^000000
-Attack: ^77777771^000000
-Weight: ^777777230^000000
-Weapon Level: ^7777772^000000
-Required Level: ^7777771^000000
-Jobs:^777777Gunslinger^000000
+A mohican hair style mask. If needed this can be used as a broom.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle/Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20338#
 ^00CC00This 2 Week Rental Box contains 1 Item.  The box is Tradable, but the item that comes out of it may not be. Please read the description.^000000
@@ -83998,8 +84041,8 @@ Jobs: ^777777All^000000
 A costume hat of the same design with Louise's favorite hat.
 It is good for Christmas costumes because of its huge pompoms.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.6.^000000
+ 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -84152,7 +84195,8 @@ Job: ^777777All^000000
 20455#
 A hat which appears to have been made in Schwaltzvalt Republic.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.6.^000000
+ 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -84382,6 +84426,15 @@ Weight: ^77777720^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
+20502#
+A costume little devil wings.
+It comes from the underworld.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Garment^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 20504#
 ^808080The replica wings of a naughty cupid.^000000
 ^FFFFFF_^000000
@@ -84436,8 +84489,8 @@ Jobs : ^777777All Jobs^000000
 A wing shaped decoration, made with bent knives.
 Be careful with those knives.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.6.^000000
+ 
 Class : ^777777Costume^000000
 Location : ^777777Garment ^000000
 Weight : ^7777770^000000
@@ -85143,6 +85196,16 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
 #
+20605#
+A leaf umbrella worn by a little fairy to avoid rain.
+^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.8.^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Garment^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 20700#
 Egir's Manteau. It looks like it will help defend your body.
 Cannot be destroyed
@@ -85364,8 +85427,8 @@ A manteau with fire spirit. It is protected by fire all the time.
  
 Increase resistance against Fire property attack by 10%.
 Decrease resistance against Water property attack by 10%.
-Deflect 10% of melee physical damage taken.
-Increase the deflect rate of melee physical damage taken by (refine level x2)%.
+Reflect 10% of melee physical damage taken.
+Increase the reflect rate of melee physical damage taken by (refine level x2)%.
  
 Class : ^777777Garment^000000  Defense : ^77777710^000000
 Weight : ^77777730^000000
@@ -85917,14 +85980,14 @@ Job: ^777777All^000000
 Blinking violet wings that float behind you.
 It seems to be a small size hologram projector.
 Unable to destroy.
-MATK + 20, Increase ranged physical damage by 3%, increase critical damage by 3%.
-Additional Matk + 20, increase ranged physical damage by 3%, increase critical damage by 3% per 3 refines.
+MATK +20, Increase ranged physical damage by 3%, increase critical damage by 3%.
+Additional MATK +20, increase ranged physical damage by 3%, increase critical damage by 3% per 3 refines.
 If refined to +11 decrease delay after skill by 4%.
  
-Equip with magical booster[1], decrease variable cast time by 30%.
-Equip with crimson booster[1], increase ranged physical damage by 14%.
-Equip with sigrun's wing, increase critical damage by 14%.
-Equip with dark blinder or dark blinder[1], decrease delay after skill by 6%.
+Equip with Magical Booster[1], decrease variable cast time by 30%.
+Equip with Crimson Booster[1], increase ranged physical damage by 14%.
+Equip with Sigrun's Wing, increase critical damage by 14%.
+Equip with Dark Blinder or Dark Blinder[1], decrease delay after skill by 6%.
 Class : ^777777Garment^000000 Defense : ^7777770^000000
 Weight : ^77777710^000000
 Required Level : ^7777771^000000
@@ -87871,6 +87934,11 @@ It's kind of just have to be greedy people. Why?
 Warning! This item cannot be used in town.
 ^ffffff_^000000
 #
+23001#
+A box that contains enchantment stones for costume equipment.
+It contains Greed Stone (Lower), Casting Stone (Garment), ASPD Stone (Upper), Twinkle Effect (Upper), Ghost Effect (Middle) that can be enchanted in 4th slot and Stones from previous boxes. 
+Weight : ^7777771^000000
+#
 23008#
 Chewy and sweet bubble gum that is made of real mint.
 Increases the drop rate of items!
@@ -88438,42 +88506,42 @@ Weight : ^7777770^000000
 23354#
 A sealed envelope containing a document issued by the Merchant Guild.
  
-It contains a 3-day employment voucher that you can use to hire a beginner part-time vendor.
+It contains a 3-Day employment voucher that you can use to hire a beginner part-time vendor.
  
 Weight : ^7777771^000000
 #
 23355#
 A sealed envelope containing a document issued by the Merchant Guild.
  
-It contains a 3-day employment voucher that you can use to hire a part-time vendor.
+It contains a 3-Day employment voucher that you can use to hire a part-time vendor.
  
 Weight : ^7777771^000000
 #
 23356#
 A sealed envelope containing a document issued by the Merchant Guild.
  
-It contains a 3-day employment voucher that you can use to hire a master part-time vendor.
+It contains a 3-Day employment voucher that you can use to hire a master part-time vendor.
  
 Weight : ^7777771^000000
 #
 23357#
 A sealed envelope containing a document issued by the Merchant Guild.
  
-It contains a 3-day employment voucher that you can use to hire a beginner part-time buyer.
+It contains a 3-Day employment voucher that you can use to hire a beginner part-time buyer.
  
 Weight : ^7777771^000000
 #
 23358#
 A sealed envelope containing a document issued by the Merchant Guild.
  
-It contains a 3-day employment voucher that you can use to hire a part-time buyer.
+It contains a 3-Day employment voucher that you can use to hire a part-time buyer.
  
 Weight : ^7777771^000000
 #
 23359#
 A sealed envelope containing a document issued by the Merchant Guild.
  
-It contains a 3-day employment voucher that you can use to hire a master part-time buyer.
+It contains a 3-Day employment voucher that you can use to hire a master part-time buyer.
  
 Weight : ^7777771^000000
 #
@@ -88516,8 +88584,8 @@ Weight : ^77777710^000000
 A special catalog made by the Merchant Guild.
 Lightly touch the screen to view the Street Stall products in the area and easily purchase or sell items. 
  
-Only Street Stalls open in the map where the user is standing will be displayed.=],
-				[=[ 
+Only Street Stalls open in the map where the user is standing will be displayed.
+ 
 Weight : ^7777771^000000
 #
 23374#
@@ -89781,16 +89849,15 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 24059#
-Small extra shield gives you additional defense effect. Not very effective when worn alone.
-1% damage decrease when attacked by non-type monsters.
-When refine level is 7, 1% extra damage decrease when attacked by non-type monsters.
-When refine level 9, 1% extra damage decrease when attacked by non-type monsters.
-When equipped together with ^32CD32Frame Guard Shield Shadow^000000 and ^32CD32Beholder Shoes Shadow^000000, 3% exp increase when hunting non-type monsters.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Shield^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+Decrease damage taken from Formless enemies by 1%.
+If refine level is +7, decrease damage taken from Formless enemies by 1%.
+If refine level is +9, decrease damage taken from Formless enemies by 1%.
+Equip with ^32CD32Flameguard Shadow Shield^000000 and ^32CD32Beholder Shadow Shoes^000000, increase EXP gain from Formless monsters by 3%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24060#
 A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
@@ -89901,16 +89968,15 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 24069#
-Special shoes worn over your original shoes. Not very effective when worn alone.
-2% extra damage to non type monsters.
-When refine level is 7, 1% extra damage to non-type monsters.
-When refine level 9, 2% extra damage to non type monsters.
-When equipped together with ^32CD32Beholder Shoes Shadow^000000 and ^32CD32Frame Guard Shield Shadow^000000, 3% exp increase when hunting non type monsters.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Shoes^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+Increase damage to Formless monsters by 2%.
+If refine level is +7, increase damage to Formless monsters by 1%.
+If refine level is +9, increase damage to Formless monsters by 2%.
+Equip with ^32CD32Beholder Shadow Shoes^000000 and ^32CD32Flameguard Shadow Shield^000000, increase EXP gain from Formless monsters by 3%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shoes^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24070#
 Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
@@ -89948,6 +90014,17 @@ Location : ^777777Armor^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
+24074#
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+Decrease damage taken from small size monsters by 2%.
+If refine level is +7, decrease damage taken from small size monsters by 1%.
+If refine level is +9, decrease damage taken from small size monsters by 2%.
+Equip with ^32CD32Small Shadow Armor^000000 and ^32CD32Small Shadow Weapon^000000, Max HP +1%, Max SP +1%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Armor^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 24075#
 A glove that can draw the wearer's potential ability.
 Increase physical and magic damage to large size enemies by 2%.
@@ -89955,6 +90032,17 @@ If refine level is +7, increase physical and magic damage to large size enemies 
 If refine level is +9, increase physical and magic damage to large size enemies by 2%.
 Equip with ^32CD32Large Shadow Weapon^000000 and ^32CD32Large Shadow Armor^000000, Max HP +1%, Max SP +1%.
  
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Weapon^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24077#
+A glove that can draw the wearer's potential ability.
+Increase physical and magic damage to small size enemies by 2%.
+If refine level is +7, increase physical and magic damage to small size enemies by 1%.
+If refine level is +9, increase physical and magic damage to small size enemies by 2%.
+Equip with ^32CD32Small Shadow Weapon^000000 and ^32CD32Small Shadow Armor^000000, Max HP +1%, Max SP +1%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Weapon^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90655,6 +90743,34 @@ Location : ^777777Armor ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
+24236#
+A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
+Increase physical and magic damage to medium size enemies by 1%.
+If refine level is +7, increase physical and magic damage to medium size enemies by 1%.
+If refine level is +9, increase physical and magic damage to medium size enemies by 2%.
+Equip with ^32CD32Boned Shadow Earring^000000 and
+^32CD32Boned Shadow Pendant^000000,
+ATK +5.
+If total refine level is +15, increase physical and magic damage to medium size enemies by 2%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Earring^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24237#
+A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.
+Increase physical and magic damage to medium size enemies by 1%.
+If refine level is +7, increase physical and magic damage to medium size enemies by 1%.
+If refine level is +9, increase physical and magic damage to medium size enemies by 2%.
+Equip with ^32CD32Boned Shadow Pendant^000000 and
+^32CD32Boned Shadow Earring^000000,
+ATK +5.
+If total refine level is +15, increase physical and magic damage to medium size enemies by 2%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Pendant^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 24238#
 A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
 Increase physical and magic damage to small size monsters by 1%.
@@ -91302,15 +91418,15 @@ Jobs : ^777777All Jobs^000000
 #
 24363#
 A glove that can draw the wearer's potential ability.
-Max HP +100.
-For every 2 refine level, Max HP +150.
+MHP +100.
+For every 2 refine level, MHP +150.
 Equip with ^32CD32Elegant Shadow (Weapon, Earring, Pendant)^000000,
 For every second, restore 100 HP for 5 seconds upon inflicting magic damage. (1% chance)
 For every 15 total refine level, increase the chance by 1%.
-If refine level is +25, increase HP restore rate by 150.
+If total refine level is +25 and above, increase HP restore rate by 150.
  
 Class : ^777777Shadow Equipment^000000
-Location : ^777777Weapon ^000000Weight : ^7777770^000000
+Location : ^777777Weapon ^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -91680,6 +91796,110 @@ MATK +2%.
 ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 Weight : ^77777710^000000
 #
+25058#
+Gives an effect by enchanting to 4th slot of the upper costume.
+^ff0000Twinkle^000000
+^ffffff<NAVI>^4D4DFF[Gurjio Gurmani]^000000<INFO>mal_in01,24,121,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25059#
+Gives an effect by enchanting to 4th slot of the middle costume.
+^ff0000Ghost^000000
+^ffffff<NAVI>^4D4DFF[Gurjio Gurmani]^000000<INFO>mal_in01,24,121,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25060#
+A stone with the ability to increase critical damage.
+Gives the following Stats to costume middle slot:
+Critical damage +3%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25061#
+A stone with the ability to increase ranged physical damage.
+Gives the following Stats to costume middle slot:
+Increase ranged physical damage by 3%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25062#
+A stone with the ability to cast skill.
+Gives the following skill to costume lower slot:
+Able to cast Lv 1 Greed.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25063#
+A stone with the ability to increase Max HP.
+Gives the following Stats to costume lower slot:
+Max HP +100, Lv 120 and above, Max HP +2%
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25064#
+A stone with the ability to increase Max SP.
+Gives the following Stats to costume lower slot:
+Max SP +50, Lv 120 and above, Max SP +2%
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25065#
+A stone with the ability to cast skill.
+Gives the following skill to costume lower slot:
+Able to cast Lv 1 Detoxify.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25066#
+A stone with the ability to cast skill.
+Gives the following skill to costume lower slot:
+Able to cast Lv 1 Status Recovery.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25067#
+A stone with the ability to decrease fixed cast time.
+Gives the following Stats to costume garment slot:
+Decrease fixed cast time by 0.5 seconds
+^ffffff<NAVI>^4D4DFF[Lace La Zard]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25068#
+A stone with the ability to increase ASPD.
+Gives the following Stats to costume upper slot:
+ASPD +1
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25069#
+A stone with the ability to decrease after skill delay.
+Gives the following Stats to costume upper slot:
+Decrease after skill delay by 1%.
+Equip with Reload Stone (Middle), Reload Stone (Lower), decrease after skill delay by 2%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25070#
+A stone with the ability to decrease after skill delay.
+Gives the following Stats to costume middle slot:
+Decrease after skill delay by 1%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25071#
+A stone with the ability to decrease after skill delay.
+Gives the following Stats to costume lower slot:
+Decrease after skill delay by 1%.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
+25072#
+A stone with the ability to cast skill.
+Gives the following skill to costume lower slot:
+Able to cast Lv 1 Kyrie Eleison.
+^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
+#
 25073#
 Old documents that were in the possession of the Sphinx's shaman, Marduk. Contains information on some kind of ritual.
 Weight: ^7777770^000000
@@ -91942,6 +92162,14 @@ Weight: ^7777770^000000
 ^FFFFFF_^000000
 Type: Miscellaneous
 Weight: 0
+#
+25138#
+Gives an effect by enchanting to 4th slot of the middle costume.
+^ff0000Shrink^000000
+The efffect does not apply in PvP and WOE.
+^ff0000Only the character's body size shrinks. The size of the effect and cart will remain the same.^000000
+^ffffff<NAVI>^4D4DFF[Gurjio Gurmani]^000000<INFO>mal_in01,24,121,0,100,0,0</INFO></NAVI>^000000
+Weight : ^77777710^000000
 #
 25145#
 ^808080The cute doll that is full of cursed power from the dark magic of a black witch.^000000
@@ -93778,17 +94006,19 @@ A scarf worn during a revolt. It gives the user the courage they need to never y
  
 Able to cast Lv 2 Spell Breaker.
 
-Equip with Sunglasses and Glasses,
-for every pure 80 stats (STR+LUK),
-increase damage to all classes (Normal, Boss, Guardian) monsters by 6%.
-CRIT +5, critical damage +10%.
+Equip with Sunglasses and Glasses : 
  
+For every pure 80 stats (STR+LUK),
+Increase physical damage to all classes (Normal, Boss, Guardian) enemies by 6%.
+CRIT +5, critical damage +10%.
+
 For every pure 80 stats (INT+DEX),
 MATK +120, decrease variable cast time by 3%.
 Increase heal effect by 10%.
- 
+
 For every pure 80 stats (AGI+VIT),
-Increase ASPD (decrease delay after attack by 5%), Max HP +5%, increase resistance against Players by 2%.
+Increase ASPD (decrease delay after attack by 5%), Max HP +5%.
+Decrease damage taken from Players by 2%.
  
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Lower ^000000Weight : ^77777710^000000
@@ -94526,6 +94756,51 @@ Has 1% chance to absorb 1% of physical damage dealt to enemy as SP.
 29033#
 MDEF +4
 Equip with "DEF +20", HIT +5, FLEE +5.
+#
+29040#
+Ghost Effect
+#
+29041#
+Twinkle Effect
+#
+29046#
+Able to cast Lv 1 Greed.
+#
+29047#
+Critical damage +3%
+#
+29048#
+Increase ranged physical damage by 3%.
+#
+29049#
+HP +100
+Lv 120 and above, Max HP +2%
+#
+29050#
+SP +50
+Lv 120 and above, Max SP +2%
+#
+29051#
+Able to cast Lv 1 Detoxify.
+#
+29052#
+Able to cast Lv 1 Status Recovery.
+#
+29053#
+Decrease after skill delay by 1%.
+Equip with After Skill Delay1 Middle, After Skill Delay1 Lower, decrease after skill delay by 2%.
+#
+29054#
+Decrease after skill delay by 1%.
+#
+29055#
+Decrease after skill delay by 1%.
+#
+29056#
+Decrease fixed cast time by 0.5 seconds
+#
+29057#
+Able to cast Lv 1 Kyrie Eleison.
 #
 29239#
 HIT + 5.
@@ -95346,14 +95621,12 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 31179#
-^808080The Wolf Mark that is used for covering the face when the full moon night comes.^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Upper^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A mask shaped like a noble wolf.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31180#
 The bandana which was once worn by the shura who was known to be invincible.
@@ -96388,10 +96661,7 @@ Jobs : ^777777All Jobs^000000
 #
 31368#
 A hat made in commemoration of a harvest festival. It feels grateful to harvest all the crops and wish a good harvest for next year.
-Has chance to get Harvest Biscuit from monsters during the event period.
-Increase restore effect of Harvest Biscuit by 100%.
-Has chance to increase critical damage and MATK by 15% for 5 seconds upon inflicting physical and magic damage.
-(Item stats will be removed after the event ends.) 
+ 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -96532,7 +96802,7 @@ Job: ^777777All^000000
 Eyes flicker when worn.
 'Why doesn't it blink normally?' Let's not ask the question.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box 7.^000000
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.7.^000000
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Middle^000000 Weight : ^7777770^000000
@@ -97327,24 +97597,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 31596#
-^808080A hat decorated with colorful flowers and spiders
-Looks elegant and scary at the same time!^000000
-^ffffff_^000000
-^FF6633[Temporally Effect]^000000
-ATK +10, MATK +10
-^FF0000The effect will be removed on May 6, 2021 ^000000
-^ffffff_^000000
-obtain from ^CC66FFRO Streamer ^000000
-^ffffff_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^ffffff_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+Beautiful, elegant, and a little bit spooky, this hat is decorated with only the finest flowers and spiders.
+^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.8.^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31599#
 ^808080IU's hairstyle dye with pearl white color. It makes the wearer look more cute.^000000
@@ -97818,17 +98078,15 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 31672#
-^808080A hairstyle inspired by the mermaid Siren. Makes the wearer feel the power of the ocean.^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Lower^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A wig of a mermaid, an imaginary creature.
+It has a beautiful two-tone color in yellow and blue.
+^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.8.^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31673#
 A picnic basket that's full of goodies for Grandmom.
@@ -97910,18 +98168,12 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 31687#
-A red square bag that many genetics love to carry while leveling.
-^FFFFFF_^000000
-^800080[Special Effect]^000000
-^0000FFIncrease EXP +2%^000000 when killing monsters
-^FF0000(Effect will be removed on May 7, 2020, after MA)^000000
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Middle^000000
-Weight: ^7777770^000000
+A costume alchemist square bag.
+ 
+Class: ^777777Costume^000000 Defense: ^7777770^000000
+Location: ^777777Middle ^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+Jobs: ^777777All Jobs^000000
 #
 31688#
 ^808080Mini Poring that is popular among kids in Midgard. 
@@ -98782,17 +99034,13 @@ Job: ^777777All jobs^000000
 	
 #
 31885#
-^808080 Into the power of stone.^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Lower^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Sand storm circling around you! Hard stones that can strike your opponent and knock him out!
+Who dares to challenge the archmage of the earth element?
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31888#
 ^808080White Tiger Doll Hat, which sometimes looks like a white bear.^000000
@@ -99859,7 +100107,6 @@ Weight : ^7777771^000000
 #
 101165#
 
-^ff0000not tradable.^000000
 Weight : ^7777770^000000
 #
 101191#
@@ -100504,6 +100751,10 @@ A special box rewarded to players for using Kafra Points.
 ^ff0000This item cannot be traded with other accounts.^000000
 Weight : ^7777771^000000
 #
+101855#
+A mythical egg that contains Tengu Mask and other rare items.
+Weight : ^7777771^000000
+#
 200000#
 Gains 1 fly wing when consumed.
 Weight: ^7777771^000000
@@ -100592,6 +100843,9 @@ Type: ^777777Card^000000
 Equip: ^777777Weapon^000000
 Weight: ^7777771^000000
 #
+310330#
+Increase ranged physical damage by 3%.
+#
 400115#
 A hat with an Angeling's confident look.
  
@@ -100617,6 +100871,17 @@ Location : ^777777Upper^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
+410062#
+A mask that gives you a carefree face.
+Because of a peaceful face, people around are mentally healed.
+^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.8.^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs except Doram^000000
+#
 410068#
 A costume cart which is designed for Doram who loves the cart.
 Let's open up our own fish marche!
@@ -100637,7 +100902,7 @@ Jobs : ^777777All Jobs^000000
 420000#
 VIT +1, DEX +1, INT +1.
 Equip with +9 Isabella Blue Ear,
-increase physical damage to medium size monsters by 6%
+increase physical damage to medium size enemies by 6%
  
 Equip with +9 Isabella Red Ear,
 Decrease delay after attack by 6%.
@@ -100709,8 +100974,8 @@ Jobs : ^777777All Jobs^000000
 Shawl with wings.
 It's pretty to see blowing in the wind.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.6.^000000
+ 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Lower^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -100718,6 +100983,15 @@ Jobs : ^777777All Jobs^000000
 #
 420078#
 Royal bats flying around the wearer.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+420111#
+A costume hair which can be attached to the hair for different hair style.
+It gives off a vibe of being a rockstar.
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Lower^000000 Weight : ^7777770^000000
@@ -100893,8 +101167,8 @@ Jobs : ^777777All Jobs^000000
 480096#
 Costume coats worn by adventurers to withstand the cold. A thing that can't be missed in cold weather.
 ^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Exchangeable for Costume Enchantment Stone Box6.^000000
-
+^b4b4b4Exchangeable for Enchanted Stone Box Vol.6.^000000
+ 
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Garment^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
