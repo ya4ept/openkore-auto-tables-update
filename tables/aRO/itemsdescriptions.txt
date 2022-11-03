@@ -7481,7 +7481,7 @@ MATK +40
 Increases the damage of ^0000FFVanishing Point^000000 and ^0000FFCannon Spear^000000 by 20%.
 Increases the damage of ^0000FFVanishing Point^000000 and ^0000FFCannon Spear^000000 by 3% per 2 upgrade levels of this item.
 ^FFFFFF_^000000
-When equipped with ^008080Imperial Spear [1]^000000,
+When equipped with ^008080Imperial Guard [1]^000000,
 increases the damage of ^0000FFGenesis Ray^000000 and ^0000FFGrand Cross^000000 by 10%.
 Type : Weapon
 Class : One-Handed Spear
@@ -14688,7 +14688,7 @@ Jobs : ^7777773rd Job Class^000000
 A fallen angel's shield.
  
 Has chance to decrease after skill delay by 10% upon inflicting magic attack.
-If refine level is +7, for every refine level, decrease after skill delay by 5%.
+For every refine level after +6, decrease after skill delay by 5%.
 Equip with Diabolus Robe, decrease after skill delay by 10%.
  
 Class : ^777777Shield^000000 Defense : ^777777100^000000
@@ -47992,7 +47992,7 @@ When opening this scroll, you have a chance to receive the below items
 Weight: ^7777771^000000
 #
 9924#
-A Scroll helps increase your physical defense over a period of time, increasing your survival rate.
+A scroll that helps to increase your physical defense over a period of time, increasing your survival rate.
 
 DEF+500 for 5 minutes
 ^ff0000This cannot be traded with other accounts.^000000
@@ -52780,6 +52780,15 @@ When the character becomes incapacitated, the item effect will also disappear.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
+12515#
+^ff0000This item cannot be traded with other accounts.^000000
+A bottle of Yggdrasil Tree Sap that is effective in healing wounds.
+Restores 7% of Max HP every 4 seconds for 10 minutes.
+The effect is not active at the state of berserk.
+When a character is incapable of combat, the effect of item disappears.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
 12516#
 ^ff0000This item cannot be traded with other accounts.^000000
 A small bottle of Yggdrasil Tree Sap that is effective in healing wounds.
@@ -52790,33 +52799,17 @@ When the character becomes incapacitated, the item effect will also disappear.
 Weight : ^7777771^000000
 #
 12522#
-[Not For Sale] This item is given by event.
-A scroll in which
-a single use of
-Level 10 Blessing
-has been recorded.
-Caution - This item
-won't work while your
-character is casting
-a spell or skill.
+[Not For Sale] This item is given from an event.
+A scroll in which a single use of Level 10 Blessing has been recorded.
+Caution! - This item won't work while your character is casting a spell or skill.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
 12523#
-[Not For Sale] This item is given by event.
-A scroll in which
-a single use of
-Level 10 Increase AGI
-has been recorded.
-Caution - This item
-won't work while your
-character is casting
-a spell or skill.
-This item consumes
-15 HP and will be
-ineffective if the
-character has fewer
-than 15 HP.
+[Not For Sale] This item is given from an event.
+A scroll in which a single use of Level 10 Increase AGI has been recorded.
+Caution! - This item won't work while your character is casting a spell or skill.
+Caution! - This item consumes 15 HP and will be ineffective if the character has fewer than 15 HP.
 ^ffffff_^000000
 Weight: ^7777771^000000
 #
@@ -53509,7 +53502,7 @@ Weight: ^77777710^000000
 #
 12728#
 ^ff0000This item cannot be traded with other accounts.^000000
-Cast 'Vitality Activation', maximizing your health for one minute. HP recovery potion effect increases one and half times.
+Cast 'Vitality Activation', maximizing your health for 3 minutes. HP recovery potion effect increases one and half times.
 But, it generates instability of the mind, so SP does not naturally recover while active and the effect of SP recovery potion decreases by half.
 Waiting time for reuse: None.
 Maximum carrying amount: 60
@@ -53537,8 +53530,7 @@ Weight: ^77777710^000000
 12731#
 ^ff0000This item cannot be traded with other accounts.^000000
 Casts "Giant Growth", heightening power and attack strength tremendously.
-STR increases by 30 and has a 15% chance to deal x2 the damage while melee attacking.
-If the caster is a Rune Knight, it also increases physical attack damage by 250% (125% in WOE and PvP Areas).
+STR increases by 30 and has a 15% chance to deal x3 the damage while melee attacking.
 ^ff0000Rhydo Runestone's Crushing Strike damage won't be affected by this runestone^000000
 There is a low chance the caster's weapon may break under this giant power.
 ^ffffff_^000000
@@ -62274,6 +62266,13 @@ Weight: ^7777771^000000
 A scroll that gives FLEE +30 for 30 Minutes.
 ^ffffff_^000000
 Weight: ^7777771^000000
+#
+14533#
+^ff0000This item cannot be traded with other accounts.^000000
+A manual that explains the most efficient way to battle. It is a very detailed and well composed manual.
+^000088EXP rate increases to 100% for^000000^ff0000 60 minutes.^000000
+^ff0000Warning : This item cannot be used with other battle manuals.^000000
+Weight : ^7777771^000000
 #
 14534#
 ^808080A small bottle of Yggdrasil Tree Sap that is effective in healing wounds.^000000
@@ -73875,7 +73874,7 @@ A Stunning Star Eyepatch that is absolutely fabulous!
 Increase resistance against Stun by 15%.
  
 Class : ^777777Headgear^000000    Defense : ^7777770^000000
-Location : ^777777Upper^000000
+Location : ^777777Middle^000000
 Weight : ^77777710^000000
 Required Level: ^7777771^000000
 Jobs : ^777777All Jobs^000000
@@ -75557,7 +75556,7 @@ Job: ^777777All^000000
 18843#
 Devilings are having a party.
 Decrease damage taken from Demi-human enemies by 5%.
-If refine level is +8, for every refine level, Max HP +1%.
+For every refine level after +7, Max HP +1%.
  
 Class : ^777777Headgear^000000 Defense : ^7777777^000000
 Location : ^777777Upper ^000000Weight : ^77777735^000000
@@ -87937,9 +87936,9 @@ Useful for capturing 'Lost Lamb'.
 Weight: ^7777770^000000
 #
 22905#
-A box that contains enchantment stones for costume equipment. 
+A box that contains enchantment stones for costume equipment.
 It contains HP Absorption Stone (Garment), SP Absorption Stone (Garment)
-and Stones from previous box.
+and Stones from previous boxes.
 Weight : ^7777771^000000
 #
 22907#
@@ -88087,7 +88086,7 @@ Weight : ^7777771^000000
 #
 22953#
 A box that contains enchantment stones for costume equipment.
-It contains HP Absorb Stone (Upper), SP Aborb Stone(Upper), STR Exchange Stone (Middle), AGI Exchange Stone (Lower) and Stones from previous box. 
+It contains HP Absorb Stone (Upper), SP Aborb Stone(Upper), STR Exchange Stone (Middle), AGI Exchange Stone (Lower) and Stones from previous boxes.
 Weight : ^7777771^000000
 #
 22971#
@@ -88374,16 +88373,16 @@ Class: ^777777Item Giver^000000
 Weight: ^7777771^000000
 #
 23149#
-Special Box that provides Premium Buff for 3 days.
-^FFFFFF_^000000
+Special Box that provides 3 days of premium buffs.
+^ffffff_^000000
 - EXP +20%
 - Item Drop Rate +20%
 - Increase Kafra storage space by 300
-^FFFFFF_^000000
-^FF0000 *Applies to all characters on the server. ^000000
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+^ffffff_^000000
+^FF0000*Applies to all characters on the server.^000000
+^ffffff_^000000
+^FF0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
 #
 23156#
 No matter what this scroll reveals, it is bound to adorn you with wonderful treasures.
@@ -88454,9 +88453,9 @@ Special Box that provides 1 day of premium buffs.
 - Item Drop Rate +20%
 - Increase Kafra storage space by 300
 ^FFFFFF_^000000
-^FF0000 *Applies to all characters on the server. ^000000
+^FF0000*Applies to all characters on the server.^000000
 ^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
+^FF0000This item cannot be traded with other accounts.^000000
 Weight: ^7777771^000000
 #
 23213#
@@ -93414,9 +93413,9 @@ Location : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 27327#
-When receiving physical or magical damage, has a chance to curse all enemies nearby in 17x17 cells and increases ATK +25% and MATK +25% for 10 seconds.
+When receiving physical or magical damage, has a chance to curse all enemies nearby in 17x17 cells and increases Atk +25% and Matk +25% for 10 seconds.
 The probability increases based on the refine level.
-When using First Aid, has a chance to transform into Grim Reaper Ankou for 5 seconds.
+When using First Aid, has chance to transform into Grim Reaper Ankou for 5 seconds.
 Class : ^777777Card^000000
 Location : ^777777Headgear^000000
 Weight : ^7777771^000000

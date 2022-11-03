@@ -4881,7 +4881,7 @@
 9919#Devil's Scroll#
 9920#Streamer V.1 Box#
 9921#Phantom I Scroll#
-9924#[Not For Sale]Shiny Physical DEF Scroll#
+9924#[NFS]Shiny Physical DEF Scroll#
 9925#Mercedes Scroll#
 9926#Pporappippam Pack#
 9927#Be Natural Scroll#
@@ -5429,9 +5429,10 @@
 12509#[Not For Sale]Red Butterfly Wing#
 12510#[Not For Sale]Blue Butterfly Wing#
 12514#[Not For Sale]Abrasive#
+12515#[Not For Sale]Medium Life Potion#
 12516#[Not For Sale]Small Life Potion#
-12522#[Not For Sale] LV10 Blessing Scroll#
-12523#[Not For Sale] LV10 Agi Scroll#
+12522#[Not For Sale]LV10 Blessing Scroll#
+12523#[Not For Sale]LV10 Agi Scroll#
 12529#White Slim Potion Box (200ea)#
 12530#Mastela Fruit Box#
 12531#White Potion Box#
@@ -6273,6 +6274,7 @@
 14527#Dungeon Teleport Scroll#
 14529#탐욕 스크롤#
 14530#Flee 30 Scroll#
+14533#[Not For Sale]Adv. Battle Manual#
 14534#Saving Life Potion#
 14535#Medium Life Potion#
 14536#Abrasive#
@@ -8458,7 +8460,7 @@
 23143#Minor Growth JPotion#
 23144#Minor Growth EPotion Box#
 23145#Minor Growth JPotion Box#
-23149#Premium Subscription Box#
+23149#Premium Box 3d#
 23156#Dark Wing Scroll#
 23157#Evil Druid Scroll#
 23164#할배 스피드 포션#
