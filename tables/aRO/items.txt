@@ -3436,6 +3436,7 @@
 5949#머리위의 브라#
 5963#날개 헤드폰#
 5967#Frenzy Galapago (OSM)#
+5968#Clergy Nurse Cap#
 5973#Ancient Elven Ear#
 5977#Costume Poker Card In Mouth#
 5979#Costume Fluttering Angel's Wing#
@@ -3508,7 +3509,7 @@
 6093#Draco's Egg#
 6094#(null)#
 6095#Flavored Alcohol#
-6096#등푸른 생선#
+6096#Blue-Backed Fish#
 6097#Sweet Pumpkin Pie#
 6098#Small Snow Flower#
 6099#구운 떡#
@@ -3519,7 +3520,7 @@
 6107#선셋 온 더 락#
 6108#Apple Pudding#
 6109#식물 영양제#
-6110#Vital flower#
+6110#Vital Flower#
 6111#Mystic Stone#
 6112#Fresh Plant#
 6113#Vital Flower#
@@ -3661,6 +3662,7 @@
 6306#Clotted Bloodstain#
 6307#Strange Magic Stone#
 6308#Unknown Relic#
+6309#[NFS] Gym Membership Card#
 6316#[Not for Sale]Token of Siegfried#
 6319#Small Bradium#
 6320#Reset Stone#
@@ -4727,7 +4729,7 @@
 9006#Chonchon Egg#
 9007#Steel Chonchon Egg#
 9008#Hunter Fly Egg#
-9009#Savage Bebe Egg#
+9009#Savage Babe Egg#
 9010#Baby Desert Wolf Egg#
 9011#Rocker Egg#
 9012#Spore Egg#
@@ -4742,7 +4744,7 @@
 9021#Isis Egg#
 9022#Green Petite Egg#
 9023#Deviruchi Egg#
-9024#Bapho Jr. Egg#
+9024#Baphomet Jr Egg#
 9025#Bongun Egg#
 9026#Zealotus Egg#
 9027#Alice Egg#
@@ -4759,12 +4761,12 @@
 9038#새해인형의 알#
 9039#(null)#
 9040#묘괴 알#
-9041#리프캣 알#
-9042#로리루리 알#
+9041#Leaf Cat Egg#
+9042#Loli Ruri Egg#
 9043#마리오네트 알#
 9044#시노비 알#
 9045#Whisper Egg#
-9046#고블린 리더 알#
+9046#Goblin Leader Egg#
 9047#요선녀 알#
 9048#미야비인형 알#
 9049#듀라한 알#
@@ -4778,7 +4780,10 @@
 9058#Snow Rabbit Egg#
 9059#Tikbalang Egg#
 9062#Baby Poring Egg#
+9099#Teddy Bear Egg#
 9101#Scatleton Egg#
+9102#Mummy Egg#
+9103#Willow Egg#
 9113#Skelion Egg#
 9507#Black Cat Scroll#
 9539#[Not For Sale]Blue Potion 10 Box#
@@ -4931,8 +4936,12 @@
 10018#Monkey Circlet#
 10019#Red Scarf#
 10020#Grave Keeper's Sword#
+10023#Green Lucky Bag#
 10024#Fashionable Glasses#
+10027#Spirit Chain#
+10028#Nice Badge#
 10031#죽음의 고리#
+10034#Ball Mask#
 10037#검은 나비 가면#
 10038#Horn Protector#
 10040#Red Bell Necklace#
@@ -5308,18 +5317,18 @@
 12356#Louise Costume Box#
 12357#(null)#
 12358#바람의 부채#
-12359#매우 부드러운 풀#
-12360#새빨간 쥬스#
+12359#Very Soft Plant#
+12360#Very Red Juice#
 12361#Delicious Shaved Ice#
 12362#쿠로렌#
-12363#Fit Pipe#
-12364#지도자의 지팡이#
+12363#Fit Coffin#
+12364#Staff Of Leader#
 12365#탐스러운 연꽃#
 12366#여자아이 인형#
 12367#고급 양주병#
 12368#화려한 거울#
 12369#기름야자 열매#
-12370#Gril's Naivety#
+12370#Girl's Naivety#
 12371#마력의 석판#
 12372#지옥의 계약서#
 12373#Boy's Naivety#
@@ -6481,8 +6490,11 @@
 15119#pRO 10주년 기념 망토#
 15120#pRO 10주년 기념 신발#
 15121#Sarah's Battle Robe#
+15124#Holy Father Mail#
 15128#Excelion Suit#
 15138#에기르 아머#
+15166#Rosary's Necklace#
+15169#Kardui Robe#
 15174#Surfer Swimsuit#
 15181#Awakened Eden Group UniformⅠ#
 15182#Awakened Eden Group UniformⅡ#
@@ -7274,7 +7286,7 @@
 18868#Assassin Skull Mask#
 18873#Sweet Valentine#
 18874#Monocle#
-18877#Baron Evil Eye#
+18877#Baron's Evil Eye#
 18878#Palace Guard Cap#
 18882#Kannam On Head#
 18883#검은 마녀의 모자#
@@ -7313,6 +7325,7 @@
 18930#Gorilla Model Hat#
 18931#Lion Model Hat#
 18932#Rhino Model Hat#
+18933#Mechanical Plant Hat#
 18937#Memory of Lovers#
 18940#Ten Gallon Hat Of Flame#
 18941#Hunting Cap Of Gust#
@@ -7377,6 +7390,7 @@
 19037#93식 유혈시#
 19038#Shinnok's Crown#
 19039#Shinnok's Ears#
+19082#Bio Protector#
 19095#Happy Balloon#
 19101#글래스트헤임의 방관자#
 19102#Night Sparrow Hat#
@@ -7428,7 +7442,7 @@
 19290#Costume Elder Devil Horn#
 19291#Costume Shiba Inu#
 19292#Costume Smokie Tail Knit Cap#
-19294#C Cyber Cat Ear Headphones (Red)#
+19294#C Cyber Cat Ear Headphones (R)#
 19296#Classical Feather Hat#
 19301#Beer Cap#
 19364#Engineer's Cap#
@@ -7437,7 +7451,7 @@
 19378#[임대] 북 오브 매직#
 19379#(null)#
 19380#(null)#
-19381#(null)#
+19381#Cloth of Protection#
 19382#(null)#
 19383#(null)#
 19384#별모양 안대#
@@ -7627,7 +7641,7 @@
 19720#Costume Romantic Gent#
 19721#Costume Darkness Helm#
 19722#Costume Black Glasses#
-19723#의상 성화관#
+19723#Costume Sacred Torch Coronet#
 19724#Outfit Deprote Doll Hat#
 19725#의상 갈색 종이봉투 모자#
 19726#의상 진홍의 장미#
@@ -7689,9 +7703,9 @@
 19803#Costume Pinwheel Cap#
 19804#Costume Red Vane Hairpin#
 19805#의상 금주의두루마리#
-19806#Costume Full Bloom Hairpin#
+19806#C Full Bloom Pink Hairpin#
 19807#의상 위풍위연의 투구#
-19808#의상 불타는 태양#
+19808#Costume Blazing Sun#
 19809#의상 보라색 카우보이 모자#
 19810#Costume Ifrit's Ears#
 19811#Costume Beer Cap#
@@ -7916,7 +7930,7 @@
 20172#Costume Jakk Physic Hairband#
 20173#Costume Lude Boy#
 20174#Costume Orange Halloween Hat#
-20175#Costume Listen Up#
+20175#Costume Diabolic Headphones#
 20176#해피 삐에로 가면#
 20177#의상 늘어진 길용이#
 20178#(null)#
@@ -8257,7 +8271,7 @@
 21007#Heavy Sword#
 21009#Thanos Great Sword#
 21010#Evil Slayer Sword#
-21011#Gigant Blade#
+21011#Gigantic Blade#
 21015#진홍의 투핸드소드#
 21060#Zeolite Sword#
 22000#Temporal Str Boots#
@@ -8467,6 +8481,7 @@
 23165#Premium Service Personal#
 23169#Alchemist Box#
 23177#[Not For Sale] Kafra Card#
+23189#Small Doll Needle#
 23203#Small Mana Potion#
 23204#빛나는 방어 스크롤#
 23207#Premium Box#
@@ -8480,6 +8495,8 @@
 23226#[Not For Sale]INT Biscuit Stick#
 23231#White Potion Box 50#
 23247#Status Shadow Item Combiner#
+23256#Elixir Bandages#
+23257#Old Tree's Dew#
 23259#Strawberry Fresh Cream Cupcake#
 23260#Fruit Parfait#
 23261#Moist Macaron#
@@ -8609,10 +8626,10 @@
 24047#Rapid Pendant Shadow#
 24048#Caster Shadow Pendant#
 24049#Hard Shadow Earring#
-24050#Wise Earring Shadow#
+24050#Wise Shadow Earring#
 24051#Athena Shadow Earring#
 24052#Cranial Shadow Shield#
-24053#Safeguard Shield Shadow#
+24053#Safeguard Shadow Shield#
 24054#Brutal Shadow Shield#
 24055#Gargantua Shield Shadow#
 24056#Homers Shield Shadow#
@@ -8622,7 +8639,7 @@
 24060#Requiem Shadow Shield#
 24061#Cadi Shield Shadow#
 24062#Bloody Shadow Shoes#
-24063#Liberation Shoes Shadow#
+24063#Liberation Shadow Shoes#
 24064#Chemical Shoes Shadow#
 24065#Clamorous Shadow Shoes#
 24066#Insecticide Shoes Shadow#
@@ -8646,6 +8663,8 @@
 24090#Stability Shadow Shield#
 24091#Plasterer's Shadow Armor#
 24092#Plasterer's Shadow Shoes#
+24097#Adurate Shadow Armor#
+24098#Adurate Shadow Shoes#
 24099#Unfreezing Weapon Shadow#
 24100#Unfreezing Earing Shadow#
 24101#Unfreezing Pendant Shadow#
@@ -8842,6 +8861,7 @@
 25152#Cherish Bouquet#
 25188#Girl's Handkerchief#
 25223#Eden Group Coin#
+25233#Cotton Tufts#
 25245#Small pile of bones#
 25290#Choco Koin#
 25291#Dark Chocolate#
@@ -9275,7 +9295,7 @@
 31368#C. Thanksgiving Memorial Hat#
 31375#Costume Eyes of War#
 31380#Costume Whisper of Raven#
-31381#Costume Skarlet's Lapel#
+31381#Costume Diabolic Lapel#
 31382#Costume Punkish Cat Ears#
 31383#Costume Minty's Hairstyle (Sky)#
 31384#Costume Ear's Candy#
@@ -9571,7 +9591,7 @@
 101587#18000 KP Box#
 101588#36000 KP Box#
 101590#Loyal Player Box#
-101591#Returning Player Box#
+101591#Promotional Box#
 101606#Golden Poring Egg#
 101624#New User Box(1)#
 101625#New User Box(10)#
@@ -9628,6 +9648,10 @@
 101897#Gypsy Box#
 101898#Mastersmith Box#
 101899#High Priest Box#
+101942#Enchant Stone Synthesis Box#
+101945#Cute Pet Item Set#
+101946#Diabolic Egg#
+101949#Event Taming Gift Box Vol 1#
 200000#IDTest Cash#
 200190#Box of 1 Nyangvine#
 200210#Almighty package#
@@ -9659,7 +9683,7 @@
 420071#Costume Feather Stola#
 420078#Costume Ghost Bat#
 420111#Costume Rocking Short#
-420163#Costume Protect Cloth#
+420163#Costume Protect Cloth (Black)#
 440002#Costume Happy Cat#
 450000#IDTest armor#
 450211#Guardian Mail#
@@ -9678,6 +9702,7 @@
 480163#Guardian Manteau#
 480164#Raider Muffler#
 480165#Mystic Cape#
+480169#Costume Diabolic Rock Guitar#
 480211#Predator Manteau#
 480212#Marauder Manteau#
 490194#Guardian Ring#
@@ -9708,6 +9733,7 @@
 1001148#Poring Island Entry Ticket#
 1001155#JMT Candy#
 1001156#Captured Soul#
+1001197#Cute Pet Event Token#
 1100000#IDTest heal#
 1200000#IDTest arrow#
 1210000#IDTest cannon#
