@@ -14452,8 +14452,11 @@ Job: ^777777all jobs^000000
 #
 2168#
 Very unique, square formed shield with a special jewel on it which protects from physical power.
-If refined to +5 or higher, increases 1% of resistance against Neutral property per refine level (resistance increase is limited to refine level 12)
-If refined to +7, additional 5% of resistance against Neutral property. If refined to +9 additional 5% of resistance againt Water, Wind, Earth and Fire property.
+ 
+If refine level is +5 or above, for every refine level, increase resistance against Neutral property by 1%. (Maximum refinement level +12)
+If refine level is +7 or above, additional increase resistance against Neutral property by 5%.
+If refine level is +9 or above, additional increase resistance against Water, Wind, Earth and Fire property by 5%.
+ 
 Class : ^777777Shield^000000 Defense : ^77777755^000000
 Weight : ^77777770^000000
 Required Level : ^7777771^000000
@@ -14696,6 +14699,21 @@ Equip with Diabolus Robe, decrease after skill delay by 10%.
 Class : ^777777Shield^000000 Defense : ^777777100^000000
 Weight : ^77777750^000000
 Required Level : ^77777760^000000
+Jobs : ^777777All Jobs^000000
+#
+2198#
+A shield of the Laphine tribe that has mysterious powers.
+ 
+MDEF +10.
+ 
+If refine level is +7 or above, MATK +20.
+If refine level is +9 or above and
+equip with ^008080Rafini Staff^000000, for every refine level of Rafini Staff, MATK +15.
+If refine level of ^008080Rafini Staff^000000 is +10 or above, MATK +50, decrease fixed cast time by 10%.
+ 
+Class : ^777777Shield^000000 Defense : ^77777725^000000
+Weight : ^777777100^000000
+Required Level : ^777777100^000000
 Jobs : ^777777All Jobs^000000
 #
 2199#
@@ -18723,27 +18741,29 @@ Job: ^777777Rune Knight^000000
 #
 2576#
 A backpack befitting of any hero.
-Enables the use of level 1 Greed
-If refined to +7 or higher and base stats (without modifiers) are equal to 90 or higher,
--STR -> Attack +20
--Int -> Magic Attack +30
--Vit -> Tolerance to Neutral Property +5%
--Agi -> Aspd +8%
--Dex -> Ranged Attack +5%
--Luk -> Inflict 10% more critical attack.
+Enables the use of level 1 Greed.
+ 
+If refine level is +7 or above, and base stats (without modifiers) are equal to 90 or higher,
+- STR -> ATK +20
+- INT -> MATK +30
+- VIT -> Tolerance to Neutral Property +5%
+- AGI -> ASPD +8%
+- DEX -> Ranged Attack +5%
+- LUK -> Inflict 10% more critical attack.
 ^660000OR^000000
-If refined to +9 or higher and base stats (without modifiers) are equal to 90 or higher,
--STR -> Attack +30
--Int -> Magic Attack +50
--Vit -> Tolerance to Neutral Property +10%
--Agi -> Aspd +8% & Aspd +1
--Dex -> Ranged Attack +10%
--Luk -> Inflict 15% more critical attack.
+If refine level is +9 or above, and base stats (without modifiers) are equal to 90 or higher,
+- STR -> ATK +30
+- INT -> MATK +50
+- VIT -> Tolerance to Neutral Property +10%
+- AGI -> ASPD +8%, ASPD +1
+- DEX -> Ranged Attack +10%
+- LUK -> Inflict 15% more critical attack.
+ 
 Class: ^777777Garment^000000
 Defense: ^77777720^000000
 Weight: ^77777720^000000
 Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+Jobs: ^777777All Jobs^000000
 #
 2577#
 A manteau that contains the reliquery remains of an ancient Assassin
@@ -21679,10 +21699,10 @@ Job: ^777777All^000000
 #
 2936#
 A ring that revitalizes the body.
-
-VIT + 1, MHP + 250, MaxHP + 5%.
+ 
+VIT +1, Max HP +250, Max HP +5%.
 Increase HP recovery by 5%.
-
+ 
 Class : ^777777Accessory^000000  Defense : ^7777775^000000
 Weight : ^77777710^000000
 Required Level : ^77777710^000000
@@ -21881,11 +21901,11 @@ Required Level : ^77777790^000000
 Jobs : ^777777All Jobs^000000
 #
 2965#
-An ornament carved with delicate and beautiful angels from the shell of an eggshells.
+An ornament with delicate and beautiful angels carved on an egg shell.
 
-All Stats + 1, increase physical damage and MATK by 5% to all enemies classes.
-Equip with Deep Blue Angel Hairband or Pink Angel Hairband,
-All Stats + 1, MHP + 5%, MSP + 5%,
+All Stats +1, increase physical damage and MATK by 5% to all enemies classes.
+Equip with ^008080Deep Blue Angel Hairband^000000 or ^008080Pink Angel Hairband^000000,
+All Stats +1, Max HP +5%, Max SP +5%,
 has a chance to cast Lv 5 Lord of Vermilion upon receiving physical damage,
 increase physical damage by 5% to all races,
 decrease variable cast time by 10%.
@@ -22125,21 +22145,21 @@ Jobs: ^7777773rd classes^000000
 A mechanical device that promotes the precise and timely execution of spells.
 Decrease SP consumption and after skill delay by 10%.
 Decrease variable cast time by 10%.
-Equip with Supplement Part Str, increase Axe Boomerang damage by 100%.
-Decrease Axe Boomerang cooldown by 2 seconds.
+Equip with ^008080Supplement Part Str^000000, increase [Axe Boomerang] damage by 100%.
+Decrease [Axe Boomerang] cooldown by 2 seconds.
  
 Class : ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^77777710^000000
+Defense : ^7777770^000000 Weight : ^77777710^000000
 Required Level : ^777777100^000000
 Jobs : ^777777Mechanic^000000
 #
 2996#
 Designed to strengthen the gun barrels of Madogears for enhanced firepower, this part is easy to assemble and disassemble.
 ATK +4%, HIT +10.
-Increase Knuckle Boost damage by 25%.
+Increase [Knuckle Boost] damage by 25%.
  
 Class : ^777777Accessory^000000
-Defense : ^7777770^000000      Weight : ^77777750^000000
+Defense : ^7777770^000000 Weight : ^77777750^000000
 Required Level : ^777777100^000000
 Jobs : ^777777Mechanic^000000
 #
@@ -29092,50 +29112,50 @@ Grant armor with Earth property.
 Grant armor with Wind property.
 #
 4974#
-Increases damage taken from Fire property attack by 25%.
-Decrease damage taken from Water property attack by 25%.
+Increase resistance against Fire property attacks by 25%.
+Decrease resistance against Water property attacks by 25%.
 #
 4975#
-Increases damage taken from Water property attack by 25%.
-Decrease damage taken from Wind property attack by 25%.
+Increase resistance against Water property attack by 25%.
+Decrease resistance against Wind property attack by 25%.
 #
 4976#
-Increases damage taken from Earth property attack by 25%.
-Decrease damage taken from Fire property attack by 25%.
+Increase resistance against Earth property attack by 25%.
+Decrease resistance against Fire property attack by 25%.
 #
 4977#
-Increases damage taken from Wind property attack by 25%.
-Decrease damage taken from Earth property attack by 25%.
+Increase resistance against Wind property attack by 25%.
+Decrease resistance against from Earth property attack by 25%.
 #
 4978#
- Restore 50 HP every 5 seconds.
-If refine level is +7, additional 50 HP restoration.
+Restore 50 HP every 5 seconds.
+If refine level is +7 or above, additional 50 HP restoration.
 #
 4979#
- Restore 3 SP every 5 seconds.
-If refine level is +7, additional 2 SP restoration.
+Restore 3 SP every 5 seconds.
+If refine level is +7 or above, additional 2 SP restoration.
 #
 4980#
 Increase HP recovery by 50%.
-If refine level is +7, additional 50% HP recovery.
+If refine level is +7 or above, additional 50% HP recovery.
 #
 4981#
 Increase SP recovery by 50%.
-If refine level is +7, additional 50% SP recovery.
+If refine level is +7 or above, additional 50% SP recovery.
 #
 4982#
 Every 10 base STR, add +5 ATK.
-If refine level is +7, additional +10 ATK.
+If refine level is +7 or above, additional +10 ATK.
 #
 4983#
 Every 10 base INT, add +5 MATK.
-If refine level is +7, additional +10 MATK.
+If refine level is +7 or above, additional +10 MATK.
 #
 4984#
 DEF + 100.
 #
 4985#
-Perfect Dodge + 3.
+Perfect Dodge +3.
 #
 4986#
 ATK + 20.
@@ -29144,10 +29164,10 @@ ATK + 20.
 MATK + 20.
 #
 4988#
-MHP + 5%.
+Max HP +5%.
 #
 4989#
-MSP + 3%.
+Max SP +3%.
 #
 4990#
  Immune to Frozen status.
@@ -32403,12 +32423,12 @@ Required Level: ^77777730^000000
 Jobs: ^777777All^000000
 #
 5286#
-A hair band with PecoPeco wings that lends you a PecoPeco's speed.
-
+A hairband with PecoPeco wings that lends you a PecoPeco's speed.
+ 
 Increase movement speed.
 Increase ASPD(decrease delay after attack by 5%) and decrease variable casting time by 5%.
 Unable to refine
-
+ 
 Class : ^777777Headgear^000000 Defense : ^7777776^000000
 Location : ^777777Upper^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -33108,13 +33128,13 @@ Jobs: ^777777All except novice^000000
 #
 5362#
 A scroll used by Ninjas to cast spells.
-Increase MATK 1%.
-Class: ^777777Headgear^000000
-Location: ^777777Lower^000000
-Defense: ^7777770^000000
-Weight: ^77777720^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+ 
+MATK +1%.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location :  ^777777Lower^000000 Weight : ^77777720^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 5363#
 A helm worn by the Abysmal Knight.
@@ -37425,11 +37445,17 @@ Increases resistance to Demi-human monsters by 10%.
 Weight: ^7777771^000000
 #
 5963#
-These headphones are the latest style for hip regions of Rune Midgard.
-Increases MATK by a % equal to its refinement level.
-When refined to greater than +6, Increases damage of Reverbration by 30%, and subtracts 18 from the SP Cost.
-When refined to +9 or higher, After Cast Delay of Metallic Sound is reduced
-Weight: ^7777771^000000
+Cute headphones decorated with white wings with noise cancelling feature.
+ 
+INT +3.
+For every 3 refine level, MATK +3%.
+If refine level is +7 or above, increase damage of [Reverberation] by 30% and decrease SP consumption of [Reverberation] by 18.
+If refine level is +10 or above, decrease cooldown of [Metallic Sound] by 2 seconds.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Upper/Middle^000000 Weight : ^7777771^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 5967#
 Sassy Galapago drinking water.
@@ -37569,21 +37595,14 @@ letter ''^000088C^000000'', used for special events.
 Weight: ^7777771^000000
 #
 6017#
-T is written on the snow flower festival card. Combine with other snow flower festival cards to make various words.
-(This item will be removed when the event ends.)
-Weight: ^7777771^000000
+A card with the letter "T" printed on it. It can make various words when combined with other Blue Cards during the Snow festival.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777771^000000
 #
 6018#
-^808080A blue card marked with the letter ^000000 ^000088V^000000
-^ffffff_^000000
-^009900Item Effect:^000000
-Collect all ^000088L, O, V, E, U^000000
-Can be exchanged for a reward with ^0000FFNPC: Love Machine^000000 located on ^006600Jawaii Island^000000 (185, 128)
-^ffffff_^000000
-^FF0000Able to placed in storage and sold to NPC^000000
-^FF0000Item will be removed on 11 March 2021^000000
-^ffffff_^000000
-Weight: ^7777770^000000
+A card with the letter "V" printed on it. It can make various words when combined with other Blue Cards during the Snow festival.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777771^000000
 #
 6020#
 Beautiful Silver colored fur that can be sold to merchant NPCs at a high price.
@@ -40127,6 +40146,7 @@ Weight : ^7777770^000000
 #
 6756#
 Specially enriched energy found from Verus City location. Maybe this could help us reveal the secret of Verus City power core..?
+ 
 Weight : ^7777770^000000
 #
 6757#
@@ -40335,8 +40355,9 @@ A fresh grape.
 Weight : ^77777710^000000
 #
 6827#
- Machine component found in the last room. Take it to Fruit to find out what it is.
+Machine component found in the last room. Take it to Fruit to find out what it is.
 ^ff0000This item cannot be traded with other accounts.^000000
+ 
 Weight : ^7777770^000000
 #
 6828#
@@ -40623,116 +40644,139 @@ Has 1% chance to absorb 1% of physical damage dealt to enemy as SP.
 Weight: ^77777710^000000
 #
 6965#
-A reactor designed to grant armor with Fire element..
+A reactor designed to grant armor with Fire element.
 ^ff0000Caution: This blueprint can only be used for the first upgrade.^000000
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6966#
 A reactor designed to grant armor with Water element.
 ^ff0000Caution: This blueprint can only be used for the first upgrade.^000000
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6967#
 A reactor designed to grant armor with Earth element.
 ^ff0000Caution: This blueprint can only be used for the first upgrade.^000000
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6968#
 A reactor designed to grant armor with Wind element.
 ^ff0000Caution: This blueprint can only be used for the first upgrade.^000000
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6969#
 A reactor designed to resist Fire element.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6970#
 A reactor designed to resist Water element.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6971#
 A reactor designed to resist Earth element.
+If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6972#
 A reactor designed to resist Wind element.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6973#
-A reactor designed to help HP restoration at time interval.
+A reactor designed to help HP restoration at timed intervals.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6974#
-A reactor designed to help SP restoration at time interval.
+A reactor designed to help SP restoration at timed intervals.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6975#
-A reactor designed to help natural HP recovery at time interval.
+A reactor designed to help natural HP recovery at timed intervals.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6976#
-A reactor designed to help natural SP recovery at time interval.
+A reactor designed to help natural SP recovery at timed intervals.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6977#
-A reactor designed to increase damage done by STR.
+A reactor designed to increase physical damage based on STR.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6978#
-A reactor designed to increase damage done by INT.
+A reactor designed to increase magic damage based on INT.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6979#
 A reactor designed to increase defense.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6980#
 A reactor designed to increase perfect dodge.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6981#
- A reactor designed to increase physical damage.
+A reactor designed to increase physical damage.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6982#
 A reactor designed to increase magic damage.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6983#
-A reactor designed to increase MHP.
+A reactor designed to increase Max HP.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6984#
-A reactor designed to increase MSP.
+A reactor designed to increase Max SP.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6985#
 A reactor designed to resist Frozen state.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6986#
 A reactor designed to increase ASPD.
 If you take it to MARS_01, you might find out something.
+ 
 Weight : ^7777771^000000
 #
 6988#
@@ -43371,34 +43415,19 @@ forbidden to the living.  ^ffffff_^000000
 Weight: ^7777771^000000
 #
 7461#
-A card marked with the
-letter ''^000088A^000000'' which is used for special events.
-^ffffff_^000000
-Weight: ^7777771^000000
-The letter ¡®A' is written on the Snow Flower Festival Card. Combine with other Snow Flower Festival Cards to make various words (and one particular special phrase!)
-(This item will be removed when the Event ends)
-Weight: ^7777771^000000
+A card with the letter "A" printed on it. It can make various words when combined with other Blue Cards during the Snow festival.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777771^000000
 #
 7462#
-^808080A blue card marked with the letter ^000000 ^000088[E]^000000
-^ffffff_^000000
-^009900Item Function:^000000
-Collect all cards: ^000088[L], [O], [V], [E], [U]^000000
-Can be exchange for a reward from^0000FFNPC: Love Machine^000000 located on ^006600Jawaii Island^000000 (185, 128)
-^ffffff_^000000
-^FF0000Item can be placed in storage and sold to NPCs^000000
-^FF0000Item will be removed on 11 March 2021^000000
-^ffffff_^000000
-Weight: ^7777770^000000
+A card with the letter "E" printed on it. It can make various words when combined with other Blue Cards during the Snow festival.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777771^000000
 #
 7463#
-A card marked with the
-letter ¡®^000088F^000000' which is used for special events.
-^ffffff_^000000
-Weight: ^7777771^000000
-The letter ¡®F' is written on the Snow Flower Festival Card. Combine with other Snow Flower Festival Cards to make various words (and one particular special phrase!)
-(This item will be removed when the Event ends)
-Weight: ^7777771^000000
+A card with the letter "F" printed on it. It can make various words when combined with other Blue Cards during the Snow festival.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777771^000000
 #
 7464#
 A card marked with the
@@ -43407,37 +43436,19 @@ letter ''^000088H^000000'' which is used for special events.
 Weight: ^7777771^000000
 #
 7465#
-^808080A blue card marked with the letter ^000000 ^000088[L]^000000
-^ffffff_^000000
-^009900Item Function:^000000
-Collect all cards: ^000088[L], [O], [V], [E], [U]^000000
-Can be exchange for a reward from^0000FFNPC: Love Machine^000000 located on ^006600Jawaii Island^000000 (185, 128)
-^ffffff_^000000
-^FF0000Item can be placed in storage and sold to NPCs^000000
-^FF0000Item will be removed on 11 March 2021^000000
-^ffffff_^000000
-Weight: ^7777770^000000
+A card with the letter "L" printed on it. It can make various words when combined with other Blue Cards during the Snow festival.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777771^000000
 #
 7466#
-A card marked with the
-letter ¡®^000088N^000000' which is used for special events.
-^ffffff_^000000
-Weight: ^7777771^000000
-The letter ¡®N' is written on the Snow Flower Festival Card. Combine with other Snow Flower Festival Cards to make various words (and one particular special phrase!)
-(This item will be removed when the Event ends)
-Weight: ^7777771^000000
+A card with the letter "N" printed on it. It can make various words when combined with other Blue Cards during the Snow festival.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777771^000000
 #
 7467#
-^808080A blue card marked with the letter ^000000 ^000088[O]^000000
-^ffffff_^000000
-^009900Item Function:^000000
-Collect all cards: ^000088[L], [O], [V], [E], [U]^000000
-Can be exchange for a reward from^0000FFNPC: Love Machine^000000 located on ^006600Jawaii Island^000000 (185, 128)
-^ffffff_^000000
-^FF0000Item can be placed in storage and sold to NPCs^000000
-^FF0000Item will be removed on 11 March 2021^000000
-^ffffff_^000000
-Weight: ^7777770^000000
+A card with the letter "O" printed on it. It can make various words when combined with other Blue Cards during the Snow festival.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777771^000000
 #
 7468#
 A card marked with the
@@ -43458,13 +43469,9 @@ Can be exchange for a reward from^0000FFNPC: Love Machine^000000 located on ^006
 Weight: ^7777770^000000
 #
 7470#
-A card marked with the
-letter ''^000088W^000000'' which is used for special events.
-^ffffff_^000000
-Weight: ^7777771^000000
-The letter ¡®W' is written on the Snow Flower Festival Card. Combine with other Snow Flower Festival cards to make various words (and one particular special phrase!)
-(This item will be removed when the Event ends)
-Weight: ^7777771^000000
+A card with the letter "W" printed on it. It can make various words when combined with other Blue Cards during the Snow festival.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777771^000000
 #
 7471#
 A card marked with the
@@ -44556,23 +44563,19 @@ Item Type: Miscellaneous
 Weight: 1
 #
 7598#
-The letter ¡®I' is written on the Snow Flower Festival Card. Combine with other Snow Flower Festival cards to make various words (and one particular special phrase!)
-(This item will be removed when the Event ends)
-Weight: ^7777771^000000
+A card with the letter "I" printed on it. It can make various words when combined with other Blue Cards during the Snow festival.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777771^000000
 #
 7601#
-The letter ¡®S' is written on the Snow Flower Festival Card. Combine with other Snow Flower Festival Cards to make various words (and one particular special phrase!)
-(This item will be removed when the Event ends)
-Weight: ^7777771^000000
+A card with the letter "S" printed on it. It can make various words when combined with other Blue Cards during the Snow festival.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777771^000000
 #
 7602#
-A card marked with the
-letter ¡®^000088R^000000' which is used for special events.
-^ffffff_^000000
-Weight: ^7777771^000000
-The letter ¡®R' is written on the Snow Flower Festival Card. Combine with other Snow Flower Festival cards to make various words (and one particular special phrase!)
-(This item will be removed when the Event ends)
-Weight: ^7777771^000000
+A card with the letter "R" printed on it. It can make various words when combined with other Blue Cards during the Snow festival.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777771^000000
 #
 7604#
 		
@@ -49457,27 +49460,27 @@ The effectiveness of a yellow potion, but much lighter.
 Weight : ^7777773^000000
 #
 11575#
-^ff0000Item cannot be traded between accounts.^000000
+^ff0000This item cannot be traded with other accounts.^000000
 A delicious cookie that brings luck.
-Weight: ^7777773^000000
-Weight: ^7777773^000000
-#
-11578#
-A candy bar that restores ^000088about 105 HP^000000.
-^ff0000(This item will be removed once event ends)^000000
- 
-Weight : ^7777774^000000
-#
-11580#
-Sweet and tasty candy ^000088restores about 45 HP^000000.
-^ff0000(This item will be removed once event ends)^000000
  
 Weight : ^7777773^000000
 #
+11578#
+^ff0000This item cannot be traded with other accounts.^000000
+A candy bar that recover ^000088about 105 HP^000000.
+^ffffff_^000000
+Weight : ^7777774^000000
+#
+11580#
+^ff0000This item cannot be traded with other accounts.^000000
+Sweet and tasty candy recover ^000088about 45 HP^000000.
+
+
+Weight : ^7777773^000000
+#
 11581#
-A piece of cake. It has a good fragrant and tast so soft. Restores some HP.
-^ff0000(This item will be removed once event ends)^000000
- 
+^ff0000This item cannot be traded with other accounts.^000000
+A sweet slice of cake that has a good fragrance and tastes so soft. If you consume it, your HP will be restored.
 Weight : ^77777710^000000
 #
 11583#
@@ -52699,8 +52702,8 @@ Weight : ^7777771^000000
 ^ff0000This item cannot be traded with other accounts.^000000
 An abrasive that sharpens the blade of a weapon.
 Increases CRIT Rate by 30.
-When the character becomes incapacitated, the item effect will also disappear.
-^ffffff_^000000
+^000088When the character becomes incapacitated, the item effect will also disappear.^000000
+ 
 Weight : ^7777771^000000
 #
 12515#
@@ -52735,6 +52738,13 @@ Caution! - This item won't work while your character is casting a spell or skill
 Caution! - This item consumes 15 HP and will be ineffective if the character has fewer than 15 HP.
 ^ffffff_^000000
 Weight: ^7777771^000000
+#
+12527#
+A scroll in which a single use of Level 5 Adrenaline Rush has been recorded.
+Caution! - This item won't work while your character is casting a spell or skill.
+Caution! - If the character is not equipped with an Axe or Mace, the scroll will be consumed with no effect.
+^ffffff_^000000
+Weight : ^7777771^000000
 #
 12529#
 A box that contains White Slim Potions 200 ea.
@@ -62609,36 +62619,15 @@ A scroll that can use Repair weapon Lv1. It has some mysterious letters written 
 Weight : ^7777771^000000
 #
 14588#
-A scroll on which
-a single use Lvl.10
-Party Blessing
-has been recorded.
-Will cast on all party
-members within a
-certain range.
-Caution - This item
-won't work while your
-character is casting
-a spell or skill.
-This item can only be placed in Kafra storage or traded.
+A scroll in which a single use of Level 10 Blessing has been recorded. Upon usage, apply Level 10 Blessing to all party members within the range
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight : ^7777771^000000
 #
 14589#
-A scroll on which
-a single use Lvl.10
-Party Increase AGI
-spell has been recorded.
-Will cast on all party
-members within a
-certain range.
-Caution - This item
-won't work while your
-character is casting
-a spell or skill.
-This item can only be placed in Kafra storage or traded.
+A scroll in which a single use of Level 10 Increase AGI has been recorded. Upon usage, apply Level 10 Increase AGI to all party members within the range
+Caution! - This item consumes 15 HP and will be ineffective if the character has fewer than 15 HP.
 ^ffffff_^000000
-Weight: ^7777771^000000
+Weight : ^7777771^000000
 #
 14590#
 A scroll on which
@@ -63069,15 +63058,14 @@ Caution! - Using the scroll while character is casting, the effect will not be t
 Weight : ^7777771^000000
 #
 14866#
-A scroll contains the spell of Holy Armor. The sacred armor will protect the user.
-Change character's property into a Holy property for 30 minutes. The effect remains even if character dies.
+A scroll that is imbued with the spell of Holy Armor. The sacred armor will protect the user.
+Change the character's property to Holy property for 30 minutes. The effect will remain even if the character dies.
+ 
 Weight : ^7777771^000000
 #
 14867#
-A Scroll that is imbued with the spell of shadow armor. The shadow armor will protect the user
- 
-Change character's property into a Shadow property for 30 minutes. 
-The effect remains even if character dies.
+A scroll that is imbued with the spell of Shadow Armor. The shadow armor will protect the user.
+Change the character's property to Shadow property for 30 minutes. The effect will remain even if the character dies.
  
 Weight : ^7777771^000000
 #
@@ -63134,8 +63122,9 @@ Weight : ^7777771^000000
 14887#
 The ultimate dish that brings together all the good dishes.
 All Stats + 10, ATK + 30, MATK + 30 for 30 minutes.
-The effect will disappear upon death.
+^000088When the character becomes incapacitated, the item effect will also disappear.^000000
 This item cannot be traded with other accounts.
+ 
 ^ff0000Note! Cannot be stacked with existing cooking items!!^000000
 #
 14888#
@@ -63996,28 +63985,41 @@ Weight: ^77777740^000000
 Required Level: ^7777771^000000
 Usable By: ^777777All Character Types^000000
 #
+15106#
+An armor used by engineers who specialize in the battlefield.
+ 
+Increase physical and magic damage to Formless monsters 3%.
+For every refine level after +5, increase physical and magic damage to Formless monsters by an additional 1%.
+ 
+Class : ^777777Armor^000000 Defense : ^77777730^000000
+Weight : ^77777750^000000
+Required Level : ^77777750^000000
+Jobs : ^777777All Jobs^000000
+#
 15110#
-A mechanical device that uses the power of science to optimize your strength. You can combine it with other variants for a synergetic effect.
+This mechanical device uses the power of science to optimize your strength. You can combine it with other variants for a synergetic effect.
 ATK +5%.
-For every 4 refine level, increase ATK by an additional 1%.
+For every 4 refine level, increase physical damage by an additional 1%.
 ^FFFFFF_^000000
 Class : ^777777Armor^000000 Defense : ^77777780^000000
 Weight : ^777777200^000000
 Required Level : ^777777100^000000
-Jobs : ^777777Mechanic^000000
+Jobs : ^777777Mechanic Classes^000000
 #
 15111#
 Designed to be worn over the frames of Madogears for enhanced defense, this part is easy to assemble and disassemble.
-Undestroyable.
-Decrease damage taken from Small and Medium size enemies by 10%.
-If refine level is +7, decrease damage taken from Large size enemies by 10%.
-If refine level is +9, decrease damage taken from Small and Medium size enemies by an additional 5%.
-Equip with Upgrade Part - Engine, Booster and Gun Barrel, increase Arm Cannon damage by 50%.
-^FFFFFF_^000000
+Indestructible.
+ 
+Decrease physical and magic damage taken from small and medium size enemies by 10%. 
+If refine level is +7 or above, decrease physical and magic damage taken from large size enemies by 10%.
+If refine level is +9 or above, decrease physical and magic damage taken from small and medium size enemies by an additional 5%.
+ 
+Equip with ^008080Upgrade Part - Engine, Booster and Gun Barrel^000000, increase the damage of [Arm Cannon] by 50%.
+ 
 Class : ^777777Armor^000000 Defense : ^777777110^000000
 Weight : ^777777300^000000
 Required Level : ^777777100^000000
-Jobs : ^777777Mechanic^000000
+Jobs : ^777777Mechanic Classes^000000
 #
 15113#
 An angel's armor to fight against demons.
@@ -64112,16 +64114,18 @@ Required Level : ^77777750^000000
 Jobs : ^777777All Jobs^000000
 #
 15128#
- A suit which made from the lost technology in Research Building.
+A suit which made from the lost technology in Research Building.
 VIT+6.
+ 
 If base level over 130, additional VIT + 4.
-For every 3 refine level, increase MHP by 4%.
-When equipped together with [Excellion Wing]
-Reduce after cast delay by 10%.
-If base level over 130, additional after cast delay reduced by 10%.
+For every 3 refine level, increase Max HP by 4%.
+ 
+When equipped with ^008080Excelion Wing^000000, reduce after cast delay by 10%
+decrease after skill delay by 10%.
+If base level over 130, decrease after skill delay by an additional 10%.
 Perfect Dodge + 6.
  
-Class : ^777777°©¿Ê^000000 Defense : ^777777100^000000
+Class : ^777777Armor^000000 Defense : ^777777100^000000
 Weight : ^777777100^000000
 Required Level : ^77777799^000000
 Jobs : ^777777All Jobs^000000
@@ -64138,13 +64142,27 @@ Weight: ^777777160^000000
 Required Level: ^77777740^000000
 Usable By: ^777777All Character Types^000000
 #
+15145#
+An armor made from the scales of a powerful evil dragon.
+ 
+If refine level is +8 or above, has a chance to drain HP by 3% and SP by 2% of physical damage dealt.
+If refine level is +9 or above, has a chance to drain HP by 4% and SP by 3% of physical damage dealt.
+If refine level is +10 or above, has a chance to drain HP by 6% and SP by 5% of physical damage dealt.
+ 
+^ff0000Caution - Equip with ^008080Rideword Hat ^ff0000or ^008080Vanargandr Helm ^ff0000or ^008080Piece Of Angent Skin^ff0000, the drain effect will be removed.^000000
+ 
+Class : ^777777Armor^000000 Defense : ^77777760^000000
+Weight : ^777777400^000000
+Required Level : ^77777799^000000
+Jobs : ^777777All Jobs^000000
+#
 15166#
 The holy rosary which has received its powers from the apostle of God. It's filled with mysterious powers.
  
 Perfect Dodge +2.
 Increase healing effect of heal skills by 3%.
  
-Equip with ^008080Clergy Nurse Cap^000000, for every refine level of Clergy Nurse Cap, Perfect Dodge +1, HP recovery +2%.
+Equip with ^008080Clergy Nurse Cap^000000, for every refine level of Clergy Nurse Cap, Perfect Dodge +1, increase healing effect of heal skills by 2%.
  
 Equip with ^008080Croce Staff^000000, for every refine level of Croce Staff, Perfect Dodge +2.
  
@@ -64231,14 +64249,16 @@ Job: ^777777All jobs^000000
 Uniform worn by Kafra staff.
 Although it looks like an ordinary maid outfit, it is very comfortable to wear because it was made with meticulous consideration.
 Increases the experience given from monsters by 5%, Increases the drop rate of items by 5%.
-For every 1 refine level MaxHP +100, MaxSP +20
-If refined to +7 or higher, MaxHP +3%, MaxSP +3%.
-If refined to +9 or higher, MaxHP +5%, MaxSP +5%.
-If refined to +12 or higher, HP recovery, SP recovery + 100%. 
-Position : ^777777Armor^000000 Defense : ^77777740^000000
+For every 1 refine level Max HP +100, Max SP +20
+ 
+If refine level is +7 or above, Max HP +3%, Max SP +3%.
+If refine level is +9 or above, Max HP +5%, Max SP +5%.
+If refine level is +12 or above, HP recovery, SP recovery + 100%.
+ 
+Class : ^777777Armor^000000 Defense : ^77777740^000000
 Weight : ^77777750^000000
 Requires Level : ^7777771^000000
-Job : ^777777All Jobs^000000
+Jobs : ^777777All Jobs^000000
 #
 15197#
 An Adventure Suit that has already been upgraded.
@@ -64305,6 +64325,28 @@ Class: ^777777Armor^000000 Defense: ^7777771^000000
 Weight: ^7777770^000000
 Required Level: ^77777740^000000
 Jobs: ^777777All Jobs^000000
+#
+15343#
+This mechanical device uses the power of science to optimize your strength. You can combine it with other variants for a synergetic effect.
+ATK +5%.
+For every 4 refine level, increase physical damage by an additional 1%.
+ 
+Class : ^777777Armor^000000 Defense : ^77777780^000000
+Weight : ^777777200^000000
+Required Level : ^777777130^000000
+Jobs : ^777777Mechanic Classes^000000
+#
+15344#
+Designed to be worn over the frames of Madogears for enhanced Defense, this part is easy to assemble and disassemble.
+Indestructible.
+Decrease physical and magic damage taken from small and medium size enemies by 10%. 
+If refine level is +7 or above, decrease physical and magic damage taken from large size enemies by 10%. 
+If refine level is +9 or above, decrease physical and magic damage taken from small and medium size enemies by an additional 5%.
+Equip with upgrade Part - Engine, Booster, Gun Barrel, increase the damage of Arms Cannon by 50%.
+Class : ^777777Armor^000000 Defense : ^777777110^000000
+Weight : ^777777300^000000
+Required Level : ^777777130^000000
+Jobs : ^777777Mechanic Classes^000000
 #
 15350#
 My Guardian! Elephangel! Flying Elephant?
@@ -73121,9 +73163,10 @@ Job: ^777777All jobs^000000
 #
 18563#
 A hairband for girls decorated with love feathers and lace.
-
-Decrease After Cast Delay by 5% and SP by 10% upon casting skills. After Cast Delay and SP consumption decreases by 3% additionaly for every 3 refinement level.
-
+ 
+Decrease After Cast Delay by 5% and SP by 10% upon casting skills.
+For every 3 refine level, additonal decrease to After Cast Delay and SP consumption by 3%.
+ 
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^77777730^000000
 Required Level : ^77777750^000000
@@ -75620,8 +75663,8 @@ Jobs : ^777777All Jobs^000000
 #
 18853#
 A hat with a strong strawberry scent.
-All State +1.
-If refined to +12, increase ASPD by 2.
+All Stats +1.
+If refine level is +12 or above, increase ASPD by 2.
  
 Class : ^777777Headgear^000000 Defense : ^7777774^000000
 Location : ^777777Upper^000000 Weight : ^77777715^000000
@@ -75882,16 +75925,16 @@ Required LV: ^7777771^000000
 Jobs: ^777777All^000000
 #
 18887#
-A hairband that attracts individuals.
-You can wear it when you want to look sexy.
-Sexiness increases by 100%
-VIT + 3, MDEF + 5, MATK + 2%
-If refined to 9, MDEF + 5 and MATK 4%
-If refined to 12, reduce fix casting time by 10%
-Type: ^777777Headgear^000000 Defense: ^7777772^000000
-Location: ^777777Upper ^000000Weight: ^77777710^000000
-Required Level: ^7777771^000000
-Job: ^777777All Jobs^000000
+A hairband that attracts individuals. You can wear it when you want to look sexy.
+ 
+VIT +3, MDEF +5, MATK +2%.
+If refine level is +9 or above, additional MDEF +5, MATK +4%.
+If refine level is +12 or above, decrease variable cast time by 10%.
+ 
+Class : ^777777Headgear^000000 Defense : ^7777772^000000
+Location : ^777777Upper^000000 Weight : ^77777710^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 18888#
 A hairband that attracts individuals.
@@ -76295,8 +76338,8 @@ Weight: ^77777730^000000
 A hat decorated with mechanical parts and plants.
 DEX +2, MDEF +7
  
-Increase damage of Spore Explosion by 5%.
-For every 2 refine level, increase damage of Spore Explosion by an additional 5%.
+Increase damage of [Spore Explosion] by 5%.
+For every 2 refine level, increase damage of [Spore Explosion] by an additional 5%.
  
 Equip with ^008080Pipe^000000, decrease delay after skill by 5%.
  
@@ -76584,12 +76627,13 @@ Job: ^777777All^000000
 18997#
 It feels like being controlled by an unknown machine.
 HIT +50, FLEE +50, Max SP -50%
-Equip with Broken Chip 01 and Broken Chip 02,
+ 
+Equip with ^008080Broken Chip 01^000000 and ^008080Broken Chip 02^000000,
 increase movement speed, ATK +50, MATK +50.
-If refine level is +9, Max SP +50%, Max HP +10%
+If refine level is +9 or above, Max SP +50%, Max HP +10% additionally.
  
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
-Location : ^777777Upper ^000000Weight : ^77777730^000000
+Location : ^777777Upper^000000 Weight : ^77777730^000000
 Required Level : ^777777100^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -77252,9 +77296,9 @@ Decrease delay after skill by 5%.
  
 Equip with ^008080Pipe^000000, decrease delay after skill by an additional 5%.
  
-Equip with ^008080Mechanical Plant Hat^000000, for every refine level of Mechanical Plant Hat, increase damage of Spore Explosion by an additional 5%.
+Equip with ^008080Mechanical Plant Hat^000000, for every refine level of Mechanical Plant Hat, increase damage of [Spore Explosion] by an additional 5%.
  
-Equip with ^008080Pipe^000000 and ^008080Mechanical Plant Hat^000000, decrease SP cost of Spore Explosion by 20.
+Equip with ^008080Pipe^000000 and ^008080Mechanical Plant Hat^000000, decrease SP cost of [Spore Explosion] by 20.
  
 Class : ^777777Headgear^000000 Defense : ^7777773^000000
 Location : ^777777Middle^000000 Weight : ^77777750^000000
@@ -77663,15 +77707,17 @@ Required Level: ^777777160^000000
 Job: ^777777All jobs^000000
 #
 19168#
-Headband, a symbol of the Kafra staff.
-Consists of a Kafra uniform and a set
-Reduces damage taken from all monsters by 5%. 
-When defeating monsters, there is a chance to obtain [Not For Sale]Kafra Card, Kafra Warp Ticket, and Kafra Warehouse Ticket. 
+Hairband worn by Kafra staff.
+Part of the Kafra equipment set.
+Reduces damage taken from all monsters by 5%.
+ 
+When defeating monsters, there is a chance to obtain Kafra Card, Free Ticket for Kafra Transportation, and Free Ticket for Kafra Storage.
 The higher the refine rate, the higher the chance of obtaining it.
--------------------------- 
-When equipped with Kafra uniform, experience gained from monsters + 5%, item drop rate + 5%, All Stat +4 
+ 
+When equipped with ^008080Kafra Uniform^000000, experience gained from monsters +5%, item drop rate +5%, All Stats +4.
+ 
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
-Position : ^777777Upper ^000000Weight : ^77777750^000000
+Location : ^777777Upper ^000000Weight : ^77777750^000000
 Requires Level : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
@@ -79283,6 +79329,14 @@ Weight: ^7777770^000000
 Required Level: ^77777720^000000
 Jobs: ^777777All^000000
 #
+19631#
+A hat with poring sitting on fedora.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 19632#
 An ordinary pink hat.
 Type: ^777777Costume^000000 Protection: ^7777770^000000
@@ -79608,11 +79662,12 @@ Required LV: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19682#
-A cute Santa Poring is tumbling on your head!
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Jobs: ^777777All^000000
+A cute poring with a santa hat that jumps on top of your head.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19683#
 The sweetest yummy candy for good children.
@@ -79728,18 +79783,29 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 19697#
-Rudolf the red-nosed reindeer had a very shiny hat!
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
-A special Santa hat that a deer can wear as well.
-Category: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Equip: ^777777All Job^000000
+^00CC00Event Headgear^000000
+A Santa hat that has been modified so that it can be worn by deer.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+19698#
+A very important costume when you are looking for a boy friend.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+19699#
+A very important costume when you are looking for a girl friend.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19701#
 ^808080A hat noblewomen enjoy wearing. It is said the wearers want to drink black tea.^000000
@@ -79751,18 +79817,13 @@ Required Level: 1
 Required Job: All Jobs
 #
 19702#
-^808080A cute red hat for Christmas events.^000000
-^808080It is very popular among girls who want to be a Santa.^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+^00CC00Event Headgear^000000
+A must have Santa's hat for this season! It is far more cute and charming than the original.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19703#
 A fluffy black afro wig!
@@ -79780,13 +79841,14 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 19707#
-A Christmas hat that the Raccoon Hooray team 'borrowed' from Santa.
+^00CC00Event Headgear^000000
+Christmas hat that the Raccoon Hooray team borrowed from Santa.
 It is very helpful for the Raccoons to keep warm since they're currently homeless.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19709#
 A ribbon that is made from an old flag. It's worn on the side of your head.
@@ -79985,6 +80047,15 @@ Location: ^777777Upper ^000000
 Weight: ^7777770^000000
 Required Lv.: ^7777771^000000
 Job: ^777777All jobs^000000
+#
+19740#
+A very important costume when you are looking for a guild member.
+Wanna participate in WoE with us?
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19741#
 A costume containing a massive spirit of the devil.
@@ -80400,11 +80471,12 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 19807#
-A brave headgear that no one can block.
-Class: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
+A brave headgear that no one can stop the wearer.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location :  ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19808#
 A broiling sun.
@@ -80555,11 +80627,12 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 19827#
-A hat shaped like Homunculus Amistr.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
+A hat that looks like Homunculus Amistr.
+ 
+Class : ^777777Costume^000000
+Location :  ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19828#
 A hat worn by old soldiers.
@@ -80658,11 +80731,12 @@ Required LV: ^7777771^000000
 Job: ^777777all jobs^000000
 #
 19839#
-A hat shaped like Homunculus Vanilmirth. It's very cold and mushy.
-Class: ^777777Costume^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required LV: ^7777771^000000
-Job: ^777777all jobs^000000
+A hat that looks like Homunculus Vanilmirth.
+ 
+Class : ^777777Costume^000000
+Location :  ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19840#
 ^ff0000Wearing this helm is an honor given only to the most valiant warriors of the 2018 Ragnarok Championships.^000000
@@ -80806,13 +80880,12 @@ Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
 #
 19871#
-The rhythm that stimulates your five senses. Makes you feel the melody so vividly.
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000 
-Location: ^777777Middle ^000000 
-Weight: ^7777770^000000 
-Required Level: ^7777771^000000 
-Jobs: ^777777All^000000
+The rhythm stimulates your five senses, making you feel the melody so vividly.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19873#
 A hat for a Brazilian carnival. You can dance everywhere while wearing this.
@@ -81340,13 +81413,13 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 19976#
-^808080A hat that cats of Malangdo wear during the Christmas season.^000000
-Class: ^777777Headgear^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Jobs: ^777777All^000000
+^00CC00Event Headgear^000000
+A hat which cats of Malangdo wear during the Christmas season.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19977#
 Golden exclamation mark.
@@ -81402,11 +81475,12 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 19986#
-A fluffy looking hat.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location:  ^777777Upper ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A hat that looks like Lunatic.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location :  ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 19987#
 Warm hat for cold times. Sometimes people wear this just because it looks cool.
@@ -81580,10 +81654,11 @@ Jobs: ^777777All^000000
 #
 20011#
 The sleek, sharp lines of the headpiece mimic a lightning bolt's swift descent to Earth.
-Class: ^777777Costume^000000 Def: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location :  ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20012#
 A soft, plush hat adorned with sharp steel horns.
@@ -81780,6 +81855,14 @@ Type: ^777777Costume^000000 Protection: ^7777770^000000
 Used for: ^777777Upper ^000000Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Required Class: ^777777Every Class^000000
+#
+20052#
+A text balloon that tells other players that you are away from the keyboard.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20054#
 An item used to shut babies up when they're crying.
@@ -82762,18 +82845,13 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20222#
-^808080A cute blue hat for Christmas events.^000000
-^808080It is very popular among children in Midgard.^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper^000000
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+^00CC00Event Headgear^000000
+A cute Santa hat with pigtails that would look good on a cute boy.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20223#
 A slender leaf that is placed in the mouth for a seductive look.
@@ -84278,6 +84356,14 @@ Weight: ^7777770^000000
 Required LV: ^7777771^000000
 Job: ^777777All Jobs^000000
 #
+20436#
+A knitted cap with an Angeling figurine. It allows wearers to feel happy.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 20438#
 ^808080A wonderful abacus that offers the ability to determine product value at a glance.^000000
 ^FFFFFF_^000000
@@ -84514,13 +84600,12 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 20474#
-Banana Havana Oh La Oh La!!
-Class: ^777777Costume^000000 
-Defense: ^7777770^000000
-Location: ^777777Upper^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+We all know that, stepping on this will make you slip.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 20481#
 A symbol of the bravery, strength, and leadership of the winning Guild Leader in the ^FF0000Fight Night Championships.^000000
@@ -85568,10 +85653,12 @@ Jobs : ^777777All Jobs^000000
 20732#
 A mechanical device that heals wounds and rejuvenates your body.
 Max HP +6%
+ 
 For every 2 refine level, increase Max HP by an additional 1%.
-If refine level is +9, increase HP recovery speed by 50%.
-Equip with Supplement Part Str, increase Axe Tornado damage by 25%.
-^FFFFFF_^000000
+If refine level is +9 or above, increase HP recovery speed by 50%.
+ 
+Equip with ^008080Supplement Part Str^000000, increase [Axe Tornado] damage by 25%.
+ 
 Class : ^777777Garment^000000 Defense : ^77777720^000000
 Weight : ^77777750^000000
 Required Level : ^777777100^000000
@@ -85776,12 +85863,14 @@ Job: ^777777All Jobs^000000
 #
 20773#
 A power wing made from lost technology found in the research building ruins.
-Perfect Dodge + 8. 
+Perfect Dodge + 8.
+ 
 If base level over 130, Perfect Dodge +2.
 For every refine level, increase Flee +2.
-When equipped together with [Excellion Suit]
-Reduce after cast delay by 10%.
-If base level over 130, additional after cast skill delay reduced by 10%.
+ 
+When equipped with ^008080Excelion Wing^000000,
+decrease after skill delay by 10%.
+If base level over 130, decrease after skill delay by an additional 10%.
 Perfect Dodge + 6.
  
 Class : ^777777Garment^000000 Defense : ^77777740^000000
@@ -86733,12 +86822,25 @@ Weight: ^77777730^000000
 Required Level: ^777777160^000000
 Jobs: ^777777All Classes^000000
 #
+22042#
+The legendary shoes Hermes gave to Perseus when he went to fight Medusa.
+ 
+MDEF + 5, AGI + 2,
+ASPD + 1.
+Undestroyable.
+ 
+Class : ^777777Shoes^000000 Defense : ^77777715^000000
+Weight : ^77777730^000000
+Required Level : ^77777750^000000
+Jobs : ^777777All Jobs^000000
+#
 22043#
 A mechanical device that keeps you light on your feet. They are much lighter than they look.
 Increase ASPD. (Decrease delay after attack by 5%)
 For every 4 refine level, decrease delay after attack by an additional 1%.
-Equip with Supplement Part Str, ATK +30.
-^FFFFFF_^000000
+ 
+Equip with ^008080Supplement Part Str^000000, ATK +30.
+ 
 Class : ^777777Shoes^000000 Defense : ^77777725^000000
 Weight : ^77777735^000000
 Required Level : ^777777100^000000
@@ -86746,9 +86848,9 @@ Jobs : ^777777Mechanic^000000
 #
 22044#
 Designed to significantly improve movement speed, this madogear part is easy to assemble and disassemble.
-Decrease Hover SP consumption by 15.
-If refine level is +7, decrease Acceleration SP consumption by 20.
-^FFFFFF_^000000
+Decrease [Hover] SP consumption by 15.
+If refine level is +7 or above, decrease [Acceleration] SP consumption by 20.
+ 
 Class : ^777777Shoes^000000 Defense : ^77777723^000000
 Weight : ^777777100^000000
 Required Level : ^777777100^000000
@@ -88172,7 +88274,8 @@ Weight: ^7777771^000000
 A small bottle containing the sap from the petals of the Yggdrasil tree. It is said to be effective in mana regeneration.
 Restores an amount of SP equal of 5% of your Max SP every 5 seconds for 10 minutes.
 The effect is not active at the state of berserk.
-When a character is incapable of combat, the effect of item disappears.
+^000088When the character becomes incapacitated, the item effect will also disappear.^000000
+ 
 Weight : ^7777771^000000
 #
 23023#
@@ -88253,8 +88356,8 @@ Weight : ^7777771^000000
 23048#
 A magic potion made with alchemy and magic. A Rosary is rumored to be one of the secret ingredients in making this potion.
 Increases the HP recovery effect of some potions and the Heal skill by 20% for 30 minutes.
-When the character becomes incapacitated, the item effect will also disappear.
-^ffffff_^000000
+^000088When the character becomes incapacitated, the item effect will also disappear.^000000
+ 
 Weight : ^7777771^000000
 #
 23049#
@@ -88991,71 +89094,46 @@ Cooldown will reduce only when the player is online.
 Weight: ^7777771^000000
 #
 23548#
-^808080A soul of heroes that still exist in Biolab.^000000	
-^FFFFFF_^000000
-^CC66FFItem Function:^000000
-^FFFFFF_^000000
-1. Material for making [Biolab Headgear] and [God's Item New Version]
-2. When you click to use this item, you will be warped to Biolab's 3rd Floor
-3. Can be used instead of Fly Wing to random within Biolab's 3rd Floor
-^FFFFFF_^000000
-Weight: ^7777770.1^000000
+A crystal-clear candy. There is an ice crystal inside the candy so it freezes your mouth when you bite into it. It might freeze your body if you have too much of it.
+Recover HP and SP by 5% when consumed.
+It has a low chance to apply Frozen.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777772^000000
 #
 23549#
-Cookie that is shaped like a snowman. Effective and tasty when consumed.
-Recovers HP by 5% and Hit+ 30 for 10 minutes when consumed.
-Cannot be combined to be used as an ^ff0000 effect. ^000000
-(This item will be removed when the Event ends)
-Weight: ^7777775^000000
+A cookie that looks like Snow the snowman. Bite into it to enjoy a special taste and other effects.
+Restores 5% of Max HP and HIT+ 30 for 10 minutes when consumed.
+^ff0000This item cannot be used with an item that has the same effect.^000000 
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777775^000000
 #
 23550#
-Cookie that is shaped like a snowman. Effective and tasty when consumed.
-Recovers HP by 5% and increases ATK +3% for 10 minutes when consumed.
-(This item will be removed when the Event ends)
-Weight: ^7777775^000000
+A cookie that looks like Winter the snowman. Bite into it to enjoy a special taste and other effects.
+Restores 5% of Max HP and increase ATK + 3% for 10 minutes when consumed.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777775^000000
 #
 23551#
-Cookie that is shaped like snowman Pestie. Effective and tasty when consumed.
-Recovers HP by 5% and increases ATK speed for 10 minutes (delay decreases 10%) when consumed.
-(This item will be removed when the Event ends)
-Weight: ^7777775^000000
-Confidentail Special Document from Shopaholic Girl.
-Contains employment voucher for hiring beginner part-time buyer.
-^FFFFFF_^000000
-^777777 Allow users to buy 3 items ^000000
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A cookie that looks like Festi the snowman. Bite into it to enjoy a special taste and other effects.
+Restores 5% of Max HP and increase ASPD for 10 minutes when consumed.(Decrease delay after attack by 10%)
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777775^000000
 #
 23552#
-Cookie that is shaped like snowman Flora. Effective and tasty when consumed.
-Recovers HP by 5% and increases MATK +3% for 10 minutes when consumed.
-(This item will be removed when the Event ends)
-Weight: ^7777775^000000
-Confidentail Special Document from Shopaholic Girl.
-Contains employment voucher for hiring part-time buyer.
-^FFFFFF_^000000
-^777777 Allow users to buy 4 items ^000000
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+A cookie that looks like Flora the snowman. Bite into it to enjoy a special taste and other effects.
+Restores 5% of Max HP and increase MATK + 3% for 10 minutes when consumed.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777775^000000
 #
 23553#
 Box that contains snacks, hats and other various items. We wonder what's inside!
-(This item will be removed when the Event ends)
-Weight: ^77777710^000000
-Confidentail Special Document from Shopaholic Girl.
-Contains employment voucher for hiring high quality buyer.
-^FFFFFF_^000000
-^777777 Allow users to buy 5 items ^000000
-^FFFFFF_^000000
-^FF0000Cannot be traded.^000000
-Weight: ^7777771^000000
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^77777710^000000
 #
 23554#
-Envelope that has a snow flower card. When opened, a snow flower card is received.
-(This item will be removed when the Event ends)
-Weight: ^7777775^000000
+A blue card is in the Envelope. When you open it, you will receive one Blue Card.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777775^000000
 #
 23556#
 Confidentail Special Document from Shopaholic Girl.
@@ -89196,6 +89274,36 @@ Magic Intensifier Ring
 ^ffffff_^000000
 Weight : ^77777710^000000
 #
+23706#
+An upgrade part manufactured in the Charleston factory.
+The weapons manufactured in the factory can be optimized for melee attacks.
+ 
+^000088[Upgrade List]^000000
+Robot's Arm
+Pile Bunker
+Pile Bunker S
+Pile Bunker T
+Pile Bunker P
+Tornado Axe
+Gigantic Blade
+ 
+Weight : ^7777775^000000
+#
+23707#
+An upgrade part manufactured in the Charleston factory.
+The weapons manufactured in the factory can be optimized for ranged attacks.
+ 
+^000088[Upgrade List]^000000
+Robot's Arm
+Pile Bunker
+Pile Bunker S
+Pile Bunker T
+Pile Bunker P
+Tornado Axe
+Gigantic Blade
+ 
+Weight : ^7777775^000000
+#
 23713#
 ^ff0000This item cannot be traded with others.^000000
 A tempting and cool magical perfume reminiscent of the Pacific Ocean.
@@ -89228,7 +89336,8 @@ ATK, MATK + 30, ATK, MATK + 1% for 30 minutes
 HIT, FLEE + 30, ASPD + 1, decrease SP consumption by 5%
 Fixed Cast Delay Reduced by 30%.
 (Fixed Cast Delay reduction only applies the largest bonus.)
-^000088When the character becomes incapacitated, the effect is lost.^000000
+^000088When the character becomes incapacitated, the item effect will also disappear.^000000
+ 
 Weight : ^7777771^000000
 #
 23899#
@@ -89972,7 +90081,7 @@ Jobs : ^777777All Jobs^000000
 A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
 SP +50.
 If refine level is +7 or above, Max SP +1%.
-If refine level is +9 or above, Max SP +1% additionally. Max SP +1% by an additional.
+If refine level is +9 or above, Max SP +1% additionally.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Earring^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -90098,16 +90207,15 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 24061#
-Small extra shield gives you additional defense effect. Not very effective when worn alone.
-1% damage decrease when attacked by plant type monsters.
-When refine level is 7, 1% extra damage decrease when attacked by plant type monsters.
-When refine level 9, 1% extra damage decrease when attacked by plant type monsters.
-When equipped together with ^32CD32Cadi Shield Shadow^000000 and ^32CD32Chemical Shoes Shadow^000000, 3% exp increase when hunting plant type monsters.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Shield^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+Decrease damage taken from Plant enemies by 1%.
+If refine level is +7 or above, decrease damage taken from Plant enemies by an additional 1%.
+If refine level is +9 or above, decrease damage taken from Plant enemies by an additional 1%.
+Equip with ^32CD32Cadi Shadow Shield^000000 and ^32CD32Chemical Shadow Shoes^000000, increase EXP gain from Plant monsters by 3%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24062#
 Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
@@ -90133,16 +90241,15 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 24064#
-Special shoes worn over your original shoes. Not very effective when worn alone.
-2% extra damage to plant type monsters.
-When refine level is 7, 1% extra damage to plant type monsters.
-When refine level 9, 2% extra damage to plant type monsters.
-When equipped together with ^32CD32Chemical Shoes Shadow^000000 and ^32CD32Cadi Shield Shadow^000000, 3% exp increase when hunting plant type monsters.
-Class: ^777777Shadow Armor^000000
-Equip Slot: ^777777Shoes^000000 
-Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Job: ^777777All^000000
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+Increase damage to Plant monsters by 2%.
+If refine level is +7 or above, increase damage to Plant monsters by an additional 1%.
+If refine level is +9 or above, increase damage to Plant monsters by an additional 2%.
+Equip with ^32CD32Chemical Shadow Shoes^000000 and ^32CD32Cadi Shadow Shield^000000, increase EXP gain from Plant monsters by 3%.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shoes^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 24065#
 Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
@@ -90686,6 +90793,42 @@ Location : ^777777Pendant ^000000Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
+24180#
+An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
+MDEF +1.
+For every 2 refine level, MDEF +1.
+Equip with Bearers Shadow (Shield, Shoes, Weapon, Earring and Pendant), All stats +1.
+If the total refine level is +45 or above, apply infinite [Endure]. Decrease Max HP by 60%.
+Max HP decrease % increases based on the total refine level.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Armor ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24181#
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+SP +50. 
+For every 2 refine level, SP +5. 
+Equip with Bearers Shadow (Armor, Shield, Weapon, Earring and Pendant), All stats +1.
+If the total refine level is +45 or above, apply infinite [Endure]. Decrease Max HP by 60%.
+Max HP decrease % increases based on the total refine level.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shoes^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24182#
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+DEF +5. 
+For every 2 refine level, DEF +1. 
+Equip with Bearers Shadow (Armor, Shoes, Weapon, Earring and Pendant), All stats +1.
+If the total refine level is +45 or above, apply infinite [Endure]. Decrease Max HP by 60%.
+Max HP decrease % increases based on the total refine level.
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 24186#
 An armor worn on top of normal armor for additional DEF. Can be equipped alone but needs a set to have any effect.
 Increase physical and magic damage to Neutral property monster by 1%.
@@ -90902,6 +91045,30 @@ Additionally decrease physical and magic damage taken from Undead property monst
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Shield^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+24208#
+Shoes worn on top of normal shoes for additional DEF. Can be equipped alone but needs a set to have any effect.
+For every 4 refine level, increase EXP gain from the monsters by 1%.
+Equip with ^008080Expert Shadow Shoes^000000 and ^008080Expert Shadow Shield^000000, increase EXP gain from the monsters by an additional 1%.
+If total refine level is + 15 or above, increase EXP gain from the monsters by an additional 1%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shoes^000000 Weight : ^7777770^000000
+Required Level : ^777777150^000000
+Maximum Level : ^777777175^000000
+Jobs : ^777777All Jobs^000000
+#
+24209#
+A small shield worn on the arm for additional DEF. Can be equipped alone but needs a set to have any effect.
+For every 4 refine level, increase EXP gain from the monsters by 1%.
+Equip with ^008080Expert Shadow Shield^000000 and ^008080Expert Shadow Shoes^000000, increase EXP gain from the monsters by an additional 1%.
+If total refine level is + 15 or above, increase EXP gain from the monsters by an additional 1%.
+ 
+Class : ^777777Shadow Equipment^000000
+Location : ^777777Shield^000000 Weight : ^7777770^000000
+Required Level : ^777777150^000000
+Maximum Level : ^777777175^000000
 Jobs : ^777777All Jobs^000000
 #
 24210#
@@ -92716,27 +92883,20 @@ Perfect for Halloween decorations!!
 Weight : ^7777770^000000
 #
 25425#
-^808080Ice crystals filled with happy energy from the Christmas season^000000
-Obtained from ^0000FFThank U, Next Scroll.^000000
-^ffffff_^000000
-Collected for ^FF0000300 ea.^000000 to exchange with ^0000FF[Xmas Goblin's Egg 1 ea]^000000 at ^3366FFMs. Everything (cute ver.)^000000 
-^ffffff_^000000
-SPECIAL: Players who exchange ^0000FF[Xmas Goblin's Egg 1 ea]^000000 within the event period have chance to win the lucky draw.
-Maximum 50 winners for each server!!
-^ffffff_^000000
-Weight: ^7777770^000000
+A crystal of magic that is found in some monsters with cold energy. It is white and easily bundled in a ball so it is often used to make balls of snow or snowmen.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777770^000000
 #
 25426#
-Smooth cotton that absorbs the magic power from the earth.
-^0000FF[This item use for Seasonal Headgear Quest]^000000
-^FF0000Can be put in Storage, cart and tradable^000000
-Weight: ^7777770^000000
+White warm cotton that can be used to make clothes and decorations.
+^ff0000(This item will be removed once event ends.)^000000
+Weight : ^7777770^000000
 #
 25627#
-A card that is not currently used anywhere.
-It shines like gold, but it is useless.
-Maybe someone would need it.
-^ff0000This item is untradable^000000
+Not a standard size for a card.
+It is gold and shiny but looks worthless
+Someone might be able to use this.
+ 
 Weight: ^7777771^000000
 #
 25744#
@@ -93613,9 +93773,9 @@ Jobs : ^777777Swordsman and Merchant Classes^000000
 28101#
 Named after the shape of the blade.
 Wind Property.
-Decrease Axe Tornado cooldown by 1 second.
+Decrease [Axe Tornado] cooldown by 1 second.
  
-Class : ^777777Axe^000000    Attack : ^777777320^000000
+Class : ^777777Axe^000000 Attack : ^777777320^000000
 Weight : ^777777400^000000
 Weapon Level : ^7777774^000000
 Required Level : ^777777100^000000
@@ -93790,7 +93950,8 @@ Job: ^777777All jobs^000000
 28326#
 A broken chip that is divided into half.
 STR +4
-Equip with Broken Chip 02,
+ 
+Equip with ^008080Broken Chip 02^000000,
 STR +8, INT +8
  
 Class : ^777777Accessory^000000 Defense : ^7777770^000000
@@ -93801,7 +93962,8 @@ Jobs : ^777777All Jobs^000000
 28327#
 A broken chip that is divided into half.
 INT +4
-Equip with Broken Chip 01,
+ 
+Equip with ^008080Broken Chip 01^000000,
 STR +8, INT +8
  
 Class : ^777777Accessory^000000 Defense : ^7777770^000000
@@ -93830,6 +93992,18 @@ Weight : ^77777710^000000
 Required Level : ^77777720^000000
 Jobs : ^777777All Jobs^000000
 #
+28386#
+Increase ASPD(decrease delay after attack by 5%). CRIT +5.
+Decrease SP consumption of Zen by 5.
+For every 15 Base Level, increase damage of Dragon Combo by 2%.
+For every 20 Base Level, increase damage of Knuckle Arrow by 2%.
+For every 30 Base Level, increase damage of Sky Blow by 2%.
+
+Class : ^777777Accessory^000000 Defense : ^7777770^000000
+Weight : ^77777710^000000
+Required Level : ^77777720^000000
+Jobs : ^777777All Jobs^000000
+#
 28391#
 A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.
 Has 20% chance to active a state effect that increase ATK and FLEE by 30 for 5 seconds upon casting Stone Fling.
@@ -93850,6 +94024,19 @@ If the total refine level of the set is +10, ATK +2%, MHP +2%.
 Class : ^777777Shadow Equipment^000000
 Location : ^777777Earring^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+28411#
+DEX +5, AGI +5, INT +5.
+ 
+For every Base Level, increase damage of [Arrow Vulcan], [Slinging Arrow], 
+[Melody Strike] by 1%.
+For every 5 Base Level increase damage of [Metallic Sound] by 2% and decrease variable cast time of [Metallic Sound] by 1%.
+For every 2 level of [Voice Lessons] DEX +1, AGI +1, INT +1, MATK +20.
+ 
+Class : ^777777Accessory^000000 Defense : ^7777773^000000
+Weight : ^77777750^000000
+Required Level : ^77777750^000000
 Jobs : ^777777All Jobs^000000
 #
 28439#
@@ -94355,6 +94542,36 @@ Class: ^777777Accessory^000000 Defense: ^7777770^000000
 Weight: ^77777710^000000
 Required Level: ^77777720^000000
 Job: ^777777All jobs^000000
+#
+28520#
+Egir, the God of Sea's Ring. It has the power to see all things.
+MDEF +5, All Stats +1.
+Increase physical damage to all classes enemies by 5%, MATK +5%.
+Increaes resistance against Water property attack by 10%.
+^ffffff_^000000
+Equip with ^008080Egir Helm^000000, increase physical damage to all classes enemies by an additional 5%, MATK +5%, All Stats +5.
+If refine level of ^008080Egir Helm^000000 is +7 or above, 
+increase physical damage to all classes enemies by an additional 5%, MATK +5%, All Stats +5.
+^ffffff_^000000
+Equip with ^008080Egir Armor^000000, increase resistance against Silence and Stun by 25%.
+If refine level of ^008080Egir Armor^000000 is +7 or above, increase resistance against Silence and Stun by an additional 25%.
+^ffffff_^000000
+Equip with ^008080Egir Shoes^000000, Max HP +10%, Max SP +10%.
+If refine level of ^008080Egir Shoes^000000 is +7 or above, Max HP +10%, Max SP +10%.
+^ffffff_^000000
+Equip with ^008080Egir Manteau^000000, increase resistance against Water and Fire property by 25%.
+If refine level of ^008080Egir Manteau^000000 is +7 or above, increase resistance against Water and Fire property by an additional 25%.
+^ffffff_^000000
+Equip with ^008080Egir Helm, Armor, Shoes and Manteau^000000, Immune to Frozen.
+Perfect Dodge +30, increase resistance against Water property by 15%.
+^ffffff_^000000
+Equip with ^008080Kraken Card^000000,MDEF +15, Max HP +15%, FLEE +100 and able to cast Lv 1 Stalk.
+Able to detect hiding or cloaking monsters.
+ 
+Class : ^777777Accessory^000000 Defense : ^7777770^000000
+Weight : ^77777750^000000
+Required Level : ^777777100^000000
+Jobs : ^777777All Jobs^000000
 #
 28604#
 ^808080A book with a reddish radiance.^000000
@@ -95995,6 +96212,14 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
+31198#
+A funny looking octopus wearing a gentleman's hat. You will feel like being teased just by looking at it.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location :  ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 31200#
 ^808080Long sweet pink ribbon that Chibiusa wears during the border battle.^000000
 ^FFFFFF_^000000
@@ -96272,6 +96497,14 @@ A costume hair which can be attached to the hair for different hair style.
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31247#
+A creature which spends most of its day underwater. If you dive into the water wearing this hat, people might think that you are a real hippo!
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -97045,14 +97278,18 @@ Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
 31390#
-A hat that is made of the spirit of people's hope for a place where it doesn't snow during winter.  Snow that falls from a cloud reflects like Stormgast.
-Increase HP by +250 for each 20 level during event period.
-All damage to monsters increase by 2% at every 30 base level.
-(The option will be removed when the event ends.)
-Category: ^777777Costume^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000Weight: ^7777770^000000
-Required Level: ^7777771^000000
-Equip: ^777777All Job^000000
+^00CC00Event Headgear^000000
+A hat that is made of the spirit of people's hope for a place where it doesn't snow during winter. Snow that falls from a cloud reflects like Stormgust.
+ 
+For every 20 Base Level, Max HP +250.
+For every 30 Base Level, increase physical and magic damage to all class enemies by 2%.
+ 
+^ff0000(This item effect will be removed once event ends.)^000000 
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31391#
 ^808080 A Reality Stone that is floating around its owner. It can protect the owner and collect the magic power.^000000
@@ -97200,23 +97437,12 @@ Required Level: ^7777771^000000
 Jobs: ^777777All^000000
 #
 31438#
-^808080A fluffy pink cape with angel wings attached!^000000
-^ffffff_^000000
-Obtained from ^CC66FFRO Streamer ^000000
-^ffffff_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-^FF6633[Temporary Effect]^000000
-ATK +10, MATK +10
-^FF0000The effect will be removed on April 1, 2021 ^000000
-^ffffff_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Lower^000000
-Weight: ^7777770^000000
+A fluffy pink cape with angel wings attached. 
+ 
+Class: ^777777Costume^000000 Defense: ^7777770^000000
+Location: ^777777Lower ^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All jobs^000000
+Jobs: ^777777All Jobs^000000
 #
 31439#
 ^808080Power of love that flows from the faces of the people who are in love.^000000
@@ -97365,6 +97591,14 @@ Location: ^777777Lower ^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
+#
+31475#
+A cute costume decoration modeled after a fox's ears.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31479#
 Countless Stars shining in the sky.
@@ -97615,6 +97849,15 @@ Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
+31542#
+A clay jar with poring decoration.
+It looks like Poring is going jump out from the water.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Middle^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 31546#
 ^808080The Holder of this ancient cap will have the power and fury that will come from the flame caster himself^000000
 ^FFFFFF_^000000
@@ -97666,6 +97909,14 @@ It also contains the power of the dragon.
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31562#
+A doll that is created to celebrate the leader of Zealotus, Stahl Von Gazer. 
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
@@ -98363,18 +98614,12 @@ Required Level: ^7777771^000000
 Job: ^777777All^000000
 #
 31674#
-^808080 The hat of Jitterbug. 
-You will hear the melody coming from the hat.^000000
-^FFFFFF_^000000
-^FF6633[Item Function] ^000000
-This costume can be enchanted on the 2nd floor of Eden with the help of the NPC Costama Girl (located on 33, 185)
-^FFFFFF_^000000
-Class: ^777777Costume^000000
-Defense: ^7777770^000000
-Location: ^777777Upper ^000000
-Weight: ^7777770^000000
+A hat that is made to resemble a jitterbug. The round piano shape is cute.
+ 
+Class: ^777777Costume^000000 Defense: ^7777770^000000
+Location: ^777777Upper^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
-Job: ^777777All^000000
+Jobs: ^777777All Jobs^000000
 #
 31675#
 Orange stem hat. Vitamin C +500%
@@ -99358,6 +99603,22 @@ Location: ^777777Lower^000000
 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Job: ^777777All jobs^000000
+#
+31918#
+A very important costume when you are looking for a party member.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+31919#
+A very important costume when you are looking for a friend.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 31921#
 ^808080Choa's hairstyle, enhanced by its white and sparkling purple dye.^000000
@@ -100351,7 +100612,21 @@ Infinity Drink with a temporary feeling of infinite energy.
 Max HP + 5%, Max SP + 5% for 30 minutes.
 Increase critical damage, ranged physical damage, all property magic damage by 5%.
 Spell casting cannot be interrupted.
-^000088When a character is incapable of combat, the effect of item disappears.^000000
+^000088When the character becomes incapacitated, the item effect will also disappear.^000000
+ 
+Weight : ^7777771^000000
+#
+100492#
+^ff0000This item cannot be traded with other accounts.^000000
+A manual that explains the most efficient way to battle. It is a very detailed and well composed manual.
+^000088Increase EXP gained by 75% for^000000 ^ff000030 minutes.^000000
+ 
+Weight : ^7777771^000000
+#
+100493#
+^ff0000This item cannot be traded with other accounts.^000000
+A manual that gets extra 75% Job Exp during 30 minutes
+^ffffff_^000000
 Weight : ^7777771^000000
 #
 100595#
@@ -100366,6 +100641,12 @@ Weight : ^7777771^000000
 A box that contains 3 Blacksmith blessings.
 
 Weight : ^7777770^000000
+#
+101079#
+A manual that explains the most efficient way to battle. It is a very detailed and well composed manual.
+^000088Increase EXP gained by 200% for^000000 ^ff000030 minutes.^000000
+ 
+Weight : ^7777771^000000
 #
 101097#
 Infinity Drink with a temporary feeling of infinite energy.
@@ -100629,7 +100910,7 @@ A box that contains a random Expanded Class Shadow Equipment
 Weight : ^7777771^000000
 #
 101566#
-A box contains 2 Black Smith Blessings.
+A box that contains 2 Blacksmith Blessings.
 Weight : ^7777770^000000
 #
 101580#
@@ -101105,6 +101386,22 @@ A reward box for
  
 Weight : ^7777771^000000
 #
+101939#
+A box that can be obtained from the
+<URL>[Ragnarok Arena]<INFO>https://roa.gnjoy.asia</INFO></URL>
+collaboration event.
+ 
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
+101941#
+A box that can be obtained from the
+<URL>[Ragnarok Arena]<INFO>https://roa.gnjoy.asia</INFO></URL>
+collaboration event.
+ 
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
 101942#
 Place 3 specific enchant stones into this box to get 1 random enchant stone.
  
@@ -101123,6 +101420,79 @@ A taming gift box that contains 2 taming items and 1 cute pet accessory for newl
 This box can be obtained by the event only!
  
 ^ff0000This item cannot be traded with other account.^000000
+Weight : ^7777771^000000
+#
+101957#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
+101958#
+When this box is opened, user will obtain 1 out of 10 selected head costumes.
+ 
+^ff0000This item cannot be traded with other accounts.^000000
+ 
+Weight : ^7777771^000000
+#
+101959#
+A special box rewarded to players for using Kafra Points.
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
+101960#
+When this chest is opened, user will obtain 1 out of 8 selected equipments.
+ 
+^ff0000This item cannot be traded with other accounts.^000000
+ 
+Weight : ^7777770^000000
+#
+101961#
+When this chest is opened, user will obtain 1 out of 8 selected high-end equipments.
+ 
+^ff0000This item cannot be traded with other accounts.^000000
+ 
+Weight : ^7777771^000000
+#
+101962#
+A special box rewarded to players for using Kafra Points.
+ 
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
+101963#
+A special box rewarded to players for using Kafra Points.
+ 
+^ff0000This item cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
+101993#
+A box that contains 5 pieces of ^000088Battle Manual 200^000000.
+ 
+Weight : ^7777770^000000
+#
+101994#
+A box that contains 5 pieces of ^000088Special Battle Manual^000000 and 5 pieces of ^000088Special JOB Manual^000000
+^000088Special Battle Manual- Increase EXP gained by 75% for 30 minutes.^000000 
+^000088Special JOB Manual- Increase JOB EXP gained by 75% for 30 minutes.^000000
+ 
+Weight : ^7777771^000000
+#
+101995#
+A box that consists of various consumable items useful for a party of players!
+ 
+Weight : ^7777771^000000
+#
+102001#
+Almighty Synthesis Box.
+ 
+Combine any 5 of 1st class or 2nd class shadow equipment with +7 refine level or higher to produce an Almighty Shadow Earring or Almighty Shadow Pendant.
+ 
+Refine Level of the Shadow Equipment does not affect the result.
+ 
+Weight : ^7777771^000000
+#
+102002#
+Music creates order out of chaos.
 Weight : ^7777771^000000
 #
 200000#
@@ -101216,6 +101586,21 @@ Weight: ^7777771^000000
 310330#
 Increase ranged physical damage by 3%.
 #
+400000#
+A whistle of a pere.
+ATK +1%, MATK +1%.
+^ffffff_^000000
+Equip with ^008080Pendant Of Maelstorm^000000, increase critical damage by 10% and decrease variable cast time by 10%.
+^ffffff_^000000
+Equip with ^008080Pendant Of Chaos^000000, increase critical damage by 10%.
+^ffffff_^000000
+Equip with ^008080Pendant Of Harmony^000000, decrease variable cast time by 10%.
+ 
+Class : ^777777Helmet^000000 Defense : ^7777770^000000
+Location : ^777777Lower^000000 Weight : ^77777710^000000
+Required Level : ^777777120^000000
+Jobs : ^7777773rd classes^000000
+#
 400115#
 A hat with an Angeling's confident look.
  
@@ -101223,6 +101608,15 @@ Class: ^777777Costume^000000 Defense: ^7777770^000000
 Location: ^777777Upper^000000 Weight: ^7777770^000000
 Required Level: ^7777771^000000
 Jobs: ^777777All Jobs^000000
+#
+400157#
+A triangular hat that is said to have a magic power.
+A crescent moon is drawn on the front, and the sun is drawn on the back.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location :  ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 400163#
 A whale themed costume hat.
@@ -101235,6 +101629,14 @@ Jobs : ^777777All Jobs^000000
 #
 400225#
 A fluffy costume cape that looks like a rabbit.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Upper^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+400259#
+A hairband with an eighth note decoration.
  
 Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^7777770^000000
@@ -101287,14 +101689,11 @@ Jobs : ^777777All Jobs^000000
 #
 420000#
 VIT +1, DEX +1, INT +1.
-Equip with +9 Isabella Blue Ear,
-increase physical damage to medium size enemies by 6%
+Equip with ^008080+9 Isabella Brown Ear^000000, increase physical damage to medium size enemies by 6%
  
-Equip with +9 Isabella Red Ear,
-Decrease delay after attack by 6%.
+Equip with ^008080+9 Isabella Blue Ear^000000, decrease delay after attack by 6%.
  
-Equip with +9 Isabella Brown Ear,
-Decrease damage taken from Demi-human monsters and players by 6%.
+Equip with ^008080+9 Isabella Red Ear^000000, decrease damage taken from Demi-human enemies by 6%.
  
 Class: ^777777Headgear^000000 Defense: ^7777770^000000
 Location: ^777777Lower ^000000 Weight: ^77777710^000000
@@ -101593,6 +101992,23 @@ Location : ^777777Garment^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Jobs : ^777777All Jobs^000000
 #
+480110#
+A backpack full of useful adventure items for Dorams.
+Let's go on an adventure with the kittens in the side pocket.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Garment^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
+480158#
+A backpack shaped like a Lunatic.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Garment^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
+#
 480163#
 A strong manteau that can be used for a long time from the beginning of the adventure.
 
@@ -101633,6 +102049,15 @@ Class : ^777777Garment^000000  Defense : ^7777775^000000
 Weight : ^77777710^000000
 Required Level : ^7777771^000000
 Job : ^777777All Jobs^000000
+#
+480168#
+Wings modeled after the piano keyboard.
+You can hear a beautiful melody coming from the wings.
+ 
+Class : ^777777Costume^000000 Defense : ^7777770^000000
+Location : ^777777Garment^000000 Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All Jobs^000000
 #
 480169#
 Rock on with this diabolical guitar.
@@ -101961,6 +102386,14 @@ A soul that is captured and stored in a black orb. Little Loli Ruri is looking f
  
 ^ff0000(This item will be deleted with the event closing.)^000000
 
+Weight : ^7777770^000000
+#
+1001187#
+An event ticket that can be exchanged to
+<URL>[Ragnarok Arena]<INFO>https://roa.gnjoy.asia</INFO></URL>
+collaboration event reward.
+ 
+^ff0000(This item will be removed when the Event ends)^000000
 Weight : ^7777770^000000
 #
 1001197#
