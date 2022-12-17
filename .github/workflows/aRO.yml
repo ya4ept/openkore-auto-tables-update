@@ -21,10 +21,11 @@ jobs:
       with:
         perl-version: 5.32
     - name: Set up Python 3.8
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v3
       with:
         python-version: "3.8.9"
         architecture: x64
+        cache: "poetry"
     - name: Install dependencies
       run: |
         if [ -f requirements.txt ]; then sudo pip3 install -r requirements.txt; fi
