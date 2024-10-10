@@ -1,0 +1,5 @@
+{
+    "server_name": "tRO_renewal",
+    "patch_list": "https://ropatch.gnjoy.in.th/patchinfo/patch.txt",
+    "patch_download": "https://ropatch.gnjoy.in.th/patchfile"
+}
