@@ -4633,6 +4633,7 @@
 9130#[SR] Chaotic Baphomet Jr. Egg#
 9131#Fire Golem Egg#
 9137#[SSR] Baphomet Egg#
+9523#Metal Refine Ticket#
 9539#[Not For Sale] Blue Potion 10 Box#
 9550#Gemstone of Time#
 9808#Old Hat Box#
@@ -8628,6 +8629,7 @@
 31027#Costume Pretty Bear#
 31028#Costume Black Cat Hoodie#
 31047#Costume First Love Cheeks#
+31051#Costume Happy Summer Cap#
 31055#Costume Poring Soap Pipe#
 31057#Costume Eremes Scarf (Black)#
 31062#Costume Eleanor Wig#
@@ -8790,6 +8792,7 @@
 31797#Costume Shih Tzu Hair#
 31798#Costume Baby Panda#
 31803#Costume Aura of Tornado#
+31813#Costume Lunatic On Shoulder#
 31815#Costume Angola#
 31816#Costume Three Rabbits Ribbon #
 31821#Costume Jeje Cap#
@@ -9098,6 +9101,7 @@
 103552#Kafra Call#
 103596#Harvest Festa Costume Scroll #
 103614#Mythical Circus Scroll#
+103644#Ragnarok Monster Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9328,6 +9332,7 @@
 410354#RCC2024 Wing Of Thor#
 410355#RCC2024 Wing Of Thor#
 410356#[Not For Sale] RCC2024 Wing Of Thor#
+410363#Costume Aura of Ghost Ship#
 410372#Gryphon Ears#
 410373#Gryphon Ears#
 410374#[Not For Sale] Gryphon Ears#
@@ -9494,6 +9499,7 @@
 480129#Costume Triple Ice Cream#
 480131#Costume Swirling Flame#
 480158#Costume Lunatic Bag#
+480162#Special Bravery Bag#
 480168#Costume Melody Wings#
 480169#Costume Diabolic Guitar#
 480176#Costume Blue Rose Garden#
@@ -9709,6 +9715,7 @@
 1001806#Sun God Essence#
 1001832#Reset God's Spirital Ticket#
 1100000#IDTest heal#
+1100011#Monster Bread#
 1100023#Violet Potion#
 1100026#GOC Violet Potion#
 1200000#IDTest arrow#
