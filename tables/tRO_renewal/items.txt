@@ -271,6 +271,8 @@
 833#[4th Anniversary] Dimension Fragment(Medium)#
 834#[4th Anniversary] Dimension Fragment(High)#
 835#4th Anniversary Costume Coin#
+836#Not For Sale 2024 Selection Tier2 Ticket#
+837#Not For Sale 2024 Selection Tier3 Ticket#
 901#Daenggie#
 902#Tree Root#
 903#Reptile Tongue#
@@ -4713,7 +4715,7 @@
 9097#Diabolic Egg#
 9099#Teddy Bear Egg#
 9100#Gremlin Egg#
-9101#Portable cage for Scatleton#
+9101#Portable Cage for Scatleton#
 9102#Mummy Egg#
 9103#Willow Egg#
 9104#Roween Egg#
@@ -4896,7 +4898,7 @@
 11547#WoE Violet Potion#
 11548#WoE White Potion#
 11549#WoE Blue Potion#
-11550#Pumpkin cake#
+11550#Pumpkin Cake#
 11551#Savory Herb Salad#
 11552#Apple Carrot Salad#
 11553#Casual Stew#
@@ -10948,6 +10950,7 @@
 101033#Minstrel Shadow Cube#
 101047#Blacksmith Blessing Box 3#
 101049#Devil Scroll#
+101056#Halloween Event Reward Box#
 101057#Virgo Scroll#
 101079#Battle Manual 200#
 101080#Battle Manual 200 Box#
@@ -11371,6 +11374,11 @@
 103542#Spend Promotion Box 3#
 103571#White Knight Mantle 12 Refine Cube#
 103572#Shibasays Scroll#
+103629#Shadow Random Mix (EXP)#
+103630#Starter Package 2024 I#
+103631#Starter Package 2024 II#
+103632#Starter Package 2024 III#
+103633#Year of Dragon Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -11973,6 +11981,7 @@
 410081#Costume Released Ground#
 410082#Costume Happy Carnival Balloon#
 410095#Costume White Cat on Shoulder#
+410103#Costume Silk Of Soul#
 410108#Costume Black Shiba Inu#
 410116#Costume Intake(White)#
 410119#Guardian Helm#
@@ -12168,6 +12177,7 @@
 430006#Wanderer's Sakkat#
 430007#[Not For Sale] Wanderer's Sakkat#
 436008#Costume Hwa Ho Jom Jong#
+436010#Costume Spiding#
 440000#Costume Shark Hat#
 440010#Costume Bear Head#
 440011#Costume Red Baby Dragon Hat#
@@ -13310,6 +13320,7 @@
 1000552#Evil's Water#
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
+1000657#영혼의 실타래#
 1000836#Certificate of Hunter Union#
 1000837#Captured Common Crystal#
 1000838#Captured Uncommon Crystal#
@@ -13334,6 +13345,8 @@
 1000992#Level UP Voucher(170~189)#
 1001023#[Event] Shard of Infinity Star#
 1001069#Baby Camellia Effect (Upper)#
+1001157#Spiding's Fur#
+1001158#Spiding's Leather#
 1001175#Romantic Rose Effect Stone (Upper)#
 1001252#Roaring Effect (Upper)#
 1001277#(Raid) Silver Key#
@@ -13345,7 +13358,7 @@
 1001355#Ancient Hero's Modification Coupon I#
 1001356#Ancient Hero's Modification Coupon II#
 1001357#Ancient Hero's Modification Coupon III#
-1001358#4th Anniversary Guarantee Book#
+1001358#Dragon Skull Guarantee Exchange#
 1001417#ROS Event Ticket#
 1001418#[3rd Anniversary] Helel's Badge#
 1001474#Ring#
@@ -13371,6 +13384,8 @@
 1001831#[Event] 4th Class Pre-Event Invitation#
 1001860#Tears of Fury (High)#
 1001861#Tears of Fury (Medium)#
+1001872#Time Jewelry Amulet Blessing#
+1001873#Not For Sale 2024 Selection Tier1 Ticket#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
