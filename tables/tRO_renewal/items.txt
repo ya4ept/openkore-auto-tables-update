@@ -10370,6 +10370,7 @@
 31207#Costume Dokkebi Mask#
 31237#Costume Pope Ribbon#
 31245#Costume Bell Flower#
+31247#Costume Hippo Hat#
 31249#Costume Hopping Rabbit#
 31251#Costume Cat Mouth#
 31252#Costume White Cat Ears Hat#
@@ -11379,6 +11380,8 @@
 103631#Starter Package 2024 II#
 103632#Starter Package 2024 III#
 103633#Year of Dragon Scroll#
+103651#Prontera Market Badge#
+103652#[Not for Sale] OS Helm Selection Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -12159,6 +12162,7 @@
 420284#Costume Guillotine Cross Hair (Red)#
 420303#Costume Chaos Emerald#
 420321#Costume Neon Half Long#
+420337#Costume Ancient Runes#
 420338#Costume Lazy Cat Luke#
 420340#Costume Kitchen Car#
 420342#Wireless Security Drone#
@@ -13386,6 +13390,7 @@
 1001861#Tears of Fury (Medium)#
 1001872#Time Jewelry Amulet Blessing#
 1001873#Not For Sale 2024 Selection Tier1 Ticket#
+1001879#[Event] 4th Test Pass#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
