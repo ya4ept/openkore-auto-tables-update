@@ -3592,7 +3592,7 @@
 6432#All Filled Bucket#
 6433#Cleaning Brush#
 6434#Fixing Kit#
-6435#Fresh Fruit#
+6435#World Fruit#
 6436#Seagod's Protection#
 6437#Scaraba Perfume#
 6438#Blessed Weapon Ore#
@@ -3679,6 +3679,8 @@
 6567#Chocolate Drink Recipe#
 6581#Holy Amulet#
 6583#3rd Test Pass#
+6584#Guarantee Weapon 12Up#
+6585#Guarantee Armor 12Up#
 6592#Small Wooden box#
 6593#Criatura Hair Coupon#
 6594#Magic Bronze Bullion#
@@ -4236,6 +4238,7 @@
 7358#Crest Piece#
 7359#Crest Piece#
 7360#Refine Certificate#
+7363#Lotto Ball 03#
 7405#Old Can#
 7416#Letter Of Recommendation#
 7417#Mission ScrollA#
@@ -4634,7 +4637,7 @@
 9131#Fire Golem Egg#
 9137#[SSR] Baphomet Egg#
 9523#Metal Refine Ticket#
-9539#[Not For Sale] Blue Potion 10 Box#
+9539#Blue Potion Box#
 9550#Gemstone of Time#
 9808#Old Hat Box#
 9817#Adventurer Scroll#
@@ -5044,7 +5047,7 @@
 12287#Love Angel#
 12290#Mysterious Can#
 12291#Mysterious PET Bottle#
-12292#Unripe Fruit#
+12292#Yggdrasil Tree of Life#
 12293#Dried Yggdrasilberry#
 12300#Wild Rose Scroll#
 12301#Doppelganger Scroll#
@@ -7961,6 +7964,12 @@
 24897#[Not For Sale] Shadow Arcade Armor#
 24898#[Not For Sale] Shadow Arcade Shield#
 24899#[Not For Sale] Shadow Arcade Pandent#
+24960#[Not For Sale] Grace Spirit Shose Shadow#
+24961#[Not For Sale] Grace Spirit Shadow Earring#
+24962#[Not For Sale] Grace Spirit Shadow Weapon#
+24963#[Not For Sale] Grace Spirit Shadow Armor#
+24964#[Not For Sale] Grace Spirit Shadow Pendant#
+24965#[Not For Sale] Grace Spirit Shadow Shield#
 25000#SP Absorption Stone (Upper)#
 25001#DEF Stone (Middle)#
 25002#Change LUK (Middle)#
@@ -8217,6 +8226,9 @@
 25724#RCC AL [Schatirnil A]#
 25725#RCC AL [Schatirnil B]#
 25736#Jeremy's Beauty Coupon II#
+25759#Dragon's Energy (Green)#
+25761#Dragon's Energy (Red)#
+25762#Dragon's Energy (Gold)#
 25793#Inventory Expansion Coupon#
 26100#P.Foxtail II#
 26101#P.Foxtail III#
@@ -8914,6 +8926,7 @@
 100851#Anniversary Soup#
 100879#Happy Poring Scroll#
 100880#Piercing Shadow Box#
+100906#Buffet All in One Recovery Potion#
 100908#Magic Piercing Shadow Box#
 100909#Soft Feather Scroll#
 100922#10 World Moving Ticket Box#
@@ -8943,6 +8956,7 @@
 101164#Cat Lover Scroll#
 101207#Sweet Dream Scroll#
 101221#Old Hat Box#
+101238#[Not for Sale] Kafra Buff (7 Days)#
 101266#Meow Meow Scroll#
 101267#Holy Hope Scroll#
 101275#Cute Kids Scroll#
@@ -8989,17 +9003,17 @@
 101878#Refine Limited Pack#
 101880#Armaia's Cursed Scroll#
 101890#PeekABoo Costume Scroll#
-101904#Starter Game Set (1)#
-101905#Starter Game Set (10)#
-101906#Starter Game Set (30)#
-101907#Starter Game Set (20)#
-101908#Starter Game Set (40)#
-101909#Starter Game Set (50)#
-101910#Starter Game Set (60)#
-101911#Starter Game Set (70)#
-101915#Starter Game Set (80)#
-101916#Starter Game Set (90)#
-101917#Starter Game Set (99)#
+101904#Level Up Box (1)#
+101905#Level Up Box (10)#
+101906#Level Up Box (30)#
+101907#Level Up Box (20)#
+101908#Level Up Box (40)#
+101909#Level Up Box (50)#
+101910#Level Up Box (60)#
+101911#Level Up Box (70)#
+101915#Level Up Box (80)#
+101916#Level Up Box (90)#
+101917#Level Up Box (99)#
 101927#1st Anniversary Scroll#
 101976#Treasure Box I (Battle Pass)#
 101977#Treasure Box II (Battle Pass)#
@@ -9008,6 +9022,7 @@
 102101#Bloodthirst Scroll#
 102109#Xmas Costume Scroll#
 102115#Calendar Rabbit Box#
+102128#Buffet All in One Buff#
 102133#Razer Energy Drink#
 102134#Razer Drink Box#
 102198#Falconer Scroll#
@@ -9101,7 +9116,17 @@
 103552#Kafra Call#
 103596#Harvest Festa Costume Scroll #
 103614#Mythical Circus Scroll#
+103637#VIP Gift Box#
+103638#VVIP Gift Box#
+103639#Super VIP Gift Box#
+103640#All In One buff Box Scroll#
+103641#Buffet All in One Recovery Potion Box#
+103642#Birthday Gift Box#
+103643#Premium Box Package#
 103644#Ragnarok Monster Box#
+103645#Overseas Care Package II#
+103646#3rd Anniversary Scroll#
+103674#Grace Of Spirit#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9145,6 +9170,8 @@
 311399#Hit Plus 4#
 400020#Costume Beachball #
 400043#Fallen Angel Hairband#
+400056#Costume Blue Wavy Hair#
+400057#Costume Red Lotus Demon Wig#
 400081#Costume 2024 RCC Naughty Ghost#
 400102#Costume RCC2022 Hat#
 400112#Costume Shining Santa Hat#
@@ -9245,6 +9272,7 @@
 400568#ROC 2nd Anniversay Hat#
 400589#Blue Navy Beret#
 400590#[Not For Sale] Blue Navy Beret#
+400605#Costume Birthday Cake Hat#
 400606#Costume Crown of Mistress#
 400611#General Helmet#
 400612#[Not For Sale] General Helmet#
@@ -9273,6 +9301,8 @@
 400731#Squirrel Ear Hat#
 400732#[Not For Sale] Squirrel Ear Hat#
 400733#[Not For Sale] Palace Guard Cap#
+400740#3rd Anniversary Hat#
+400741#Costume RWC 2013 Hat#
 410004#Gambler Seal#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
@@ -9324,10 +9354,12 @@
 410292#Costume Little Abyss Dragon#
 410293#Costume Red Baby Dragon#
 410296#Costume Sake Bottle#
+410297#Costume Blink Eyes A Dragon#
 410300#Costume Lady Tanee#
 410304#Diabolus Wing#
 410305#[Not For Sale] Diabolus Wing#
 410321#Wing Of Bless#
+410331#Costume Yellow Aura Dragon#
 410350#Costume Kwaiii#
 410354#RCC2024 Wing Of Thor#
 410355#RCC2024 Wing Of Thor#
@@ -9427,6 +9459,7 @@
 450395#[Not For Sale] Fallen Cool Armor#
 450408#2024 RTC Robe#
 450409#[Not For Sale] 2024 RTC Robe#
+450418#Drake Coat#
 460028#[Not for Sale]Sharel Shield#
 460033#[Not For Sale] Mad Bunny#
 460041#Dark Shield#
@@ -9482,6 +9515,8 @@
 470282#[Not For Sale] Elemental Boots#
 470301#2024 RTC Shoes#
 470302#[Not For Sale] 2024 RTC Shoes#
+470310#Pororoca Shoes#
+470311#Pororoca Shoes#
 480055#Costume Wavy Rudra Angel Wings#
 480056#Costume Wavy Black Angel Wings#
 480058#Costume Wavy Golden Angel Wings#
@@ -9540,6 +9575,7 @@
 480375#Golden Magic Upgrade Hood#
 480396#Maximize Amistr Bag#
 480397#Sight Amistr Bag#
+480407#Costume Leticia's Wings#
 480408#Costume Dragon Wings#
 480412#Fire Dragon Coat#
 480413#[Not for Slae] Fire Dragon Coat #
@@ -9549,11 +9585,13 @@
 480429#Costume Cat Donut#
 480434#Giant God Snake Skin#
 480435#Giant God Snake Skin#
+480437#Costume Himmelmez Sword#
 480448#Skin Of Marraco#
 480449#[Not For Sale] Skin Of Marraco#
 480461#Costume Ragdoll Face Bag#
 480490#God's Spiritual Wind#
 480491#[Not For Sale] God's Spiritual Wind#
+480509#Owl Baron Cloak#
 490033#Fallen Angel's Tear#
 490147#1st Anniversary Ring#
 490209#[Not for Sale]Angel Egg#
@@ -9696,8 +9734,8 @@
 1000467#Rebellion Pre-Register Ticket#
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
-1000896#Mythical Circus Coin#
-1000923#Special Guarantee Coin#
+1000896#RCC2024 Coin#
+1000923#3rd Anniversary Coin#
 1000965#[Event] Empty Bottle#
 1001277#(Raid) Silver Key#
 1001278#(Raid) Gold Key#
@@ -9714,6 +9752,10 @@
 1001805#GOC Coin#
 1001806#Sun God Essence#
 1001832#Reset God's Spirital Ticket#
+1001875#VIP Black Card#
+1001876#VIP Black Coin#
+1001877#VIP Black Ticket#
+1001878#3rd Anniversary Jumping Event Ticket#
 1100000#IDTest heal#
 1100011#Monster Bread#
 1100023#Violet Potion#
