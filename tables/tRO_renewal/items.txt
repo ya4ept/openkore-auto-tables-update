@@ -8481,6 +8481,8 @@
 24203#Windy Shadow Shield#
 24204#Envenom Shadow Shield#
 24206#Geist Shadow Shield#
+24208#Expert Shadow Shoes#
+24209#Expert Shadow Shield#
 24210#Beginner Shadow Shoes#
 24211#Beginner Shadow Shield#
 24212#Rookie Shadow Shoes#
@@ -8929,6 +8931,7 @@
 24680#Maximum Mammoth Shadow Shoes#
 24681#Maximum Mammoth Shadow Earring#
 24682#Maximum Mammoth Shadow Pendant#
+24683#Experience Shadow Shield#
 24685#Absorb Shadow Shield#
 24686#Absorb Shadow Weapon#
 24687#Eden Group Shadow Weapon#
@@ -10876,6 +10879,7 @@
 100639#Satan Morroc Scroll#
 100640#Rebellion Weapon Box#
 100641#Rebellion Pre-Register Box#
+100661#Experience Shadow Mix#
 100668#Moonlight Scroll#
 100669#Premium Hat Box#
 100670#Premium Hat BoxV2#
@@ -11382,6 +11386,7 @@
 103633#Year of Dragon Scroll#
 103651#Prontera Market Badge#
 103652#[Not for Sale] OS Helm Selection Box#
+103676#Together Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -11831,6 +11836,12 @@
 313369#Battle Pass Modification Orb (Range Force)#
 313370#Battle Pass Modification Orb (Critical Force)#
 313371#Battle Pass Modification Orb (Global Cooldown)#
+313574#Ruby of Strength Lv.1#
+313575#Amethyst of Vitality Lv.1#
+313576#Topaz of Agility Lv.1#
+313577#Sapphire of Intelligence Lv.1#
+313578#Emerald of Dexterity Lv.1#
+313579#Diamond of Fatality Lv.1#
 400000#Whistle#
 400001#Victorious Wing Ears#
 400002#Victorious Wing Ears#
@@ -12176,6 +12187,9 @@
 420371#Costume Aura of Amon Ra#
 420378#Lightning In Mouth#
 420379#[Not For Sale] Lightning In Mouth#
+420389#Kankrai#
+420390#Khon#
+420391#Kradat#
 430001#Costume Helm of Amon Ra#
 430003#[Not For Sale] Fancy Phantom Mask#
 430006#Wanderer's Sakkat#
@@ -12593,6 +12607,10 @@
 480498#White Knight Mantle (Melee)#
 480499#White Knight Mantle (Range)#
 480500#White Knight Mantle (Magic)#
+480505#Costume Star Champion's 2024 Wing#
+480506#Costume Star 1st Runner-Up 2024 Wing#
+480507#Costume Star 2nd Runner-Up 2024 Wing#
+480508#Costume Star 3rd Runner-Up 2024 Wing#
 490004#Attacker Booster Ring#
 490005#Elemental Booster Earring#
 490006#Defunct Booster Earring#
@@ -13391,6 +13409,7 @@
 1001872#Time Jewelry Amulet Blessing#
 1001873#Not For Sale 2024 Selection Tier1 Ticket#
 1001879#[Event] 4th Test Pass#
+1001900#[Scroll] Enchant Ticket#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
