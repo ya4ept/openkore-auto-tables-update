@@ -7131,6 +7131,7 @@
 20492#Costume Whistle#
 20499#Costume Cat Ear Hat#
 20506#Costume Invisible Manteau#
+20507#Costume Poring Bag#
 20508#Costume Poster Girl Hat#
 20509#Costume Wings of Uriel#
 20510#Costume Sword Wing#
@@ -9127,6 +9128,9 @@
 103645#Overseas Care Package II#
 103646#3rd Anniversary Scroll#
 103674#Grace Of Spirit#
+103682#Costume 3rd Anniversary Box#
+103683#Guarantee Random 5-12Up Box#
+103711#Random Option The Ragnarok T-Shirts#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9216,6 +9220,7 @@
 400344#Angel Of Happiness#
 400345#[Not For Sale] Angel Of Happiness#
 400346#[Not For Sale] Angeling Woolly Hat#
+400351#Costume Poring Helmet#
 400352#Silver Crown#
 400353#Woe Spiky Band#
 400361#Angel School Cap#
@@ -9342,6 +9347,7 @@
 410231#Costume Wonderland Tea Party#
 410237#[Not For Sale] Bell Pigeon#
 410246#Angelic Blessing#
+410248#Costume Tuk Tuk#
 410249#Odin Mask#
 410250#[Not For Sale] Odin Mask#
 410257#Costume Happy Droopy Lunatic Ear#
@@ -9358,6 +9364,7 @@
 410300#Costume Lady Tanee#
 410304#Diabolus Wing#
 410305#[Not For Sale] Diabolus Wing#
+410320#Costume Freyja's Distorted Blink Eyes#
 410321#Wing Of Bless#
 410331#Costume Yellow Aura Dragon#
 410350#Costume Kwaiii#
@@ -9368,6 +9375,7 @@
 410372#Gryphon Ears#
 410373#Gryphon Ears#
 410374#[Not For Sale] Gryphon Ears#
+410382#Odin Mask#
 420003#CD In Mouth#
 420010#Costume Cons of Darkness#
 420014#Costume Japanese Hair#
@@ -9393,6 +9401,7 @@
 420148#[Not For Sale] Elephangel#
 420149#Costume Cons Of Water#
 420152#Costume Cons of Light and Dark#
+420161#Costume Starry Long Wave#
 420163#Costume Protect Cloth (Black)#
 420166#Heart Angel#
 420167#[Not For Sale] Heart Angel#
@@ -9460,6 +9469,7 @@
 450408#2024 RTC Robe#
 450409#[Not For Sale] 2024 RTC Robe#
 450418#Drake Coat#
+450424#The Ragnarok T-Shirts#
 460028#[Not for Sale]Sharel Shield#
 460033#[Not For Sale] Mad Bunny#
 460041#Dark Shield#
