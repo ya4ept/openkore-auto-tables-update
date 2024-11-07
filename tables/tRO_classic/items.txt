@@ -4636,6 +4636,7 @@
 9130#[SR] Chaotic Baphomet Jr. Egg#
 9131#Fire Golem Egg#
 9137#[SSR] Baphomet Egg#
+9510#Costume Enchant Stone Box 17#
 9523#Metal Refine Ticket#
 9539#Blue Potion Box#
 9550#Gemstone of Time#
@@ -7155,7 +7156,7 @@
 20578#Costume Wing of Raguel#
 20579#Costume Raphael's Wings#
 20581#Costume Soldier Backpack#
-20582#Costume Bear Backpack #
+20582#Costume Bear Backpack#
 20586#Costume Loli Ruri's Crescent#
 20587#Costume Light Darkness Wing#
 20588#Costume Broom of Witch#
@@ -7163,6 +7164,7 @@
 20591#Costume Bow on Back#
 20592#Costume Santa's Pocket#
 20593#Costume Ice Wing#
+20594#Costume Big Ribbon Manteau#
 20597#Costume Evil Scythe#
 20598#Costume Big Black Cat#
 20599#Costume Sakura Wing#
@@ -8211,6 +8213,7 @@
 25499#Clown Gypsy Stone (Middle)#
 25500#Clown Gypsy Stone (Lower)#
 25501#Clown Gypsy Stone (Garment)#
+25503#Flower Left By Bossia#
 25627#Gold Card#
 25706#High Priest Stone (Upper)#
 25707#High Priest Stone (Middle)#
@@ -8231,6 +8234,18 @@
 25761#Dragon's Energy (Red)#
 25762#Dragon's Energy (Gold)#
 25793#Inventory Expansion Coupon#
+25797#Champion Stone II (Garment)#
+25798#Champion Stone II (Lower)#
+25799#Champion Stone II (Middle)#
+25800#Champion Stone II (Upper)#
+25801#Scholar Stone II (Garment)#
+25802#Scholar Stone II (Lower)#
+25803#Scholar Stone II (Middle)#
+25804#Scholar Stone II (Upper)#
+25805#Stalker Chaser Stone II (Garment)#
+25806#Stalker Stone II (Lower)#
+25807#Stalker Stone II (Middle)#
+25808#Stalker Stone II (Upper)#
 26100#P.Foxtail II#
 26101#P.Foxtail III#
 26111#Metal Foxtail#
@@ -8584,6 +8599,7 @@
 29424#Champion Stone (Middle)#
 29425#Champion Stone (Lower)#
 29426#Champion Stone (Garment)#
+29427#Champion Stone II (Garment)#
 29428#Sniper Stone (Upper)#
 29429#Sniper Stone (Middle)#
 29430#Sniper Stone (Lower)#
@@ -8628,6 +8644,17 @@
 29522#Assassin Cross Stone (Middle)#
 29523#Assassin Cross Stone (Lower)#
 29524#Assassin Cross Stone (Garment)#
+29611#Champion Stone II (Lower)#
+29612#Champion Stone II (Middle)#
+29613#Champion Stone II (Upper)#
+29614#Scholar Stone II (Garment)#
+29615#Scholar Stone II (Lower)#
+29616#Scholar Stone II (Middle)#
+29617#Scholar Stone II (Upper)#
+29618#Stalker Stone II (Garment)#
+29619#Stalker Stone II (Lower)#
+29620#Stalker Stone II (Middle)#
+29621#Stalker Stone II (Upper)#
 31016#Decorated Evil Tree Card#
 31017#Vicious Cookie Card#
 31018#Evil Dwelling Box Card#
@@ -9131,6 +9158,8 @@
 103682#Costume 3rd Anniversary Box#
 103683#Guarantee Random 5-12Up Box#
 103711#Random Option The Ragnarok T-Shirts#
+103763#Cuddly Bear Costume Scroll#
+103767#Bossnia Card Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9167,6 +9196,7 @@
 300157#Time Accessory Effect#
 300209#Sealed Nightmare Amon Ra Card#
 300291#1st Anniversary Card#
+310322#Magic Feather Effect#
 311395#Hit Plus 1#
 311396#Hit Plus 2#
 311397#Hit Plus 3#
@@ -9346,6 +9376,7 @@
 410228#Costume Tomboy Fairy#
 410231#Costume Wonderland Tea Party#
 410237#[Not For Sale] Bell Pigeon#
+410245#Costume Brother's Keen Eyes#
 410246#Angelic Blessing#
 410248#Costume Tuk Tuk#
 410249#Odin Mask#
@@ -9364,6 +9395,7 @@
 410300#Costume Lady Tanee#
 410304#Diabolus Wing#
 410305#[Not For Sale] Diabolus Wing#
+410316#Costume Bear Candy Cart#
 410320#Costume Freyja's Distorted Blink Eyes#
 410321#Wing Of Bless#
 410331#Costume Yellow Aura Dragon#
@@ -9441,6 +9473,7 @@
 430006#Wanderer's Sakkat#
 430007#[Not For Sale] Wanderer's Sakkat#
 440000#Costume Shark Hat#
+440010#Costume Bear Head#
 450000#IDTest armor#
 450131#Fallen Angel Armor#
 450253#School Uniform#
@@ -9741,6 +9774,7 @@
 820033#Raid Ocean Shotgun#
 1000000#IDTest event#
 1000345#Time Accessory Effect (Middle)#
+1000365#Magic Feather Effect (Upper)#
 1000467#Rebellion Pre-Register Ticket#
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
