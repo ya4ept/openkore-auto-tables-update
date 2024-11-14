@@ -6454,6 +6454,7 @@
 18150#Probation Sniper CrossBow#
 18151#Probation Clown&Gypsy Bow#
 18164#Royal Bow#
+18201#[Not For Sale] Scarlet Dragon Leather Bow#
 18504#Anubis Helm#
 18506#Hattah Black#
 18507#Elven Ear#
@@ -7143,6 +7144,7 @@
 20522#Costume Blessings of Soul#
 20526#Costume Blue Angeling Wing#
 20528#Costume Gold Butterfly Wing#
+20529#Costume RCC Commemorative Flag#
 20535#Costume: Digital Space#
 20541#Costume Angel's Ribbon Wings#
 20544#Costume Gold Shower#
@@ -8213,7 +8215,7 @@
 25499#Clown Gypsy Stone (Middle)#
 25500#Clown Gypsy Stone (Lower)#
 25501#Clown Gypsy Stone (Garment)#
-25503#Flower Left By Bossia#
+25503#Flower Left By Bossnia#
 25627#Gold Card#
 25706#High Priest Stone (Upper)#
 25707#High Priest Stone (Middle)#
@@ -8242,7 +8244,7 @@
 25802#Scholar Stone II (Lower)#
 25803#Scholar Stone II (Middle)#
 25804#Scholar Stone II (Upper)#
-25805#Stalker Chaser Stone II (Garment)#
+25805#Stalker Stone II (Garment)#
 25806#Stalker Stone II (Lower)#
 25807#Stalker Stone II (Middle)#
 25808#Stalker Stone II (Upper)#
@@ -8296,6 +8298,7 @@
 27168#Irene High Elder Card#
 27169#Payon Soldier Card#
 27209#Sealed Q Scaraba Card#
+27210#Sealed Thanatos Card#
 27211#Sealed Baphomet Card#
 27212#Sealed Maya Card#
 27213#Sealed Clown Alphoccio Card#
@@ -9160,6 +9163,7 @@
 103711#Random Option The Ragnarok T-Shirts#
 103763#Cuddly Bear Costume Scroll#
 103767#Bossnia Card Box#
+103779#Dragon's Core Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9398,6 +9402,7 @@
 410316#Costume Bear Candy Cart#
 410320#Costume Freyja's Distorted Blink Eyes#
 410321#Wing Of Bless#
+410330#Costume Red Aura Dragon#
 410331#Costume Yellow Aura Dragon#
 410350#Costume Kwaiii#
 410354#RCC2024 Wing Of Thor#
@@ -9635,6 +9640,7 @@
 480490#God's Spiritual Wind#
 480491#[Not For Sale] God's Spiritual Wind#
 480509#Owl Baron Cloak#
+480514#[Not For Sale] Manteau of Flame Heart#
 490033#Fallen Angel's Tear#
 490147#1st Anniversary Ring#
 490209#[Not for Sale]Angel Egg#
@@ -9703,6 +9709,8 @@
 490616#2024 RTC Ring#
 490629#Petal Tail#
 490630#[Not For Sale] Petal Tail#
+490648#Charm of Flame Heart#
+490649#[Not For Sale] Charm of Flame Heart#
 500000#IDTest weapon#
 500079#Raid Human Sword#
 500080#[Not For Sale] Blessed Knife#
@@ -9765,6 +9773,7 @@
 650050#Raid Ocean Fuuma Shuriken#
 650051#WOE Huuma Shuriken 2#
 700000#IDTest bow#
+700003#Scarlet Dragon Leather Bow#
 700075#[Not For Sale] Kakkung#
 700079#Raid Human CrossBow#
 700103#Raid Ocean Bow#
@@ -9779,7 +9788,7 @@
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
 1000896#RCC2024 Coin#
-1000923#3rd Anniversary Coin#
+1000923#Dragon Core Coin#
 1000965#[Event] Empty Bottle#
 1001277#(Raid) Silver Key#
 1001278#(Raid) Gold Key#
