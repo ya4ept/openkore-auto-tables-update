@@ -229,10 +229,13 @@
 754#Racoon Doll#
 756#Rough Oridecon#
 757#Rough Elunium#
-801#[Normal] Battle Pass Season 1 : Underwater Ocean#
-802#[Premium] Battle Pass Season 1 : Underwater Ocean#
+801#[Normal] Battle Pass Season 2 : Tower of Eternal Shadows#
+802#[Premium] Battle Pass Season 2 : Tower of Eternal Shadows#
 805#Mysterious Medal#
 810#Battle Pass Invitation Card#
+811#[Event] Piece of Jigsaw#
+813#[Event] Special Enchant Temporal & Diabolus Ticket#
+814#[Event] Enchant Temporal & Diabolus Slot4 Ticket#
 901#Daenggie#
 902#Tree Root#
 903#Reptile Tongue#
@@ -8437,6 +8440,7 @@
 28523#Ring of Disaster#
 28592#Angeling Poring Earrings#
 28593#Angeling Poring Ring#
+28594#Incursion Temporal Ring#
 28600#Blue Book#
 28604#Bible of Crimson#
 28605#Vicious Mind Book#
@@ -9438,6 +9442,7 @@
 420148#[Not For Sale] Elephangel#
 420149#Costume Cons Of Water#
 420152#Costume Cons of Light and Dark#
+420157#[Not For Sale] Glast Heim Spectator#
 420161#Costume Starry Long Wave#
 420163#Costume Protect Cloth (Black)#
 420166#Heart Angel#
@@ -9470,6 +9475,7 @@
 420267#Costume Twin Canon#
 420268#Costume Fluffy Semi Long#
 420321#Costume Neon Half Long#
+420337#Costume Ancient Runes#
 420373#Heart Card In Mouth#
 420374#Diamond Card In Mouth#
 420375#Clover Card In Mouth#
@@ -9631,6 +9637,7 @@
 480420#Costume Cyber Rifle#
 480423#Costume Unicorn Fantasy Travel#
 480429#Costume Cat Donut#
+480433#Costume Twin Edge#
 480434#Giant God Snake Skin#
 480435#Giant God Snake Skin#
 480437#Costume Himmelmez Sword#
@@ -9641,6 +9648,7 @@
 480491#[Not For Sale] God's Spiritual Wind#
 480509#Owl Baron Cloak#
 480514#[Not For Sale] Manteau of Flame Heart#
+490030#Temporal Ring#
 490033#Fallen Angel's Tear#
 490147#1st Anniversary Ring#
 490209#[Not for Sale]Angel Egg#
@@ -9800,6 +9808,9 @@
 1001572#Rokia 2023#
 1001586#Razer Gold Key#
 1001673#Random Rare UFOcatcher#
+1001678#Basic Research (Battle Pass)#
+1001679#Advanced Thesis (Battle Pass)#
+1001680#Doctoral Dissertation (Battle Pass)#
 1001727#Orchestra Concert Ticket#
 1001794#[Not For Sale] Shadow Hi-Class Ticket#
 1001805#GOC Coin#
