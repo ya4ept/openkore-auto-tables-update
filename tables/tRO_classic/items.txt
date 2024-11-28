@@ -9168,6 +9168,7 @@
 103763#Cuddly Bear Costume Scroll#
 103767#Bossnia Card Box#
 103779#Dragon's Core Scroll#
+103822#Glast Heim Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9346,6 +9347,8 @@
 400733#[Not For Sale] Palace Guard Cap#
 400740#3rd Anniversary Hat#
 400741#Costume RWC 2013 Hat#
+400750#Khalitzburg Knight Blue Helm#
+400753#[Not For Sale] Khalitzburg Knight Blue Helm#
 410004#Gambler Seal#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
@@ -9443,6 +9446,7 @@
 420149#Costume Cons Of Water#
 420152#Costume Cons of Light and Dark#
 420157#[Not For Sale] Glast Heim Spectator#
+420159#Costume Magic Card#
 420161#Costume Starry Long Wave#
 420163#Costume Protect Cloth (Black)#
 420166#Heart Angel#
@@ -9514,6 +9518,8 @@
 450409#[Not For Sale] 2024 RTC Robe#
 450418#Drake Coat#
 450424#The Ragnarok T-Shirts#
+450428#Khalitzburg Knight Blue Armor#
+450429#[Not For Sale] Khalitzburg Knight Blue Armor#
 460028#[Not for Sale]Sharel Shield#
 460033#[Not For Sale] Mad Bunny#
 460041#Dark Shield#
@@ -9648,6 +9654,8 @@
 480491#[Not For Sale] God's Spiritual Wind#
 480509#Owl Baron Cloak#
 480514#[Not For Sale] Manteau of Flame Heart#
+480518#White Knight Armor#
+480519#[Not For Sale] White Knight Armor #
 490030#Temporal Ring#
 490033#Fallen Angel's Tear#
 490147#1st Anniversary Ring#
@@ -9719,6 +9727,7 @@
 490630#[Not For Sale] Petal Tail#
 490648#Charm of Flame Heart#
 490649#[Not For Sale] Charm of Flame Heart#
+490662#Elite Royalguard Ring#
 500000#IDTest weapon#
 500079#Raid Human Sword#
 500080#[Not For Sale] Blessed Knife#
@@ -9796,7 +9805,7 @@
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
 1000896#RCC2024 Coin#
-1000923#Dragon Core Coin#
+1000923#Glast Heim Coin#
 1000965#[Event] Empty Bottle#
 1001277#(Raid) Silver Key#
 1001278#(Raid) Gold Key#
