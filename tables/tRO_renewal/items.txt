@@ -237,8 +237,8 @@
 798#[Event] Fish#
 799#[Event] Peach#
 800#[Event] Crispy Silk#
-801#[Normal] Battle Pass Season 5#
-802#[Premium] Battle Pass Season 5#
+801#[Normal] Battle Pass Season 6#
+802#[Premium] Battle Pass Season 6#
 803#[Event] Limit Break Racing Cap Ticket#
 804#[Event] Limit Break Enchant Racing Cap Ticket#
 805#Mysterious Medal#
@@ -246,7 +246,7 @@
 807#[Event] Level Up Battle Pass Ticket#
 808#Level Up Battle Pass ticket#
 809#[Event] Mutant Blood#
-810#Battle Pass Season 5 Invitation Card#
+810#Battle Pass Season 6 Invitation Card#
 811#[Event] Piece of Jigsaw#
 812#[Event] Broken Module#
 813#[Event] Special Enchant Temporal Boots Ticket#
@@ -5334,6 +5334,7 @@
 12575#Elf's Arrow Quiver#
 12576#Hunting Arrow Quiver#
 12577#Fortune Egg VI#
+12578#Rapid Life Water#
 12580#Universal Catalog Silver#
 12581#Universal Catalog Gold#
 12582#Siege Supply Box#
@@ -7548,6 +7549,7 @@
 20439#Costume Glow Of New Year#
 20440#Costume Tone Of Gold#
 20441#Costume Large Ribbon Muffler (Red)#
+20443#Costume Unicorn Helm#
 20447#Costume Rolling Poring#
 20448#Costume Cons Of Water#
 20449#Costume White Black Temp#
@@ -8976,6 +8978,8 @@
 24727#Auto Spell Shadow Earring#
 24732#Hasty Shadow Shield#
 24733#Infinity Shadow Shield#
+24734#Durable Weapon Shadow#
+24735#Durable Shield Shadow#
 24738#Critical Hit Weapon Shadow#
 24739#Doram Booster Shadow Weapon#
 24740#Star Emperor Booster Shadow Weapon#
@@ -10551,6 +10555,7 @@
 31836#Costume Aviator Hat#
 31842#Costume Striking Hat#
 31844#Costume Mob Scarf#
+31849#Costume Runaway Accelerator#
 31851#Costume Floating Shields#
 31853#Costume Zombie Mask#
 31874#Costume Himmelmez Hair (Navy)#
@@ -10957,10 +10962,12 @@
 100851#[4th Anniversary] Rice Cake#
 100879#Happy Poring Scroll#
 100880#Piercing Shadow Box#
+100888#Durable Shadow Mix Box#
 100906#[Event] All in One Potion#
 100908#Magic Piercing Shadow Box#
 100909#Soft Feather Scroll#
 100914#Kafra Buff (1Hr)#
+100920#Costume Enchant Stone Box 24#
 100922#10 World Moving Ticket Box#
 100924#Pegasus Scroll#
 100929#GM Lost Bagpack#
@@ -11351,6 +11358,7 @@
 102784#2023 X'Mas Scroll#
 102800#High Speed#
 102801#1UP#
+102803#Force Booster#
 102804#2024 New Year Party Scroll#
 102805#[Event] Transformer(Raydric Archer)#
 102807#[Event] Transformer(Golem)#
@@ -11464,6 +11472,14 @@
 103771#Pre Register Gift Box 3#
 103772#Pre Register Gift Box 4#
 103774#Pre Register Gift Box 5#
+103785#Stone Coin Package I November 2024#
+103786#Stone Coin Package II November 2024#
+103787#Stone Coin Package III November 2024#
+103788#(Limited) Silvervine 50 ea Package (Stone Box 23)#
+103789#Boarding Halter Box#
+103817#Reform Stone 3 ea Box#
+103818#Galaxy Wolf Scroll III#
+103819#Modified Thanos Boots Forging Hammer#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -11901,9 +11917,12 @@
 310329#Melee Stone (Lower)#
 310330#Range Stone (Middle)#
 310654#ASPD+1(Dual)#
+310658#Minor Fixed Cast Reduction (Dual)#
 310659#Variable Cast Reduction (Dual)#
+310660#Range Stone (Dual)#
 310661#Melee Stone (Dual)#
 310662#HP Absorption (Dual)#
+310663#SP Absorption (Dual)#
 310664#Magic Power Stone (Upper)#
 310665#Magic Power Stone (Middle)#
 310666#Magic Power Stone (Lower)#
@@ -11914,6 +11933,15 @@
 310671#Spring Warm Energy (1Lv)#
 310672#Spring Warm Energy (2Lv)#
 310673#Spring Warm Energy (3Lv)#
+310881#Rune Knight Stone (Upper)#
+310882#Rune Knight Stone (Middle)#
+310883#Rune Knight Stone (Lower)#
+310884#Warlock Stone (Upper)#
+310885#Warlock Stone (Middle)#
+310886#Warlock Stone (Lower)#
+310887#Royal Guard Stone (Upper)#
+310888#Royal Guard Stone (Middle)#
+310889#Royal Guard Stone (Lower)#
 310908#Valor of Fighter#
 310909#Sharpness of Swordsman#
 310910#Will of Sharpshooter#
@@ -11986,6 +12014,18 @@
 313579#Diamond of Fatality Lv.1#
 313580#Krathong Firecracker#
 313581#Krathong Firecracker Basket#
+313712#Thanos Spell (Warrior) Lv.1#
+313713#Thanos Spell (Warrior) Lv.2#
+313714#Thanos Spell (Warrior) Lv.3#
+313715#Thanos Spell (Shooter) Lv.1#
+313716#Thanos Spell (Shooter) Lv.2#
+313717#Thanos Spell (Shooter) Lv.3#
+313718#Thanos Spell (Magic) Lv.1#
+313719#Thanos Spell (Magic) Lv.2#
+313720#Thanos Spell (Magic) Lv.3#
+313721#Thanos Spell (Fighter) Lv.1#
+313722#Thanos Spell (Fighter) Lv.2#
+313723#Thanos Spell (Fighter) Lv.3#
 400000#Whistle#
 400001#Victorious Wing Ears#
 400002#Victorious Wing Ears#
@@ -12128,6 +12168,8 @@
 400565#Costume Small Deviling Hat#
 400656#Costume White Khalitzburg Knight Helm#
 400664#Costume Drooping Fei-Chai#
+400692#Costume Gold Paeonia#
+400693#Costume Red Paeonia#
 400705#Costume ROS 2024 Honor Crown#
 400706#Mask of Sin Fate#
 410005#Costume Magic Heir#
@@ -12149,6 +12191,7 @@
 410061#Costume Deviruchi Apron#
 410062#Costume Carefree Face#
 410068#Costume Fish Marche#
+410070#Demon's Familiar#
 410072#Costume Demons Familiar#
 410079#Deep Blue Sunglasses#
 410080#Deep Blue Sunglasses#
@@ -12187,6 +12230,7 @@
 410178#Costume Princess Headphones#
 410180#Sigrun's Wing#
 410181#[Not For Sale] Sigrun's Wing#
+410182#Costume Traveler Lantern#
 410195#Costume Fluffy Lovely Fox#
 410198#Costume Deviruchi Party#
 410200#Costume Butler Bunny#
@@ -12239,7 +12283,10 @@
 410347#Imperial Ear Wing#
 410348#Divine Protect Shields#
 410350#Costume Kwaiii#
+410351#Costume Blue Buoyant Parasol#
+410352#Costume Red Buoyant Parasol#
 410363#Costume Aura of Ghost Ship#
+410370#Costume Happy Joker Mask#
 410377#Flying Drone-LT#
 420000#Isabella Carrot#
 420002#Dullahan Mask#
@@ -12353,6 +12400,10 @@
 420338#Costume Lazy Cat Luke#
 420340#Costume Kitchen Car#
 420342#Wireless Security Drone#
+420344#Costume Book of Sorcery#
+420349#Costume Blue Sunbed#
+420350#Costume Green Sunbed#
+420352#Costume Pool#
 420361#Flame Heart In Mouth#
 420362#[Not For Sale] Flame Heart In Mouth#
 420363#Ice Crystal In Mouth#
@@ -12631,6 +12682,10 @@
 470276#[Not For Sale] Swirling Flaming Shoes#
 470287#Starry Sky Twin Prime#
 470288#[Not For Sale] Starry Sky Twin Prime#
+470325#Thanos Boots (Warrior)#
+470326#Thanos Boots (Shooter)#
+470327#Thanos Boots (Magic)#
+470328#Thanos Boots (Fighter)#
 480000#Attacker Booster Manteau#
 480001#Elemental Booster Muffler#
 480002#Defunct Booster Muffler#
@@ -12801,6 +12856,8 @@
 480461#Costume Ragdoll Face Bag#
 480465#Melody Wing#
 480466#[Not for Sale] Melody Wing#
+480469#Costume Cons of White and Red#
+480470#Costume Summer Beach#
 480474#Tiger Howling Suit#
 480475#[Not for Sale] Tiger Howling Suit#
 480498#White Knight Mantle (Melee)#
@@ -12810,6 +12867,7 @@
 480506#Costume Star 1st Runner-Up 2024 Wing#
 480507#Costume Star 2nd Runner-Up 2024 Wing#
 480508#Costume Star 3rd Runner-Up 2024 Wing#
+480515#Costume Autumn Full Moon#
 490004#Attacker Booster Ring#
 490005#Elemental Booster Earring#
 490006#Defunct Booster Earring#
@@ -12883,6 +12941,7 @@
 490147#1st Anniversary Ring#
 490149#Glittering Meow Meow Choker#
 490159#러프 코어#
+490164#Heroic Token (Shadow Cross)#
 490180#Heroic Token (Meister)#
 490182#Immortal Dog Tag#
 490208#Palace Ring#
@@ -13060,6 +13119,10 @@
 490643#[Not For Sale] Memento Memory (Wind Hawk)#
 490644#Memento Mind (Biolo)#
 490645#[Not For Sale] Memento Mind (Biolo)#
+490658#Memento Memory (Inquisitor)#
+490659#[Not For Sale] Memento Memory (Inquisitor)#
+490660#Memento Mind (Wind Hawk)#
+490661#[Not For Sale] Memento Mind (Wind Hawk)#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -13296,6 +13359,8 @@
 610026#Eden Group Guillotine Cross Chakram#
 610027#Eden Group Guillotine Cross Katar#
 610028#Counter Assault Booster Katar#
+610033#Shiver Katar-LT#
+610034#Blade Katar-LT#
 610039#Meuchler-OSAD#
 610053#[Not For Sale] Katar#
 610056#Raid Human Katra#
@@ -13659,8 +13724,11 @@
 1000517#Bat Fur#
 1000518#Maya's Crown#
 1000520#ASPD Stone (Dual)#
+1000521#Minor Casting Stone (Dual)#
 1000522#Variable Casting Stone (Dual)#
+1000523#Range Stone (Dual)#
 1000524#Melee Stone (Dual)#
+1000525#SP Absorption Stone (Dual)#
 1000526#HP Absorption Stone (Dual)#
 1000527#Magic Power Stone (Dual)#
 1000528#Magic Power Stone (Upper)#
@@ -13668,6 +13736,15 @@
 1000530#Magic Power Stone (Lower)#
 1000552#Evil's Water#
 1000572#1st Anniversary Job Changing Ticket#
+1000610#Rune Knight Stone (Upper)#
+1000611#Rune Knight Stone (Middle)#
+1000612#Rune Knight Stone (Lower)#
+1000613#Warlock Stone (Upper)#
+1000614#Warlock Stone (Middle)#
+1000615#Warlock Stone (Lower)#
+1000616#Royal Guard Stone (Upper)#
+1000617#Royal Guard Stone (Middle)#
+1000618#Royal Guard Stone (Lower)#
 1000619#World Moving Ticket#
 1000657#영혼의 실타래#
 1000836#Certificate of Hunter Union#
@@ -13681,7 +13758,7 @@
 1000889#Mixed Fruits Juice#
 1000890#[Event] Episode 17 Clear Ticket#
 1000891#Special Red Pill Exchange#
-1000895#Special Sparkling Gold Exchange#
+1000895#Special Genetic Aura Exchange#
 1000896#Coin#
 1000923#Water Bubble Coin#
 1000924#Bookmark#
@@ -13749,6 +13826,7 @@
 1001898#Booster Choice Ticket#
 1001900#[Scroll] Enchant Ticket#
 1001902#Reform Stone#
+1001911#[Event] Enchant Ticket#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
