@@ -8709,6 +8709,7 @@
 31172#Costume Roast Memory#
 31177#Costume Tail Hat#
 31178#Costume Flame Muffler#
+31179#Costume Wolf Masquerade#
 31186#Costume Black Cat#
 31188#Costume Mono Gothic Bonnet#
 31189#Costume Red Cat Ears Cape#
@@ -9169,6 +9170,7 @@
 103767#Bossnia Card Box#
 103779#Dragon's Core Scroll#
 103822#Glast Heim Scroll#
+103866#Pretty Fox Costume Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9205,6 +9207,7 @@
 300157#Time Accessory Effect#
 300209#Sealed Nightmare Amon Ra Card#
 300291#1st Anniversary Card#
+300419#Baby Camellia Effect#
 310322#Magic Feather Effect#
 311395#Hit Plus 1#
 311396#Hit Plus 2#
@@ -9294,6 +9297,7 @@
 400488#Hairband Of Asmodeus#
 400489#[Not For Sale] Hairband Of Asmodeus#
 400490#[Not for Sale] Boxer Glove#
+400496#Costume White Fox Ears#
 400498#Germes Horn#
 400499#[Not For Sale] Germes Horn#
 400500#Gigant Helm#
@@ -9380,6 +9384,7 @@
 410178#Costume Princess Headphones#
 410180#Sigrun's Wing#
 410181#[Not For Sale] Sigrun's Wing#
+410195#Costume Fluffy Lovely Fox#
 410200#Costume Butler Bunny#
 410203#Third Eyes#
 410204#[Not For Sale] Third Eyes#
@@ -9435,6 +9440,7 @@
 420067#Costume Rabbit Pigtails#
 420069#Costume Lord of Royals#
 420072#Costume Twin Braids (White)#
+420077#Costume Cat Footprints#
 420089#[Rental] Sealed Mob Scarf#
 420104#Costume Wild Long Hair#
 420107#Costume Twinkle Twin#
@@ -9457,6 +9463,7 @@
 420185#Costume Red Sailor Collar#
 420188#Black Scarf#
 420189#[Not For Sale] Black Scarf#
+420192#Costume White Fox Friendly#
 420195#Costume Poooooring Balloon#
 420200#Costume Eremes Scarf#
 420202#Green Four Clover#
@@ -9631,6 +9638,7 @@
 480334#[Not For Sale] Medical Cape#
 480360#Costume Great Shuriken#
 480361#Costume Evil Dual Swords#
+480362#Costume White Nine Tails#
 480374#Golden Attack Upgrade Muffler#
 480375#Golden Magic Upgrade Hood#
 480396#Maximize Amistr Bag#
@@ -9807,6 +9815,7 @@
 1000896#RCC2024 Coin#
 1000923#Glast Heim Coin#
 1000965#[Event] Empty Bottle#
+1001069#Baby Camellia Effect (Upper)#
 1001277#(Raid) Silver Key#
 1001278#(Raid) Gold Key#
 1001354#Idle Fish Rod#
