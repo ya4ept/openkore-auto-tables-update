@@ -10959,7 +10959,7 @@
 100827#1st Anniversary Scroll#
 100837#Welcome Adventurer#
 100847#Piggy Bank Scroll#
-100851#[4th Anniversary] Rice Cake#
+100851#[Event] Booster Macaron#
 100879#Happy Poring Scroll#
 100880#Piercing Shadow Box#
 100888#Durable Shadow Mix Box#
@@ -11480,6 +11480,7 @@
 103817#Reform Stone 3 ea Box#
 103818#Galaxy Wolf Scroll III#
 103819#Modified Thanos Boots Forging Hammer#
+103850#Mileage Booster Coin Gift Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
