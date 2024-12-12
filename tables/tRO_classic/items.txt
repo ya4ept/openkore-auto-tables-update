@@ -6183,12 +6183,14 @@
 15360#Archangeling Balloon#
 15470#[Not For Sale] Sprint Gloves#
 15476#[Not For Sale] Diabolus Wing#
+15484#[Not For Sale] Celine's Dress#
 15842#Costume Pocket Watch Magic Hat#
 15888#Costume Dragon Claw Helm#
 15952#Costume 15th Nov Helmet#
 15953#Costume Somtam#
 15954#Costume Wichienmaat and Bangkaew#
 15958#[Not For Sale] Giant Snake Breath#
+15970#[Not For Sale] CD in Mouth K#
 15980#Wonder Egg Basket#
 16000#Erde#
 16001#Red Square Bag#
@@ -8877,6 +8879,7 @@
 31972#Costume Purificatory Mask#
 31973#Costume Blossom Glasses#
 32004#Probation Paladin Lance#
+32237#Celine's Brooch K#
 100000#IDTest Special#
 100054#Shadow Transcendental Time Box#
 100061#[Not For Sale] Red Booster#
@@ -9171,6 +9174,7 @@
 103779#Dragon's Core Scroll#
 103822#Glast Heim Scroll#
 103866#Pretty Fox Costume Scroll#
+103867#Celine Kimi Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9498,6 +9502,7 @@
 440010#Costume Bear Head#
 450000#IDTest armor#
 450131#Fallen Angel Armor#
+450179#Celine's Dress#
 450253#School Uniform#
 450254#Suits10#
 450255#Suits40#
@@ -9632,6 +9637,7 @@
 480307#Fallen Angel Wing#
 480308#[Not For Sale] Fallen Angel Wing#
 480309#Bravery Bag#
+480310#Costume Giant Mad Bunny#
 480316#Costume Labrys#
 480320#Costume Songkran Aqua Fin Decoration#
 480333#Medical Cape#
@@ -9693,6 +9699,7 @@
 490354#[Not For Sale] Sacred Geometry#
 490360#Palace Guard Ring#
 490361#[Not For Sale] Palace Guard Ring#
+490370#[Not For Sale] Celine's Brooch K#
 490378#Curse of Maebia Book#
 490379#[Not For Sale] Curse of Maebia Book#
 490399#Boxer Glove#
@@ -9813,7 +9820,7 @@
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
 1000896#RCC2024 Coin#
-1000923#Glast Heim Coin#
+1000923#Celine Kimi Coin#
 1000965#[Event] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001277#(Raid) Silver Key#
