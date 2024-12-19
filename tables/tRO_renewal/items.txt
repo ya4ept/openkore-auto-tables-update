@@ -6334,7 +6334,6 @@
 15278#Soaring Physical Armor#
 15279#Robust Magical Armor#
 15280#Critical Hit Shadow Armor#
-15282#Rabbit Pattern Shirt#
 15343#Supplement Part Str#
 15344#Upgrade Part - Plate#
 15346#Unexpected Fortune Armor#
@@ -7467,6 +7466,7 @@
 20173#Costume Lude Hood#
 20174#Costume Halloween Hat Orange#
 20175#Costume Diabolic Headphone#
+20185#Costume Fashion Sunglasses#
 20191#Costume Black Cat Ears Beret#
 20192#Costume Foxtail#
 20195#Costume Scratching Cat#
@@ -7783,7 +7783,6 @@
 21054#Claw Sword#
 21055#Guardian Knight Claymore#
 21058#Patent Dragonic Slayer#
-21063#Solid Claymore#
 21065#[Not For Sale] Oriental Sword#
 21066#[Not for Sale] Dragonic Slayer#
 21206#Costume Nut Cracker#
@@ -9274,11 +9273,7 @@
 25501#Wanderer Minstrel Stone (Garment)#
 25503#Flower Left by Phantom#
 25504#Phantom's Seal#
-25505#Jokers Wild#
-25506#Cute Broom#
-25507#Showy Coral Reef#
 25508#Orc Warlord Token#
-25509#Shining Round Shell#
 25615#Nazarian Soul Stone#
 25616#Green Bearopy#
 25617#Fine Chonchon Doll#
@@ -9483,7 +9478,6 @@
 26118#Shadow Staff#
 26138#Hellfire Staff#
 26139#Icicle Staff#
-26140#Witch's Broom#
 26151#Rutilus Stick-OS#
 26154#Spirit Pendulum#
 26155#Meowmeow Foxtail#
@@ -10821,10 +10815,6 @@
 100361#Meteor Striker Modification Cube#
 100362#Madogum Modification Cube#
 100363#Fatalist Modification Cube#
-100365#Blazing Magical Jewel#
-100366#Sunken Magical Jewel#
-100367#Growth Magical Jewel#
-100368#Shining Magical Jewel#
 100370#Tree of Life Scroll#
 100371#Homunculus Tablet#
 100372#Royal Guard Shadow Cube#
@@ -10863,26 +10853,12 @@
 100455#WIS Reduce Potion#
 100456#CON Reduce Potion#
 100457#CRT Reduce Potion#
-100460#Purified Growth Elixir#
-100462#Contaminated Card Book#
 100465#Class Enchant Stone Box I (Garment)#
 100466#Aegir's Power Box#
 100467#Aegir's Magical Power Box#
 100468#Aegirnian Box#
-100475#Purple Special Storage Device#
-100476#Ymir Beads#
-100477#Poenitentia Gladius Set Box#
-100478#Poenitentia Asta Set Box#
-100479#Sakray's Fury#
-100480#Condensed Sakray's Fury#
 100481#Battle Processor Accelerator#
 100484#[Not for Sale] Old Glast Heim Armor 9 Refine Cube#
-100485#Sakray's Regret#
-100486#Condensed Sakray's Regret#
-100487#Tiara's Loss#
-100488#Condensed Tiara's Loss#
-100489#Tiara's Tears#
-100490#Condensed Tiara's Tears#
 100492#Field Manual Special#
 100493#Job Manual Special#
 100494#[Not For Sale] Beholder Ring Box II#
@@ -10942,25 +10918,11 @@
 100621#Maximum Mammoth Shadow Box#
 100623#Lapine Box (Shadow)#
 100624#Red Blood Scroll#
-100626#+7 Gray Wolf Refine Box#
-100627#+9 Gray Wolf Refine Box#
 100633#AIS Awards 2020 Set#
 100634#Puriku Scroll#
 100639#Satan Morroc Scroll#
 100640#Rebellion Weapon Box#
 100641#Rebellion Pre-Register Box#
-100648#Purification Ritual#
-100649#Advanced Purification Ritual#
-100650#Pontifex Courage#
-100651#Pontifex Wisdom#
-100652#Pontifex Tenacity#
-100653#Pontifex Belief#
-100655#Purification Blueprint Bundle#
-100656#Armor Enchant Box#
-100657#Garment Enchant Box#
-100658#Shoes Enchant Box#
-100659#Accessory (Right) Enchant Box#
-100660#Accessory (Left) Enchant Box#
 100661#Experience Shadow Mix#
 100668#Moonlight Scroll#
 100669#Premium Hat Box#
@@ -11057,9 +11019,6 @@
 101084#Limited Gacha Gift Box#
 101096#Candy Witch Scroll#
 101097#[Scroll] Unlimited Drink#
-101099#Clock Tower Regulator#
-101100#Poenitentia Dual Sword Box#
-101101#Poenetentia Firearm Set Box#
 101107#Ice Cannon Ball Box#
 101108#Lightning Cannon Ball Box#
 101109#Stone Cannon Ball Box#
@@ -11116,7 +11075,6 @@
 101355#OS Weapon Reform Box#
 101363#Upgraded OS Helm Refine Hammer#
 101364#Upgraded OS Weapon Refine Hammer#
-101368#Unidentified Box#
 101370#Young Leaf Scroll#
 101372#Burning Flame Scroll#
 101376#Light Darkness Costume Scroll#
@@ -11679,47 +11637,8 @@
 300150#Abysmal King Dramoh Card#
 300151#Abysmal Kraken Card#
 300157#Time Accessory Effect#
-300170#Rotten Wood Card#
-300171#Grave Worm Card#
-300172#Brain Sucker Card#
-300173#Moskillro Card#
-300174#Melted Poring Card#
-300175#Unidentified Creature Card#
-300176#Unidentified Life Form Card#
-300177#Midnight Arhi Card#
-300178#Midnight Dio Anemos Card#
-300179#Midnight Shoplifter Card#
-300180#Midnight Gangster Card#
-300181#Midnight Bully Card#
-300182#Midnight Faymont Card#
-300183#Midnight Ordre Card#
-300184#Midnight Blut Hase Card#
-300185#Midnight Kuro Akuma Card#
-300186#Midnight Ifodes Card#
-300187#Midnight Odoric Card#
-300188#Midnight Licheniyes Card#
-300189#Midnight Ju Card#
-300190#Midnight Fay Kanabian Card#
-300191#Midnight Dwigh Card#
-300192#Sakray Card#
-300193#Tiara Card#
 300207#Sealed Shiny Teddy Bear Card#
 300209#Sealed Nightmare Amon Ra Card#
-300211#Ash Toad Card#
-300212#Rakehand Card#
-300213#Spark Card#
-300214#Hot Molar Card#
-300215#Volcaring Card#
-300216#Lava Toad Card#
-300217#Burning Fang Card#
-300218#Ashhopper Card#
-300219#Ashring Card#
-300220#Gray Wolf Card#
-300221#Tumblering Card#
-300222#Firewind Kite Card#
-300223#Phantom Wolf Card#
-300227#Schulang Card#
-300228#Twisted God Card#
 300230#Diligent Andre Card#
 300231#Diligent Soldier Andre Card#
 300232#Diligent Andre Larva Card#
@@ -11773,12 +11692,6 @@
 300280#Broken Memory of Thanatos Card#
 300281#R001-Bestia Card#
 300291#1st Anniversary Card#
-300292#Extra Joker Card#
-300293#Erzsebet Card#
-300294#Jennifer Card#
-300295#General Orc Card#
-300296#Sieglouse Card#
-300297#Goblin King Card#
 300307#Meyer Card#
 300308#Meyer Lugenburg Card#
 300309#Helmut Card#
@@ -12032,176 +11945,6 @@
 310328#Melee Stone (Middle)#
 310329#Melee Stone (Lower)#
 310330#Range Stone (Middle)#
-310478#Wolf Orb (STR) Lv.1#
-310479#Wolf Orb (DEX) Lv.1#
-310480#Wolf Orb (AGI) Lv.1#
-310481#Wolf Orb (INT) Lv.1#
-310482#Wolf Orb (VIT) Lv.1#
-310483#Wolf Orb (LUK) Lv.1#
-310484#Wolf Orb (STR) Lv.2#
-310485#Wolf Orb (DEX) Lv.2#
-310486#Wolf Orb (AGI) Lv.2#
-310487#Wolf Orb (INT) Lv.2#
-310488#Wolf Orb (VIT) Lv.2#
-310489#Wolf Orb (LUK) Lv.2#
-310490#Wolf Orb (STR) Lv.3#
-310491#Wolf Orb (DEX) Lv.3#
-310492#Wolf Orb (AGI) Lv.3#
-310493#Wolf Orb (INT) Lv.3#
-310494#Wolf Orb (VIT) Lv.3#
-310495#Wolf Orb (LUK) Lv.3#
-310496#Wolf Orb (DEF) Lv.1#
-310497#Wolf Orb (MDEF) Lv.1#
-310498#Wolf Orb (DEF) Lv.2#
-310499#Wolf Orb (MDEF) Lv.2#
-310500#Wolf Orb (DEF) Lv.3#
-310501#Wolf Orb (MDEF) Lv.3#
-310502#Wolf Orb (Ranger) Lv.1#
-310503#Wolf Orb (Warrior) Lv.1#
-310504#Wolf Orb (Mage) Lv.1#
-310505#Wolf Orb (Ranger) Lv.2#
-310506#Wolf Orb (Warrior) Lv.2#
-310507#Wolf Orb (Mage) Lv.2#
-310508#Wolf Orb (Ranger) Lv.3#
-310509#Wolf Orb (Warrior) Lv.3#
-310510#Wolf Orb (Mage) Lv.3#
-310511#Wolf Orb (Reflect Reject) Lv.1#
-310512#Wolf Orb (Reflection Reject) Lv.2#
-310513#Wolf Orb (Reflection Reject) Lv.3#
-310514#Wolf Orb (Power Force)#
-310515#Wolf Orb (Global Cooldown)#
-310516#Wolf Orb (Dragonic Breath)#
-310517#Wolf Orb (Cutter Break)#
-310518#Wolf Orb (Hundred Wave)#
-310519#Wolf Orb (Brand Drive)#
-310520#Wolf Orb (Vanishing Cannon)#
-310521#Wolf Orb (Genesis Pressure)#
-310522#Wolf Orb (Boost Cannon)#
-310523#Wolf Orb (Vulcan Boomerang)#
-310524#Wolf Orb (Tornado Swing)#
-310525#Wolf Orb (Hell Tornado)#
-310526#Wolf Orb (Crazy Cannon)#
-310527#Wolf Orb (Acid Explosion)#
-310528#Wolf Orb (Sonic Impact)#
-310529#Wolf Orb (Cutter Slasher)#
-310530#Wolf Orb (Berserk Slash)#
-310531#Wolf Orb (Fatal Attack)#
-310532#Wolf Orb (Shadow Spell)#
-310533#Wolf Orb (Angle Shot)#
-310534#Wolf Orb (Crimson Strain)#
-310535#Wolf Orb (Jack Lightning)#
-310536#Wolf Orb (Comet Vortex)#
-310537#Wolf Orb (Cloud Buster)#
-310538#Wolf Orb (Varetyr Wave)#
-310539#Wolf Orb (Diamond Grave)#
-310540#Wolf Orb (Magnusmus)#
-310541#Wolf Orb (Holy Judex)#
-310542#Wolf Orb (Melee Duple)#
-310543#Wolf Orb (Tiger Empire)#
-310544#Wolf Orb (Rampage Lightning)#
-310545#Wolf Orb (Hell Arrow)#
-310546#Wolf Orb (Cluster)#
-310547#Wolf Orb (Breeze Shooting)#
-310548#Wolf Orb (Aimed Storm)#
-310549#Wolf Orb (Sound Metal)#
-310550#Wolf Orb (Reverb)#
-310551#Wolf Orb (Vulcan Severe)#
-310552#Wolf Orb (Blaze Explosion)#
-310553#Wolf Orb (Moon Kick)#
-310554#Wolf Orb (Flash Falling)#
-310555#Wolf Orb (Eswhoo)#
-310556#Wolf Orb (Espa)#
-310557#Wolf Orb (Curse Explosion)#
-310558#Wolf Orb (Des Hammer Dance)#
-310559#Wolf Orb (Fire Howling Tail)#
-310560#Wolf Orb (Storm Buster Trip)#
-310561#Wolf Orb (Flame Ice Wind)#
-310562#Wolf Orb (Cross Petal)#
-310563#Wolf Orb (Exploding Flake Wind)#
-310564#Wolf Orb (Power of Sea)#
-310565#Wolf Orb (Power of Land)#
-310566#Wolf Orb (Power of Life)#
-310567#Wolf Orb (Speed) Lv.1#
-310568#Wolf Orb (Caster) Lv.1#
-310569#Wolf Orb (Critical) Lv.1#
-310570#Wolf Orb (Guide Attack) Lv.1#
-310571#Wolf Orb (Speed) Lv.2#
-310572#Wolf Orb (Caster) Lv.2#
-310573#Wolf Orb (Critical) Lv.2#
-310574#Wolf Orb (Guide Attack) Lv.2#
-310575#Wolf Orb (Speed) Lv.3#
-310576#Wolf Orb (Caster) Lv.3#
-310577#Wolf Orb (Critical) Lv.3#
-310578#Wolf Orb (Guide Attack) Lv.3#
-310579#Wolf Orb (Above All) Lv.1#
-310580#Wolf Orb (Above All) Lv.2#
-310581#Wolf Orb (Above All) Lv.3#
-310582#Wolf Orb (Powerful) Lv.1#
-310583#Wolf Orb (Powerful) Lv.2#
-310584#Wolf Orb (Powerful) Lv.3#
-310585#Wolf Orb (Mirror Counter) Lv.1#
-310586#Wolf Orb (Mirror Counter) Lv.2#
-310587#Wolf Orb (Mirror Counter) Lv.3#
-310588#Wolf Orb (Vital) Lv.1#
-310589#Wolf Orb (Mental) Lv.1#
-310590#Wolf Orb (Heal) Lv.1#
-310591#Wolf Orb (Vital) Lv.2#
-310592#Wolf Orb (Mental) Lv.2#
-310593#Wolf Orb (Heal) Lv.2#
-310594#Wolf Orb (Vital) Lv.3#
-310595#Wolf Orb (Mental) Lv.3#
-310596#Wolf Orb (Heal) Lv.3#
-310597#Wolf Orb (Robust) Lv.1#
-310598#Wolf Orb (Robust) Lv.2#
-310599#Wolf Orb (Robust) Lv.3#
-310600#Wolf Orb (Fixed Casting) Lv.1#
-310601#Wolf Orb (Fixed Casting) Lv.2#
-310602#Wolf Orb (Fixed Casting) Lv.3#
-310603#Wolf Orb (Magical Force) Lv.1#
-310604#Wolf Orb (Physical Force) Lv.1#
-310605#Wolf Orb (Magical Force) Lv.2#
-310606#Wolf Orb (Physical Force) Lv.2#
-310607#Wolf Orb (Magical Force) Lv.3#
-310608#Wolf Orb (Physical Force) Lv.3#
-310609#Wolf Orb (Unlimited Vital)#
-310610#Wolf Orb (Spell Buster)#
-310611#Wolf Orb (Firing Shot)#
-310612#Wolf Orb (Overpower)#
-310613#Wolf Orb (Fatal Flash)#
-310614#Wolf Orb (Lucky Strike)#
-310615#Wolf Orb (ASPD) Lv.1#
-310616#Wolf Orb (Expert Archer) Lv.1#
-310617#Wolf Orb (Fatal) Lv.1#
-310618#Wolf Orb (Fighting Spirit) Lv.1#
-310619#Wolf Orb (Spell) Lv.1#
-310620#Wolf Orb (ASPD) Lv.2#
-310621#Wolf Orb (Expert Archer) Lv.2#
-310622#Wolf Orb (Fatal) Lv.2#
-310623#Wolf Orb (Fighting Spirit) Lv.2#
-310624#Wolf Orb (Spell) Lv.2#
-310625#Wolf Orb (ASPD) Lv.3#
-310626#Wolf Orb (Expert Archer) Lv.3#
-310627#Wolf Orb (Fatal) Lv.3#
-310628#Wolf Orb (Fighting Spirit) Lv.3#
-310629#Wolf Orb (Spell) Lv.3#
-310630#Wolf Orb (ASPD) Lv.4#
-310631#Wolf Orb (Expert Archer) Lv.4#
-310632#Wolf Orb (Fatal) Lv.4#
-310633#Wolf Orb (Fighting Spirit) Lv.4#
-310634#Wolf Orb (Spell) Lv.4#
-310635#Wolf Orb (HP Recovery) Lv.1#
-310636#Wolf Orb (SP Recovery) Lv.1#
-310637#Wolf Orb (HP Recovery) Lv.2#
-310638#Wolf Orb (SP Recovery) Lv.2#
-310639#Wolf Orb (HP Recovery) Lv.3#
-310640#Wolf Orb (SP Recovery) Lv.3#
-310641#Wolf Orb (HP Recovery) Lv.4#
-310642#Wolf Orb (SP Recovery) Lv.4#
-310643#Wolf Orb (Drain Life)#
-310644#Wolf Orb (Drain Soul)#
-310645#Wolf Orb (Magic Healing)#
-310646#Wolf Orb (Magic Soul)#
-310647#Wolf Orb (All Force)#
 310654#ASPD+1(Dual)#
 310658#Minor Fixed Cast Reduction (Dual)#
 310659#Variable Cast Reduction (Dual)#
@@ -12270,55 +12013,6 @@
 310917#Intelligence#
 310918#Vitality#
 310919#Agility#
-311016#Clockwork Device (ATK)#
-311017#Clockwork Device (MATK)#
-311018#Clockwork Device (ASPD)#
-311019#Clockwork Device (Variable Casting)#
-311020#Clockwork Device (Delay)#
-311021#Clockwork Device (POW)#
-311022#Clockwork Device (SPL)#
-311023#Clockwork Device (STA)#
-311024#Clockwork Device (WIS)#
-311025#Clockwork Device (CRT)#
-311026#Clockwork Device (CON)#
-311027#Clockwork Device (P.ATK)#
-311028#Clockwork Device (S.MATK)#
-311029#Storm Slash Tuning Device#
-311030#Hack and Slasher Tuning Device#
-311031#Axe Stomp Tuning Device#
-311032#Axe Tornado Tuning Device#
-311033#Acidified Zone Tuning Device#
-311034#Cart Tornado Tuning Device#
-311035#Impact Crater Tuning Device#
-311036#Savage Impact Tuning Device#
-311037#Frozen Crimson Tuning Device#
-311038#Crystal Impact Tuning Device#
-311039#Abyss Square Tuning Device#
-311040#From The Abyss Tuning Device#
-311041#Conflag Lightning Tuning Device#
-311042#Varetyr Spear Tuning Device#
-311043#Gale Storm Tuning Device#
-311044#Arrow Storm Tuning Device#
-311045#Second Order Tuning Device#
-311046#Third Order Tuning Device#
-311047#Shield Shooting Tuning Device#
-311048#Shield Chain Tuning Device#
-311049#Framen Tuning Device#
-311050#Arbitrium Tuning Device#
-311051#Noon Blast Tuning Device#
-311052#Rising Sun Tuning Device#
-311053#Talisman of Four Bearing God Tuning Device#
-311054#Talisman of Soul Stealing Tuning Device#
-311055#Only One Bullet Tuning Device#
-311056#Spiral Shooting Tuning Device#
-311057#Double Bowling Bash Tuning Device#
-311058#Meteor Storm Tuning Device#
-311059#Shadow Dance Tuning Device#
-311060#Darkening Cannon Tuning Device#
-311061#Rose Shooting Tuning Device#
-311062#Severe Rainstorm Tuning Device#
-311063#Howling Strike Tuning Device#
-311064#Hyunrok Tuning Device#
 311367#Gray Spell (Warrior) Lv.1#
 311368#Gray Spell (Warrior) Lv.2#
 311369#Gray Spell (Warrior) Lv.3#
@@ -12331,10 +12025,6 @@
 311376#Gray Spell (Fighter) Lv.1#
 311377#Gray Spell (Fighter) Lv.2#
 311378#Gray Spell (Fighter) Lv.3#
-311379#The Vigilante at Night Tuning Device#
-311380#Magazine for One Tuning Device#
-311381#Wild Fire Tuning Device#
-311382#Huuma Shuriken - Grasp Tuning Device#
 311384#Expert Fighter 1Lv#
 311385#Expert Fighter 2Lv#
 311386#Expert Fighter 3Lv#
@@ -12430,8 +12120,6 @@
 400120#Goat Crown#
 400121#Twin Crown#
 400124#Costume Majestic Goat of Dawn#
-400127#Mini Ellie#
-400128#Costume Mini Ellie#
 400129#Costume Puriku Cap#
 400134#Thanos Warrior Helmet#
 400135#Thanos Warrior Helmet-LT#
@@ -12542,6 +12230,7 @@
 400496#Costume White Fox Ears#
 400502#Costume Ring#
 400565#Costume Small Deviling Hat#
+400585#Costume Snowman Hat#
 400656#Costume White Khalitzburg Knight Helm#
 400664#Costume Drooping Fei-Chai#
 400692#Costume Gold Paeonia#
@@ -12637,6 +12326,7 @@
 410289#Costume Baby Gloom Under Night#
 410290#Costume Jellyfish#
 410294#Little Abyss Dragon#
+410295#Costume Winter Night Bells#
 410296#Costume Sake Bottle#
 410298#[Not For Sale] Floating Ball#
 410313#Eye of the Storm#
@@ -12772,6 +12462,7 @@
 420299#Costume Sleek Half-Up (White)#
 420300#Costume Sleek Half-Up (Brown)#
 420303#Costume Chaos Emerald#
+420304#Costume Night Sky of Lutie#
 420321#Costume Neon Half Long#
 420337#Costume Ancient Runes#
 420338#Costume Lazy Cat Luke#
@@ -12781,6 +12472,7 @@
 420349#Costume Blue Sunbed#
 420350#Costume Green Sunbed#
 420352#Costume Pool#
+420353#Costume Charisma Extension Twin#
 420361#Flame Heart In Mouth#
 420362#[Not For Sale] Flame Heart In Mouth#
 420363#Ice Crystal In Mouth#
@@ -12931,15 +12623,11 @@
 450146#Illusion Chain Mail#
 450147#Illusion Armor A-type (Bound)#
 450148#Illusion Armor B-type (Bound)#
-450149#Anti Conjurer Suit#
-450150#Magic Protector Robe#
 450151#Reinforced Cotton Shirt#
 450157#Patent Cotton Shirt#
 450164#Aegirnian Armor#
 450175#Exotic Temporal Armor#
 450176#Improved Powered Wing#
-450177#Gray Wolf Suit#
-450178#Gray Wolf Robe#
 450179#Celine's Dress#
 450182#Illusion Sprint Mail#
 450183#Eden Group Suit#
@@ -12963,10 +12651,7 @@
 450400#Red Serpent Dress#
 460003#Feather Shield#
 460004#Illusion Shield I#
-460005#Magic Absorber#
-460006#Encyclopedia Complete Edition#
 460012#Reinforced Guard#
-460013#Poenitentia Aegis#
 460014#Illusion Shield II#
 460017#Illusion Guard#
 460018#Illusion Silver Guard#
@@ -13003,15 +12688,7 @@
 470068#Eden Group Shoes#
 470069#Eden Group Advanced Boots#
 470070#Aegirnian Shoes#
-470071#Unknown Strength Boots#
-470072#Unknown Dexterity Boots#
-470073#Unknown Vitality Boots#
-470074#Unknown Intelligence Boots#
-470076#Unknown Agility Boots#
-470077#Unknown Luck Boots#
 470086#Lapine Prayer Shoes#
-470087#Gray Wolf Boots#
-470088#Gray Wolf Shoes#
 470093#Eden Group Advanced Shoes#
 470094#Hero Boots-LT#
 470095#Destroyer Boots#
@@ -13099,17 +12776,11 @@
 480058#Costume Wavy Golden Angel Wings#
 480062#Illusion Engine Wing A-type (Bound)#
 480063#Illusion Engine Wing B-type (Bound)#
-480065#Magic Barrier Manteau#
-480066#Magic Barrier Muffler#
-480067#Ravage Magic Manteau#
-480068#Ravage Magic Muffler#
 480069#Costume Wavy Angel Wings#
 480076#Exotic Temporal Manteau#
 480082#Costume Sandalphon Wing#
 480083#Aegirnian Manteau#
 480084#Fafnir Manteau#
-480090#Gray Wolf Muffler#
-480091#Gray Wolf Manteau#
 480093#Costume Scepter#
 480095#Costume Giant White Rabbit#
 480096#Costume Haori Coat#
@@ -13229,6 +12900,7 @@
 480370#Revolver Red Cape#
 480371#[Not For Sale] Revolver Red Cape#
 480376#Costume Rata Tail#
+480405#Costume Santa Teddy Bear Doll Bag#
 480407#Costume Leticia's Wings#
 480408#Costume Dragon Wings#
 480409#[Not For Sale] Arabian Manteau#
@@ -13315,8 +12987,6 @@
 490073#Illusion Booster L (Bound)#
 490074#Illusion Battle Chip R (Bound)#
 490075#Illusion Battle Chip L (Bound)#
-490077#Force Condenser#
-490078#Mental Condenser#
 490082#Illusion Ring#
 490087#Hourglass Necklace#
 490089#Alice Body Pillow#
@@ -13329,10 +12999,6 @@
 490099#Thanatos's Necklace#
 490100#Red Force Pendant#
 490101#Blue Mental Pendant#
-490106#Gray Wolf Pendant#
-490107#Gray Wolf Ring#
-490108#Gray Wolf Earrings#
-490109#Gray Wolf Necklace#
 490120#Illusion Sprint Ring#
 490121#Illusion Sprint Glove#
 490122#Eden Group Ring#
@@ -13545,13 +13211,8 @@
 500016#Hell Tornado Booster Sword#
 500017#Patent Light Blade#
 500018#Relapse Blade#
-500019#Poenitentia Gladius#
-500020#Poenitentia Rigula#
 500024#Thanos Sword-AD#
-500025#Adulter Fides Guardian Sword#
-500026#Adulter Fides Rapier#
-500027#Vivatus Fides Guardian Sword#
-500028#Vivatus Fides Rapier#
+500026#Adulter Fides of Lapier#
 500030#Illusion Excalibur#
 500032#Eden Group Sword#
 500033#Eden Group Crusader Sword#
@@ -13561,9 +13222,6 @@
 500037#Eden Group Genetic Sword#
 500042#Super Psychic Booster Saber#
 500043#Super Ignition Booster Saber#
-500044#Solid Edge#
-500045#Wicked Blade#
-500046#Poenitentia Orbis#
 500051#Cannon Rapier-OSAD#
 500061#[Not For Sale] Light Blade#
 500073#[Not For Sale] Fatalist#
@@ -13582,11 +13240,7 @@
 510024#Ancient Reinforced Knife#
 510025#Patent and Reinforced Knife#
 510026#Relapse Dagger#
-510027#Poenitentia Mucro#
-510028#Poenitentia Dilacero#
 510030#Thanos Dagger-AD#
-510032#Adulter Fides Dagger#
-510033#Vivatus Fides Dagger#
 510034#Illusion Ancient Dagger#
 510035#Eden Group Dagger#
 510036#Eden Group Rogue Dagger#
@@ -13595,15 +13249,6 @@
 510039#Eden Group Super Novice Dagger#
 510040#Madogum-LT#
 510041#Fatalist-LT#
-510049#Corrode Garden Knife#
-510050#Solid Dagger#
-510051#Wicked Dagger#
-510052#Wicked Edge#
-510053#Fortified Dagger#
-510054#Fortified Edge#
-510055#Relapse Edge#
-510056#Poenitentia Sol#
-510057#Poenitentia Jana#
 510066#Kuroiro-OSAD#
 510067#[Not For Sale] Kiri no Tsuyu#
 510068#[Not For Sale] Surudoi Kaze#
@@ -13616,8 +13261,7 @@
 510141#[Event] Fate Dagger#
 520000#Boosting Axe#
 520002#Pride Steel#
-520008#Adulter Fides Axe#
-520009#Vivatus Fides Axe#
+520008#Adulter Fides of Axe#
 520010#Eden Group Axe#
 520011#Eden Group Blacksmith Axe#
 520012#Eden Group Mechanic Axe#
@@ -13627,14 +13271,11 @@
 530005#Banishing Cannon Booster Spear#
 530006#Patent Aquatic Spear#
 530009#Fortified Spear#
-530010#Poenitentia Asta#
 530012#Thanos Spear-AD#
-530013#Adulter Fides Guardian Spear#
-530014#Vivatus Fides Guardian Spear#
+530013#Adulter Fides of Spear#
 530015#Illusion Gelerdria#
 530017#Eden Group Crusader Spear#
 530018#Eden Group Royal Guard Spear#
-530023#Solid Spear#
 530031#Boost Lance-OSAD#
 530048#Raid Human Spear#
 540000#Boosting Spellbook#
@@ -13645,16 +13286,7 @@
 540010#Patent One Sky One Sun#
 540011#Patent Exorcist's Bible#
 540013#Fortified Manual#
-540014#Poenitentia Codex#
-540015#Poenitentia Liber#
-540019#Adulter Fides Magic Book#
-540020#Adulter Fides Poison Book#
-540021#Adulter Fides Bible#
-540022#Adulter Fides Moon Book#
-540023#Adulter Fides Stardust Book#
-540024#Vivatus Fides Magic Book#
-540025#Vivatus Fides Poison Book#
-540026#Vivatus Fides Bible#
+540019#Adulter Fides of Book#
 540027#Eden Group Sage Magic Book#
 540028#Eden Group Sage Spell Book#
 540029#Eden Group Star Gladiator Fighting Book#
@@ -13665,12 +13297,6 @@
 540034#Eden Group Star Emperor Moon Book#
 540039#Moon Starlight Booster Book#
 540040#Sunshine Booster Book#
-540041#Solid Manual#
-540042#Wicked Book#
-540043#Relapse Book#
-540044#Poenitentia Radius#
-540045#Vivatus Fides Stardust Book#
-540046#Vivatus Fides Moon Book#
 540051#Circuit Board-OSAD#
 540076#Raid Human Magic Book#
 550001#Boosting Soul Rod#
@@ -13685,15 +13311,9 @@
 550013#Patent Chilling Cane#
 550014#Patent Meowmeow Foxtail#
 550015#Patent Spirit Pendulum#
-550019#Poenitentia Scipio#
-550020#Poenitentia Crystallum#
 550023#Thanos Staff-AD#
-550024#Adulter Fides Wand#
-550025#Adulter Fides Soul Stick#
-550026#Adulter Fides Dark Wand#
-550027#Adulter Fides Foxtail Wand#
-550028#Adulter Fides Foxtail Model#
-550029#Vivatus Fides Wand#
+550024#Adulter Fides of Wand#
+550028#Adulter Fides of Model#
 550030#Illusion Thorn Staff of Darkness#
 550031#Illusion Dea Staff#
 550032#Eden Group Rod#
@@ -13713,19 +13333,6 @@
 550051#Catnip Booster Foxtail Model#
 550052#Es Booster Staff#
 550053#Evil Curse Booster Staff#
-550054#Solid Wand#
-550055#Solid Rod#
-550056#Wicked Plant#
-550057#Fortified Rod#
-550058#Relapse Plant#
-550059#Fortified Wand#
-550060#Poenitentia Planta#
-550061#Poenitentia Ramus#
-550062#Poenitentia Ferrum#
-550063#Vivatus Fides Dark Wand#
-550064#Vivatus Fides Soul Stick#
-550065#Vivatus Fides Foxtail Wand#
-550066#Vivatus Fides Foxtail Model#
 550075#Rutilus Stick-OSAD#
 550076#Electric Fox-OSAD#
 550077#[Not For Sale] Meowmeow Foxtail#
@@ -13742,18 +13349,12 @@
 560008#Patent Iron Nail#
 560009#Patent Ray Knuckle#
 560011#Scrap Fist#
-560012#Poenitentia Caestus#
-560013#Poenitentia Ungula#
 560017#Thanos Knuckle-AD#
-560018#Adulter Fides Knuckle#
-560019#Adulter Fides Claw#
-560020#Vivatus Fides Knuckle#
-560021#Vivatus Fides Claw#
+560018#Adulter Fides of Knuckle#
 560022#Eden Group Monk Knuckle#
 560023#Eden Group Monk Claw#
 560024#Eden Group Sura Knuckle#
 560025#Eden Group Sura Claw#
-560030#Precision Fist#
 560034#Burning Knuckle-OSAD#
 560049#Raid Human Claw#
 570000#Boosting Guitar#
@@ -13763,17 +13364,12 @@
 570009#Patent Trumpet Shell#
 570010#Metalic Vibration Booster Violin#
 570012#Scrap Lute#
-570013#Poenitentia Chorda#
 570016#Thanos Violin-AD#
-570017#Adulter Fides Violin#
-570018#Adulter Fides Harp#
-570019#Vivatus Fides Violin#
-570020#Vivatus Fides Harp#
+570018#Adulter Fides of Harp#
 570021#Eden Group Bard Violin#
 570022#Eden Group Minstrel Violin#
 570023#Eden Group Minstrel Harp#
 570024#Rainstorm Booster Violin#
-570028#Precision Lute#
 570050#Raid Human Guitar#
 570051#[Not For Sale] Trumpet Shell#
 580000#Boosting Whip#
@@ -13783,17 +13379,12 @@
 580009#Patent Barbed Wire Whip#
 580010#Metalic Vibration Booster Whip#
 580012#Scrap Whip#
-580013#Poenitentia Flagellum#
 580016#Thanos Whipsword-AD#
-580017#Adulter Fides Chain Rope#
-580018#Adulter Fides Ribbon#
-580019#Vivatus Fides Chain Rope#
-580020#Vivatus Fides Ribbon#
+580018#Adulter Fides of Ribbon#
 580021#Eden Group Dancer Rope#
 580022#Eden Group Wanderer Whip#
 580023#Eden Group Wanderer Rope#
 580024#Rainstorm Booster Whip#
-580028#Precision Whip#
 580051#Raid Human Whip#
 580052#[Not For Sale] Barbed Wire Whip K#
 590000#Boosting Mace#
@@ -13806,20 +13397,13 @@
 590011#Patent Meteor Striker#
 590012#Patent Saint Mace#
 590015#Relapse Cross#
-590016#Poenitentia Clava#
-590017#Poenitentia Pendulus#
 590020#Thanos Hammer-AD#
-590021#Adulter Fides Mace#
-590022#Adulter Fides Scepter#
-590023#Vivatus Fides Mace#
-590024#Vivatus Fides Scepter#
 590025#Eden Group Mace#
 590026#Eden Group Alchemist Mace#
 590027#Eden Group Priest Mace#
 590028#Eden Group Genetic Mace#
 590029#Eden Group Archbishop Mace#
 590034#Meteor Striker-LT#
-590036#Wicked Cross#
 590043#Saphir Mace-OSAD#
 590044#Ultio-OSAD#
 590061#[Not For Sale] Stunner#
@@ -13832,10 +13416,7 @@
 600011#Illusion Death Guidance#
 600012#Ignition Wave Booster Two-Handed Sword#
 600013#Fortified Claymore#
-600014#Poenitentia Ensis#
 600016#Thanos Great Sword-AD#
-600017#Adulter Fides Two-Handed Sword#
-600018#Vivatus Fides Two-Handed Sword#
 600020#Eden Group Knight Two-handed Sword#
 600021#Eden Group Rune Knight Two-handed Sword#
 600028#Beam Claymore-OSAD#
@@ -13849,12 +13430,8 @@
 610012#Illusion Katar of Frozen Icicle#
 610013#Rolling Cross Booster Katar#
 610015#Relapse Katar#
-610016#Poenitentia Manus#
 610019#Thanos Katar-AD#
 610020#Adulter Fides of Cakram#
-610021#Adulter Fides Katar#
-610022#Vivatus Fides Chakram#
-610023#Vivatus Fides Katar#
 610024#Eden Group Assassin Chakram#
 610025#Eden Group Assassin Katar#
 610026#Eden Group Guillotine Cross Chakram#
@@ -13862,20 +13439,17 @@
 610028#Counter Assault Booster Katar#
 610033#Shiver Katar-LT#
 610034#Blade Katar-LT#
-610035#Wicked Katar#
 610039#Meuchler-OSAD#
 610053#[Not For Sale] Katar#
 610056#Raid Human Katra#
 620003#Power Tornado Booster Axe#
 620004#Patent Avenger#
 620005#Relapse Axe#
-620006#Poenitentia Axia#
 620009#Thanos Axe-AD#
 620010#Illusion Doom Slayer#
 620011#Eden Group Blacksmith Two-haned Axe#
 620012#Eden Group Mechanic Two-haned Axe#
 620015#Avenger-LT#
-620016#Wicked Axe#
 620018#Blasti-OSAD#
 620027#[Not For Sale] Two-Handed_Axe#
 620032#Raid Human Slaughter#
@@ -13883,9 +13457,7 @@
 630006#Illusion Brionac#
 630007#Illusion Zephyrus#
 630008#Hundred Breath Booster Spear#
-630009#Poenitentia Katapulta#
-630012#Adulter Fides Lance#
-630013#Vivatus Fides Lance#
+630012#Adulter Fides of Lance#
 630014#Eden Group Knight Lance#
 630015#Eden Group Rune Knight Lance#
 630026#[Not For Sale] Trident#
@@ -13898,33 +13470,23 @@
 640011#Patent Aeon Staff#
 640012#Patent Blue Crystal Staff#
 640013#Fortified Staff#
-640014#Poenitentia Termes#
-640015#Poenitentia Virga#
 640017#Thanos Two-Handed Staff-AD#
-640019#Adulter Fides Two-Handed Staff#
-640020#Adulter Fides Rod#
-640021#Vivatus Fides Two-Handed Staff#
-640022#Vivatus Fides Rod#
+640020#Adulter Fides of Rod#
 640023#Eden Group Warlock Staff#
 640024#Eden Group Warlock Wand#
 640025#Eden Group Soul Reaper Staff#
 640026#Eden Group Soul Reaper Soul Stick#
-640031#Solid Staff#
 640048#Raid Human Staff#
 650003#Wrath Wheel#
 650004#Patent Huuma Shuriken Clearness#
-650008#Adulter Fides Huuma Shuriken#
-650009#Adulter Fides Cross Huuma Shuriken#
+650008#Adulter Fides of Humma#
+650009#Adulter Fides of Cross Humma#
 650010#Eden Group Ninja Huuma Shuriken#
 650011#Eden Group Ninja Cross Huuma Shuriken#
 650012#Eden Group Kagerou & Oboro Huuma Shuriken#
 650013#Eden Group Kagerou & Oboro Cross Huuma Shuriken#
 650017#Wind Spear Petal Booster Huuma Shuriken#
 650018#Cross Petal Booster Huuma Shuriken#
-650019#Precision Slasher#
-650020#Scrap Slasher#
-650021#Vivatus Fides Cross Huuma Shuriken#
-650022#Vivatus Fides Huuma Shuriken#
 700000#IDTest bow#
 700001#Boosting Bow#
 700003#Scarlet Dragon Leather Bow#
@@ -13938,17 +13500,9 @@
 700018#Patent Royal Bow#
 700019#Patent Scarlet Dragon Leather Bow#
 700021#Scrap Bow#
-700022#Poenitentia Tenon#
-700023#Poenitentia Nervus#
-700024#Poenitentia Attendo#
-700025#Poenitentia Vatia#
 700029#Thanos Bow-AD#
 700030#Adulter Fides of Bow#
 700031#Adulter Fides of Ballista#
-700032#Adulter Fides Aiming Bow#
-700033#Vivatus Fides Cross Bow#
-700034#Vivatus Fides Ballista#
-700035#Vivatus Fides Aiming Bow#
 700036#Eden Group Bow#
 700037#Eden Group Rogue Bow#
 700038#Eden Group Hunter Bow#
@@ -13957,7 +13511,6 @@
 700041#Eden Group Shadow Chaser Bow#
 700042#Eden Group Ranger Bow#
 700043#Eden Group Ranger Crossbow#
-700050#Precision Bow#
 700054#Virtual Bow-OSAD#
 700055#MH-P89-OSAD#
 700056#AC-B44-OSAD#
@@ -13971,45 +13524,22 @@
 800005#Eden Group Gunslinger Revolver#
 800006#Eden Group Rebellion Revolver#
 800008#Desperado Fire Booster Revolver#
-800009#Precision Pistol#
-800010#Scrap Pistol#
-800011#Poenitentia Foramen#
-800012#Vivatus Fides Revolver#
 800035#[Not For Sale] Crimson Rose#
 810000#Lust Pointer#
 810001#Patent Master Soul Rifle#
-810002#Adulter Fides Rifle#
 810003#Eden Group Gunslinger Rifle#
-810005#Precision Piercer#
-810006#Scrap Piercer#
-810007#Poenitentia Penet#
-810008#Vivatus Fides Rifle#
 810013#HR-S55-OSAD#
 810036#[Not For Sale] Master Soul Rifle#
 820000#Lust Shatter#
 820001#Patent Demon Slayer Shot#
-820002#Adulter Fides Shotgun#
-820004#Precision Shatter#
-820005#Scrap Shatter#
-820006#Vivatus Fides Shotgun#
 830000#Boosting Gatling#
 830001#Lust Crusher#
 830002#Patent The Black#
-830003#Adulter Fides Gatling Gun#
 830004#Eden Group Rebellion Gatling Gun#
 830007#Fire Round Booster Gatling Gun#
-830008#Precision Splatter#
-830009#Scrap Splatter#
-830010#Poenitentia Veloci#
-830011#Vivatus Fides Gatling Gun#
 830014#[Not For Sale] The Black#
 840000#Lust Boom#
 840001#Patent Golden Lord Launcher#
-840002#Adulter Fides Launcher#
-840004#Precision Bomber#
-840005#Scrap Bomber#
-840006#Poenitentia Ruina#
-840007#Vivatus Fides Launcher#
 840029#[Not For Sale] Golden Lord Launcher#
 1000000#IDTest event#
 1000005#Booster Weapon Voucher#
@@ -14204,8 +13734,6 @@
 1000306#Clown Gypsy Stone II (Middle)#
 1000307#Clown Gypsy Stone II (Lower)#
 1000311#Hawk Flute#
-1000316#Geffen Arena Coin#
-1000317#Geffen Arena Certificate#
 1000321#Amber#
 1000322#Etel Dust#
 1000323#Etel Stone#
@@ -14226,11 +13754,7 @@
 1000345#Time Accessory Effect (Middle)#
 1000346#4th Job Change Guide Map#
 1000352#Machine Creation Guide#
-1000363#Ymir Fragment#
-1000364#Ymir Ore#
 1000365#Magic Feather Effect (Upper)#
-1000366#Geffen Arena Champion Certificate#
-1000367#Mineas#
 1000368#Etel Braduim#
 1000369#HD Etel Bradium#
 1000370#Etel Carnium#
@@ -14241,16 +13765,6 @@
 1000377#Melee Stone (Upper)#
 1000378#Melee Stone (Middle)#
 1000379#Melee Stone (Lower)#
-1000405#Amethyst Fragment#
-1000406#Very Unusual Crystal#
-1000407#Half Flower#
-1000408#Recording Note#
-1000409#Document Files#
-1000410#Water Filter#
-1000411#Purified Water#
-1000412#Trapped Bird#
-1000413#Trapped Lizard#
-1000414#Trapped Pear#
 1000419#Weapon Enhancement Ore (Low Grade)#
 1000420#Weapon Enhancement Ore (Medium Grade)#
 1000421#Weapon Enhancement Ore (High Grade)#
@@ -14275,36 +13789,6 @@
 1000440#Accessory Enhancement Stone (High Grade)#
 1000441#Accessory Enhancement Stone (Supreme Grade)#
 1000467#Rebellion Pre-Register Ticket#
-1000471#Villa Basement Key#
-1000475#Fides Two-Handed Sword Blueprint#
-1000476#Fides Lance Blueprint#
-1000477#Fides Guardian Sword Blueprint#
-1000478#Fides Guardian Spear Blueprint#
-1000479#Fides Axe Blueprint#
-1000480#Fides Mace Blueprint#
-1000481#Fides Rapier Blueprint#
-1000482#Fides Scepter Blueprint#
-1000483#Fides Chakram Blueprint#
-1000484#Fides Katar Blueprint#
-1000485#Fides Dagger Blueprint#
-1000486#Fides Crossbow Blueprint#
-1000487#Fides Two-Handed Staff Blueprint#
-1000488#Fides Rod Blueprint#
-1000489#Fides Magic Book Blueprint#
-1000490#Fides Poison Book Blueprint#
-1000491#Fides Bible Blueprint#
-1000492#Fides Wand Blueprint#
-1000493#Fides Knuckle Blueprint#
-1000494#Fides Claw Blueprint#
-1000495#Fides Ballista Blueprint#
-1000496#Fides Aiming Bow Blueprint#
-1000497#Fides Violin Blueprint#
-1000498#Fides Chain Rope Blueprint#
-1000499#Fides Harp Blueprint#
-1000500#Fides Ribbon Blueprint#
-1000501#Holy Oil of Purification#
-1000502#Holy Water of Purification#
-1000503#Shroud of Rest#
 1000504#Dry Sand#
 1000505#Opaque Liquid#
 1000506#Shell Of Cognition#
@@ -14329,13 +13813,6 @@
 1000529#Magic Power Stone (Middle)#
 1000530#Magic Power Stone (Lower)#
 1000552#Evil's Water#
-1000563#혼령부#
-1000564#투척용 수류탄#
-1000565#칠흑의 아지랑이#
-1000566#홍염의 아지랑이#
-1000567#빙설의 아지랑이#
-1000568#대지의 아지랑이#
-1000569#삭풍의 아지랑이#
 1000572#1st Anniversary Job Changing Ticket#
 1000610#Rune Knight Stone (Upper)#
 1000611#Rune Knight Stone (Middle)#
@@ -14348,22 +13825,6 @@
 1000618#Royal Guard Stone (Lower)#
 1000619#World Moving Ticket#
 1000657#영혼의 실타래#
-1000680#Lead#
-1000681#Clock Gear#
-1000684#2차 상위 직업 전직 안내용 지도#
-1000685#Fides Huuma Shuriken Blueprint#
-1000686#Fides Cross Huuma Shuriken Blueprint#
-1000687#Fides Revolver Blueprint#
-1000688#Fides Shotgun Blueprint#
-1000689#Fides Rifle Blueprint#
-1000690#Fides Gatling Gun Blueprint#
-1000691#Fides Grenade Launcher Blueprint#
-1000692#Fides Moon Book Blueprint#
-1000693#Fides Stardust Book Blueprint#
-1000694#Fides Soul Stick Blueprint#
-1000695#Fides Dark Wand Blueprint#
-1000696#Fides Foxtail Wand Blueprint#
-1000697#Fides Foxtail Model Blueprint#
 1000709#Clean Snow#
 1000836#Certificate of Hunter Union#
 1000837#Captured Common Crystal#
