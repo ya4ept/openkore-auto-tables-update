@@ -5151,6 +5151,7 @@
 12436#Vitata500#
 12437#Enrich Celermine Juice#
 12475#Cure Free#
+12477#GM Gift Bundle#
 12490#Vivid Notation#
 12493#Fortune Egg IV#
 12494#[Not For Sale] Giant Fly Wing#
@@ -5984,6 +5985,9 @@
 14581#Dungeon Teleport Scroll II#
 14586#Sparkling Candy#
 14587#Repair Weapon Scroll#
+14588#Party Blessing 7Day Scroll#
+14589#Party Increase Agi 7Day Scroll#
+14590#Party Assumption 7Day Scroll#
 14591#WoE Teleport Scroll#
 14592#Job Manual#
 14595#Unsealed Magic Spell#
@@ -6186,6 +6190,7 @@
 15484#[Not For Sale] Celine's Dress#
 15842#Costume Pocket Watch Magic Hat#
 15888#Costume Dragon Claw Helm#
+15947#[Not For Sale] Indigo Rear Ribbon#
 15952#Costume 15th Nov Helmet#
 15953#Costume Somtam#
 15954#Costume Wichienmaat and Bangkaew#
@@ -7237,6 +7242,7 @@
 20862#EXE Backpack#
 20918#Angeling Poring Wing#
 20949#Ladon's Skin#
+20955#Christmas Guardian Tree#
 20985#Costume Gourd Bottle#
 20988#Costume Mechanical Butterfly#
 20989#Costume Wind-up Screw#
@@ -8131,7 +8137,7 @@
 25252#Sprig Of Holly#
 25253#Sugar Box#
 25254#Firewood#
-25290#Sweet Festival Coin#
+25290#Sweet Coin#
 25291#Chocolate for Delivery#
 25292#Stolen Cacao Beans#
 25302#Double Attack Stone(Garment)#
@@ -9175,6 +9181,9 @@
 103822#Glast Heim Scroll#
 103866#Pretty Fox Costume Scroll#
 103867#Celine Kimi Scroll#
+103882#Party Blessing 7Day Box#
+103884#Party Increase Agi 7Day Box#
+103886#Party Assumption 7Day Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9632,6 +9641,7 @@
 480261#Muffler70#
 480262#[Not For Sale] Golden Wings#
 480264#Costume Wing of Harmony#
+480277#[Not for Sale] Christmas Guardian Tree#
 480288#Costume Dark Lord Cloak#
 480294#[Not For Sale] Ladon's Skin#
 480307#Fallen Angel Wing#
