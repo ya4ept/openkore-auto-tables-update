@@ -11426,6 +11426,7 @@
 103253#Fierce Tiger Scroll#
 103268#Ros 2024 Scroll#
 103269#Honor of ROS 2024#
+103273#[Not For Sale] Force Booster#
 103279#Corridor Physical Blessing#
 103280#Corridor Magical Blessing#
 103281#Ancient Flower Blessing#
@@ -11504,6 +11505,8 @@
 103863#[Not for Sale] Record of Acolyte Combination#
 103864#[Not For Sale] Record of Acolyte 2 Combination#
 103865#Lapine Box (MVP Card Change I)#
+103901#X'mas Wish Scroll#
+103907#GOC Top-Up Box II#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -12302,6 +12305,7 @@
 410201#Costume Haunting Skull#
 410212#Costume Little Abyss Dragon#
 410219#Costume Jumbo Rabbit#
+410220#Costume Frozen Blinking Eyes#
 410226#Costume Black Rabbit#
 410227#[Not For Sale] Robo Eye#
 410231#Costume Wonderland Tea Party#
@@ -12354,6 +12358,7 @@
 410363#Costume Aura of Ghost Ship#
 410370#Costume Happy Joker Mask#
 410377#Flying Drone-LT#
+410386#Raven Of Tomb-LT#
 420000#Isabella Carrot#
 420002#Dullahan Mask#
 420003#CD in Mouth K#
@@ -12487,6 +12492,7 @@
 420390#Khon#
 420391#Kradat#
 420392#Twin Cannon-LT#
+420431#The Spirit Of World-LT#
 430001#Costume Helm of Amon Ra#
 430003#[Not For Sale] Fancy Phantom Mask#
 430006#Wanderer's Sakkat#
@@ -12666,6 +12672,8 @@
 460081#Guardian's Shield#
 460082#[Not for Sale] Guardian's Shield#
 460083#Forbidden Grimoire II#
+460094#Aegis of the Illusive#
+460095#Aegis of the Illusive-LT#
 470000#Attacker Booster Greaves#
 470001#Elemental Booster Shoes#
 470002#Defunct Booster Shoes#
@@ -13011,6 +13019,7 @@
 490129#Eden Group Advanced Necklace#
 490147#1st Anniversary Ring#
 490149#Glittering Meow Meow Choker#
+490155#Heroic Token (Imperial Guard)#
 490159#러프 코어#
 490164#Heroic Token (Shadow Cross)#
 490165#Heroic Token (Abyss Chaser)#
@@ -13199,6 +13208,10 @@
 490666#[Not for Sale] Memento Memory (Biolo)#
 490667#Memento Mind (Inquisitor)#
 490668#[Not for Sale] Memento Mind (Inquisitor)#
+490670#Memento Memory (Cardinal)#
+490671#[Not For Sale] Memento Memory (Cardinal)#
+490672#Memento Mind (Elemental Master)#
+490673#[Not For Sale] Memento Mind (Elemental Master)#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -13220,6 +13233,7 @@
 500035#Eden Group Super Novice Sword#
 500036#Eden Group Royal Guard Sword#
 500037#Eden Group Genetic Sword#
+500038#Light Blade-LT#
 500042#Super Psychic Booster Saber#
 500043#Super Ignition Booster Saber#
 500051#Cannon Rapier-OSAD#
@@ -13276,6 +13290,7 @@
 530015#Illusion Gelerdria#
 530017#Eden Group Crusader Spear#
 530018#Eden Group Royal Guard Spear#
+530019#Aquatic Spear-LT#
 530031#Boost Lance-OSAD#
 530048#Raid Human Spear#
 540000#Boosting Spellbook#
