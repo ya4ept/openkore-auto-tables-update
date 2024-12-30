@@ -1,0 +1,5 @@
+{
+    "server_name": "idRO_Classic",
+    "patch_list": "https://patchroc.gnjoy.id//patchinfo/patch.txt",
+    "patch_download": "http://patchroc.gnjoy.id//patchfile/"
+}
